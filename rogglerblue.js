@@ -9,12 +9,12 @@
 (function () {
   'use strict';
 
-  const SIDEBAR_DEFAULT = 370;
+  const SIDEBAR_DEFAULT = 270;
   const SIDEBAR_MIN     = 200;
   const SIDEBAR_MAX     = 1000;
   const GROUP_H         = 700;
 
-  let mode           = 2;
+  let mode           = 1;
   let currentWidth   = SIDEBAR_DEFAULT;
   let layoutObserver = null;
   let resizeObserver = null;
