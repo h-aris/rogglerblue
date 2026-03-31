@@ -1,0 +1,3152 @@
+{
+  "Abyssal Axe": [
+    "twohandaxe"
+  ],
+  "Abyssal Sceptre": [
+    "sceptre"
+  ],
+  "Aetherwind Gloves": [
+    "int",
+    "int_gloves"
+  ],
+  "Agate Amulet": [
+    "amulet"
+  ],
+  "Alder Spiked Shield": [
+    "dex",
+    "int",
+    "dex_int_shield"
+  ],
+  "Alloyed Spiked Shield": [
+    "dex",
+    "int",
+    "dex_int_shield"
+  ],
+  "Amber Amulet": [
+    "amulet"
+  ],
+  "Ambush Boots": [
+    "dex",
+    "int",
+    "dex_int_boots"
+  ],
+  "Ambush Mitts": [
+    "dex",
+    "int",
+    "dex_int_gloves"
+  ],
+  "Ambusher": [
+    "dagger"
+  ],
+  "Amethyst Ring": [
+    "ring"
+  ],
+  "Ancestral Club": [
+    "onehandmace"
+  ],
+  "Ancient Gauntlets": [
+    "str",
+    "str_gloves"
+  ],
+  "Ancient Greaves": [
+    "str",
+    "str_boots"
+  ],
+  "Ancient Mask": [
+    "dex",
+    "int",
+    "dex_int_helmet"
+  ],
+  "Ancient Spirit Shield": [
+    "int",
+    "int_shield"
+  ],
+  "Ancient Sword": [
+    "onehandsword"
+  ],
+  "Angelic Kite Shield": [
+    "str",
+    "int",
+    "str_int_shield"
+  ],
+  "Antique Gauntlets": [
+    "str",
+    "str_gloves"
+  ],
+  "Antique Greaves": [
+    "str",
+    "str_boots"
+  ],
+  "Antique Rapier": [
+    "thrustingonehandsword"
+  ],
+  "Apex Rapier": [
+    "thrustingonehandsword"
+  ],
+  "Apothecary's Gloves": [
+    "str",
+    "int",
+    "str_int_gloves"
+  ],
+  "Apprentice Gloves": [
+    "dex",
+    "dex_gloves"
+  ],
+  "Arcane Vestment": [
+    "int",
+    "int_bodyarmour"
+  ],
+  "Arcanist Gloves": [
+    "int",
+    "int_gloves"
+  ],
+  "Arcanist Slippers": [
+    "int",
+    "int_boots"
+  ],
+  "Archdemon Crown": [
+    "str",
+    "int",
+    "str_int_helmet"
+  ],
+  "Archon Kite Shield": [
+    "str",
+    "int",
+    "str_int_shield"
+  ],
+  "Arena Plate": [
+    "str",
+    "str_bodyarmour"
+  ],
+  "Arming Axe": [
+    "onehandaxe"
+  ],
+  "Artillery Quiver": [
+    "quiver"
+  ],
+  "Assassin Bow": [
+    "bow"
+  ],
+  "Assassin's Boots": [
+    "dex",
+    "int",
+    "dex_int_boots"
+  ],
+  "Assassin's Garb": [
+    "dex",
+    "dex_bodyarmour"
+  ],
+  "Assassin's Mitts": [
+    "dex",
+    "int",
+    "dex_int_gloves"
+  ],
+  "Astral Leather": [
+    "dex",
+    "dex_bodyarmour"
+  ],
+  "Astral Plate": [
+    "str",
+    "str_bodyarmour"
+  ],
+  "Atonement Mask": [
+    "str",
+    "dex",
+    "str_dex_helmet"
+  ],
+  "Auric Mace": [
+    "onehandmace"
+  ],
+  "Aventail Helmet": [
+    "str",
+    "int",
+    "str_int_helmet"
+  ],
+  "Awl": [
+    "claw"
+  ],
+  "Barbed Club": [
+    "onehandmace"
+  ],
+  "Barbute Helmet": [
+    "str",
+    "str_helmet"
+  ],
+  "Baroque Round Shield": [
+    "str",
+    "dex",
+    "str_dex_shield"
+  ],
+  "Baselard": [
+    "onehandsword"
+  ],
+  "Basemetal Treads": [
+    "str",
+    "str_boots"
+  ],
+  "Basket Rapier": [
+    "thrustingonehandsword"
+  ],
+  "Bastard Sword": [
+    "twohandsword"
+  ],
+  "Battered Foil": [
+    "thrustingonehandsword"
+  ],
+  "Battered Helm": [
+    "str",
+    "dex",
+    "str_dex_helmet"
+  ],
+  "Battle Buckler": [
+    "dex",
+    "dex_shield"
+  ],
+  "Battle Hammer": [
+    "onehandmace"
+  ],
+  "Battle Lamellar": [
+    "str",
+    "dex",
+    "str_dex_bodyarmour"
+  ],
+  "Battle Plate": [
+    "str",
+    "str_bodyarmour"
+  ],
+  "Battle Sword": [
+    "onehandsword"
+  ],
+  "Behemoth Mace": [
+    "onehandmace"
+  ],
+  "Bladed Mace": [
+    "onehandmace"
+  ],
+  "Blazing Arrow Quiver": [
+    "quiver"
+  ],
+  "Blinder": [
+    "claw"
+  ],
+  "Blizzard Crown": [
+    "dex",
+    "int",
+    "dex_int_helmet"
+  ],
+  "Blood Raiment": [
+    "dex",
+    "int",
+    "dex_int_bodyarmour"
+  ],
+  "Blood Sceptre": [
+    "sceptre"
+  ],
+  "Blue Pearl Amulet": [
+    "amulet"
+  ],
+  "Blunt Arrow Quiver": [
+    "quiver"
+  ],
+  "Boarding Axe": [
+    "onehandaxe"
+  ],
+  "Bone Armour": [
+    "dex",
+    "int",
+    "dex_int_bodyarmour"
+  ],
+  "Bone Bow": [
+    "bow"
+  ],
+  "Bone Circlet": [
+    "int",
+    "int_helmet"
+  ],
+  "Bone Helmet": [
+    "str",
+    "int",
+    "str_int_helmet"
+  ],
+  "Bone Ring": [
+    "ring"
+  ],
+  "Bone Spirit Shield": [
+    "int",
+    "int_shield"
+  ],
+  "Boot Blade": [
+    "runedagger"
+  ],
+  "Boot Knife": [
+    "runedagger"
+  ],
+  "Branded Kite Shield": [
+    "str",
+    "int",
+    "str_int_shield"
+  ],
+  "Brass Maul": [
+    "twohandmace"
+  ],
+  "Brass Spirit Shield": [
+    "int",
+    "int_shield"
+  ],
+  "Brimstone Treads": [
+    "str",
+    "str_boots"
+  ],
+  "Broad Axe": [
+    "onehandaxe"
+  ],
+  "Broad Sword": [
+    "onehandsword"
+  ],
+  "Broadhead Arrow Quiver": [
+    "quiver"
+  ],
+  "Bronze Gauntlets": [
+    "str",
+    "str_gloves"
+  ],
+  "Bronze Plate": [
+    "str",
+    "str_bodyarmour"
+  ],
+  "Bronze Sceptre": [
+    "sceptre"
+  ],
+  "Bronze Tower Shield": [
+    "str",
+    "str_shield"
+  ],
+  "Bronzescale Boots": [
+    "str",
+    "dex",
+    "str_dex_boots"
+  ],
+  "Bronzescale Gauntlets": [
+    "str",
+    "dex",
+    "str_dex_gloves"
+  ],
+  "Buckskin Tower Shield": [
+    "str",
+    "str_shield"
+  ],
+  "Buckskin Tunic": [
+    "dex",
+    "dex_bodyarmour"
+  ],
+  "Burnished Foil": [
+    "thrustingonehandsword"
+  ],
+  "Burnished Spiked Shield": [
+    "dex",
+    "int",
+    "dex_int_shield"
+  ],
+  "Butcher Axe": [
+    "onehandaxe"
+  ],
+  "Butcher Knife": [
+    "runedagger"
+  ],
+  "Butcher Sword": [
+    "twohandsword"
+  ],
+  "Cabalist Regalia": [
+    "int",
+    "int_bodyarmour"
+  ],
+  "Calling Wand": [
+    "minionwand"
+  ],
+  "Callous Mask": [
+    "dex",
+    "int",
+    "dex_int_helmet"
+  ],
+  "Cardinal Round Shield": [
+    "str",
+    "dex",
+    "str_dex_shield"
+  ],
+  "Carnal Armour": [
+    "dex",
+    "int",
+    "dex_int_bodyarmour"
+  ],
+  "Carnal Boots": [
+    "dex",
+    "int",
+    "dex_int_boots"
+  ],
+  "Carnal Mitts": [
+    "dex",
+    "int",
+    "dex_int_gloves"
+  ],
+  "Carnal Sceptre": [
+    "sceptre"
+  ],
+  "Carved Wand": [
+    "wand"
+  ],
+  "Carving Knife": [
+    "runedagger"
+  ],
+  "Cat's Paw": [
+    "claw"
+  ],
+  "Cedar Tower Shield": [
+    "str",
+    "str_shield"
+  ],
+  "Ceremonial Axe": [
+    "onehandaxe"
+  ],
+  "Ceremonial Kite Shield": [
+    "str",
+    "int",
+    "str_int_shield"
+  ],
+  "Ceremonial Mace": [
+    "onehandmace"
+  ],
+  "Cerulean Ring": [
+    "ring"
+  ],
+  "Chain Belt": [
+    "belt"
+  ],
+  "Chain Boots": [
+    "str",
+    "int",
+    "str_int_boots"
+  ],
+  "Chain Gloves": [
+    "str",
+    "int",
+    "str_int_gloves"
+  ],
+  "Chain Hauberk": [
+    "str",
+    "int",
+    "str_int_bodyarmour"
+  ],
+  "Chainmail Doublet": [
+    "str",
+    "int",
+    "str_int_bodyarmour"
+  ],
+  "Chainmail Tunic": [
+    "str",
+    "int",
+    "str_int_bodyarmour"
+  ],
+  "Chainmail Vest": [
+    "str",
+    "int",
+    "str_int_bodyarmour"
+  ],
+  "Champion Kite Shield": [
+    "str",
+    "int",
+    "str_int_shield"
+  ],
+  "Charan's Sword": [
+    "onehandsword"
+  ],
+  "Chest Splitter": [
+    "onehandaxe"
+  ],
+  "Chestplate": [
+    "str",
+    "str_bodyarmour"
+  ],
+  "Chimerascale Boots": [
+    "str",
+    "dex",
+    "str_dex_boots"
+  ],
+  "Chimerascale Gauntlets": [
+    "str",
+    "dex",
+    "str_dex_gloves"
+  ],
+  "Chiming Spirit Shield": [
+    "int",
+    "int_shield"
+  ],
+  "Citadel Bow": [
+    "bow"
+  ],
+  "Citrine Amulet": [
+    "amulet"
+  ],
+  "Clasped Boots": [
+    "dex",
+    "int",
+    "dex_int_boots"
+  ],
+  "Clasped Mitts": [
+    "dex",
+    "int",
+    "dex_int_gloves"
+  ],
+  "Cleaver": [
+    "onehandaxe"
+  ],
+  "Close Helmet": [
+    "str",
+    "str_helmet"
+  ],
+  "Cloth Belt": [
+    "belt"
+  ],
+  "Cloudwhisper Boots": [
+    "dex",
+    "dex_boots"
+  ],
+  "Coiled Staff": [
+    "warstaff"
+  ],
+  "Coiled Wand": [
+    "wand"
+  ],
+  "Colossal Tower Shield": [
+    "str",
+    "str_shield"
+  ],
+  "Colosseum Plate": [
+    "str",
+    "str_bodyarmour"
+  ],
+  "Colossus Mallet": [
+    "twohandmace"
+  ],
+  "Commander's Brigandine": [
+    "str",
+    "dex",
+    "str_dex_bodyarmour"
+  ],
+  "Composite Bow": [
+    "bow"
+  ],
+  "Compound Bow": [
+    "bow"
+  ],
+  "Compound Spiked Shield": [
+    "dex",
+    "int",
+    "dex_int_shield"
+  ],
+  "Cone Helmet": [
+    "str",
+    "str_helmet"
+  ],
+  "Conjurer Boots": [
+    "int",
+    "int_boots"
+  ],
+  "Conjurer Gloves": [
+    "int",
+    "int_gloves"
+  ],
+  "Conjurer's Vestment": [
+    "int",
+    "int_bodyarmour"
+  ],
+  "Conqueror's Helmet": [
+    "str",
+    "str_helmet"
+  ],
+  "Conquest Chainmail": [
+    "str",
+    "int",
+    "str_int_bodyarmour"
+  ],
+  "Conquest Helmet": [
+    "str",
+    "dex",
+    "str_dex_helmet"
+  ],
+  "Conquest Lamellar": [
+    "str",
+    "dex",
+    "str_dex_bodyarmour"
+  ],
+  "Convening Wand": [
+    "minionwand"
+  ],
+  "Convoking Wand": [
+    "minionwand"
+  ],
+  "Copper Kris": [
+    "runedagger"
+  ],
+  "Copper Plate": [
+    "str",
+    "str_bodyarmour"
+  ],
+  "Copper Sword": [
+    "onehandsword"
+  ],
+  "Copper Tower Shield": [
+    "str",
+    "str_shield"
+  ],
+  "Coral Amulet": [
+    "amulet"
+  ],
+  "Coral Ring": [
+    "ring"
+  ],
+  "Coronal Leather": [
+    "dex",
+    "dex_bodyarmour"
+  ],
+  "Coronal Maul": [
+    "twohandmace"
+  ],
+  "Corroded Blade": [
+    "twohandsword"
+  ],
+  "Corroded Tower Shield": [
+    "str",
+    "str_shield"
+  ],
+  "Corrugated Buckler": [
+    "dex",
+    "dex_shield"
+  ],
+  "Corsair Sword": [
+    "onehandsword"
+  ],
+  "Courtesan Sword": [
+    "thrustingonehandsword"
+  ],
+  "Crescent Staff": [
+    "staff"
+  ],
+  "Crested Tower Shield": [
+    "str",
+    "str_shield"
+  ],
+  "Crimson Raiment": [
+    "dex",
+    "int",
+    "dex_int_bodyarmour"
+  ],
+  "Crimson Round Shield": [
+    "str",
+    "dex",
+    "str_dex_shield"
+  ],
+  "Crude Bow": [
+    "bow"
+  ],
+  "Crusader Boots": [
+    "str",
+    "int",
+    "str_int_boots"
+  ],
+  "Crusader Buckler": [
+    "dex",
+    "dex_shield"
+  ],
+  "Crusader Chainmail": [
+    "str",
+    "int",
+    "str_int_bodyarmour"
+  ],
+  "Crusader Gloves": [
+    "str",
+    "int",
+    "str_int_gloves"
+  ],
+  "Crusader Helmet": [
+    "str",
+    "int",
+    "str_int_helmet"
+  ],
+  "Crusader Plate": [
+    "str",
+    "str_bodyarmour"
+  ],
+  "Crypt Armour": [
+    "dex",
+    "int",
+    "dex_int_bodyarmour"
+  ],
+  "Crystal Belt": [
+    "belt"
+  ],
+  "Crystal Sceptre": [
+    "sceptre"
+  ],
+  "Crystal Wand": [
+    "wand"
+  ],
+  "Curved Blade": [
+    "twohandsword"
+  ],
+  "Cutlass": [
+    "onehandsword"
+  ],
+  "Cutthroat's Garb": [
+    "dex",
+    "dex_bodyarmour"
+  ],
+  "Dagger Axe": [
+    "twohandaxe"
+  ],
+  "Darksteel Treads": [
+    "str",
+    "str_boots"
+  ],
+  "Darkwood Sceptre": [
+    "sceptre"
+  ],
+  "Death Bow": [
+    "bow"
+  ],
+  "Decimation Bow": [
+    "bow"
+  ],
+  "Decorative Axe": [
+    "onehandaxe"
+  ],
+  "Decurve Bow": [
+    "bow"
+  ],
+  "Deerskin Boots": [
+    "dex",
+    "dex_boots"
+  ],
+  "Deerskin Gloves": [
+    "dex",
+    "dex_gloves"
+  ],
+  "Deicide Mask": [
+    "dex",
+    "int",
+    "dex_int_helmet"
+  ],
+  "Demon Crown": [
+    "str",
+    "int",
+    "str_int_helmet"
+  ],
+  "Demon Dagger": [
+    "runedagger"
+  ],
+  "Demon's Horn": [
+    "wand"
+  ],
+  "Desert Brigandine": [
+    "str",
+    "dex",
+    "str_dex_bodyarmour"
+  ],
+  "Despot Axe": [
+    "twohandaxe"
+  ],
+  "Destiny Leather": [
+    "dex",
+    "dex_bodyarmour"
+  ],
+  "Destroyer Regalia": [
+    "int",
+    "int_bodyarmour"
+  ],
+  "Devout Chainmail": [
+    "str",
+    "int",
+    "str_int_bodyarmour"
+  ],
+  "Diamond Ring": [
+    "ring"
+  ],
+  "Dire Pelt": [
+    "dex",
+    "dex_helmet"
+  ],
+  "Divine Crown": [
+    "str",
+    "int",
+    "str_int_helmet"
+  ],
+  "Double Axe": [
+    "twohandaxe"
+  ],
+  "Double Claw": [
+    "claw"
+  ],
+  "Dragon Mace": [
+    "onehandmace"
+  ],
+  "Dragonbone Rapier": [
+    "thrustingonehandsword"
+  ],
+  "Dragonscale Boots": [
+    "str",
+    "dex",
+    "str_dex_boots"
+  ],
+  "Dragonscale Doublet": [
+    "str",
+    "dex",
+    "str_dex_bodyarmour"
+  ],
+  "Dragonscale Gauntlets": [
+    "str",
+    "dex",
+    "str_dex_gloves"
+  ],
+  "Dragoon Sword": [
+    "thrustingonehandsword"
+  ],
+  "Dread Maul": [
+    "twohandmace"
+  ],
+  "Dream Mace": [
+    "onehandmace"
+  ],
+  "Dreamquest Slippers": [
+    "int",
+    "int_boots"
+  ],
+  "Driftwood Club": [
+    "onehandmace"
+  ],
+  "Driftwood Maul": [
+    "twohandmace"
+  ],
+  "Driftwood Sceptre": [
+    "sceptre"
+  ],
+  "Driftwood Spiked Shield": [
+    "dex",
+    "int",
+    "dex_int_shield"
+  ],
+  "Driftwood Wand": [
+    "wand"
+  ],
+  "Dusk Blade": [
+    "onehandsword"
+  ],
+  "Dusk Ring": [
+    "ring"
+  ],
+  "Duskwalk Slippers": [
+    "int",
+    "int_boots"
+  ],
+  "Eagle Claw": [
+    "claw"
+  ],
+  "Ebony Tower Shield": [
+    "str",
+    "str_shield"
+  ],
+  "Eclipse Staff": [
+    "staff"
+  ],
+  "Eelskin Boots": [
+    "dex",
+    "dex_boots"
+  ],
+  "Eelskin Gloves": [
+    "dex",
+    "dex_gloves"
+  ],
+  "Eelskin Tunic": [
+    "dex",
+    "dex_bodyarmour"
+  ],
+  "Elder Sword": [
+    "onehandsword"
+  ],
+  "Elegant Foil": [
+    "thrustingonehandsword"
+  ],
+  "Elegant Ringmail": [
+    "str",
+    "int",
+    "str_int_bodyarmour"
+  ],
+  "Elegant Round Shield": [
+    "str",
+    "dex",
+    "str_dex_shield"
+  ],
+  "Elegant Sword": [
+    "onehandsword"
+  ],
+  "Embroidered Gloves": [
+    "int",
+    "int_gloves"
+  ],
+  "Enameled Buckler": [
+    "dex",
+    "dex_shield"
+  ],
+  "Engraved Greatsword": [
+    "twohandsword"
+  ],
+  "Engraved Hatchet": [
+    "onehandaxe"
+  ],
+  "Engraved Wand": [
+    "wand"
+  ],
+  "Estoc": [
+    "thrustingonehandsword"
+  ],
+  "Etched Greatsword": [
+    "twohandsword"
+  ],
+  "Etched Hatchet": [
+    "onehandaxe"
+  ],
+  "Etched Kite Shield": [
+    "str",
+    "int",
+    "str_int_shield"
+  ],
+  "Eternal Burgonet": [
+    "str",
+    "str_helmet"
+  ],
+  "Eternal Sword": [
+    "onehandsword"
+  ],
+  "Exquisite Blade": [
+    "twohandsword"
+  ],
+  "Exquisite Leather": [
+    "dex",
+    "dex_bodyarmour"
+  ],
+  "Eye Gouger": [
+    "claw"
+  ],
+  "Ezomyte Axe": [
+    "twohandaxe"
+  ],
+  "Ezomyte Blade": [
+    "twohandsword"
+  ],
+  "Ezomyte Burgonet": [
+    "str",
+    "str_helmet"
+  ],
+  "Ezomyte Dagger": [
+    "runedagger"
+  ],
+  "Ezomyte Spiked Shield": [
+    "dex",
+    "int",
+    "dex_int_shield"
+  ],
+  "Ezomyte Staff": [
+    "warstaff"
+  ],
+  "Ezomyte Tower Shield": [
+    "str",
+    "str_shield"
+  ],
+  "Faithful Helmet": [
+    "str",
+    "int",
+    "str_int_helmet"
+  ],
+  "Fancy Foil": [
+    "thrustingonehandsword"
+  ],
+  "Faun's Horn": [
+    "wand"
+  ],
+  "Feathered Arrow Quiver": [
+    "quiver"
+  ],
+  "Fencer Helm": [
+    "str",
+    "dex",
+    "str_dex_helmet"
+  ],
+  "Festival Mask": [
+    "dex",
+    "int",
+    "dex_int_helmet"
+  ],
+  "Field Lamellar": [
+    "str",
+    "dex",
+    "str_dex_bodyarmour"
+  ],
+  "Fiend Dagger": [
+    "runedagger"
+  ],
+  "Fingerless Silk Gloves": [
+    "int",
+    "int_gloves"
+  ],
+  "Fir Round Shield": [
+    "str",
+    "dex",
+    "str_dex_shield"
+  ],
+  "Fire Arrow Quiver": [
+    "quiver"
+  ],
+  "Fishscale Gauntlets": [
+    "str",
+    "dex",
+    "str_dex_gloves"
+  ],
+  "Flanged Mace": [
+    "onehandmace"
+  ],
+  "Flaying Knife": [
+    "dagger"
+  ],
+  "Fleshripper": [
+    "twohandaxe"
+  ],
+  "Fluted Bascinet": [
+    "str",
+    "dex",
+    "str_dex_helmet"
+  ],
+  "Footman Sword": [
+    "twohandsword"
+  ],
+  "Fossilised Spirit Shield": [
+    "int",
+    "int_shield"
+  ],
+  "Foul Staff": [
+    "warstaff"
+  ],
+  "Fright Claw": [
+    "claw"
+  ],
+  "Fright Maul": [
+    "twohandmace"
+  ],
+  "Frontier Leather": [
+    "dex",
+    "dex_bodyarmour"
+  ],
+  "Fugitive Boots": [
+    "dex",
+    "int",
+    "dex_int_boots"
+  ],
+  "Full Chainmail": [
+    "str",
+    "int",
+    "str_int_bodyarmour"
+  ],
+  "Full Dragonscale": [
+    "str",
+    "dex",
+    "str_dex_bodyarmour"
+  ],
+  "Full Leather": [
+    "dex",
+    "dex_bodyarmour"
+  ],
+  "Full Plate": [
+    "str",
+    "str_bodyarmour"
+  ],
+  "Full Ringmail": [
+    "str",
+    "int",
+    "str_int_bodyarmour"
+  ],
+  "Full Scale Armour": [
+    "str",
+    "dex",
+    "str_dex_bodyarmour"
+  ],
+  "Full Wyrmscale": [
+    "str",
+    "dex",
+    "str_dex_bodyarmour"
+  ],
+  "Full Wyvernscale": [
+    "str",
+    "dex",
+    "str_dex_bodyarmour"
+  ],
+  "Gale Crown": [
+    "dex",
+    "int",
+    "dex_int_helmet"
+  ],
+  "Gavel": [
+    "onehandmace"
+  ],
+  "Gemini Claw": [
+    "claw"
+  ],
+  "Gemstone Sword": [
+    "onehandsword"
+  ],
+  "General's Brigandine": [
+    "str",
+    "dex",
+    "str_dex_bodyarmour"
+  ],
+  "General's Helmet": [
+    "str",
+    "str_helmet"
+  ],
+  "Giantslayer Helmet": [
+    "str",
+    "str_helmet"
+  ],
+  "Gilded Axe": [
+    "twohandaxe"
+  ],
+  "Gilded Buckler": [
+    "dex",
+    "dex_shield"
+  ],
+  "Gilded Sallet": [
+    "str",
+    "dex",
+    "str_dex_helmet"
+  ],
+  "Girded Tower Shield": [
+    "str",
+    "str_shield"
+  ],
+  "Gladiator Helmet": [
+    "str",
+    "str_helmet"
+  ],
+  "Gladiator Plate": [
+    "str",
+    "str_bodyarmour"
+  ],
+  "Gladius": [
+    "onehandsword"
+  ],
+  "Glass Shank": [
+    "dagger"
+  ],
+  "Glorious Leather": [
+    "dex",
+    "dex_bodyarmour"
+  ],
+  "Glorious Plate": [
+    "str",
+    "str_bodyarmour"
+  ],
+  "Gnarled Branch": [
+    "staff"
+  ],
+  "Goat's Horn": [
+    "wand"
+  ],
+  "Goathide Boots": [
+    "dex",
+    "dex_boots"
+  ],
+  "Goathide Buckler": [
+    "dex",
+    "dex_shield"
+  ],
+  "Goathide Gloves": [
+    "dex",
+    "dex_gloves"
+  ],
+  "Gold Amulet": [
+    "amulet"
+  ],
+  "Gold Ring": [
+    "ring"
+  ],
+  "Golden Blade": [
+    "onehandsword"
+  ],
+  "Golden Buckler": [
+    "dex",
+    "dex_shield"
+  ],
+  "Golden Hoop": [
+    "ring"
+  ],
+  "Golden Kris": [
+    "runedagger"
+  ],
+  "Golden Mask": [
+    "dex",
+    "int",
+    "dex_int_helmet"
+  ],
+  "Golden Obi": [
+    "belt"
+  ],
+  "Golden Plate": [
+    "str",
+    "str_bodyarmour"
+  ],
+  "Goliath Gauntlets": [
+    "str",
+    "str_gloves"
+  ],
+  "Goliath Greaves": [
+    "str",
+    "str_boots"
+  ],
+  "Gouger": [
+    "claw"
+  ],
+  "Graceful Sword": [
+    "onehandsword"
+  ],
+  "Grand Ringmail": [
+    "str",
+    "int",
+    "str_int_bodyarmour"
+  ],
+  "Grappler": [
+    "onehandsword"
+  ],
+  "Great Crown": [
+    "str",
+    "int",
+    "str_int_helmet"
+  ],
+  "Great Helmet": [
+    "str",
+    "int",
+    "str_int_helmet"
+  ],
+  "Great Mallet": [
+    "twohandmace"
+  ],
+  "Great White Claw": [
+    "claw"
+  ],
+  "Greatwolf Talisman": [
+    "amulet"
+  ],
+  "Grinning Fetish": [
+    "sceptre"
+  ],
+  "Gripped Gloves": [
+    "dex",
+    "dex_gloves"
+  ],
+  "Grizzly Pelt": [
+    "dex",
+    "dex_helmet"
+  ],
+  "Grove Bow": [
+    "bow"
+  ],
+  "Guarding Gauntlets": [
+    "str",
+    "str_gloves"
+  ],
+  "Gut Ripper": [
+    "claw"
+  ],
+  "Gutting Knife": [
+    "dagger"
+  ],
+  "Hammered Buckler": [
+    "dex",
+    "dex_shield"
+  ],
+  "Harbinger Bow": [
+    "bow"
+  ],
+  "Harlequin Mask": [
+    "dex",
+    "int",
+    "dex_int_helmet"
+  ],
+  "Harmonic Spirit Shield": [
+    "int",
+    "int_shield"
+  ],
+  "Harpy Rapier": [
+    "thrustingonehandsword"
+  ],
+  "Harpyskin Boots": [
+    "dex",
+    "dex_boots"
+  ],
+  "Harpyskin Gloves": [
+    "dex",
+    "dex_gloves"
+  ],
+  "Haunted Bascinet": [
+    "str",
+    "dex",
+    "str_dex_helmet"
+  ],
+  "Headman's Sword": [
+    "twohandsword"
+  ],
+  "Headsman Axe": [
+    "twohandaxe"
+  ],
+  "Heathen Wand": [
+    "wand"
+  ],
+  "Heavy Arrow Quiver": [
+    "quiver"
+  ],
+  "Heavy Belt": [
+    "belt"
+  ],
+  "Hellion's Paw": [
+    "claw"
+  ],
+  "Highborn Bow": [
+    "bow"
+  ],
+  "Highborn Staff": [
+    "staff"
+  ],
+  "Highland Blade": [
+    "twohandsword"
+  ],
+  "Holy Chainmail": [
+    "str",
+    "int",
+    "str_int_bodyarmour"
+  ],
+  "Hook Sword": [
+    "onehandsword"
+  ],
+  "Horned Sceptre": [
+    "sceptre"
+  ],
+  "Hubris Circlet": [
+    "int",
+    "int_helmet"
+  ],
+  "Hunter Hood": [
+    "dex",
+    "dex_helmet"
+  ],
+  "Hussar Brigandine": [
+    "str",
+    "dex",
+    "str_dex_bodyarmour"
+  ],
+  "Hydrascale Boots": [
+    "str",
+    "dex",
+    "str_dex_boots"
+  ],
+  "Hydrascale Gauntlets": [
+    "str",
+    "dex",
+    "str_dex_gloves"
+  ],
+  "Imbued Wand": [
+    "wand"
+  ],
+  "Imp Crown": [
+    "str",
+    "int",
+    "str_int_helmet"
+  ],
+  "Imp Dagger": [
+    "runedagger"
+  ],
+  "Imperial Bow": [
+    "bow"
+  ],
+  "Imperial Buckler": [
+    "dex",
+    "dex_shield"
+  ],
+  "Imperial Claw": [
+    "claw"
+  ],
+  "Imperial Maul": [
+    "twohandmace"
+  ],
+  "Imperial Skean": [
+    "runedagger"
+  ],
+  "Imperial Staff": [
+    "staff"
+  ],
+  "Infantry Brigandine": [
+    "str",
+    "dex",
+    "str_dex_bodyarmour"
+  ],
+  "Infernal Axe": [
+    "onehandaxe"
+  ],
+  "Infernal Sword": [
+    "twohandsword"
+  ],
+  "Infiltrator Boots": [
+    "dex",
+    "int",
+    "dex_int_boots"
+  ],
+  "Infiltrator Mitts": [
+    "dex",
+    "int",
+    "dex_int_gloves"
+  ],
+  "Iolite Ring": [
+    "ring"
+  ],
+  "Iron Circlet": [
+    "int",
+    "int_helmet"
+  ],
+  "Iron Gauntlets": [
+    "str",
+    "str_gloves"
+  ],
+  "Iron Greaves": [
+    "str",
+    "str_boots"
+  ],
+  "Iron Hat": [
+    "str",
+    "str_helmet"
+  ],
+  "Iron Mask": [
+    "dex",
+    "int",
+    "dex_int_helmet"
+  ],
+  "Iron Ring": [
+    "ring"
+  ],
+  "Iron Sceptre": [
+    "sceptre"
+  ],
+  "Iron Staff": [
+    "warstaff"
+  ],
+  "Ironscale Boots": [
+    "str",
+    "dex",
+    "str_dex_boots"
+  ],
+  "Ironscale Gauntlets": [
+    "str",
+    "dex",
+    "str_dex_gloves"
+  ],
+  "Ironwood Buckler": [
+    "dex",
+    "dex_shield"
+  ],
+  "Ivory Bow": [
+    "bow"
+  ],
+  "Ivory Spirit Shield": [
+    "int",
+    "int_shield"
+  ],
+  "Jade Amulet": [
+    "amulet"
+  ],
+  "Jade Chopper": [
+    "twohandaxe"
+  ],
+  "Jade Hatchet": [
+    "onehandaxe"
+  ],
+  "Jagged Foil": [
+    "thrustingonehandsword"
+  ],
+  "Jagged Maul": [
+    "twohandmace"
+  ],
+  "Jasper Axe": [
+    "onehandaxe"
+  ],
+  "Jasper Chopper": [
+    "twohandaxe"
+  ],
+  "Jester Mask": [
+    "dex",
+    "int",
+    "dex_int_helmet"
+  ],
+  "Jewelled Foil": [
+    "thrustingonehandsword"
+  ],
+  "Jingling Spirit Shield": [
+    "int",
+    "int_shield"
+  ],
+  "Judgement Staff": [
+    "warstaff"
+  ],
+  "Karui Axe": [
+    "onehandaxe"
+  ],
+  "Karui Chopper": [
+    "twohandaxe"
+  ],
+  "Karui Maul": [
+    "twohandmace"
+  ],
+  "Karui Sceptre": [
+    "sceptre"
+  ],
+  "Knight Helm": [
+    "str",
+    "dex",
+    "str_dex_helmet"
+  ],
+  "Labrys": [
+    "twohandaxe"
+  ],
+  "Lacewood Spirit Shield": [
+    "int",
+    "int_shield"
+  ],
+  "Lacquered Buckler": [
+    "dex",
+    "dex_shield"
+  ],
+  "Lacquered Garb": [
+    "dex",
+    "int",
+    "dex_int_bodyarmour"
+  ],
+  "Lacquered Helmet": [
+    "str",
+    "dex",
+    "str_dex_helmet"
+  ],
+  "Laminated Kite Shield": [
+    "str",
+    "int",
+    "str_int_shield"
+  ],
+  "Lapis Amulet": [
+    "amulet"
+  ],
+  "Lathi": [
+    "staff"
+  ],
+  "Latticed Ringmail": [
+    "str",
+    "int",
+    "str_int_bodyarmour"
+  ],
+  "Layered Kite Shield": [
+    "str",
+    "int",
+    "str_int_shield"
+  ],
+  "Lead Sceptre": [
+    "sceptre"
+  ],
+  "Leather Belt": [
+    "belt"
+  ],
+  "Leather Cap": [
+    "dex",
+    "dex_helmet"
+  ],
+  "Leather Hood": [
+    "dex",
+    "dex_helmet"
+  ],
+  "Leatherscale Boots": [
+    "str",
+    "dex",
+    "str_dex_boots"
+  ],
+  "Legion Boots": [
+    "str",
+    "int",
+    "str_int_boots"
+  ],
+  "Legion Gloves": [
+    "str",
+    "int",
+    "str_int_gloves"
+  ],
+  "Legion Hammer": [
+    "onehandmace"
+  ],
+  "Legion Plate": [
+    "str",
+    "str_bodyarmour"
+  ],
+  "Legion Sword": [
+    "onehandsword"
+  ],
+  "Leviathan Gauntlets": [
+    "str",
+    "str_gloves"
+  ],
+  "Leviathan Greaves": [
+    "str",
+    "str_boots"
+  ],
+  "Leyline Gloves": [
+    "int",
+    "int_gloves"
+  ],
+  "Lich's Circlet": [
+    "int",
+    "int_helmet"
+  ],
+  "Light Brigandine": [
+    "str",
+    "dex",
+    "str_dex_bodyarmour"
+  ],
+  "Linden Kite Shield": [
+    "str",
+    "int",
+    "str_int_shield"
+  ],
+  "Lion Pelt": [
+    "dex",
+    "dex_helmet"
+  ],
+  "Lion Sword": [
+    "twohandsword"
+  ],
+  "Lithe Blade": [
+    "twohandsword"
+  ],
+  "Long Bow": [
+    "bow"
+  ],
+  "Long Staff": [
+    "staff"
+  ],
+  "Longsword": [
+    "twohandsword"
+  ],
+  "Lordly Plate": [
+    "str",
+    "str_bodyarmour"
+  ],
+  "Loricated Ringmail": [
+    "str",
+    "int",
+    "str_int_bodyarmour"
+  ],
+  "Lunaris Circlet": [
+    "int",
+    "int_helmet"
+  ],
+  "Maelström Staff": [
+    "warstaff"
+  ],
+  "Mage's Vestment": [
+    "int",
+    "int_bodyarmour"
+  ],
+  "Magistrate Crown": [
+    "str",
+    "int",
+    "str_int_helmet"
+  ],
+  "Mahogany Tower Shield": [
+    "str",
+    "str_shield"
+  ],
+  "Majestic Pelt": [
+    "dex",
+    "dex_helmet"
+  ],
+  "Majestic Plate": [
+    "str",
+    "str_bodyarmour"
+  ],
+  "Mallet": [
+    "twohandmace"
+  ],
+  "Maple Round Shield": [
+    "str",
+    "dex",
+    "str_dex_shield"
+  ],
+  "Maraketh Bow": [
+    "bow"
+  ],
+  "Marble Amulet": [
+    "amulet"
+  ],
+  "Marshall's Brigandine": [
+    "str",
+    "dex",
+    "str_dex_bodyarmour"
+  ],
+  "Martyr Boots": [
+    "str",
+    "int",
+    "str_int_boots"
+  ],
+  "Martyr Gloves": [
+    "str",
+    "int",
+    "str_int_gloves"
+  ],
+  "Meatgrinder": [
+    "twohandmace"
+  ],
+  "Mechanical Belt": [
+    "belt"
+  ],
+  "Mesh Boots": [
+    "str",
+    "int",
+    "str_int_boots"
+  ],
+  "Mesh Gloves": [
+    "str",
+    "int",
+    "str_int_gloves"
+  ],
+  "Midnight Blade": [
+    "onehandsword"
+  ],
+  "Military Staff": [
+    "warstaff"
+  ],
+  "Mind Cage": [
+    "int",
+    "int_helmet"
+  ],
+  "Mirrored Spiked Shield": [
+    "dex",
+    "int",
+    "dex_int_shield"
+  ],
+  "Moon Staff": [
+    "staff"
+  ],
+  "Moonlit Circlet": [
+    "int",
+    "int_helmet"
+  ],
+  "Moonstone Ring": [
+    "ring"
+  ],
+  "Morning Star": [
+    "twohandmace"
+  ],
+  "Mosaic Kite Shield": [
+    "str",
+    "int",
+    "str_int_shield"
+  ],
+  "Murder Boots": [
+    "dex",
+    "int",
+    "dex_int_boots"
+  ],
+  "Murder Mitts": [
+    "dex",
+    "int",
+    "dex_int_gloves"
+  ],
+  "Nailed Fist": [
+    "claw"
+  ],
+  "Nameless Ring": [
+    "ring"
+  ],
+  "Necromancer Circlet": [
+    "int",
+    "int_helmet"
+  ],
+  "Necromancer Silks": [
+    "int",
+    "int_bodyarmour"
+  ],
+  "Necrotic Armour": [
+    "dex",
+    "int",
+    "dex_int_bodyarmour"
+  ],
+  "Nexus Gloves": [
+    "int",
+    "int_gloves"
+  ],
+  "Nightmare Bascinet": [
+    "str",
+    "dex",
+    "str_dex_helmet"
+  ],
+  "Nightmare Mace": [
+    "onehandmace"
+  ],
+  "Nightweave Robe": [
+    "int",
+    "int_bodyarmour"
+  ],
+  "Nightwind Slippers": [
+    "int",
+    "int_boots"
+  ],
+  "Noble Axe": [
+    "twohandaxe"
+  ],
+  "Noble Claw": [
+    "claw"
+  ],
+  "Noble Tricorne": [
+    "dex",
+    "dex_helmet"
+  ],
+  "Nubuck Boots": [
+    "dex",
+    "dex_boots"
+  ],
+  "Nubuck Gloves": [
+    "dex",
+    "dex_gloves"
+  ],
+  "Oak Buckler": [
+    "dex",
+    "dex_shield"
+  ],
+  "Occultist's Vestment": [
+    "int",
+    "int_bodyarmour"
+  ],
+  "Ochre Sceptre": [
+    "sceptre"
+  ],
+  "Oiled Coat": [
+    "dex",
+    "int",
+    "dex_int_bodyarmour"
+  ],
+  "Oiled Vest": [
+    "dex",
+    "int",
+    "dex_int_bodyarmour"
+  ],
+  "Omen Wand": [
+    "wand"
+  ],
+  "Onyx Amulet": [
+    "amulet"
+  ],
+  "Opal Ring": [
+    "ring"
+  ],
+  "Opal Sceptre": [
+    "sceptre"
+  ],
+  "Opal Wand": [
+    "wand"
+  ],
+  "Ornate Mace": [
+    "onehandmace"
+  ],
+  "Ornate Quiver": [
+    "quiver"
+  ],
+  "Ornate Ringmail": [
+    "str",
+    "int",
+    "str_int_bodyarmour"
+  ],
+  "Ornate Spiked Shield": [
+    "dex",
+    "int",
+    "dex_int_shield"
+  ],
+  "Ornate Sword": [
+    "twohandsword"
+  ],
+  "Padded Jacket": [
+    "dex",
+    "int",
+    "dex_int_bodyarmour"
+  ],
+  "Padded Vest": [
+    "dex",
+    "int",
+    "dex_int_bodyarmour"
+  ],
+  "Pagan Wand": [
+    "wand"
+  ],
+  "Painted Buckler": [
+    "dex",
+    "dex_shield"
+  ],
+  "Painted Tower Shield": [
+    "str",
+    "str_shield"
+  ],
+  "Paladin Boots": [
+    "str",
+    "int",
+    "str_int_boots"
+  ],
+  "Paladin Crown": [
+    "str",
+    "int",
+    "str_int_helmet"
+  ],
+  "Paladin Gloves": [
+    "str",
+    "int",
+    "str_int_gloves"
+  ],
+  "Paladin's Hauberk": [
+    "str",
+    "int",
+    "str_int_bodyarmour"
+  ],
+  "Paua Amulet": [
+    "amulet"
+  ],
+  "Paua Ring": [
+    "ring"
+  ],
+  "Pecoraro": [
+    "thrustingonehandsword"
+  ],
+  "Penetrating Arrow Quiver": [
+    "quiver"
+  ],
+  "Penitent Mask": [
+    "str",
+    "dex",
+    "str_dex_helmet"
+  ],
+  "Penumbra Ring": [
+    "ring"
+  ],
+  "Pernach": [
+    "onehandmace"
+  ],
+  "Petrified Club": [
+    "onehandmace"
+  ],
+  "Phantom Boots": [
+    "dex",
+    "int",
+    "dex_int_boots"
+  ],
+  "Phantom Mace": [
+    "onehandmace"
+  ],
+  "Phantom Mitts": [
+    "dex",
+    "int",
+    "dex_int_gloves"
+  ],
+  "Pig-Faced Bascinet": [
+    "str",
+    "dex",
+    "str_dex_helmet"
+  ],
+  "Piledriver": [
+    "twohandmace"
+  ],
+  "Pine Buckler": [
+    "dex",
+    "dex_shield"
+  ],
+  "Pinnacle Tower Shield": [
+    "str",
+    "str_shield"
+  ],
+  "Plague Mask": [
+    "dex",
+    "int",
+    "dex_int_helmet"
+  ],
+  "Plank Kite Shield": [
+    "str",
+    "int",
+    "str_int_shield"
+  ],
+  "Plate Vest": [
+    "str",
+    "str_bodyarmour"
+  ],
+  "Plated Gauntlets": [
+    "str",
+    "str_gloves"
+  ],
+  "Plated Greaves": [
+    "str",
+    "str_boots"
+  ],
+  "Plated Maul": [
+    "twohandmace"
+  ],
+  "Platinum Kris": [
+    "runedagger"
+  ],
+  "Platinum Sceptre": [
+    "sceptre"
+  ],
+  "Poignard": [
+    "dagger"
+  ],
+  "Poleaxe": [
+    "twohandaxe"
+  ],
+  "Polished Spiked Shield": [
+    "dex",
+    "int",
+    "dex_int_shield"
+  ],
+  "Praetor Crown": [
+    "str",
+    "int",
+    "str_int_helmet"
+  ],
+  "Precursor Gauntlets": [
+    "str",
+    "str_gloves"
+  ],
+  "Precursor Greaves": [
+    "str",
+    "str_boots"
+  ],
+  "Prehistoric Claw": [
+    "claw"
+  ],
+  "Preserving Gauntlets": [
+    "str",
+    "str_gloves"
+  ],
+  "Primal Arrow Quiver": [
+    "quiver"
+  ],
+  "Primeval Rapier": [
+    "thrustingonehandsword"
+  ],
+  "Primitive Staff": [
+    "staff"
+  ],
+  "Primordial Staff": [
+    "staff"
+  ],
+  "Prismatic Ring": [
+    "ring"
+  ],
+  "Profane Wand": [
+    "wand"
+  ],
+  "Prong Dagger": [
+    "dagger"
+  ],
+  "Prophecy Wand": [
+    "wand"
+  ],
+  "Prophet Crown": [
+    "str",
+    "int",
+    "str_int_helmet"
+  ],
+  "Quarterstaff": [
+    "staff"
+  ],
+  "Quartz Sceptre": [
+    "sceptre"
+  ],
+  "Quartz Wand": [
+    "wand"
+  ],
+  "Quilted Jacket": [
+    "dex",
+    "int",
+    "dex_int_bodyarmour"
+  ],
+  "Ranger Bow": [
+    "bow"
+  ],
+  "Raven Mask": [
+    "dex",
+    "int",
+    "dex_int_helmet"
+  ],
+  "Rawhide Boots": [
+    "dex",
+    "dex_boots"
+  ],
+  "Rawhide Gloves": [
+    "dex",
+    "dex_gloves"
+  ],
+  "Rawhide Tower Shield": [
+    "str",
+    "str_shield"
+  ],
+  "Reaver Axe": [
+    "onehandaxe"
+  ],
+  "Reaver Helmet": [
+    "str",
+    "str_helmet"
+  ],
+  "Reaver Sword": [
+    "twohandsword"
+  ],
+  "Recurve Bow": [
+    "bow"
+  ],
+  "Redwood Spiked Shield": [
+    "dex",
+    "int",
+    "dex_int_shield"
+  ],
+  "Reflex Bow": [
+    "bow"
+  ],
+  "Regicide Mask": [
+    "dex",
+    "int",
+    "dex_int_helmet"
+  ],
+  "Reinforced Greaves": [
+    "str",
+    "str_boots"
+  ],
+  "Reinforced Kite Shield": [
+    "str",
+    "int",
+    "str_int_shield"
+  ],
+  "Reinforced Tower Shield": [
+    "str",
+    "str_shield"
+  ],
+  "Ringmail Boots": [
+    "str",
+    "int",
+    "str_int_boots"
+  ],
+  "Ringmail Coat": [
+    "str",
+    "int",
+    "str_int_bodyarmour"
+  ],
+  "Ringmail Gloves": [
+    "str",
+    "int",
+    "str_int_gloves"
+  ],
+  "Ritual Sceptre": [
+    "sceptre"
+  ],
+  "Riveted Boots": [
+    "str",
+    "int",
+    "str_int_boots"
+  ],
+  "Riveted Gloves": [
+    "str",
+    "int",
+    "str_int_gloves"
+  ],
+  "Rock Breaker": [
+    "onehandmace"
+  ],
+  "Rotted Round Shield": [
+    "str",
+    "dex",
+    "str_dex_shield"
+  ],
+  "Royal Axe": [
+    "onehandaxe"
+  ],
+  "Royal Bow": [
+    "bow"
+  ],
+  "Royal Burgonet": [
+    "str",
+    "str_helmet"
+  ],
+  "Royal Plate": [
+    "str",
+    "str_bodyarmour"
+  ],
+  "Royal Sceptre": [
+    "sceptre"
+  ],
+  "Royal Skean": [
+    "runedagger"
+  ],
+  "Royal Staff": [
+    "staff"
+  ],
+  "Ruby Amulet": [
+    "amulet"
+  ],
+  "Ruby Ring": [
+    "ring"
+  ],
+  "Runic Hatchet": [
+    "onehandaxe"
+  ],
+  "Rusted Coif": [
+    "str",
+    "int",
+    "str_int_helmet"
+  ],
+  "Rusted Hatchet": [
+    "onehandaxe"
+  ],
+  "Rusted Spike": [
+    "thrustingonehandsword"
+  ],
+  "Rusted Sword": [
+    "onehandsword"
+  ],
+  "Rustic Sash": [
+    "belt"
+  ],
+  "Sabre": [
+    "onehandsword"
+  ],
+  "Sacred Chainmail": [
+    "str",
+    "int",
+    "str_int_bodyarmour"
+  ],
+  "Sadist Garb": [
+    "dex",
+    "int",
+    "dex_int_bodyarmour"
+  ],
+  "Sage Gloves": [
+    "int",
+    "int_gloves"
+  ],
+  "Sage Slippers": [
+    "int",
+    "int_boots"
+  ],
+  "Sage Wand": [
+    "wand"
+  ],
+  "Sage's Robe": [
+    "int",
+    "int_bodyarmour"
+  ],
+  "Sai": [
+    "dagger"
+  ],
+  "Saint's Hauberk": [
+    "str",
+    "int",
+    "str_int_bodyarmour"
+  ],
+  "Saintly Chainmail": [
+    "str",
+    "int",
+    "str_int_bodyarmour"
+  ],
+  "Sallet": [
+    "str",
+    "dex",
+    "str_dex_helmet"
+  ],
+  "Sambar Sceptre": [
+    "sceptre"
+  ],
+  "Samite Gloves": [
+    "int",
+    "int_gloves"
+  ],
+  "Samite Slippers": [
+    "int",
+    "int_boots"
+  ],
+  "Samnite Helmet": [
+    "str",
+    "str_helmet"
+  ],
+  "Sanguine Raiment": [
+    "dex",
+    "int",
+    "dex_int_bodyarmour"
+  ],
+  "Sapphire Ring": [
+    "ring"
+  ],
+  "Satin Gloves": [
+    "int",
+    "int_gloves"
+  ],
+  "Satin Slippers": [
+    "int",
+    "int_boots"
+  ],
+  "Savant's Robe": [
+    "int",
+    "int_bodyarmour"
+  ],
+  "Scale Doublet": [
+    "str",
+    "dex",
+    "str_dex_bodyarmour"
+  ],
+  "Scale Vest": [
+    "str",
+    "dex",
+    "str_dex_bodyarmour"
+  ],
+  "Scare Mask": [
+    "dex",
+    "int",
+    "dex_int_helmet"
+  ],
+  "Scarlet Raiment": [
+    "dex",
+    "int",
+    "dex_int_bodyarmour"
+  ],
+  "Scarlet Round Shield": [
+    "str",
+    "dex",
+    "str_dex_shield"
+  ],
+  "Scholar Boots": [
+    "int",
+    "int_boots"
+  ],
+  "Scholar's Robe": [
+    "int",
+    "int_bodyarmour"
+  ],
+  "Seaglass Amulet": [
+    "amulet"
+  ],
+  "Secutor Helm": [
+    "str",
+    "dex",
+    "str_dex_helmet"
+  ],
+  "Sekhem": [
+    "sceptre"
+  ],
+  "Sentinel Jacket": [
+    "dex",
+    "int",
+    "dex_int_bodyarmour"
+  ],
+  "Serpentine Staff": [
+    "warstaff"
+  ],
+  "Serpentscale Boots": [
+    "str",
+    "dex",
+    "str_dex_boots"
+  ],
+  "Serpentscale Gauntlets": [
+    "str",
+    "dex",
+    "str_dex_gloves"
+  ],
+  "Serrated Arrow Quiver": [
+    "quiver"
+  ],
+  "Serrated Foil": [
+    "thrustingonehandsword"
+  ],
+  "Shabby Jerkin": [
+    "dex",
+    "dex_bodyarmour"
+  ],
+  "Shackled Boots": [
+    "dex",
+    "int",
+    "dex_int_boots"
+  ],
+  "Shadow Axe": [
+    "twohandaxe"
+  ],
+  "Shadow Sceptre": [
+    "sceptre"
+  ],
+  "Shadowed Ring": [
+    "ring"
+  ],
+  "Shagreen Boots": [
+    "dex",
+    "dex_boots"
+  ],
+  "Shagreen Gloves": [
+    "dex",
+    "dex_gloves"
+  ],
+  "Shagreen Tower Shield": [
+    "str",
+    "str_shield"
+  ],
+  "Sharkskin Boots": [
+    "dex",
+    "dex_boots"
+  ],
+  "Sharkskin Gloves": [
+    "dex",
+    "dex_gloves"
+  ],
+  "Sharkskin Tunic": [
+    "dex",
+    "dex_bodyarmour"
+  ],
+  "Sharktooth Arrow Quiver": [
+    "quiver"
+  ],
+  "Sharktooth Claw": [
+    "claw"
+  ],
+  "Short Bow": [
+    "bow"
+  ],
+  "Siege Axe": [
+    "onehandaxe"
+  ],
+  "Siege Helmet": [
+    "str",
+    "str_helmet"
+  ],
+  "Silk Gloves": [
+    "int",
+    "int_gloves"
+  ],
+  "Silk Robe": [
+    "int",
+    "int_bodyarmour"
+  ],
+  "Silk Slippers": [
+    "int",
+    "int_boots"
+  ],
+  "Silken Garb": [
+    "int",
+    "int_bodyarmour"
+  ],
+  "Silken Hood": [
+    "dex",
+    "dex_helmet"
+  ],
+  "Silken Vest": [
+    "int",
+    "int_bodyarmour"
+  ],
+  "Silken Wrap": [
+    "int",
+    "int_bodyarmour"
+  ],
+  "Simple Robe": [
+    "int",
+    "int_bodyarmour"
+  ],
+  "Sinner Tricorne": [
+    "dex",
+    "dex_helmet"
+  ],
+  "Skean": [
+    "runedagger"
+  ],
+  "Skinning Knife": [
+    "dagger"
+  ],
+  "Slaughter Knife": [
+    "runedagger"
+  ],
+  "Sledgehammer": [
+    "twohandmace"
+  ],
+  "Sleek Coat": [
+    "dex",
+    "int",
+    "dex_int_bodyarmour"
+  ],
+  "Slink Boots": [
+    "dex",
+    "dex_boots"
+  ],
+  "Slink Gloves": [
+    "dex",
+    "dex_gloves"
+  ],
+  "Smallsword": [
+    "thrustingonehandsword"
+  ],
+  "Sniper Bow": [
+    "bow"
+  ],
+  "Solar Maul": [
+    "twohandmace"
+  ],
+  "Solaris Circlet": [
+    "int",
+    "int_helmet"
+  ],
+  "Soldier Boots": [
+    "str",
+    "int",
+    "str_int_boots"
+  ],
+  "Soldier Gloves": [
+    "str",
+    "int",
+    "str_int_gloves"
+  ],
+  "Soldier Helmet": [
+    "str",
+    "int",
+    "str_int_helmet"
+  ],
+  "Soldier's Brigandine": [
+    "str",
+    "dex",
+    "str_dex_bodyarmour"
+  ],
+  "Sorcerer Boots": [
+    "int",
+    "int_boots"
+  ],
+  "Sorcerer Gloves": [
+    "int",
+    "int_gloves"
+  ],
+  "Sorrow Mask": [
+    "str",
+    "dex",
+    "str_dex_helmet"
+  ],
+  "Sovereign Spiked Shield": [
+    "dex",
+    "int",
+    "dex_int_shield"
+  ],
+  "Sparkling Claw": [
+    "claw"
+  ],
+  "Spectral Axe": [
+    "onehandaxe"
+  ],
+  "Spectral Sword": [
+    "twohandsword"
+  ],
+  "Spidersilk Robe": [
+    "int",
+    "int_bodyarmour"
+  ],
+  "Spike-Point Arrow Quiver": [
+    "quiver"
+  ],
+  "Spiked Bundle": [
+    "dex",
+    "int",
+    "dex_int_shield"
+  ],
+  "Spiked Club": [
+    "onehandmace"
+  ],
+  "Spiked Gloves": [
+    "str",
+    "str_gloves"
+  ],
+  "Spiked Round Shield": [
+    "str",
+    "dex",
+    "str_dex_shield"
+  ],
+  "Spine Bow": [
+    "bow"
+  ],
+  "Spiny Maul": [
+    "twohandmace"
+  ],
+  "Spiny Round Shield": [
+    "str",
+    "dex",
+    "str_dex_shield"
+  ],
+  "Spiraled Foil": [
+    "thrustingonehandsword"
+  ],
+  "Spiraled Wand": [
+    "wand"
+  ],
+  "Splendid Round Shield": [
+    "str",
+    "dex",
+    "str_dex_shield"
+  ],
+  "Splintered Tower Shield": [
+    "str",
+    "str_shield"
+  ],
+  "Stag Sceptre": [
+    "sceptre"
+  ],
+  "Stealth Boots": [
+    "dex",
+    "dex_boots"
+  ],
+  "Stealth Gloves": [
+    "dex",
+    "dex_gloves"
+  ],
+  "Steel Circlet": [
+    "int",
+    "int_helmet"
+  ],
+  "Steel Gauntlets": [
+    "str",
+    "str_gloves"
+  ],
+  "Steel Greaves": [
+    "str",
+    "str_boots"
+  ],
+  "Steel Kite Shield": [
+    "str",
+    "int",
+    "str_int_shield"
+  ],
+  "Steel Ring": [
+    "ring"
+  ],
+  "Steelhead": [
+    "twohandmace"
+  ],
+  "Steelscale Boots": [
+    "str",
+    "dex",
+    "str_dex_boots"
+  ],
+  "Steelscale Gauntlets": [
+    "str",
+    "dex",
+    "str_dex_gloves"
+  ],
+  "Steelwood Bow": [
+    "bow"
+  ],
+  "Stiletto": [
+    "dagger"
+  ],
+  "Stone Axe": [
+    "twohandaxe"
+  ],
+  "Stone Hammer": [
+    "onehandmace"
+  ],
+  "Stormrider Boots": [
+    "dex",
+    "dex_boots"
+  ],
+  "Strapped Boots": [
+    "dex",
+    "int",
+    "dex_int_boots"
+  ],
+  "Strapped Leather": [
+    "dex",
+    "dex_bodyarmour"
+  ],
+  "Strapped Mitts": [
+    "dex",
+    "int",
+    "dex_int_gloves"
+  ],
+  "Studded Belt": [
+    "belt"
+  ],
+  "Studded Round Shield": [
+    "str",
+    "dex",
+    "str_dex_shield"
+  ],
+  "Stygian Vise": [
+    "belt"
+  ],
+  "Sun Leather": [
+    "dex",
+    "dex_bodyarmour"
+  ],
+  "Sun Plate": [
+    "str",
+    "str_bodyarmour"
+  ],
+  "Sundering Axe": [
+    "twohandaxe"
+  ],
+  "Sunfire Circlet": [
+    "int",
+    "int_helmet"
+  ],
+  "Supreme Leather": [
+    "dex",
+    "dex_bodyarmour"
+  ],
+  "Supreme Spiked Shield": [
+    "dex",
+    "int",
+    "dex_int_shield"
+  ],
+  "Syndicate's Garb": [
+    "dex",
+    "dex_bodyarmour"
+  ],
+  "Talon Axe": [
+    "twohandaxe"
+  ],
+  "Tarnished Spirit Shield": [
+    "int",
+    "int_shield"
+  ],
+  "Teak Round Shield": [
+    "str",
+    "dex",
+    "str_dex_shield"
+  ],
+  "Tempered Foil": [
+    "thrustingonehandsword"
+  ],
+  "Tenderizer": [
+    "onehandmace"
+  ],
+  "Tenebrous Ring": [
+    "ring"
+  ],
+  "Terror Claw": [
+    "claw"
+  ],
+  "Terror Maul": [
+    "twohandmace"
+  ],
+  "Thicket Bow": [
+    "bow"
+  ],
+  "Thief's Garb": [
+    "dex",
+    "dex_bodyarmour"
+  ],
+  "Thorium Spirit Shield": [
+    "int",
+    "int_shield"
+  ],
+  "Thorn Rapier": [
+    "thrustingonehandsword"
+  ],
+  "Thresher Claw": [
+    "claw"
+  ],
+  "Throat Stabber": [
+    "claw"
+  ],
+  "Thwarting Gauntlets": [
+    "str",
+    "str_gloves"
+  ],
+  "Tiger Hook": [
+    "onehandsword"
+  ],
+  "Tiger Sword": [
+    "twohandsword"
+  ],
+  "Tiger's Paw": [
+    "claw"
+  ],
+  "Timber Axe": [
+    "twohandaxe"
+  ],
+  "Timeworn Claw": [
+    "claw"
+  ],
+  "Tinker Gloves": [
+    "dex",
+    "dex_gloves"
+  ],
+  "Titan Gauntlets": [
+    "str",
+    "str_gloves"
+  ],
+  "Titan Greaves": [
+    "str",
+    "str_boots"
+  ],
+  "Titan Plate": [
+    "str",
+    "str_bodyarmour"
+  ],
+  "Titanium Spirit Shield": [
+    "int",
+    "int_shield"
+  ],
+  "Tomahawk": [
+    "onehandaxe"
+  ],
+  "Topaz Ring": [
+    "ring"
+  ],
+  "Tornado Wand": [
+    "wand"
+  ],
+  "Torture Cage": [
+    "int",
+    "int_helmet"
+  ],
+  "Torturer Garb": [
+    "dex",
+    "int",
+    "dex_int_bodyarmour"
+  ],
+  "Torturer's Mask": [
+    "dex",
+    "int",
+    "dex_int_helmet"
+  ],
+  "Totemic Maul": [
+    "twohandmace"
+  ],
+  "Trapper Boots": [
+    "dex",
+    "int",
+    "dex_int_boots"
+  ],
+  "Trapper Mitts": [
+    "dex",
+    "int",
+    "dex_int_gloves"
+  ],
+  "Trapsetter Gloves": [
+    "dex",
+    "dex_gloves"
+  ],
+  "Tribal Circlet": [
+    "int",
+    "int_helmet"
+  ],
+  "Tribal Club": [
+    "onehandmace"
+  ],
+  "Tribal Maul": [
+    "twohandmace"
+  ],
+  "Tricorne": [
+    "dex",
+    "dex_helmet"
+  ],
+  "Trisula": [
+    "dagger"
+  ],
+  "Triumphant Lamellar": [
+    "str",
+    "dex",
+    "str_dex_bodyarmour"
+  ],
+  "Turquoise Amulet": [
+    "amulet"
+  ],
+  "Twig Spirit Shield": [
+    "int",
+    "int_shield"
+  ],
+  "Twilight Blade": [
+    "onehandsword"
+  ],
+  "Twilight Regalia": [
+    "int",
+    "int_bodyarmour"
+  ],
+  "Twin Claw": [
+    "claw"
+  ],
+  "Two-Handed Sword": [
+    "twohandsword"
+  ],
+  "Two-Point Arrow Quiver": [
+    "quiver"
+  ],
+  "Two-Stone Ring": [
+    "ring"
+  ],
+  "Two-Toned Boots": [
+    "str",
+    "dex",
+    "str_dex_boots"
+  ],
+  "Tyrant's Sekhem": [
+    "sceptre"
+  ],
+  "Unset Amulet": [
+    "amulet"
+  ],
+  "Unset Ring": [
+    "ring"
+  ],
+  "Ursine Pelt": [
+    "dex",
+    "dex_helmet"
+  ],
+  "Vaal Axe": [
+    "twohandaxe"
+  ],
+  "Vaal Blade": [
+    "onehandsword"
+  ],
+  "Vaal Buckler": [
+    "dex",
+    "dex_shield"
+  ],
+  "Vaal Claw": [
+    "claw"
+  ],
+  "Vaal Gauntlets": [
+    "str",
+    "str_gloves"
+  ],
+  "Vaal Greatsword": [
+    "twohandsword"
+  ],
+  "Vaal Greaves": [
+    "str",
+    "str_boots"
+  ],
+  "Vaal Hatchet": [
+    "onehandaxe"
+  ],
+  "Vaal Mask": [
+    "dex",
+    "int",
+    "dex_int_helmet"
+  ],
+  "Vaal Rapier": [
+    "thrustingonehandsword"
+  ],
+  "Vaal Regalia": [
+    "int",
+    "int_bodyarmour"
+  ],
+  "Vaal Sceptre": [
+    "sceptre"
+  ],
+  "Vaal Spirit Shield": [
+    "int",
+    "int_shield"
+  ],
+  "Vanguard Belt": [
+    "belt"
+  ],
+  "Variscite Blade": [
+    "onehandsword"
+  ],
+  "Varnished Coat": [
+    "dex",
+    "int",
+    "dex_int_bodyarmour"
+  ],
+  "Velour Boots": [
+    "dex",
+    "dex_boots"
+  ],
+  "Velour Gloves": [
+    "dex",
+    "dex_gloves"
+  ],
+  "Velvet Gloves": [
+    "int",
+    "int_gloves"
+  ],
+  "Velvet Slippers": [
+    "int",
+    "int_boots"
+  ],
+  "Vermillion Ring": [
+    "ring"
+  ],
+  "Vile Arrow Quiver": [
+    "quiver"
+  ],
+  "Vile Staff": [
+    "warstaff"
+  ],
+  "Vine Circlet": [
+    "int",
+    "int_helmet"
+  ],
+  "Visored Sallet": [
+    "str",
+    "dex",
+    "str_dex_helmet"
+  ],
+  "Void Axe": [
+    "twohandaxe"
+  ],
+  "Void Sceptre": [
+    "sceptre"
+  ],
+  "Walnut Spirit Shield": [
+    "int",
+    "int_shield"
+  ],
+  "War Axe": [
+    "onehandaxe"
+  ],
+  "War Buckler": [
+    "dex",
+    "dex_shield"
+  ],
+  "War Hammer": [
+    "onehandmace"
+  ],
+  "War Plate": [
+    "str",
+    "str_bodyarmour"
+  ],
+  "War Sword": [
+    "onehandsword"
+  ],
+  "Warlock Boots": [
+    "int",
+    "int_boots"
+  ],
+  "Warlock Gloves": [
+    "int",
+    "int_gloves"
+  ],
+  "Waxed Garb": [
+    "dex",
+    "int",
+    "dex_int_bodyarmour"
+  ],
+  "Whalebone Rapier": [
+    "thrustingonehandsword"
+  ],
+  "Widowsilk Robe": [
+    "int",
+    "int_bodyarmour"
+  ],
+  "Wild Leather": [
+    "dex",
+    "dex_bodyarmour"
+  ],
+  "Windbreak Boots": [
+    "dex",
+    "dex_boots"
+  ],
+  "Winter Crown": [
+    "dex",
+    "int",
+    "dex_int_helmet"
+  ],
+  "Wolf Pelt": [
+    "dex",
+    "dex_helmet"
+  ],
+  "Woodful Staff": [
+    "staff"
+  ],
+  "Woodsplitter": [
+    "twohandaxe"
+  ],
+  "Wool Gloves": [
+    "int",
+    "int_gloves"
+  ],
+  "Wool Shoes": [
+    "int",
+    "int_boots"
+  ],
+  "Wraith Axe": [
+    "onehandaxe"
+  ],
+  "Wraith Sword": [
+    "twohandsword"
+  ],
+  "Wrapped Boots": [
+    "dex",
+    "int",
+    "dex_int_boots"
+  ],
+  "Wrapped Mitts": [
+    "dex",
+    "int",
+    "dex_int_gloves"
+  ],
+  "Wrist Chopper": [
+    "onehandaxe"
+  ],
+  "Wyrm Mace": [
+    "onehandmace"
+  ],
+  "Wyrmbone Rapier": [
+    "thrustingonehandsword"
+  ],
+  "Wyrmscale Boots": [
+    "str",
+    "dex",
+    "str_dex_boots"
+  ],
+  "Wyrmscale Doublet": [
+    "str",
+    "dex",
+    "str_dex_bodyarmour"
+  ],
+  "Wyrmscale Gauntlets": [
+    "str",
+    "dex",
+    "str_dex_gloves"
+  ],
+  "Wyvernscale Boots": [
+    "str",
+    "dex",
+    "str_dex_boots"
+  ],
+  "Wyvernscale Gauntlets": [
+    "str",
+    "dex",
+    "str_dex_gloves"
+  ],
+  "Yew Spirit Shield": [
+    "int",
+    "int_shield"
+  ],
+  "Zealot Boots": [
+    "str",
+    "int",
+    "str_int_boots"
+  ],
+  "Zealot Gloves": [
+    "str",
+    "int",
+    "str_int_gloves"
+  ],
+  "Zealot Helmet": [
+    "str",
+    "int",
+    "str_int_helmet"
+  ],
+  "Zodiac Leather": [
+    "dex",
+    "dex_bodyarmour"
+  ]
+}
