@@ -956,6 +956,601 @@
       "implicits": []
     },
     {
+      "key": "delve",
+      "title": "Delve",
+      "prefixes": [
+        {
+          "level": 1,
+          "family": [
+            "AddedFireDamage"
+          ],
+          "tags": [
+            "Damage",
+            "Elemental",
+            "Fire"
+          ],
+          "text": "Adds # to # Fire Damage"
+        },
+        {
+          "level": 1,
+          "family": [
+            "AddedColdDamage"
+          ],
+          "tags": [
+            "Damage",
+            "Elemental",
+            "Cold"
+          ],
+          "text": "Adds # to # Cold Damage"
+        },
+        {
+          "level": 1,
+          "family": [
+            "AddedLightningDamage"
+          ],
+          "tags": [
+            "Damage",
+            "Elemental",
+            "Lightning"
+          ],
+          "text": "Adds # to # Lightning Damage"
+        },
+        {
+          "level": 1,
+          "family": [
+            "AddedPhysicalDamage"
+          ],
+          "tags": [
+            "Damage",
+            "Physical"
+          ],
+          "text": "Adds # to # Physical Damage"
+        },
+        {
+          "level": 1,
+          "family": [
+            "AddedChaosDamage"
+          ],
+          "tags": [
+            "Damage",
+            "Chaos"
+          ],
+          "text": "Adds # to # Chaos Damage"
+        },
+        {
+          "level": 1,
+          "family": [
+            "MinimumAddedPhysicalDamageVsPoisonedEnemies"
+          ],
+          "tags": [
+            "Damage",
+            "Physical"
+          ],
+          "text": "Adds # to # Physical Damage against Poisoned Enemies"
+        },
+        {
+          "level": 1,
+          "family": [
+            "MinimumAddedPhysicalDamageVsBleedingEnemies"
+          ],
+          "tags": [
+            "Damage",
+            "Physical"
+          ],
+          "text": "Adds # to # Physical Damage against Bleeding Enemies"
+        },
+        {
+          "level": 1,
+          "family": [
+            "MinionDamage"
+          ],
+          "tags": [
+            "Damage",
+            "Minion"
+          ],
+          "text": "Minions deal #% increased Damage"
+        },
+        {
+          "level": 60,
+          "family": [
+            "IncreaseSpecificSocketedGemLevel"
+          ],
+          "tags": [
+            "Minion",
+            "Gem"
+          ],
+          "text": "# to Level of Socketed Minion Gems"
+        },
+        {
+          "level": 60,
+          "family": [
+            "SpiritAndPhantasmRefreshOnUnique"
+          ],
+          "tags": [
+            "Minion"
+          ],
+          "text": "Summoned Phantasms have #% chance to refresh their Duration when they Hit a Rare or Unique Enemy"
+        },
+        {
+          "level": 60,
+          "family": [
+            "SpiritAndPhantasmRefreshOnUnique"
+          ],
+          "tags": [
+            "Minion"
+          ],
+          "text": "Summoned Raging Spirits have #% chance to refresh their Duration when they Hit a Rare or Unique Enemy"
+        }
+      ],
+      "suffixes": [
+        {
+          "level": 1,
+          "family": [
+            "LifeRegenerationRatePercentage"
+          ],
+          "tags": [
+            "Life"
+          ],
+          "text": "Regenerate #% of Life per second"
+        },
+        {
+          "level": 1,
+          "family": [
+            "BlockPercent"
+          ],
+          "tags": [],
+          "text": "#% Chance to Block Attack Damage"
+        },
+        {
+          "level": 1,
+          "family": [
+            "SelfStatusAilmentDuration"
+          ],
+          "tags": [
+            "Elemental",
+            "Ailment"
+          ],
+          "text": "#% reduced Elemental Ailment Duration on you"
+        },
+        {
+          "level": 1,
+          "family": [
+            "SocketedSkillsCastSpeed"
+          ],
+          "tags": [
+            "Caster",
+            "Speed",
+            "Gem"
+          ],
+          "text": "Socketed Skills have #% increased Cast Speed"
+        },
+        {
+          "level": 1,
+          "family": [
+            "SocketedSkillsAttackSpeed"
+          ],
+          "tags": [
+            "Attack",
+            "Speed",
+            "Gem"
+          ],
+          "text": "Socketed Skills have #% increased Attack Speed"
+        },
+        {
+          "level": 1,
+          "family": [
+            "ManaGainPerTarget"
+          ],
+          "tags": [
+            "Mana",
+            "Attack"
+          ],
+          "text": "Gain # Mana per Enemy Hit with Attacks"
+        },
+        {
+          "level": 1,
+          "family": [
+            "AttackAndCastSpeedIfHitRecently"
+          ],
+          "tags": [
+            "Attack",
+            "Caster",
+            "Speed"
+          ],
+          "text": "#% increased Attack and Cast Speed if you've Hit an Enemy Recently"
+        },
+        {
+          "level": 1,
+          "family": [
+            "DelveStrengthGemLevel"
+          ],
+          "tags": [
+            "Attribute",
+            "Gem"
+          ],
+          "text": "# to Level of Socketed Strength Gems"
+        },
+        {
+          "level": 1,
+          "family": [
+            "DelveDexterityGemLevel"
+          ],
+          "tags": [
+            "Attribute",
+            "Gem"
+          ],
+          "text": "# to Level of Socketed Dexterity Gems"
+        },
+        {
+          "level": 1,
+          "family": [
+            "DelveIntelligenceGemLevel"
+          ],
+          "tags": [
+            "Attribute",
+            "Gem"
+          ],
+          "text": "# to Level of Socketed Intelligence Gems"
+        },
+        {
+          "level": 1,
+          "family": [
+            "AbyssJewelSocket"
+          ],
+          "tags": [],
+          "text": "Has # Abyssal Socket"
+        },
+        {
+          "level": 1,
+          "family": [
+            "VaalSkillCriticalStrikeChance"
+          ],
+          "tags": [
+            "Critical"
+          ],
+          "text": "#% increased Vaal Skill Critical Strike Chance"
+        },
+        {
+          "level": 60,
+          "family": [
+            "AuraEffectOnEnemies"
+          ],
+          "tags": [
+            "Aura"
+          ],
+          "text": "#% increased Effect of Non-Curse Auras from your Skills on Enemies"
+        },
+        {
+          "level": 60,
+          "family": [
+            "BleedingDamage"
+          ],
+          "tags": [
+            "Damage",
+            "Physical",
+            "Attack",
+            "Ailment"
+          ],
+          "text": "Attacks have #% chance to cause Bleeding"
+        },
+        {
+          "level": 60,
+          "family": [
+            "BleedingDamage"
+          ],
+          "tags": [
+            "Damage",
+            "Physical",
+            "Attack",
+            "Ailment"
+          ],
+          "text": "#% increased Damage with Bleeding"
+        },
+        {
+          "level": 60,
+          "family": [
+            "FreezeDuration"
+          ],
+          "tags": [
+            "Elemental",
+            "Cold",
+            "Ailment"
+          ],
+          "text": "#% increased Duration of Cold Ailments"
+        },
+        {
+          "level": 60,
+          "family": [
+            "CorruptedBloodImmunity"
+          ],
+          "tags": [
+            "Physical",
+            "Ailment"
+          ],
+          "text": "Corrupted Blood cannot be inflicted on you"
+        },
+        {
+          "level": 1,
+          "family": [
+            "EnergyShieldLeechPermyriad"
+          ],
+          "tags": [
+            "Defences",
+            "Energy Shield"
+          ],
+          "text": "#% of Spell Damage Leeched as Energy Shield"
+        },
+        {
+          "level": 60,
+          "family": [
+            "FasterDamageAilments"
+          ],
+          "tags": [
+            "Damage",
+            "Physical",
+            "Attack",
+            "Ailment"
+          ],
+          "text": "Bleeding you inflict deals Damage #% faster"
+        },
+        {
+          "level": 60,
+          "family": [
+            "FasterDamageAilments"
+          ],
+          "tags": [
+            "Damage",
+            "Elemental",
+            "Fire",
+            "Ailment"
+          ],
+          "text": "Ignites you inflict deal Damage #% faster"
+        },
+        {
+          "level": 60,
+          "family": [
+            "FasterDamageAilments"
+          ],
+          "tags": [
+            "Damage",
+            "Chaos",
+            "Ailment"
+          ],
+          "text": "Poisons you inflict deal Damage #% faster"
+        },
+        {
+          "level": 60,
+          "family": [
+            "ShockEffect"
+          ],
+          "tags": [
+            "Elemental",
+            "Lightning",
+            "Ailment"
+          ],
+          "text": "#% increased Effect of Lightning Ailments"
+        },
+        {
+          "level": 60,
+          "family": [
+            "ManaRegeneration"
+          ],
+          "tags": [
+            "Mana"
+          ],
+          "text": "#% increased Mana Regeneration Rate"
+        },
+        {
+          "level": 60,
+          "family": [
+            "PercentDamageGoesToMana"
+          ],
+          "tags": [
+            "Mana"
+          ],
+          "text": "#% of Damage taken Recouped as Mana"
+        }
+      ],
+      "implicits": []
+    },
+    {
+      "key": "incursion",
+      "title": "Incursion",
+      "prefixes": [
+        {
+          "level": 50,
+          "family": [
+            "ColdDamage",
+            "ConvertPhysicalToCold"
+          ],
+          "tags": [
+            "Damage",
+            "Physical",
+            "Elemental",
+            "Cold",
+            "Attack"
+          ],
+          "text": "Adds # to # Cold Damage to Attacks"
+        },
+        {
+          "level": 50,
+          "family": [
+            "ColdDamage",
+            "ConvertPhysicalToCold"
+          ],
+          "tags": [
+            "Damage",
+            "Physical",
+            "Elemental",
+            "Cold",
+            "Attack"
+          ],
+          "text": "#% of Physical Damage Converted to Cold Damage"
+        },
+        {
+          "level": 50,
+          "family": [
+            "FireDamage",
+            "ConvertPhysicalToFire"
+          ],
+          "tags": [
+            "Damage",
+            "Physical",
+            "Elemental",
+            "Fire",
+            "Attack"
+          ],
+          "text": "Adds # to # Fire Damage to Attacks"
+        },
+        {
+          "level": 50,
+          "family": [
+            "FireDamage",
+            "ConvertPhysicalToFire"
+          ],
+          "tags": [
+            "Damage",
+            "Physical",
+            "Elemental",
+            "Fire",
+            "Attack"
+          ],
+          "text": "#% of Physical Damage Converted to Fire Damage"
+        },
+        {
+          "level": 50,
+          "family": [
+            "LightningDamage",
+            "ConvertPhysicalToLightning"
+          ],
+          "tags": [
+            "Damage",
+            "Physical",
+            "Elemental",
+            "Lightning",
+            "Attack"
+          ],
+          "text": "Adds # to # Lightning Damage to Attacks"
+        },
+        {
+          "level": 50,
+          "family": [
+            "LightningDamage",
+            "ConvertPhysicalToLightning"
+          ],
+          "tags": [
+            "Damage",
+            "Physical",
+            "Elemental",
+            "Lightning",
+            "Attack"
+          ],
+          "text": "#% of Physical Damage Converted to Lightning Damage"
+        },
+        {
+          "level": 50,
+          "family": [
+            "IncreasedMana"
+          ],
+          "tags": [
+            "Mana"
+          ],
+          "text": "# to maximum Mana"
+        },
+        {
+          "level": 50,
+          "family": [
+            "IncreasedMana"
+          ],
+          "tags": [
+            "Mana"
+          ],
+          "text": "#% increased maximum Mana"
+        }
+      ],
+      "suffixes": [
+        {
+          "level": 50,
+          "family": [
+            "ColdResistance"
+          ],
+          "tags": [
+            "Damage",
+            "Elemental",
+            "Cold",
+            "Resistance"
+          ],
+          "text": "#% to Cold Resistance"
+        },
+        {
+          "level": 50,
+          "family": [
+            "ColdResistance"
+          ],
+          "tags": [
+            "Damage",
+            "Elemental",
+            "Cold",
+            "Resistance"
+          ],
+          "text": "#% increased Damage with Hits against Chilled Enemies"
+        },
+        {
+          "level": 50,
+          "family": [
+            "FireResistance"
+          ],
+          "tags": [
+            "Damage",
+            "Elemental",
+            "Fire",
+            "Resistance"
+          ],
+          "text": "#% to Fire Resistance"
+        },
+        {
+          "level": 50,
+          "family": [
+            "FireResistance"
+          ],
+          "tags": [
+            "Damage",
+            "Elemental",
+            "Fire",
+            "Resistance"
+          ],
+          "text": "# to # added Fire Damage against Burning Enemies"
+        },
+        {
+          "level": 50,
+          "family": [
+            "LightningResistance"
+          ],
+          "tags": [
+            "Elemental",
+            "Lightning",
+            "Resistance",
+            "Critical"
+          ],
+          "text": "#% to Lightning Resistance"
+        },
+        {
+          "level": 50,
+          "family": [
+            "LightningResistance"
+          ],
+          "tags": [
+            "Elemental",
+            "Lightning",
+            "Resistance",
+            "Critical"
+          ],
+          "text": "#% increased Critical Strike Chance against Shocked Enemies"
+        }
+      ],
+      "implicits": []
+    },
+    {
       "key": "master",
       "title": "Crafting Bench",
       "prefixes": [
@@ -1761,601 +2356,6 @@
           ],
           "tags": [],
           "text": "Cannot roll Caster Modifiers"
-        }
-      ],
-      "implicits": []
-    },
-    {
-      "key": "delve",
-      "title": "Delve",
-      "prefixes": [
-        {
-          "level": 1,
-          "family": [
-            "AddedFireDamage"
-          ],
-          "tags": [
-            "Damage",
-            "Elemental",
-            "Fire"
-          ],
-          "text": "Adds # to # Fire Damage"
-        },
-        {
-          "level": 1,
-          "family": [
-            "AddedColdDamage"
-          ],
-          "tags": [
-            "Damage",
-            "Elemental",
-            "Cold"
-          ],
-          "text": "Adds # to # Cold Damage"
-        },
-        {
-          "level": 1,
-          "family": [
-            "AddedLightningDamage"
-          ],
-          "tags": [
-            "Damage",
-            "Elemental",
-            "Lightning"
-          ],
-          "text": "Adds # to # Lightning Damage"
-        },
-        {
-          "level": 1,
-          "family": [
-            "AddedPhysicalDamage"
-          ],
-          "tags": [
-            "Damage",
-            "Physical"
-          ],
-          "text": "Adds # to # Physical Damage"
-        },
-        {
-          "level": 1,
-          "family": [
-            "AddedChaosDamage"
-          ],
-          "tags": [
-            "Damage",
-            "Chaos"
-          ],
-          "text": "Adds # to # Chaos Damage"
-        },
-        {
-          "level": 1,
-          "family": [
-            "MinimumAddedPhysicalDamageVsPoisonedEnemies"
-          ],
-          "tags": [
-            "Damage",
-            "Physical"
-          ],
-          "text": "Adds # to # Physical Damage against Poisoned Enemies"
-        },
-        {
-          "level": 1,
-          "family": [
-            "MinimumAddedPhysicalDamageVsBleedingEnemies"
-          ],
-          "tags": [
-            "Damage",
-            "Physical"
-          ],
-          "text": "Adds # to # Physical Damage against Bleeding Enemies"
-        },
-        {
-          "level": 1,
-          "family": [
-            "MinionDamage"
-          ],
-          "tags": [
-            "Damage",
-            "Minion"
-          ],
-          "text": "Minions deal #% increased Damage"
-        },
-        {
-          "level": 60,
-          "family": [
-            "IncreaseSpecificSocketedGemLevel"
-          ],
-          "tags": [
-            "Minion",
-            "Gem"
-          ],
-          "text": "# to Level of Socketed Minion Gems"
-        },
-        {
-          "level": 60,
-          "family": [
-            "SpiritAndPhantasmRefreshOnUnique"
-          ],
-          "tags": [
-            "Minion"
-          ],
-          "text": "Summoned Phantasms have #% chance to refresh their Duration when they Hit a Rare or Unique Enemy"
-        },
-        {
-          "level": 60,
-          "family": [
-            "SpiritAndPhantasmRefreshOnUnique"
-          ],
-          "tags": [
-            "Minion"
-          ],
-          "text": "Summoned Raging Spirits have #% chance to refresh their Duration when they Hit a Rare or Unique Enemy"
-        }
-      ],
-      "suffixes": [
-        {
-          "level": 1,
-          "family": [
-            "LifeRegenerationRatePercentage"
-          ],
-          "tags": [
-            "Life"
-          ],
-          "text": "Regenerate #% of Life per second"
-        },
-        {
-          "level": 1,
-          "family": [
-            "BlockPercent"
-          ],
-          "tags": [],
-          "text": "#% Chance to Block Attack Damage"
-        },
-        {
-          "level": 1,
-          "family": [
-            "SelfStatusAilmentDuration"
-          ],
-          "tags": [
-            "Elemental",
-            "Ailment"
-          ],
-          "text": "#% reduced Elemental Ailment Duration on you"
-        },
-        {
-          "level": 1,
-          "family": [
-            "SocketedSkillsCastSpeed"
-          ],
-          "tags": [
-            "Caster",
-            "Speed",
-            "Gem"
-          ],
-          "text": "Socketed Skills have #% increased Cast Speed"
-        },
-        {
-          "level": 1,
-          "family": [
-            "SocketedSkillsAttackSpeed"
-          ],
-          "tags": [
-            "Attack",
-            "Speed",
-            "Gem"
-          ],
-          "text": "Socketed Skills have #% increased Attack Speed"
-        },
-        {
-          "level": 1,
-          "family": [
-            "ManaGainPerTarget"
-          ],
-          "tags": [
-            "Mana",
-            "Attack"
-          ],
-          "text": "Gain # Mana per Enemy Hit with Attacks"
-        },
-        {
-          "level": 1,
-          "family": [
-            "AttackAndCastSpeedIfHitRecently"
-          ],
-          "tags": [
-            "Attack",
-            "Caster",
-            "Speed"
-          ],
-          "text": "#% increased Attack and Cast Speed if you've Hit an Enemy Recently"
-        },
-        {
-          "level": 1,
-          "family": [
-            "DelveStrengthGemLevel"
-          ],
-          "tags": [
-            "Attribute",
-            "Gem"
-          ],
-          "text": "# to Level of Socketed Strength Gems"
-        },
-        {
-          "level": 1,
-          "family": [
-            "DelveDexterityGemLevel"
-          ],
-          "tags": [
-            "Attribute",
-            "Gem"
-          ],
-          "text": "# to Level of Socketed Dexterity Gems"
-        },
-        {
-          "level": 1,
-          "family": [
-            "DelveIntelligenceGemLevel"
-          ],
-          "tags": [
-            "Attribute",
-            "Gem"
-          ],
-          "text": "# to Level of Socketed Intelligence Gems"
-        },
-        {
-          "level": 1,
-          "family": [
-            "AbyssJewelSocket"
-          ],
-          "tags": [],
-          "text": "Has # Abyssal Socket"
-        },
-        {
-          "level": 1,
-          "family": [
-            "VaalSkillCriticalStrikeChance"
-          ],
-          "tags": [
-            "Critical"
-          ],
-          "text": "#% increased Vaal Skill Critical Strike Chance"
-        },
-        {
-          "level": 60,
-          "family": [
-            "AuraEffectOnEnemies"
-          ],
-          "tags": [
-            "Aura"
-          ],
-          "text": "#% increased Effect of Non-Curse Auras from your Skills on Enemies"
-        },
-        {
-          "level": 60,
-          "family": [
-            "BleedingDamage"
-          ],
-          "tags": [
-            "Damage",
-            "Physical",
-            "Attack",
-            "Ailment"
-          ],
-          "text": "Attacks have #% chance to cause Bleeding"
-        },
-        {
-          "level": 60,
-          "family": [
-            "BleedingDamage"
-          ],
-          "tags": [
-            "Damage",
-            "Physical",
-            "Attack",
-            "Ailment"
-          ],
-          "text": "#% increased Damage with Bleeding"
-        },
-        {
-          "level": 60,
-          "family": [
-            "FreezeDuration"
-          ],
-          "tags": [
-            "Elemental",
-            "Cold",
-            "Ailment"
-          ],
-          "text": "#% increased Duration of Cold Ailments"
-        },
-        {
-          "level": 60,
-          "family": [
-            "CorruptedBloodImmunity"
-          ],
-          "tags": [
-            "Physical",
-            "Ailment"
-          ],
-          "text": "Corrupted Blood cannot be inflicted on you"
-        },
-        {
-          "level": 1,
-          "family": [
-            "EnergyShieldLeechPermyriad"
-          ],
-          "tags": [
-            "Defences",
-            "Energy Shield"
-          ],
-          "text": "#% of Spell Damage Leeched as Energy Shield"
-        },
-        {
-          "level": 60,
-          "family": [
-            "FasterDamageAilments"
-          ],
-          "tags": [
-            "Damage",
-            "Physical",
-            "Attack",
-            "Ailment"
-          ],
-          "text": "Bleeding you inflict deals Damage #% faster"
-        },
-        {
-          "level": 60,
-          "family": [
-            "FasterDamageAilments"
-          ],
-          "tags": [
-            "Damage",
-            "Elemental",
-            "Fire",
-            "Ailment"
-          ],
-          "text": "Ignites you inflict deal Damage #% faster"
-        },
-        {
-          "level": 60,
-          "family": [
-            "FasterDamageAilments"
-          ],
-          "tags": [
-            "Damage",
-            "Chaos",
-            "Ailment"
-          ],
-          "text": "Poisons you inflict deal Damage #% faster"
-        },
-        {
-          "level": 60,
-          "family": [
-            "ShockEffect"
-          ],
-          "tags": [
-            "Elemental",
-            "Lightning",
-            "Ailment"
-          ],
-          "text": "#% increased Effect of Lightning Ailments"
-        },
-        {
-          "level": 60,
-          "family": [
-            "ManaRegeneration"
-          ],
-          "tags": [
-            "Mana"
-          ],
-          "text": "#% increased Mana Regeneration Rate"
-        },
-        {
-          "level": 60,
-          "family": [
-            "PercentDamageGoesToMana"
-          ],
-          "tags": [
-            "Mana"
-          ],
-          "text": "#% of Damage taken Recouped as Mana"
-        }
-      ],
-      "implicits": []
-    },
-    {
-      "key": "incursion",
-      "title": "Incursion",
-      "prefixes": [
-        {
-          "level": 50,
-          "family": [
-            "ColdDamage",
-            "ConvertPhysicalToCold"
-          ],
-          "tags": [
-            "Damage",
-            "Physical",
-            "Elemental",
-            "Cold",
-            "Attack"
-          ],
-          "text": "Adds # to # Cold Damage to Attacks"
-        },
-        {
-          "level": 50,
-          "family": [
-            "ColdDamage",
-            "ConvertPhysicalToCold"
-          ],
-          "tags": [
-            "Damage",
-            "Physical",
-            "Elemental",
-            "Cold",
-            "Attack"
-          ],
-          "text": "#% of Physical Damage Converted to Cold Damage"
-        },
-        {
-          "level": 50,
-          "family": [
-            "FireDamage",
-            "ConvertPhysicalToFire"
-          ],
-          "tags": [
-            "Damage",
-            "Physical",
-            "Elemental",
-            "Fire",
-            "Attack"
-          ],
-          "text": "Adds # to # Fire Damage to Attacks"
-        },
-        {
-          "level": 50,
-          "family": [
-            "FireDamage",
-            "ConvertPhysicalToFire"
-          ],
-          "tags": [
-            "Damage",
-            "Physical",
-            "Elemental",
-            "Fire",
-            "Attack"
-          ],
-          "text": "#% of Physical Damage Converted to Fire Damage"
-        },
-        {
-          "level": 50,
-          "family": [
-            "LightningDamage",
-            "ConvertPhysicalToLightning"
-          ],
-          "tags": [
-            "Damage",
-            "Physical",
-            "Elemental",
-            "Lightning",
-            "Attack"
-          ],
-          "text": "Adds # to # Lightning Damage to Attacks"
-        },
-        {
-          "level": 50,
-          "family": [
-            "LightningDamage",
-            "ConvertPhysicalToLightning"
-          ],
-          "tags": [
-            "Damage",
-            "Physical",
-            "Elemental",
-            "Lightning",
-            "Attack"
-          ],
-          "text": "#% of Physical Damage Converted to Lightning Damage"
-        },
-        {
-          "level": 50,
-          "family": [
-            "IncreasedMana"
-          ],
-          "tags": [
-            "Mana"
-          ],
-          "text": "# to maximum Mana"
-        },
-        {
-          "level": 50,
-          "family": [
-            "IncreasedMana"
-          ],
-          "tags": [
-            "Mana"
-          ],
-          "text": "#% increased maximum Mana"
-        }
-      ],
-      "suffixes": [
-        {
-          "level": 50,
-          "family": [
-            "ColdResistance"
-          ],
-          "tags": [
-            "Damage",
-            "Elemental",
-            "Cold",
-            "Resistance"
-          ],
-          "text": "#% to Cold Resistance"
-        },
-        {
-          "level": 50,
-          "family": [
-            "ColdResistance"
-          ],
-          "tags": [
-            "Damage",
-            "Elemental",
-            "Cold",
-            "Resistance"
-          ],
-          "text": "#% increased Damage with Hits against Chilled Enemies"
-        },
-        {
-          "level": 50,
-          "family": [
-            "FireResistance"
-          ],
-          "tags": [
-            "Damage",
-            "Elemental",
-            "Fire",
-            "Resistance"
-          ],
-          "text": "#% to Fire Resistance"
-        },
-        {
-          "level": 50,
-          "family": [
-            "FireResistance"
-          ],
-          "tags": [
-            "Damage",
-            "Elemental",
-            "Fire",
-            "Resistance"
-          ],
-          "text": "# to # added Fire Damage against Burning Enemies"
-        },
-        {
-          "level": 50,
-          "family": [
-            "LightningResistance"
-          ],
-          "tags": [
-            "Elemental",
-            "Lightning",
-            "Resistance",
-            "Critical"
-          ],
-          "text": "#% to Lightning Resistance"
-        },
-        {
-          "level": 50,
-          "family": [
-            "LightningResistance"
-          ],
-          "tags": [
-            "Elemental",
-            "Lightning",
-            "Resistance",
-            "Critical"
-          ],
-          "text": "#% increased Critical Strike Chance against Shocked Enemies"
         }
       ],
       "implicits": []
@@ -6658,13 +6658,13 @@
       },
       {
         "loc": "P",
-        "title": "Crafting Bench",
-        "key": "master"
+        "title": "Incursion",
+        "key": "incursion"
       },
       {
         "loc": "P",
-        "title": "Incursion",
-        "key": "incursion"
+        "title": "Crafting Bench",
+        "key": "master"
       },
       {
         "loc": "I",
@@ -6685,13 +6685,13 @@
       },
       {
         "loc": "P",
-        "title": "Crafting Bench",
-        "key": "master"
+        "title": "Incursion",
+        "key": "incursion"
       },
       {
         "loc": "P",
-        "title": "Incursion",
-        "key": "incursion"
+        "title": "Crafting Bench",
+        "key": "master"
       },
       {
         "loc": "I",
@@ -6712,13 +6712,13 @@
       },
       {
         "loc": "P",
-        "title": "Crafting Bench",
-        "key": "master"
+        "title": "Incursion",
+        "key": "incursion"
       },
       {
         "loc": "P",
-        "title": "Incursion",
-        "key": "incursion"
+        "title": "Crafting Bench",
+        "key": "master"
       },
       {
         "loc": "I",
@@ -6961,13 +6961,13 @@
       },
       {
         "loc": "S",
-        "title": "Crafting Bench",
-        "key": "master"
+        "title": "Incursion",
+        "key": "incursion"
       },
       {
         "loc": "S",
-        "title": "Incursion",
-        "key": "incursion"
+        "title": "Crafting Bench",
+        "key": "master"
       },
       {
         "loc": "I",
@@ -6988,13 +6988,13 @@
       },
       {
         "loc": "S",
-        "title": "Crafting Bench",
-        "key": "master"
+        "title": "Incursion",
+        "key": "incursion"
       },
       {
         "loc": "S",
-        "title": "Incursion",
-        "key": "incursion"
+        "title": "Crafting Bench",
+        "key": "master"
       },
       {
         "loc": "I",
@@ -7015,13 +7015,13 @@
       },
       {
         "loc": "S",
-        "title": "Crafting Bench",
-        "key": "master"
+        "title": "Incursion",
+        "key": "incursion"
       },
       {
         "loc": "S",
-        "title": "Incursion",
-        "key": "incursion"
+        "title": "Crafting Bench",
+        "key": "master"
       },
       {
         "loc": "I",
@@ -7126,13 +7126,13 @@
       },
       {
         "loc": "P",
-        "title": "Crafting Bench",
-        "key": "master"
+        "title": "Delve",
+        "key": "delve"
       },
       {
         "loc": "P",
-        "title": "Delve",
-        "key": "delve"
+        "title": "Crafting Bench",
+        "key": "master"
       },
       {
         "loc": "I",
@@ -7180,13 +7180,13 @@
       },
       {
         "loc": "P",
-        "title": "Crafting Bench",
-        "key": "master"
+        "title": "Incursion",
+        "key": "incursion"
       },
       {
         "loc": "P",
-        "title": "Incursion",
-        "key": "incursion"
+        "title": "Crafting Bench",
+        "key": "master"
       },
       {
         "loc": "I",
@@ -7405,13 +7405,13 @@
       },
       {
         "loc": "P",
-        "title": "Crafting Bench",
-        "key": "master"
+        "title": "Incursion",
+        "key": "incursion"
       },
       {
         "loc": "P",
-        "title": "Incursion",
-        "key": "incursion"
+        "title": "Crafting Bench",
+        "key": "master"
       },
       {
         "loc": "I",
@@ -7437,13 +7437,13 @@
       },
       {
         "loc": "P",
-        "title": "Crafting Bench",
-        "key": "master"
+        "title": "Incursion",
+        "key": "incursion"
       },
       {
         "loc": "P",
-        "title": "Incursion",
-        "key": "incursion"
+        "title": "Crafting Bench",
+        "key": "master"
       },
       {
         "loc": "I",
@@ -7469,13 +7469,13 @@
       },
       {
         "loc": "P",
-        "title": "Crafting Bench",
-        "key": "master"
+        "title": "Incursion",
+        "key": "incursion"
       },
       {
         "loc": "P",
-        "title": "Incursion",
-        "key": "incursion"
+        "title": "Crafting Bench",
+        "key": "master"
       },
       {
         "loc": "I",
@@ -7701,205 +7701,6 @@
         "title": "Veiled",
         "key": "veiled"
       },
-      {
-        "loc": "S",
-        "title": "Crafting Bench",
-        "key": "master"
-      }
-    ],
-    "#% increased Evasion Rating": [
-      {
-        "loc": "P",
-        "title": "Crafting Bench",
-        "key": "master"
-      },
-      {
-        "loc": "I",
-        "title": "Synthesis",
-        "key": "synthesis"
-      }
-    ],
-    "#% increased Energy Shield": [
-      {
-        "loc": "P",
-        "title": "Crafting Bench",
-        "key": "master"
-      },
-      {
-        "loc": "I",
-        "title": "Synthesis",
-        "key": "synthesis"
-      }
-    ],
-    "#% increased Armour and Evasion": [
-      {
-        "loc": "P",
-        "title": "Crafting Bench",
-        "key": "master"
-      }
-    ],
-    "#% increased Armour and Energy Shield": [
-      {
-        "loc": "P",
-        "title": "Crafting Bench",
-        "key": "master"
-      }
-    ],
-    "#% increased Evasion and Energy Shield": [
-      {
-        "loc": "P",
-        "title": "Crafting Bench",
-        "key": "master"
-      }
-    ],
-    "Adds # to # Chaos Damage to Attacks": [
-      {
-        "loc": "P",
-        "title": "Crafting Bench",
-        "key": "master"
-      },
-      {
-        "loc": "I",
-        "title": "Searing Exarch",
-        "key": "searing"
-      }
-    ],
-    "#% increased Damage with Vaal Skills": [
-      {
-        "loc": "P",
-        "title": "Crafting Bench",
-        "key": "master"
-      },
-      {
-        "loc": "I",
-        "title": "Synthesis",
-        "key": "synthesis"
-      }
-    ],
-    "#% increased Armour, Evasion and Energy Shield": [
-      {
-        "loc": "P",
-        "title": "Crafting Bench",
-        "key": "master"
-      }
-    ],
-    "#% increased Damage while Leeching": [
-      {
-        "loc": "P",
-        "title": "Crafting Bench",
-        "key": "master"
-      },
-      {
-        "loc": "I",
-        "title": "Synthesis",
-        "key": "synthesis"
-      }
-    ],
-    "#% increased Damage during any Flask Effect": [
-      {
-        "loc": "P",
-        "title": "Crafting Bench",
-        "key": "master"
-      },
-      {
-        "loc": "I",
-        "title": "Synthesis",
-        "key": "synthesis"
-      }
-    ],
-    "Suffixes Cannot Be Changed": [
-      {
-        "loc": "P",
-        "title": "Crafting Bench",
-        "key": "master"
-      }
-    ],
-    "#% to Fire and Cold Resistances": [
-      {
-        "loc": "S",
-        "title": "Crafting Bench",
-        "key": "master"
-      }
-    ],
-    "#% to Cold and Lightning Resistances": [
-      {
-        "loc": "S",
-        "title": "Crafting Bench",
-        "key": "master"
-      }
-    ],
-    "#% to Fire and Lightning Resistances": [
-      {
-        "loc": "S",
-        "title": "Crafting Bench",
-        "key": "master"
-      }
-    ],
-    "# to all Attributes": [
-      {
-        "loc": "S",
-        "title": "Crafting Bench",
-        "key": "master"
-      },
-      {
-        "loc": "I",
-        "title": "Synthesis",
-        "key": "synthesis"
-      }
-    ],
-    "#% reduced Effect of Chill and Shock on you": [
-      {
-        "loc": "S",
-        "title": "Crafting Bench",
-        "key": "master"
-      }
-    ],
-    "#% chance to Suppress Spell Damage": [
-      {
-        "loc": "S",
-        "title": "Crafting Bench",
-        "key": "master"
-      },
-      {
-        "loc": "I",
-        "title": "Eater of Worlds",
-        "key": "eater"
-      },
-      {
-        "loc": "I",
-        "title": "Synthesis",
-        "key": "synthesis"
-      }
-    ],
-    "#% increased Energy Shield Recharge Rate": [
-      {
-        "loc": "S",
-        "title": "Crafting Bench",
-        "key": "master"
-      }
-    ],
-    "Prefixes Cannot Be Changed": [
-      {
-        "loc": "S",
-        "title": "Crafting Bench",
-        "key": "master"
-      }
-    ],
-    "Can have up to # Crafted Modifiers": [
-      {
-        "loc": "S",
-        "title": "Crafting Bench",
-        "key": "master"
-      }
-    ],
-    "Cannot roll Attack Modifiers": [
-      {
-        "loc": "S",
-        "title": "Crafting Bench",
-        "key": "master"
-      }
-    ],
-    "Cannot roll Caster Modifiers": [
       {
         "loc": "S",
         "title": "Crafting Bench",
@@ -8245,6 +8046,205 @@
         "loc": "S",
         "title": "Incursion",
         "key": "incursion"
+      }
+    ],
+    "#% increased Evasion Rating": [
+      {
+        "loc": "P",
+        "title": "Crafting Bench",
+        "key": "master"
+      },
+      {
+        "loc": "I",
+        "title": "Synthesis",
+        "key": "synthesis"
+      }
+    ],
+    "#% increased Energy Shield": [
+      {
+        "loc": "P",
+        "title": "Crafting Bench",
+        "key": "master"
+      },
+      {
+        "loc": "I",
+        "title": "Synthesis",
+        "key": "synthesis"
+      }
+    ],
+    "#% increased Armour and Evasion": [
+      {
+        "loc": "P",
+        "title": "Crafting Bench",
+        "key": "master"
+      }
+    ],
+    "#% increased Armour and Energy Shield": [
+      {
+        "loc": "P",
+        "title": "Crafting Bench",
+        "key": "master"
+      }
+    ],
+    "#% increased Evasion and Energy Shield": [
+      {
+        "loc": "P",
+        "title": "Crafting Bench",
+        "key": "master"
+      }
+    ],
+    "Adds # to # Chaos Damage to Attacks": [
+      {
+        "loc": "P",
+        "title": "Crafting Bench",
+        "key": "master"
+      },
+      {
+        "loc": "I",
+        "title": "Searing Exarch",
+        "key": "searing"
+      }
+    ],
+    "#% increased Damage with Vaal Skills": [
+      {
+        "loc": "P",
+        "title": "Crafting Bench",
+        "key": "master"
+      },
+      {
+        "loc": "I",
+        "title": "Synthesis",
+        "key": "synthesis"
+      }
+    ],
+    "#% increased Armour, Evasion and Energy Shield": [
+      {
+        "loc": "P",
+        "title": "Crafting Bench",
+        "key": "master"
+      }
+    ],
+    "#% increased Damage while Leeching": [
+      {
+        "loc": "P",
+        "title": "Crafting Bench",
+        "key": "master"
+      },
+      {
+        "loc": "I",
+        "title": "Synthesis",
+        "key": "synthesis"
+      }
+    ],
+    "#% increased Damage during any Flask Effect": [
+      {
+        "loc": "P",
+        "title": "Crafting Bench",
+        "key": "master"
+      },
+      {
+        "loc": "I",
+        "title": "Synthesis",
+        "key": "synthesis"
+      }
+    ],
+    "Suffixes Cannot Be Changed": [
+      {
+        "loc": "P",
+        "title": "Crafting Bench",
+        "key": "master"
+      }
+    ],
+    "#% to Fire and Cold Resistances": [
+      {
+        "loc": "S",
+        "title": "Crafting Bench",
+        "key": "master"
+      }
+    ],
+    "#% to Cold and Lightning Resistances": [
+      {
+        "loc": "S",
+        "title": "Crafting Bench",
+        "key": "master"
+      }
+    ],
+    "#% to Fire and Lightning Resistances": [
+      {
+        "loc": "S",
+        "title": "Crafting Bench",
+        "key": "master"
+      }
+    ],
+    "# to all Attributes": [
+      {
+        "loc": "S",
+        "title": "Crafting Bench",
+        "key": "master"
+      },
+      {
+        "loc": "I",
+        "title": "Synthesis",
+        "key": "synthesis"
+      }
+    ],
+    "#% reduced Effect of Chill and Shock on you": [
+      {
+        "loc": "S",
+        "title": "Crafting Bench",
+        "key": "master"
+      }
+    ],
+    "#% chance to Suppress Spell Damage": [
+      {
+        "loc": "S",
+        "title": "Crafting Bench",
+        "key": "master"
+      },
+      {
+        "loc": "I",
+        "title": "Eater of Worlds",
+        "key": "eater"
+      },
+      {
+        "loc": "I",
+        "title": "Synthesis",
+        "key": "synthesis"
+      }
+    ],
+    "#% increased Energy Shield Recharge Rate": [
+      {
+        "loc": "S",
+        "title": "Crafting Bench",
+        "key": "master"
+      }
+    ],
+    "Prefixes Cannot Be Changed": [
+      {
+        "loc": "S",
+        "title": "Crafting Bench",
+        "key": "master"
+      }
+    ],
+    "Can have up to # Crafted Modifiers": [
+      {
+        "loc": "S",
+        "title": "Crafting Bench",
+        "key": "master"
+      }
+    ],
+    "Cannot roll Attack Modifiers": [
+      {
+        "loc": "S",
+        "title": "Crafting Bench",
+        "key": "master"
+      }
+    ],
+    "Cannot roll Caster Modifiers": [
+      {
+        "loc": "S",
+        "title": "Crafting Bench",
+        "key": "master"
       }
     ],
     "While a Unique Enemy is in your Presence, #% increased Attack Speed": [
