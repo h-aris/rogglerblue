@@ -1,0 +1,2413 @@
+{
+  "modIndex": {
+    "# to maximum Life": [
+      {
+        "loc": "P",
+        "title": "Base",
+        "key": "normal"
+      },
+      {
+        "loc": "P",
+        "title": "Veiled",
+        "key": "veiled"
+      },
+      {
+        "loc": "P",
+        "title": "Incursion",
+        "key": "incursion"
+      },
+      {
+        "loc": "P",
+        "title": "Crafting Bench",
+        "key": "master"
+      }
+    ],
+    "# to maximum Mana": [
+      {
+        "loc": "P",
+        "title": "Base",
+        "key": "normal"
+      },
+      {
+        "loc": "P",
+        "title": "Veiled",
+        "key": "veiled"
+      },
+      {
+        "loc": "P",
+        "title": "Incursion",
+        "key": "incursion"
+      },
+      {
+        "loc": "P",
+        "title": "Crafting Bench",
+        "key": "master"
+      }
+    ],
+    "# to maximum Energy Shield": [
+      {
+        "loc": "P",
+        "title": "Base",
+        "key": "normal"
+      },
+      {
+        "loc": "P",
+        "title": "Essence",
+        "key": "essence"
+      },
+      {
+        "loc": "P",
+        "title": "Incursion",
+        "key": "incursion"
+      },
+      {
+        "loc": "P",
+        "title": "Crafting Bench",
+        "key": "master"
+      }
+    ],
+    "Adds # to # Physical Damage to Attacks": [
+      {
+        "loc": "P",
+        "title": "Base",
+        "key": "normal"
+      },
+      {
+        "loc": "P",
+        "title": "Essence",
+        "key": "essence"
+      },
+      {
+        "loc": "P",
+        "title": "Crafting Bench",
+        "key": "master"
+      }
+    ],
+    "Adds # to # Fire Damage to Attacks": [
+      {
+        "loc": "P",
+        "title": "Base",
+        "key": "normal"
+      },
+      {
+        "loc": "P",
+        "title": "Essence",
+        "key": "essence"
+      },
+      {
+        "loc": "P",
+        "title": "Crafting Bench",
+        "key": "master"
+      }
+    ],
+    "Adds # to # Cold Damage to Attacks": [
+      {
+        "loc": "P",
+        "title": "Base",
+        "key": "normal"
+      },
+      {
+        "loc": "P",
+        "title": "Essence",
+        "key": "essence"
+      },
+      {
+        "loc": "P",
+        "title": "Crafting Bench",
+        "key": "master"
+      }
+    ],
+    "Adds # to # Lightning Damage to Attacks": [
+      {
+        "loc": "P",
+        "title": "Base",
+        "key": "normal"
+      },
+      {
+        "loc": "P",
+        "title": "Essence",
+        "key": "essence"
+      },
+      {
+        "loc": "P",
+        "title": "Crafting Bench",
+        "key": "master"
+      }
+    ],
+    "# to Evasion Rating": [
+      {
+        "loc": "P",
+        "title": "Base",
+        "key": "normal"
+      },
+      {
+        "loc": "P",
+        "title": "Essence",
+        "key": "essence"
+      }
+    ],
+    "#% increased Elemental Damage with Attack Skills": [
+      {
+        "loc": "P",
+        "title": "Base",
+        "key": "normal"
+      },
+      {
+        "loc": "P",
+        "title": "Crafting Bench",
+        "key": "master"
+      },
+      {
+        "loc": "I",
+        "title": "Synthesis",
+        "key": "synthesis"
+      }
+    ],
+    "#% increased Rarity of Items found": [
+      {
+        "loc": "P",
+        "title": "Base",
+        "key": "normal"
+      },
+      {
+        "loc": "S",
+        "title": "Base",
+        "key": "normal"
+      },
+      {
+        "loc": "I",
+        "title": "Synthesis",
+        "key": "synthesis"
+      },
+      {
+        "loc": "I",
+        "title": "Corrupted",
+        "key": "corrupted"
+      }
+    ],
+    "# to Strength": [
+      {
+        "loc": "S",
+        "title": "Base",
+        "key": "normal"
+      },
+      {
+        "loc": "S",
+        "title": "Essence",
+        "key": "essence"
+      },
+      {
+        "loc": "S",
+        "title": "Crafting Bench",
+        "key": "master"
+      },
+      {
+        "loc": "I",
+        "title": "Synthesis",
+        "key": "synthesis"
+      }
+    ],
+    "# to Dexterity": [
+      {
+        "loc": "S",
+        "title": "Base",
+        "key": "normal"
+      },
+      {
+        "loc": "S",
+        "title": "Essence",
+        "key": "essence"
+      },
+      {
+        "loc": "S",
+        "title": "Crafting Bench",
+        "key": "master"
+      },
+      {
+        "loc": "I",
+        "title": "Synthesis",
+        "key": "synthesis"
+      }
+    ],
+    "# to Intelligence": [
+      {
+        "loc": "S",
+        "title": "Base",
+        "key": "normal"
+      },
+      {
+        "loc": "S",
+        "title": "Essence",
+        "key": "essence"
+      },
+      {
+        "loc": "S",
+        "title": "Crafting Bench",
+        "key": "master"
+      },
+      {
+        "loc": "I",
+        "title": "Synthesis",
+        "key": "synthesis"
+      }
+    ],
+    "# to all Attributes": [
+      {
+        "loc": "S",
+        "title": "Base",
+        "key": "normal"
+      },
+      {
+        "loc": "S",
+        "title": "Crafting Bench",
+        "key": "master"
+      },
+      {
+        "loc": "I",
+        "title": "Synthesis",
+        "key": "synthesis"
+      }
+    ],
+    "#% of Physical Attack Damage Leeched as Life": [
+      {
+        "loc": "S",
+        "title": "Base",
+        "key": "normal"
+      },
+      {
+        "loc": "S",
+        "title": "Crafting Bench",
+        "key": "master"
+      }
+    ],
+    "#% of Physical Attack Damage Leeched as Mana": [
+      {
+        "loc": "S",
+        "title": "Base",
+        "key": "normal"
+      }
+    ],
+    "#% increased Cast Speed": [
+      {
+        "loc": "S",
+        "title": "Base",
+        "key": "normal"
+      },
+      {
+        "loc": "S",
+        "title": "Essence",
+        "key": "essence"
+      },
+      {
+        "loc": "I",
+        "title": "Synthesis",
+        "key": "synthesis"
+      },
+      {
+        "loc": "I",
+        "title": "Corrupted",
+        "key": "corrupted"
+      }
+    ],
+    "#% increased Attack Speed": [
+      {
+        "loc": "S",
+        "title": "Base",
+        "key": "normal"
+      },
+      {
+        "loc": "S",
+        "title": "Crafting Bench",
+        "key": "master"
+      },
+      {
+        "loc": "I",
+        "title": "Synthesis",
+        "key": "synthesis"
+      },
+      {
+        "loc": "I",
+        "title": "Corrupted",
+        "key": "corrupted"
+      }
+    ],
+    "# to Accuracy Rating": [
+      {
+        "loc": "S",
+        "title": "Base",
+        "key": "normal"
+      },
+      {
+        "loc": "S",
+        "title": "Crafting Bench",
+        "key": "master"
+      },
+      {
+        "loc": "I",
+        "title": "Synthesis",
+        "key": "synthesis"
+      }
+    ],
+    "Regenerate # Life per second": [
+      {
+        "loc": "S",
+        "title": "Base",
+        "key": "normal"
+      },
+      {
+        "loc": "S",
+        "title": "Essence",
+        "key": "essence"
+      },
+      {
+        "loc": "P",
+        "title": "Veiled",
+        "key": "veiled"
+      },
+      {
+        "loc": "S",
+        "title": "Incursion",
+        "key": "incursion"
+      },
+      {
+        "loc": "P",
+        "title": "Crafting Bench",
+        "key": "master"
+      },
+      {
+        "loc": "I",
+        "title": "Synthesis",
+        "key": "synthesis"
+      }
+    ],
+    "#% increased Mana Regeneration Rate": [
+      {
+        "loc": "S",
+        "title": "Base",
+        "key": "normal"
+      },
+      {
+        "loc": "S",
+        "title": "Essence",
+        "key": "essence"
+      },
+      {
+        "loc": "S",
+        "title": "Crafting Bench",
+        "key": "master"
+      },
+      {
+        "loc": "I",
+        "title": "Synthesis",
+        "key": "synthesis"
+      }
+    ],
+    "#% to Fire Resistance": [
+      {
+        "loc": "S",
+        "title": "Base",
+        "key": "normal"
+      },
+      {
+        "loc": "S",
+        "title": "Crafting Bench",
+        "key": "master"
+      },
+      {
+        "loc": "I",
+        "title": "Synthesis",
+        "key": "synthesis"
+      }
+    ],
+    "#% to Cold Resistance": [
+      {
+        "loc": "S",
+        "title": "Base",
+        "key": "normal"
+      },
+      {
+        "loc": "S",
+        "title": "Crafting Bench",
+        "key": "master"
+      },
+      {
+        "loc": "I",
+        "title": "Synthesis",
+        "key": "synthesis"
+      }
+    ],
+    "#% to Lightning Resistance": [
+      {
+        "loc": "S",
+        "title": "Base",
+        "key": "normal"
+      },
+      {
+        "loc": "S",
+        "title": "Crafting Bench",
+        "key": "master"
+      },
+      {
+        "loc": "I",
+        "title": "Synthesis",
+        "key": "synthesis"
+      }
+    ],
+    "#% to Chaos Resistance": [
+      {
+        "loc": "S",
+        "title": "Base",
+        "key": "normal"
+      },
+      {
+        "loc": "I",
+        "title": "Synthesis",
+        "key": "synthesis"
+      }
+    ],
+    "#% to all Elemental Resistances": [
+      {
+        "loc": "S",
+        "title": "Base",
+        "key": "normal"
+      },
+      {
+        "loc": "S",
+        "title": "Crafting Bench",
+        "key": "master"
+      },
+      {
+        "loc": "I",
+        "title": "Corrupted",
+        "key": "corrupted"
+      }
+    ],
+    "Gain # Life per Enemy Hit with Attacks": [
+      {
+        "loc": "S",
+        "title": "Base",
+        "key": "normal"
+      },
+      {
+        "loc": "P",
+        "title": "Elder",
+        "key": "elder"
+      },
+      {
+        "loc": "P",
+        "title": "Hunter",
+        "key": "hunter"
+      },
+      {
+        "loc": "I",
+        "title": "Synthesis",
+        "key": "synthesis"
+      }
+    ],
+    "#% increased Fire Damage": [
+      {
+        "loc": "S",
+        "title": "Base",
+        "key": "normal"
+      },
+      {
+        "loc": "S",
+        "title": "Essence",
+        "key": "essence"
+      },
+      {
+        "loc": "S",
+        "title": "Crafting Bench",
+        "key": "master"
+      },
+      {
+        "loc": "I",
+        "title": "Synthesis",
+        "key": "synthesis"
+      }
+    ],
+    "#% increased Cold Damage": [
+      {
+        "loc": "S",
+        "title": "Base",
+        "key": "normal"
+      },
+      {
+        "loc": "S",
+        "title": "Essence",
+        "key": "essence"
+      },
+      {
+        "loc": "S",
+        "title": "Crafting Bench",
+        "key": "master"
+      },
+      {
+        "loc": "I",
+        "title": "Synthesis",
+        "key": "synthesis"
+      }
+    ],
+    "#% increased Lightning Damage": [
+      {
+        "loc": "S",
+        "title": "Base",
+        "key": "normal"
+      },
+      {
+        "loc": "S",
+        "title": "Essence",
+        "key": "essence"
+      },
+      {
+        "loc": "S",
+        "title": "Crafting Bench",
+        "key": "master"
+      },
+      {
+        "loc": "I",
+        "title": "Synthesis",
+        "key": "synthesis"
+      }
+    ],
+    "Gain # Life per Enemy Killed": [
+      {
+        "loc": "S",
+        "title": "Base",
+        "key": "normal"
+      },
+      {
+        "loc": "I",
+        "title": "Synthesis",
+        "key": "synthesis"
+      }
+    ],
+    "Gain # Mana per Enemy Killed": [
+      {
+        "loc": "S",
+        "title": "Base",
+        "key": "normal"
+      },
+      {
+        "loc": "I",
+        "title": "Synthesis",
+        "key": "synthesis"
+      }
+    ],
+    "#% increased Global Accuracy Rating": [
+      {
+        "loc": "S",
+        "title": "Base",
+        "key": "normal"
+      },
+      {
+        "loc": "S",
+        "title": "Elder",
+        "key": "elder"
+      },
+      {
+        "loc": "S",
+        "title": "Redeemer",
+        "key": "redeemer"
+      },
+      {
+        "loc": "I",
+        "title": "Synthesis",
+        "key": "synthesis"
+      }
+    ],
+    "#% increased Light Radius": [
+      {
+        "loc": "S",
+        "title": "Base",
+        "key": "normal"
+      },
+      {
+        "loc": "I",
+        "title": "Synthesis",
+        "key": "synthesis"
+      }
+    ],
+    "#% of Damage taken Recouped as Life": [
+      {
+        "loc": "S",
+        "title": "Base",
+        "key": "normal"
+      }
+    ],
+    "# to Armour": [
+      {
+        "loc": "P",
+        "title": "Essence",
+        "key": "essence"
+      }
+    ],
+    "Gain #% of Physical Damage as Extra Fire Damage": [
+      {
+        "loc": "P",
+        "title": "Essence",
+        "key": "essence"
+      },
+      {
+        "loc": "I",
+        "title": "Synthesis",
+        "key": "synthesis"
+      }
+    ],
+    "# to # Added Cold Damage per Frenzy Charge": [
+      {
+        "loc": "P",
+        "title": "Essence",
+        "key": "essence"
+      },
+      {
+        "loc": "P",
+        "title": "Redeemer",
+        "key": "redeemer"
+      },
+      {
+        "loc": "I",
+        "title": "Synthesis",
+        "key": "synthesis"
+      }
+    ],
+    "Left ring slot: Skills supported by Unleash have # to maximum number of Seals": [
+      {
+        "loc": "P",
+        "title": "Essence",
+        "key": "essence"
+      }
+    ],
+    "Right ring slot: Shockwave has # to Cooldown Uses": [
+      {
+        "loc": "P",
+        "title": "Essence",
+        "key": "essence"
+      }
+    ],
+    "Minions have #% increased Movement Speed": [
+      {
+        "loc": "S",
+        "title": "Essence",
+        "key": "essence"
+      },
+      {
+        "loc": "S",
+        "title": "Delve",
+        "key": "delve"
+      },
+      {
+        "loc": "S",
+        "title": "Crafting Bench",
+        "key": "master"
+      },
+      {
+        "loc": "I",
+        "title": "Synthesis",
+        "key": "synthesis"
+      }
+    ],
+    "#% increased Global Critical Strike Chance": [
+      {
+        "loc": "S",
+        "title": "Essence",
+        "key": "essence"
+      },
+      {
+        "loc": "S",
+        "title": "Crafting Bench",
+        "key": "master"
+      },
+      {
+        "loc": "S",
+        "title": "Shaper",
+        "key": "shaper"
+      },
+      {
+        "loc": "S",
+        "title": "Crusader",
+        "key": "crusader"
+      },
+      {
+        "loc": "I",
+        "title": "Synthesis",
+        "key": "synthesis"
+      }
+    ],
+    "#% to Global Critical Strike Multiplier": [
+      {
+        "loc": "S",
+        "title": "Essence",
+        "key": "essence"
+      },
+      {
+        "loc": "S",
+        "title": "Elder",
+        "key": "elder"
+      },
+      {
+        "loc": "S",
+        "title": "Warlord",
+        "key": "warlord"
+      },
+      {
+        "loc": "I",
+        "title": "Synthesis",
+        "key": "synthesis"
+      }
+    ],
+    "#% increased Chaos Damage": [
+      {
+        "loc": "S",
+        "title": "Essence",
+        "key": "essence"
+      },
+      {
+        "loc": "S",
+        "title": "Crafting Bench",
+        "key": "master"
+      },
+      {
+        "loc": "I",
+        "title": "Synthesis",
+        "key": "synthesis"
+      }
+    ],
+    "#% of Hit Damage from you and your Minions cannot be Reflected": [
+      {
+        "loc": "S",
+        "title": "Essence",
+        "key": "essence"
+      }
+    ],
+    "#% to Damage over Time Multiplier": [
+      {
+        "loc": "S",
+        "title": "Essence",
+        "key": "essence"
+      }
+    ],
+    "Regenerate # Mana per second": [
+      {
+        "loc": "P",
+        "title": "Veiled",
+        "key": "veiled"
+      },
+      {
+        "loc": "S",
+        "title": "Delve",
+        "key": "delve"
+      },
+      {
+        "loc": "P",
+        "title": "Incursion",
+        "key": "incursion"
+      },
+      {
+        "loc": "P",
+        "title": "Crafting Bench",
+        "key": "master"
+      },
+      {
+        "loc": "I",
+        "title": "Synthesis",
+        "key": "synthesis"
+      }
+    ],
+    "#% reduced Mana Cost of Skills": [
+      {
+        "loc": "P",
+        "title": "Veiled",
+        "key": "veiled"
+      },
+      {
+        "loc": "S",
+        "title": "Delve",
+        "key": "delve"
+      },
+      {
+        "loc": "P",
+        "title": "Crafting Bench",
+        "key": "master"
+      },
+      {
+        "loc": "I",
+        "title": "Synthesis",
+        "key": "synthesis"
+      }
+    ],
+    "#% of Damage taken Recouped as Mana": [
+      {
+        "loc": "P",
+        "title": "Veiled",
+        "key": "veiled"
+      },
+      {
+        "loc": "P",
+        "title": "Crafting Bench",
+        "key": "master"
+      }
+    ],
+    "Adds # to # Fire Damage": [
+      {
+        "loc": "P",
+        "title": "Veiled",
+        "key": "veiled"
+      },
+      {
+        "loc": "P",
+        "title": "Crafting Bench",
+        "key": "master"
+      },
+      {
+        "loc": "I",
+        "title": "Synthesis",
+        "key": "synthesis"
+      }
+    ],
+    "Adds # to # Cold Damage": [
+      {
+        "loc": "P",
+        "title": "Veiled",
+        "key": "veiled"
+      },
+      {
+        "loc": "P",
+        "title": "Crafting Bench",
+        "key": "master"
+      },
+      {
+        "loc": "I",
+        "title": "Synthesis",
+        "key": "synthesis"
+      }
+    ],
+    "Adds # to # Lightning Damage": [
+      {
+        "loc": "P",
+        "title": "Veiled",
+        "key": "veiled"
+      },
+      {
+        "loc": "P",
+        "title": "Crafting Bench",
+        "key": "master"
+      },
+      {
+        "loc": "I",
+        "title": "Synthesis",
+        "key": "synthesis"
+      }
+    ],
+    "# to Strength and Dexterity": [
+      {
+        "loc": "S",
+        "title": "Veiled",
+        "key": "veiled"
+      },
+      {
+        "loc": "S",
+        "title": "Crafting Bench",
+        "key": "master"
+      }
+    ],
+    "# to Dexterity and Intelligence": [
+      {
+        "loc": "S",
+        "title": "Veiled",
+        "key": "veiled"
+      },
+      {
+        "loc": "S",
+        "title": "Crafting Bench",
+        "key": "master"
+      }
+    ],
+    "# to Strength and Intelligence": [
+      {
+        "loc": "S",
+        "title": "Veiled",
+        "key": "veiled"
+      },
+      {
+        "loc": "S",
+        "title": "Crafting Bench",
+        "key": "master"
+      }
+    ],
+    "# to Minimum Endurance Charges": [
+      {
+        "loc": "S",
+        "title": "Veiled",
+        "key": "veiled"
+      },
+      {
+        "loc": "S",
+        "title": "Crafting Bench",
+        "key": "master"
+      }
+    ],
+    "#% chance to gain an Endurance Charge on Kill": [
+      {
+        "loc": "S",
+        "title": "Veiled",
+        "key": "veiled"
+      }
+    ],
+    "# to Minimum Power Charges": [
+      {
+        "loc": "S",
+        "title": "Veiled",
+        "key": "veiled"
+      },
+      {
+        "loc": "S",
+        "title": "Crafting Bench",
+        "key": "master"
+      }
+    ],
+    "#% chance to gain a Power Charge on Kill": [
+      {
+        "loc": "S",
+        "title": "Veiled",
+        "key": "veiled"
+      }
+    ],
+    "# to Minimum Frenzy Charges": [
+      {
+        "loc": "S",
+        "title": "Veiled",
+        "key": "veiled"
+      },
+      {
+        "loc": "S",
+        "title": "Crafting Bench",
+        "key": "master"
+      }
+    ],
+    "#% chance to gain a Frenzy Charge on Kill": [
+      {
+        "loc": "S",
+        "title": "Veiled",
+        "key": "veiled"
+      }
+    ],
+    "Focus has #% increased Cooldown Recovery Rate": [
+      {
+        "loc": "S",
+        "title": "Veiled",
+        "key": "veiled"
+      }
+    ],
+    "Shock nearby Enemies for # Seconds when you Focus": [
+      {
+        "loc": "S",
+        "title": "Veiled",
+        "key": "veiled"
+      },
+      {
+        "loc": "S",
+        "title": "Crafting Bench",
+        "key": "master"
+      }
+    ],
+    "grant focus skill [#]": [
+      {
+        "loc": "S",
+        "title": "Veiled",
+        "key": "veiled"
+      },
+      {
+        "loc": "S",
+        "title": "Crafting Bench",
+        "key": "master"
+      }
+    ],
+    "#% to Fire and Chaos Resistances": [
+      {
+        "loc": "S",
+        "title": "Veiled",
+        "key": "veiled"
+      },
+      {
+        "loc": "S",
+        "title": "Crafting Bench",
+        "key": "master"
+      }
+    ],
+    "#% to Lightning and Chaos Resistances": [
+      {
+        "loc": "S",
+        "title": "Veiled",
+        "key": "veiled"
+      },
+      {
+        "loc": "S",
+        "title": "Crafting Bench",
+        "key": "master"
+      }
+    ],
+    "#% to Cold and Chaos Resistances": [
+      {
+        "loc": "S",
+        "title": "Veiled",
+        "key": "veiled"
+      },
+      {
+        "loc": "S",
+        "title": "Crafting Bench",
+        "key": "master"
+      }
+    ],
+    "#% of Fire Damage Leeched as Life": [
+      {
+        "loc": "P",
+        "title": "Delve",
+        "key": "delve"
+      },
+      {
+        "loc": "I",
+        "title": "Synthesis",
+        "key": "synthesis"
+      }
+    ],
+    "#% of Cold Damage Leeched as Life": [
+      {
+        "loc": "P",
+        "title": "Delve",
+        "key": "delve"
+      },
+      {
+        "loc": "I",
+        "title": "Synthesis",
+        "key": "synthesis"
+      }
+    ],
+    "#% of Lightning Damage Leeched as Life": [
+      {
+        "loc": "P",
+        "title": "Delve",
+        "key": "delve"
+      },
+      {
+        "loc": "I",
+        "title": "Synthesis",
+        "key": "synthesis"
+      }
+    ],
+    "#% of Physical Damage Leeched as Life": [
+      {
+        "loc": "P",
+        "title": "Delve",
+        "key": "delve"
+      },
+      {
+        "loc": "I",
+        "title": "Synthesis",
+        "key": "synthesis"
+      }
+    ],
+    "#% of Chaos Damage Leeched as Life": [
+      {
+        "loc": "P",
+        "title": "Delve",
+        "key": "delve"
+      },
+      {
+        "loc": "I",
+        "title": "Synthesis",
+        "key": "synthesis"
+      }
+    ],
+    "#% chance to Impale Enemies on Hit with Attacks": [
+      {
+        "loc": "P",
+        "title": "Delve",
+        "key": "delve"
+      }
+    ],
+    "#% increased Life Reservation Efficiency of Skills": [
+      {
+        "loc": "P",
+        "title": "Delve",
+        "key": "delve"
+      }
+    ],
+    "#% increased maximum Mana": [
+      {
+        "loc": "P",
+        "title": "Delve",
+        "key": "delve"
+      },
+      {
+        "loc": "I",
+        "title": "Synthesis",
+        "key": "synthesis"
+      }
+    ],
+    "#% of Physical Damage Converted to Cold Damage": [
+      {
+        "loc": "P",
+        "title": "Delve",
+        "key": "delve"
+      }
+    ],
+    "#% of Physical Damage Converted to Fire Damage": [
+      {
+        "loc": "P",
+        "title": "Delve",
+        "key": "delve"
+      }
+    ],
+    "#% of Physical Damage Converted to Lightning Damage": [
+      {
+        "loc": "P",
+        "title": "Delve",
+        "key": "delve"
+      }
+    ],
+    "#% increased Life Recovery from Flasks": [
+      {
+        "loc": "S",
+        "title": "Delve",
+        "key": "delve"
+      },
+      {
+        "loc": "I",
+        "title": "Synthesis",
+        "key": "synthesis"
+      }
+    ],
+    "#% increased Energy Shield from Equipped Body Armour": [
+      {
+        "loc": "S",
+        "title": "Delve",
+        "key": "delve"
+      }
+    ],
+    "#% chance to Defend with #% of Armour": [
+      {
+        "loc": "S",
+        "title": "Delve",
+        "key": "delve"
+      }
+    ],
+    "#% chance to Evade Attack Hits": [
+      {
+        "loc": "S",
+        "title": "Delve",
+        "key": "delve"
+      }
+    ],
+    "#% increased Damage with Ailments": [
+      {
+        "loc": "S",
+        "title": "Delve",
+        "key": "delve"
+      },
+      {
+        "loc": "I",
+        "title": "Synthesis",
+        "key": "synthesis"
+      }
+    ],
+    "#% increased Elemental Damage": [
+      {
+        "loc": "S",
+        "title": "Delve",
+        "key": "delve"
+      },
+      {
+        "loc": "I",
+        "title": "Synthesis",
+        "key": "synthesis"
+      }
+    ],
+    "Cannot be Shocked or Ignited while moving": [
+      {
+        "loc": "S",
+        "title": "Delve",
+        "key": "delve"
+      }
+    ],
+    "#% increased Damage with Vaal Skills": [
+      {
+        "loc": "S",
+        "title": "Delve",
+        "key": "delve"
+      },
+      {
+        "loc": "I",
+        "title": "Synthesis",
+        "key": "synthesis"
+      }
+    ],
+    "#% increased Area of Effect of Hex Skills": [
+      {
+        "loc": "S",
+        "title": "Delve",
+        "key": "delve"
+      }
+    ],
+    "Curse Enemies with Conductivity on Hit": [
+      {
+        "loc": "S",
+        "title": "Delve",
+        "key": "delve"
+      },
+      {
+        "loc": "S",
+        "title": "Crusader",
+        "key": "crusader"
+      },
+      {
+        "loc": "I",
+        "title": "Synthesis",
+        "key": "synthesis"
+      }
+    ],
+    "Curse Enemies with Despair on Hit": [
+      {
+        "loc": "S",
+        "title": "Delve",
+        "key": "delve"
+      },
+      {
+        "loc": "S",
+        "title": "Hunter",
+        "key": "hunter"
+      }
+    ],
+    "Curse Enemies with Flammability on Hit": [
+      {
+        "loc": "S",
+        "title": "Delve",
+        "key": "delve"
+      },
+      {
+        "loc": "S",
+        "title": "Warlord",
+        "key": "warlord"
+      },
+      {
+        "loc": "I",
+        "title": "Synthesis",
+        "key": "synthesis"
+      }
+    ],
+    "Curse Enemies with Frostbite on Hit": [
+      {
+        "loc": "S",
+        "title": "Delve",
+        "key": "delve"
+      },
+      {
+        "loc": "S",
+        "title": "Redeemer",
+        "key": "redeemer"
+      },
+      {
+        "loc": "I",
+        "title": "Synthesis",
+        "key": "synthesis"
+      }
+    ],
+    "Curse Enemies with Vulnerability on Hit": [
+      {
+        "loc": "S",
+        "title": "Delve",
+        "key": "delve"
+      },
+      {
+        "loc": "S",
+        "title": "Warlord",
+        "key": "warlord"
+      },
+      {
+        "loc": "I",
+        "title": "Synthesis",
+        "key": "synthesis"
+      }
+    ],
+    "Minions deal #% increased Damage": [
+      {
+        "loc": "S",
+        "title": "Delve",
+        "key": "delve"
+      },
+      {
+        "loc": "P",
+        "title": "Redeemer",
+        "key": "redeemer"
+      }
+    ],
+    "#% increased maximum Energy Shield": [
+      {
+        "loc": "P",
+        "title": "Incursion",
+        "key": "incursion"
+      },
+      {
+        "loc": "P",
+        "title": "Crusader",
+        "key": "crusader"
+      },
+      {
+        "loc": "I",
+        "title": "Synthesis",
+        "key": "synthesis"
+      }
+    ],
+    "Regenerate #% of Energy Shield per second": [
+      {
+        "loc": "P",
+        "title": "Incursion",
+        "key": "incursion"
+      }
+    ],
+    "#% increased maximum Life": [
+      {
+        "loc": "P",
+        "title": "Incursion",
+        "key": "incursion"
+      },
+      {
+        "loc": "I",
+        "title": "Synthesis",
+        "key": "synthesis"
+      }
+    ],
+    "Non-Channelling Skills have # to Total Mana Cost": [
+      {
+        "loc": "P",
+        "title": "Incursion",
+        "key": "incursion"
+      },
+      {
+        "loc": "P",
+        "title": "Crafting Bench",
+        "key": "master"
+      }
+    ],
+    "Gain # Mana per Enemy Hit with Attacks": [
+      {
+        "loc": "P",
+        "title": "Incursion",
+        "key": "incursion"
+      },
+      {
+        "loc": "P",
+        "title": "Elder",
+        "key": "elder"
+      },
+      {
+        "loc": "I",
+        "title": "Corrupted",
+        "key": "corrupted"
+      }
+    ],
+    "# to Total Mana Cost of Skills": [
+      {
+        "loc": "P",
+        "title": "Incursion",
+        "key": "incursion"
+      }
+    ],
+    "Regenerate #% of Life per second": [
+      {
+        "loc": "S",
+        "title": "Incursion",
+        "key": "incursion"
+      }
+    ],
+    "Adds # to # Chaos Damage to Attacks": [
+      {
+        "loc": "P",
+        "title": "Crafting Bench",
+        "key": "master"
+      }
+    ],
+    "#% increased Damage": [
+      {
+        "loc": "P",
+        "title": "Crafting Bench",
+        "key": "master"
+      },
+      {
+        "loc": "I",
+        "title": "Synthesis",
+        "key": "synthesis"
+      }
+    ],
+    "Channelling Skills have -# to Total Mana Cost": [
+      {
+        "loc": "P",
+        "title": "Crafting Bench",
+        "key": "master"
+      }
+    ],
+    "Non-Channelling Skills have -# to Total Mana Cost": [
+      {
+        "loc": "P",
+        "title": "Crafting Bench",
+        "key": "master"
+      }
+    ],
+    "Suffixes Cannot Be Changed": [
+      {
+        "loc": "P",
+        "title": "Crafting Bench",
+        "key": "master"
+      }
+    ],
+    "#% to Fire and Cold Resistances": [
+      {
+        "loc": "S",
+        "title": "Crafting Bench",
+        "key": "master"
+      }
+    ],
+    "#% to Cold and Lightning Resistances": [
+      {
+        "loc": "S",
+        "title": "Crafting Bench",
+        "key": "master"
+      }
+    ],
+    "#% to Fire and Lightning Resistances": [
+      {
+        "loc": "S",
+        "title": "Crafting Bench",
+        "key": "master"
+      }
+    ],
+    "Minions have #% to all Elemental Resistances": [
+      {
+        "loc": "S",
+        "title": "Crafting Bench",
+        "key": "master"
+      }
+    ],
+    "Light Radius is based on Energy Shield instead of Life": [
+      {
+        "loc": "S",
+        "title": "Crafting Bench",
+        "key": "master"
+      }
+    ],
+    "Minions have #% increased maximum Life": [
+      {
+        "loc": "S",
+        "title": "Crafting Bench",
+        "key": "master"
+      }
+    ],
+    "Warcries cannot Exert Travel Skills": [
+      {
+        "loc": "S",
+        "title": "Crafting Bench",
+        "key": "master"
+      }
+    ],
+    "#% reduced Ignite Duration on you": [
+      {
+        "loc": "S",
+        "title": "Crafting Bench",
+        "key": "master"
+      }
+    ],
+    "#% reduced Effect of Chill on you": [
+      {
+        "loc": "S",
+        "title": "Crafting Bench",
+        "key": "master"
+      }
+    ],
+    "#% reduced Effect of Shock on you": [
+      {
+        "loc": "S",
+        "title": "Crafting Bench",
+        "key": "master"
+      }
+    ],
+    "#% reduced Effect of Curses on you": [
+      {
+        "loc": "S",
+        "title": "Crafting Bench",
+        "key": "master"
+      },
+      {
+        "loc": "S",
+        "title": "Shaper",
+        "key": "shaper"
+      },
+      {
+        "loc": "S",
+        "title": "Crusader",
+        "key": "crusader"
+      }
+    ],
+    "#% to Critical Strike Multiplier if you've Shattered an Enemy Recently": [
+      {
+        "loc": "S",
+        "title": "Crafting Bench",
+        "key": "master"
+      }
+    ],
+    "#% increased Global Physical Damage": [
+      {
+        "loc": "S",
+        "title": "Crafting Bench",
+        "key": "master"
+      },
+      {
+        "loc": "I",
+        "title": "Synthesis",
+        "key": "synthesis"
+      },
+      {
+        "loc": "I",
+        "title": "Corrupted",
+        "key": "corrupted"
+      }
+    ],
+    "Prefixes Cannot Be Changed": [
+      {
+        "loc": "S",
+        "title": "Crafting Bench",
+        "key": "master"
+      }
+    ],
+    "Can have up to # Crafted Modifiers": [
+      {
+        "loc": "S",
+        "title": "Crafting Bench",
+        "key": "master"
+      }
+    ],
+    "Cannot roll Attack Modifiers": [
+      {
+        "loc": "S",
+        "title": "Crafting Bench",
+        "key": "master"
+      }
+    ],
+    "Cannot roll Caster Modifiers": [
+      {
+        "loc": "S",
+        "title": "Crafting Bench",
+        "key": "master"
+      }
+    ],
+    "#% of Physical Hit Damage from you and your Minions cannot be Reflected": [
+      {
+        "loc": "P",
+        "title": "Elder",
+        "key": "elder"
+      },
+      {
+        "loc": "P",
+        "title": "Hunter",
+        "key": "hunter"
+      }
+    ],
+    "Adds # to # Fire Damage against Ignited Enemies": [
+      {
+        "loc": "P",
+        "title": "Elder",
+        "key": "elder"
+      },
+      {
+        "loc": "P",
+        "title": "Warlord",
+        "key": "warlord"
+      }
+    ],
+    "Grants Level # Herald of Ash Skill": [
+      {
+        "loc": "S",
+        "title": "Elder",
+        "key": "elder"
+      }
+    ],
+    "#% of Elemental Hit Damage from you and your Minions cannot be Reflected": [
+      {
+        "loc": "P",
+        "title": "Shaper",
+        "key": "shaper"
+      },
+      {
+        "loc": "P",
+        "title": "Hunter",
+        "key": "hunter"
+      }
+    ],
+    "#% increased Experience gain": [
+      {
+        "loc": "P",
+        "title": "Shaper",
+        "key": "shaper"
+      },
+      {
+        "loc": "P",
+        "title": "Hunter",
+        "key": "hunter"
+      },
+      {
+        "loc": "I",
+        "title": "Synthesis",
+        "key": "synthesis"
+      }
+    ],
+    "Gain # Life per Enemy Hit with Spells": [
+      {
+        "loc": "P",
+        "title": "Shaper",
+        "key": "shaper"
+      },
+      {
+        "loc": "P",
+        "title": "Crusader",
+        "key": "crusader"
+      }
+    ],
+    "Gain # Mana per Enemy Hit with Spells": [
+      {
+        "loc": "P",
+        "title": "Shaper",
+        "key": "shaper"
+      }
+    ],
+    "Adds # to # Cold Damage against Chilled or Frozen Enemies": [
+      {
+        "loc": "P",
+        "title": "Shaper",
+        "key": "shaper"
+      },
+      {
+        "loc": "P",
+        "title": "Redeemer",
+        "key": "redeemer"
+      }
+    ],
+    "Adds # to # Lightning Damage against Shocked Enemies": [
+      {
+        "loc": "P",
+        "title": "Shaper",
+        "key": "shaper"
+      },
+      {
+        "loc": "P",
+        "title": "Crusader",
+        "key": "crusader"
+      }
+    ],
+    "Grants Level # Herald of Ice Skill": [
+      {
+        "loc": "S",
+        "title": "Shaper",
+        "key": "shaper"
+      }
+    ],
+    "Grants Level # Herald of Thunder Skill": [
+      {
+        "loc": "S",
+        "title": "Shaper",
+        "key": "shaper"
+      }
+    ],
+    "# to # Lightning Damage per Power Charge": [
+      {
+        "loc": "P",
+        "title": "Crusader",
+        "key": "crusader"
+      }
+    ],
+    "#% increased Spell Damage": [
+      {
+        "loc": "P",
+        "title": "Crusader",
+        "key": "crusader"
+      }
+    ],
+    "#% increased total Recovery per second from Life Leech": [
+      {
+        "loc": "S",
+        "title": "Crusader",
+        "key": "crusader"
+      }
+    ],
+    "#% increased Evasion Rating": [
+      {
+        "loc": "P",
+        "title": "Redeemer",
+        "key": "redeemer"
+      },
+      {
+        "loc": "I",
+        "title": "Synthesis",
+        "key": "synthesis"
+      }
+    ],
+    "#% increased Projectile Attack Damage": [
+      {
+        "loc": "P",
+        "title": "Redeemer",
+        "key": "redeemer"
+      }
+    ],
+    "#% increased Effect of Non-Damaging Ailments": [
+      {
+        "loc": "S",
+        "title": "Redeemer",
+        "key": "redeemer"
+      }
+    ],
+    "#% increased Attack Speed if you've been Hit Recently": [
+      {
+        "loc": "S",
+        "title": "Redeemer",
+        "key": "redeemer"
+      }
+    ],
+    "Exerted Attacks deal #% increased Damage": [
+      {
+        "loc": "P",
+        "title": "Hunter",
+        "key": "hunter"
+      }
+    ],
+    "Curse Enemies with Elemental Weakness on Hit": [
+      {
+        "loc": "S",
+        "title": "Hunter",
+        "key": "hunter"
+      },
+      {
+        "loc": "I",
+        "title": "Synthesis",
+        "key": "synthesis"
+      }
+    ],
+    "#% increased Poison Duration": [
+      {
+        "loc": "S",
+        "title": "Hunter",
+        "key": "hunter"
+      },
+      {
+        "loc": "I",
+        "title": "Synthesis",
+        "key": "synthesis"
+      }
+    ],
+    "#% increased Damage with Poison": [
+      {
+        "loc": "S",
+        "title": "Hunter",
+        "key": "hunter"
+      },
+      {
+        "loc": "I",
+        "title": "Synthesis",
+        "key": "synthesis"
+      }
+    ],
+    "#% increased Area of Effect": [
+      {
+        "loc": "P",
+        "title": "Warlord",
+        "key": "warlord"
+      }
+    ],
+    "#% increased Armour": [
+      {
+        "loc": "P",
+        "title": "Warlord",
+        "key": "warlord"
+      },
+      {
+        "loc": "I",
+        "title": "Synthesis",
+        "key": "synthesis"
+      }
+    ],
+    "# to # Fire Damage per Endurance Charge": [
+      {
+        "loc": "P",
+        "title": "Warlord",
+        "key": "warlord"
+      }
+    ],
+    "#% increased Melee Damage": [
+      {
+        "loc": "P",
+        "title": "Warlord",
+        "key": "warlord"
+      }
+    ],
+    "#% increased Damage with Bleeding": [
+      {
+        "loc": "S",
+        "title": "Warlord",
+        "key": "warlord"
+      }
+    ],
+    "#% increased Bleeding Duration": [
+      {
+        "loc": "S",
+        "title": "Warlord",
+        "key": "warlord"
+      }
+    ],
+    "Grants Level # Aspect of the Avian Skill": [
+      {
+        "loc": "S",
+        "title": "Bestiary",
+        "key": "bestiary"
+      }
+    ],
+    "Grants Level # Aspect of the Cat Skill": [
+      {
+        "loc": "S",
+        "title": "Bestiary",
+        "key": "bestiary"
+      }
+    ],
+    "Grants Level # Aspect of the Crab Skill": [
+      {
+        "loc": "S",
+        "title": "Bestiary",
+        "key": "bestiary"
+      }
+    ],
+    "Grants Level # Aspect of the Spider Skill": [
+      {
+        "loc": "S",
+        "title": "Bestiary",
+        "key": "bestiary"
+      }
+    ],
+    "Recover #% of Life on Kill": [
+      {
+        "loc": "I",
+        "title": "Synthesis",
+        "key": "synthesis"
+      }
+    ],
+    "Recover #% of Mana on Kill": [
+      {
+        "loc": "I",
+        "title": "Synthesis",
+        "key": "synthesis"
+      }
+    ],
+    "-# to Total Mana Cost of Skills": [
+      {
+        "loc": "I",
+        "title": "Synthesis",
+        "key": "synthesis"
+      }
+    ],
+    "# Fire Damage taken from Hits": [
+      {
+        "loc": "I",
+        "title": "Synthesis",
+        "key": "synthesis"
+      }
+    ],
+    "# Cold Damage taken from Hits": [
+      {
+        "loc": "I",
+        "title": "Synthesis",
+        "key": "synthesis"
+      }
+    ],
+    "# Lightning Damage taken from Hits": [
+      {
+        "loc": "I",
+        "title": "Synthesis",
+        "key": "synthesis"
+      }
+    ],
+    "# Chaos Damage taken": [
+      {
+        "loc": "I",
+        "title": "Synthesis",
+        "key": "synthesis"
+      }
+    ],
+    "Ignites you inflict deal Damage #% faster": [
+      {
+        "loc": "I",
+        "title": "Synthesis",
+        "key": "synthesis"
+      }
+    ],
+    "#% chance to Avoid being Ignited": [
+      {
+        "loc": "I",
+        "title": "Synthesis",
+        "key": "synthesis"
+      }
+    ],
+    "#% increased Effect of Cold Ailments": [
+      {
+        "loc": "I",
+        "title": "Synthesis",
+        "key": "synthesis"
+      }
+    ],
+    "#% increased Shock Duration on Enemies": [
+      {
+        "loc": "I",
+        "title": "Synthesis",
+        "key": "synthesis"
+      }
+    ],
+    "#% chance to Avoid being Shocked": [
+      {
+        "loc": "I",
+        "title": "Synthesis",
+        "key": "synthesis"
+      }
+    ],
+    "#% increased Effect of Shock": [
+      {
+        "loc": "I",
+        "title": "Synthesis",
+        "key": "synthesis"
+      }
+    ],
+    "Poisons you inflict deal Damage #% faster": [
+      {
+        "loc": "I",
+        "title": "Synthesis",
+        "key": "synthesis"
+      }
+    ],
+    "Bleeding you inflict deals Damage #% faster": [
+      {
+        "loc": "I",
+        "title": "Synthesis",
+        "key": "synthesis"
+      }
+    ],
+    "Adds # to # Chaos Damage": [
+      {
+        "loc": "I",
+        "title": "Synthesis",
+        "key": "synthesis"
+      }
+    ],
+    "#% of Elemental Damage Leeched as Life": [
+      {
+        "loc": "I",
+        "title": "Synthesis",
+        "key": "synthesis"
+      }
+    ],
+    "#% increased Strength": [
+      {
+        "loc": "I",
+        "title": "Synthesis",
+        "key": "synthesis"
+      },
+      {
+        "loc": "I",
+        "title": "Corrupted",
+        "key": "corrupted"
+      }
+    ],
+    "#% increased Dexterity": [
+      {
+        "loc": "I",
+        "title": "Synthesis",
+        "key": "synthesis"
+      },
+      {
+        "loc": "I",
+        "title": "Corrupted",
+        "key": "corrupted"
+      }
+    ],
+    "#% increased Intelligence": [
+      {
+        "loc": "I",
+        "title": "Synthesis",
+        "key": "synthesis"
+      },
+      {
+        "loc": "I",
+        "title": "Corrupted",
+        "key": "corrupted"
+      }
+    ],
+    "#% chance to Avoid Elemental Ailments": [
+      {
+        "loc": "I",
+        "title": "Synthesis",
+        "key": "synthesis"
+      }
+    ],
+    "#% increased Energy Shield Recharge Rate": [
+      {
+        "loc": "I",
+        "title": "Synthesis",
+        "key": "synthesis"
+      }
+    ],
+    "#% faster start of Energy Shield Recharge": [
+      {
+        "loc": "I",
+        "title": "Synthesis",
+        "key": "synthesis"
+      }
+    ],
+    "Determination has #% increased Aura Effect": [
+      {
+        "loc": "I",
+        "title": "Synthesis",
+        "key": "synthesis"
+      },
+      {
+        "loc": "I",
+        "title": "Corrupted",
+        "key": "corrupted"
+      }
+    ],
+    "Grace has #% increased Aura Effect": [
+      {
+        "loc": "I",
+        "title": "Synthesis",
+        "key": "synthesis"
+      },
+      {
+        "loc": "I",
+        "title": "Corrupted",
+        "key": "corrupted"
+      }
+    ],
+    "Discipline has #% increased Aura Effect": [
+      {
+        "loc": "I",
+        "title": "Synthesis",
+        "key": "synthesis"
+      },
+      {
+        "loc": "I",
+        "title": "Corrupted",
+        "key": "corrupted"
+      }
+    ],
+    "Grants Level # Purity of Fire Skill": [
+      {
+        "loc": "I",
+        "title": "Synthesis",
+        "key": "synthesis"
+      }
+    ],
+    "Grants Level # Purity of Ice Skill": [
+      {
+        "loc": "I",
+        "title": "Synthesis",
+        "key": "synthesis"
+      }
+    ],
+    "Grants Level # Purity of Lightning Skill": [
+      {
+        "loc": "I",
+        "title": "Synthesis",
+        "key": "synthesis"
+      }
+    ],
+    "Grants Level # Anger Skill": [
+      {
+        "loc": "I",
+        "title": "Synthesis",
+        "key": "synthesis"
+      },
+      {
+        "loc": "I",
+        "title": "Corrupted",
+        "key": "corrupted"
+      }
+    ],
+    "Grants Level # Hatred Skill": [
+      {
+        "loc": "I",
+        "title": "Synthesis",
+        "key": "synthesis"
+      },
+      {
+        "loc": "I",
+        "title": "Corrupted",
+        "key": "corrupted"
+      }
+    ],
+    "Grants Level # Wrath Skill": [
+      {
+        "loc": "I",
+        "title": "Synthesis",
+        "key": "synthesis"
+      },
+      {
+        "loc": "I",
+        "title": "Corrupted",
+        "key": "corrupted"
+      }
+    ],
+    "Has # Socket": [
+      {
+        "loc": "I",
+        "title": "Synthesis",
+        "key": "synthesis"
+      }
+    ],
+    "#% increased Damage while Leeching Life": [
+      {
+        "loc": "I",
+        "title": "Synthesis",
+        "key": "synthesis"
+      }
+    ],
+    "#% increased Damage while Leeching Mana": [
+      {
+        "loc": "I",
+        "title": "Synthesis",
+        "key": "synthesis"
+      }
+    ],
+    "#% increased Endurance Charge Duration": [
+      {
+        "loc": "I",
+        "title": "Synthesis",
+        "key": "synthesis"
+      }
+    ],
+    "# to Maximum Endurance Charges": [
+      {
+        "loc": "I",
+        "title": "Synthesis",
+        "key": "synthesis"
+      }
+    ],
+    "Regenerate #% of Life per second per Endurance Charge": [
+      {
+        "loc": "I",
+        "title": "Synthesis",
+        "key": "synthesis"
+      }
+    ],
+    "#% increased Frenzy Charge Duration": [
+      {
+        "loc": "I",
+        "title": "Synthesis",
+        "key": "synthesis"
+      }
+    ],
+    "# to Maximum Frenzy Charges": [
+      {
+        "loc": "I",
+        "title": "Synthesis",
+        "key": "synthesis"
+      }
+    ],
+    "#% increased Evasion Rating per Frenzy Charge": [
+      {
+        "loc": "I",
+        "title": "Synthesis",
+        "key": "synthesis"
+      }
+    ],
+    "#% increased Power Charge Duration": [
+      {
+        "loc": "I",
+        "title": "Synthesis",
+        "key": "synthesis"
+      }
+    ],
+    "# to Maximum Power Charges": [
+      {
+        "loc": "I",
+        "title": "Synthesis",
+        "key": "synthesis"
+      }
+    ],
+    "#% increased Spell Damage per Power Charge": [
+      {
+        "loc": "I",
+        "title": "Synthesis",
+        "key": "synthesis"
+      }
+    ],
+    "#% increased Movement Speed": [
+      {
+        "loc": "I",
+        "title": "Synthesis",
+        "key": "synthesis"
+      }
+    ],
+    "Intimidate Enemies for # seconds on Hit with Attacks": [
+      {
+        "loc": "I",
+        "title": "Synthesis",
+        "key": "synthesis"
+      }
+    ],
+    "You gain Onslaught for # seconds on Hit": [
+      {
+        "loc": "I",
+        "title": "Synthesis",
+        "key": "synthesis"
+      }
+    ],
+    "Gain Arcane Surge on Hit with Spells": [
+      {
+        "loc": "I",
+        "title": "Synthesis",
+        "key": "synthesis"
+      }
+    ],
+    "You and your Minions take #% reduced Reflected Damage": [
+      {
+        "loc": "I",
+        "title": "Synthesis",
+        "key": "synthesis"
+      }
+    ],
+    "#% increased Damage if Corrupted": [
+      {
+        "loc": "I",
+        "title": "Synthesis",
+        "key": "synthesis"
+      }
+    ],
+    "Adds # to # Cold Damage to Spells and Attacks": [
+      {
+        "loc": "I",
+        "title": "Corrupted",
+        "key": "corrupted"
+      }
+    ],
+    "Adds # to # Fire Damage to Spells and Attacks": [
+      {
+        "loc": "I",
+        "title": "Corrupted",
+        "key": "corrupted"
+      }
+    ],
+    "Adds # to # Lightning Damage to Spells and Attacks": [
+      {
+        "loc": "I",
+        "title": "Corrupted",
+        "key": "corrupted"
+      }
+    ],
+    "Bleeding cannot be inflicted on you": [
+      {
+        "loc": "I",
+        "title": "Corrupted",
+        "key": "corrupted"
+      }
+    ],
+    "Cannot be Ignited": [
+      {
+        "loc": "I",
+        "title": "Corrupted",
+        "key": "corrupted"
+      }
+    ],
+    "Cannot be Poisoned": [
+      {
+        "loc": "I",
+        "title": "Corrupted",
+        "key": "corrupted"
+      }
+    ],
+    "Grants Level # Conductivity Skill": [
+      {
+        "loc": "I",
+        "title": "Corrupted",
+        "key": "corrupted"
+      }
+    ],
+    "Grants Level # Despair Skill": [
+      {
+        "loc": "I",
+        "title": "Corrupted",
+        "key": "corrupted"
+      }
+    ],
+    "Grants Level # Flammability Skill": [
+      {
+        "loc": "I",
+        "title": "Corrupted",
+        "key": "corrupted"
+      }
+    ],
+    "Grants Level # Frostbite Skill": [
+      {
+        "loc": "I",
+        "title": "Corrupted",
+        "key": "corrupted"
+      }
+    ],
+    "Grants Level # Zealotry Skill": [
+      {
+        "loc": "I",
+        "title": "Corrupted",
+        "key": "corrupted"
+      }
+    ],
+    "Grants Level # Pride Skill": [
+      {
+        "loc": "I",
+        "title": "Corrupted",
+        "key": "corrupted"
+      }
+    ],
+    "Wrath has #% increased Aura Effect": [
+      {
+        "loc": "I",
+        "title": "Corrupted",
+        "key": "corrupted"
+      }
+    ],
+    "Anger has #% increased Aura Effect": [
+      {
+        "loc": "I",
+        "title": "Corrupted",
+        "key": "corrupted"
+      }
+    ],
+    "Hatred has #% increased Aura Effect": [
+      {
+        "loc": "I",
+        "title": "Corrupted",
+        "key": "corrupted"
+      }
+    ],
+    "Malevolence has #% increased Aura Effect": [
+      {
+        "loc": "I",
+        "title": "Corrupted",
+        "key": "corrupted"
+      }
+    ],
+    "Zealotry has #% increased Aura Effect": [
+      {
+        "loc": "I",
+        "title": "Corrupted",
+        "key": "corrupted"
+      }
+    ],
+    "Pride has #% increased Aura Effect": [
+      {
+        "loc": "I",
+        "title": "Corrupted",
+        "key": "corrupted"
+      }
+    ]
+  }
+}

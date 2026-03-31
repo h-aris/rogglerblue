@@ -1,0 +1,3371 @@
+{
+  "modIndex": {
+    "# to maximum Life": [
+      {
+        "loc": "P",
+        "title": "Base",
+        "key": "normal"
+      },
+      {
+        "loc": "P",
+        "title": "Essence",
+        "key": "essence"
+      },
+      {
+        "loc": "P",
+        "title": "Veiled",
+        "key": "veiled"
+      },
+      {
+        "loc": "P",
+        "title": "Crafting Bench",
+        "key": "master"
+      },
+      {
+        "loc": "I",
+        "title": "Synthesis",
+        "key": "synthesis"
+      }
+    ],
+    "# to maximum Mana": [
+      {
+        "loc": "P",
+        "title": "Base",
+        "key": "normal"
+      },
+      {
+        "loc": "P",
+        "title": "Essence",
+        "key": "essence"
+      },
+      {
+        "loc": "P",
+        "title": "Veiled",
+        "key": "veiled"
+      },
+      {
+        "loc": "P",
+        "title": "Incursion",
+        "key": "incursion"
+      },
+      {
+        "loc": "P",
+        "title": "Crafting Bench",
+        "key": "master"
+      },
+      {
+        "loc": "I",
+        "title": "Synthesis",
+        "key": "synthesis"
+      }
+    ],
+    "# to maximum Energy Shield": [
+      {
+        "loc": "P",
+        "title": "Base",
+        "key": "normal"
+      },
+      {
+        "loc": "P",
+        "title": "Essence",
+        "key": "essence"
+      },
+      {
+        "loc": "P",
+        "title": "Crafting Bench",
+        "key": "master"
+      },
+      {
+        "loc": "I",
+        "title": "Synthesis",
+        "key": "synthesis"
+      }
+    ],
+    "#% increased Energy Shield": [
+      {
+        "loc": "P",
+        "title": "Base",
+        "key": "normal"
+      },
+      {
+        "loc": "P",
+        "title": "Veiled",
+        "key": "veiled"
+      },
+      {
+        "loc": "P",
+        "title": "Crafting Bench",
+        "key": "master"
+      },
+      {
+        "loc": "I",
+        "title": "Synthesis",
+        "key": "synthesis"
+      }
+    ],
+    "#% increased Stun and Block Recovery": [
+      {
+        "loc": "P",
+        "title": "Base",
+        "key": "normal"
+      },
+      {
+        "loc": "S",
+        "title": "Base",
+        "key": "normal"
+      },
+      {
+        "loc": "I",
+        "title": "Synthesis",
+        "key": "synthesis"
+      }
+    ],
+    "#% increased Rarity of Items found": [
+      {
+        "loc": "P",
+        "title": "Base",
+        "key": "normal"
+      },
+      {
+        "loc": "S",
+        "title": "Base",
+        "key": "normal"
+      },
+      {
+        "loc": "I",
+        "title": "Synthesis",
+        "key": "synthesis"
+      }
+    ],
+    "# to Level of all Minion Skill Gems": [
+      {
+        "loc": "P",
+        "title": "Base",
+        "key": "normal"
+      }
+    ],
+    "Reflects # Physical Damage to Melee Attackers": [
+      {
+        "loc": "P",
+        "title": "Base",
+        "key": "normal"
+      },
+      {
+        "loc": "P",
+        "title": "Essence",
+        "key": "essence"
+      },
+      {
+        "loc": "I",
+        "title": "Synthesis",
+        "key": "synthesis"
+      }
+    ],
+    "# to Intelligence": [
+      {
+        "loc": "S",
+        "title": "Base",
+        "key": "normal"
+      },
+      {
+        "loc": "S",
+        "title": "Essence",
+        "key": "essence"
+      },
+      {
+        "loc": "S",
+        "title": "Crafting Bench",
+        "key": "master"
+      },
+      {
+        "loc": "I",
+        "title": "Synthesis",
+        "key": "synthesis"
+      }
+    ],
+    "# to Accuracy Rating": [
+      {
+        "loc": "S",
+        "title": "Base",
+        "key": "normal"
+      },
+      {
+        "loc": "S",
+        "title": "Crafting Bench",
+        "key": "master"
+      },
+      {
+        "loc": "I",
+        "title": "Synthesis",
+        "key": "synthesis"
+      }
+    ],
+    "Regenerate # Life per second": [
+      {
+        "loc": "S",
+        "title": "Base",
+        "key": "normal"
+      },
+      {
+        "loc": "P",
+        "title": "Veiled",
+        "key": "veiled"
+      },
+      {
+        "loc": "P",
+        "title": "Crafting Bench",
+        "key": "master"
+      },
+      {
+        "loc": "I",
+        "title": "Synthesis",
+        "key": "synthesis"
+      }
+    ],
+    "#% to Fire Resistance": [
+      {
+        "loc": "S",
+        "title": "Base",
+        "key": "normal"
+      },
+      {
+        "loc": "S",
+        "title": "Essence",
+        "key": "essence"
+      },
+      {
+        "loc": "S",
+        "title": "Incursion",
+        "key": "incursion"
+      },
+      {
+        "loc": "S",
+        "title": "Crafting Bench",
+        "key": "master"
+      },
+      {
+        "loc": "I",
+        "title": "Synthesis",
+        "key": "synthesis"
+      }
+    ],
+    "#% to Cold Resistance": [
+      {
+        "loc": "S",
+        "title": "Base",
+        "key": "normal"
+      },
+      {
+        "loc": "S",
+        "title": "Essence",
+        "key": "essence"
+      },
+      {
+        "loc": "S",
+        "title": "Incursion",
+        "key": "incursion"
+      },
+      {
+        "loc": "S",
+        "title": "Crafting Bench",
+        "key": "master"
+      },
+      {
+        "loc": "I",
+        "title": "Synthesis",
+        "key": "synthesis"
+      }
+    ],
+    "#% to Lightning Resistance": [
+      {
+        "loc": "S",
+        "title": "Base",
+        "key": "normal"
+      },
+      {
+        "loc": "S",
+        "title": "Essence",
+        "key": "essence"
+      },
+      {
+        "loc": "S",
+        "title": "Incursion",
+        "key": "incursion"
+      },
+      {
+        "loc": "S",
+        "title": "Crafting Bench",
+        "key": "master"
+      },
+      {
+        "loc": "I",
+        "title": "Synthesis",
+        "key": "synthesis"
+      }
+    ],
+    "#% to Chaos Resistance": [
+      {
+        "loc": "S",
+        "title": "Base",
+        "key": "normal"
+      },
+      {
+        "loc": "S",
+        "title": "Essence",
+        "key": "essence"
+      },
+      {
+        "loc": "I",
+        "title": "Synthesis",
+        "key": "synthesis"
+      }
+    ],
+    "#% reduced Attribute Requirements": [
+      {
+        "loc": "S",
+        "title": "Base",
+        "key": "normal"
+      }
+    ],
+    "#% increased Global Accuracy Rating": [
+      {
+        "loc": "S",
+        "title": "Base",
+        "key": "normal"
+      },
+      {
+        "loc": "I",
+        "title": "Synthesis",
+        "key": "synthesis"
+      }
+    ],
+    "#% increased Light Radius": [
+      {
+        "loc": "S",
+        "title": "Base",
+        "key": "normal"
+      },
+      {
+        "loc": "I",
+        "title": "Synthesis",
+        "key": "synthesis"
+      }
+    ],
+    "#% increased Energy Shield Recharge Rate": [
+      {
+        "loc": "S",
+        "title": "Base",
+        "key": "normal"
+      },
+      {
+        "loc": "S",
+        "title": "Crafting Bench",
+        "key": "master"
+      },
+      {
+        "loc": "I",
+        "title": "Eater of Worlds",
+        "key": "eater"
+      }
+    ],
+    "Minions deal #% increased Damage": [
+      {
+        "loc": "P",
+        "title": "Essence",
+        "key": "essence"
+      },
+      {
+        "loc": "P",
+        "title": "Elder",
+        "key": "elder"
+      },
+      {
+        "loc": "I",
+        "title": "Synthesis",
+        "key": "synthesis"
+      }
+    ],
+    "# to Evasion Rating": [
+      {
+        "loc": "P",
+        "title": "Essence",
+        "key": "essence"
+      },
+      {
+        "loc": "P",
+        "title": "Crafting Bench",
+        "key": "master"
+      },
+      {
+        "loc": "I",
+        "title": "Synthesis",
+        "key": "synthesis"
+      }
+    ],
+    "# to Armour": [
+      {
+        "loc": "P",
+        "title": "Essence",
+        "key": "essence"
+      },
+      {
+        "loc": "P",
+        "title": "Crafting Bench",
+        "key": "master"
+      },
+      {
+        "loc": "I",
+        "title": "Synthesis",
+        "key": "synthesis"
+      }
+    ],
+    "# to Level of Socketed Gems while there is a single Gem Socketed in this Item": [
+      {
+        "loc": "P",
+        "title": "Essence",
+        "key": "essence"
+      }
+    ],
+    "# to Dexterity": [
+      {
+        "loc": "S",
+        "title": "Essence",
+        "key": "essence"
+      },
+      {
+        "loc": "S",
+        "title": "Crafting Bench",
+        "key": "master"
+      },
+      {
+        "loc": "I",
+        "title": "Synthesis",
+        "key": "synthesis"
+      }
+    ],
+    "#% chance to Avoid being Shocked": [
+      {
+        "loc": "S",
+        "title": "Essence",
+        "key": "essence"
+      },
+      {
+        "loc": "I",
+        "title": "Synthesis",
+        "key": "synthesis"
+      }
+    ],
+    "#% chance to Avoid being Frozen": [
+      {
+        "loc": "S",
+        "title": "Essence",
+        "key": "essence"
+      },
+      {
+        "loc": "I",
+        "title": "Synthesis",
+        "key": "synthesis"
+      }
+    ],
+    "# to Strength": [
+      {
+        "loc": "S",
+        "title": "Essence",
+        "key": "essence"
+      },
+      {
+        "loc": "S",
+        "title": "Crafting Bench",
+        "key": "master"
+      },
+      {
+        "loc": "I",
+        "title": "Synthesis",
+        "key": "synthesis"
+      }
+    ],
+    "#% chance to Avoid being Ignited": [
+      {
+        "loc": "S",
+        "title": "Essence",
+        "key": "essence"
+      },
+      {
+        "loc": "I",
+        "title": "Synthesis",
+        "key": "synthesis"
+      }
+    ],
+    "#% increased Mana Reservation Efficiency of Skills": [
+      {
+        "loc": "S",
+        "title": "Essence",
+        "key": "essence"
+      },
+      {
+        "loc": "S",
+        "title": "Delve",
+        "key": "delve"
+      },
+      {
+        "loc": "P",
+        "title": "Incursion",
+        "key": "incursion"
+      },
+      {
+        "loc": "I",
+        "title": "Eater of Worlds",
+        "key": "eater"
+      },
+      {
+        "loc": "S",
+        "title": "Redeemer",
+        "key": "redeemer"
+      }
+    ],
+    "#% increased Warcry Speed": [
+      {
+        "loc": "S",
+        "title": "Essence",
+        "key": "essence"
+      }
+    ],
+    "#% chance to Avoid being Stunned": [
+      {
+        "loc": "S",
+        "title": "Essence",
+        "key": "essence"
+      },
+      {
+        "loc": "S",
+        "title": "Crafting Bench",
+        "key": "master"
+      },
+      {
+        "loc": "I",
+        "title": "Synthesis",
+        "key": "synthesis"
+      }
+    ],
+    "Socketed Gems deal #% more Damage while on Low Life": [
+      {
+        "loc": "S",
+        "title": "Essence",
+        "key": "essence"
+      }
+    ],
+    "Socketed Gems gain #% of Physical Damage as extra Lightning Damage": [
+      {
+        "loc": "S",
+        "title": "Essence",
+        "key": "essence"
+      }
+    ],
+    "Socketed Gems deal #% more Elemental Damage": [
+      {
+        "loc": "S",
+        "title": "Essence",
+        "key": "essence"
+      }
+    ],
+    "# to Level of Socketed Aura Gems": [
+      {
+        "loc": "S",
+        "title": "Essence",
+        "key": "essence"
+      },
+      {
+        "loc": "S",
+        "title": "Delve",
+        "key": "delve"
+      },
+      {
+        "loc": "I",
+        "title": "Synthesis",
+        "key": "synthesis"
+      },
+      {
+        "loc": "I",
+        "title": "Corrupted",
+        "key": "corrupted"
+      }
+    ],
+    "Minions have #% increased maximum Life": [
+      {
+        "loc": "P",
+        "title": "Veiled",
+        "key": "veiled"
+      },
+      {
+        "loc": "I",
+        "title": "Searing Exarch",
+        "key": "searing"
+      },
+      {
+        "loc": "P",
+        "title": "Elder",
+        "key": "elder"
+      },
+      {
+        "loc": "S",
+        "title": "Warlord",
+        "key": "warlord"
+      },
+      {
+        "loc": "I",
+        "title": "Synthesis",
+        "key": "synthesis"
+      }
+    ],
+    "# to maximum number of Raised Zombies": [
+      {
+        "loc": "P",
+        "title": "Veiled",
+        "key": "veiled"
+      },
+      {
+        "loc": "P",
+        "title": "Crafting Bench",
+        "key": "master"
+      }
+    ],
+    "# to maximum number of Skeletons": [
+      {
+        "loc": "P",
+        "title": "Veiled",
+        "key": "veiled"
+      },
+      {
+        "loc": "P",
+        "title": "Crafting Bench",
+        "key": "master"
+      }
+    ],
+    "# to Level of Socketed AoE Gems": [
+      {
+        "loc": "P",
+        "title": "Veiled",
+        "key": "veiled"
+      },
+      {
+        "loc": "P",
+        "title": "Crafting Bench",
+        "key": "master"
+      },
+      {
+        "loc": "I",
+        "title": "Corrupted",
+        "key": "corrupted"
+      }
+    ],
+    "#% increased Area of Effect": [
+      {
+        "loc": "P",
+        "title": "Veiled",
+        "key": "veiled"
+      },
+      {
+        "loc": "P",
+        "title": "Crafting Bench",
+        "key": "master"
+      },
+      {
+        "loc": "I",
+        "title": "Searing Exarch",
+        "key": "searing"
+      },
+      {
+        "loc": "P",
+        "title": "Shaper",
+        "key": "shaper"
+      }
+    ],
+    "# to Level of Socketed Projectile Gems": [
+      {
+        "loc": "P",
+        "title": "Veiled",
+        "key": "veiled"
+      },
+      {
+        "loc": "P",
+        "title": "Crafting Bench",
+        "key": "master"
+      },
+      {
+        "loc": "I",
+        "title": "Corrupted",
+        "key": "corrupted"
+      }
+    ],
+    "Projectiles Pierce an additional Target": [
+      {
+        "loc": "P",
+        "title": "Veiled",
+        "key": "veiled"
+      },
+      {
+        "loc": "P",
+        "title": "Crafting Bench",
+        "key": "master"
+      }
+    ],
+    "# to Level of Socketed Melee Gems": [
+      {
+        "loc": "P",
+        "title": "Veiled",
+        "key": "veiled"
+      },
+      {
+        "loc": "P",
+        "title": "Crafting Bench",
+        "key": "master"
+      }
+    ],
+    "# metres to Melee Strike Range": [
+      {
+        "loc": "P",
+        "title": "Veiled",
+        "key": "veiled"
+      },
+      {
+        "loc": "P",
+        "title": "Crafting Bench",
+        "key": "master"
+      }
+    ],
+    "Regenerate # Mana per second": [
+      {
+        "loc": "P",
+        "title": "Veiled",
+        "key": "veiled"
+      },
+      {
+        "loc": "P",
+        "title": "Crafting Bench",
+        "key": "master"
+      },
+      {
+        "loc": "S",
+        "title": "Shaper",
+        "key": "shaper"
+      },
+      {
+        "loc": "S",
+        "title": "Redeemer",
+        "key": "redeemer"
+      }
+    ],
+    "#% increased Evasion Rating while Focused": [
+      {
+        "loc": "P",
+        "title": "Veiled",
+        "key": "veiled"
+      },
+      {
+        "loc": "P",
+        "title": "Crafting Bench",
+        "key": "master"
+      }
+    ],
+    "grant focus skill [#]": [
+      {
+        "loc": "P",
+        "title": "Veiled",
+        "key": "veiled"
+      },
+      {
+        "loc": "S",
+        "title": "Veiled",
+        "key": "veiled"
+      },
+      {
+        "loc": "P",
+        "title": "Crafting Bench",
+        "key": "master"
+      },
+      {
+        "loc": "S",
+        "title": "Crafting Bench",
+        "key": "master"
+      }
+    ],
+    "#% additional Physical Damage Reduction while Focused": [
+      {
+        "loc": "P",
+        "title": "Veiled",
+        "key": "veiled"
+      },
+      {
+        "loc": "P",
+        "title": "Crafting Bench",
+        "key": "master"
+      }
+    ],
+    "# to Strength and Dexterity": [
+      {
+        "loc": "S",
+        "title": "Veiled",
+        "key": "veiled"
+      },
+      {
+        "loc": "S",
+        "title": "Crafting Bench",
+        "key": "master"
+      }
+    ],
+    "# to Dexterity and Intelligence": [
+      {
+        "loc": "S",
+        "title": "Veiled",
+        "key": "veiled"
+      },
+      {
+        "loc": "S",
+        "title": "Crafting Bench",
+        "key": "master"
+      }
+    ],
+    "# to Strength and Intelligence": [
+      {
+        "loc": "S",
+        "title": "Veiled",
+        "key": "veiled"
+      },
+      {
+        "loc": "S",
+        "title": "Crafting Bench",
+        "key": "master"
+      }
+    ],
+    "#% chance to Avoid Elemental Damage from Hits during Soul Gain Prevention": [
+      {
+        "loc": "S",
+        "title": "Veiled",
+        "key": "veiled"
+      },
+      {
+        "loc": "S",
+        "title": "Crafting Bench",
+        "key": "master"
+      }
+    ],
+    "#% increased Mine Throwing Speed": [
+      {
+        "loc": "S",
+        "title": "Veiled",
+        "key": "veiled"
+      },
+      {
+        "loc": "S",
+        "title": "Crafting Bench",
+        "key": "master"
+      },
+      {
+        "loc": "I",
+        "title": "Synthesis",
+        "key": "synthesis"
+      }
+    ],
+    "#% increased Duration of Ailments you inflict while Focused": [
+      {
+        "loc": "S",
+        "title": "Veiled",
+        "key": "veiled"
+      },
+      {
+        "loc": "S",
+        "title": "Crafting Bench",
+        "key": "master"
+      }
+    ],
+    "Trigger Socketed Spells when you Focus, with a # second Cooldown": [
+      {
+        "loc": "S",
+        "title": "Veiled",
+        "key": "veiled"
+      },
+      {
+        "loc": "S",
+        "title": "Crafting Bench",
+        "key": "master"
+      }
+    ],
+    "Focus has #% increased Cooldown Recovery Rate": [
+      {
+        "loc": "S",
+        "title": "Veiled",
+        "key": "veiled"
+      }
+    ],
+    "#% to Fire and Chaos Resistances": [
+      {
+        "loc": "S",
+        "title": "Veiled",
+        "key": "veiled"
+      },
+      {
+        "loc": "S",
+        "title": "Crafting Bench",
+        "key": "master"
+      }
+    ],
+    "#% to Lightning and Chaos Resistances": [
+      {
+        "loc": "S",
+        "title": "Veiled",
+        "key": "veiled"
+      },
+      {
+        "loc": "S",
+        "title": "Crafting Bench",
+        "key": "master"
+      }
+    ],
+    "#% to Cold and Chaos Resistances": [
+      {
+        "loc": "S",
+        "title": "Veiled",
+        "key": "veiled"
+      },
+      {
+        "loc": "S",
+        "title": "Crafting Bench",
+        "key": "master"
+      }
+    ],
+    "#% additional Physical Damage Reduction": [
+      {
+        "loc": "P",
+        "title": "Delve",
+        "key": "delve"
+      },
+      {
+        "loc": "S",
+        "title": "Delve",
+        "key": "delve"
+      }
+    ],
+    "# to Level of Socketed Curse Gems": [
+      {
+        "loc": "P",
+        "title": "Delve",
+        "key": "delve"
+      },
+      {
+        "loc": "I",
+        "title": "Corrupted",
+        "key": "corrupted"
+      }
+    ],
+    "Nearby Enemies have -#% to Fire Resistance": [
+      {
+        "loc": "S",
+        "title": "Delve",
+        "key": "delve"
+      },
+      {
+        "loc": "S",
+        "title": "Warlord",
+        "key": "warlord"
+      }
+    ],
+    "Nearby Enemies have -#% to Cold Resistance": [
+      {
+        "loc": "S",
+        "title": "Delve",
+        "key": "delve"
+      },
+      {
+        "loc": "S",
+        "title": "Redeemer",
+        "key": "redeemer"
+      }
+    ],
+    "Nearby Enemies have -#% to Lightning Resistance": [
+      {
+        "loc": "S",
+        "title": "Delve",
+        "key": "delve"
+      },
+      {
+        "loc": "S",
+        "title": "Crusader",
+        "key": "crusader"
+      }
+    ],
+    "Nearby Enemies take #% increased Physical Damage": [
+      {
+        "loc": "S",
+        "title": "Delve",
+        "key": "delve"
+      },
+      {
+        "loc": "S",
+        "title": "Elder",
+        "key": "elder"
+      }
+    ],
+    "Nearby Enemies have -#% to Chaos Resistance": [
+      {
+        "loc": "S",
+        "title": "Delve",
+        "key": "delve"
+      },
+      {
+        "loc": "S",
+        "title": "Hunter",
+        "key": "hunter"
+      }
+    ],
+    "Regenerate #% of Life per second": [
+      {
+        "loc": "S",
+        "title": "Delve",
+        "key": "delve"
+      },
+      {
+        "loc": "I",
+        "title": "Corrupted",
+        "key": "corrupted"
+      }
+    ],
+    "#% Chance to Block Spell Damage": [
+      {
+        "loc": "S",
+        "title": "Delve",
+        "key": "delve"
+      },
+      {
+        "loc": "S",
+        "title": "Elder",
+        "key": "elder"
+      },
+      {
+        "loc": "S",
+        "title": "Crusader",
+        "key": "crusader"
+      },
+      {
+        "loc": "I",
+        "title": "Synthesis",
+        "key": "synthesis"
+      }
+    ],
+    "#% chance to Avoid being Poisoned": [
+      {
+        "loc": "S",
+        "title": "Delve",
+        "key": "delve"
+      },
+      {
+        "loc": "I",
+        "title": "Synthesis",
+        "key": "synthesis"
+      }
+    ],
+    "#% chance to Avoid Bleeding": [
+      {
+        "loc": "S",
+        "title": "Delve",
+        "key": "delve"
+      },
+      {
+        "loc": "I",
+        "title": "Synthesis",
+        "key": "synthesis"
+      }
+    ],
+    "#% reduced Elemental Ailment Duration on you": [
+      {
+        "loc": "S",
+        "title": "Delve",
+        "key": "delve"
+      },
+      {
+        "loc": "I",
+        "title": "Synthesis",
+        "key": "synthesis"
+      }
+    ],
+    "Socketed Spells have #% reduced Mana Cost": [
+      {
+        "loc": "S",
+        "title": "Delve",
+        "key": "delve"
+      }
+    ],
+    "Socketed Attacks have -# to Total Mana Cost": [
+      {
+        "loc": "S",
+        "title": "Delve",
+        "key": "delve"
+      }
+    ],
+    "Regenerate #% of Mana per second": [
+      {
+        "loc": "S",
+        "title": "Delve",
+        "key": "delve"
+      }
+    ],
+    "Ignore all Movement Penalties from Armour": [
+      {
+        "loc": "S",
+        "title": "Delve",
+        "key": "delve"
+      }
+    ],
+    "# to Level of Socketed Strength Gems": [
+      {
+        "loc": "S",
+        "title": "Delve",
+        "key": "delve"
+      },
+      {
+        "loc": "I",
+        "title": "Synthesis",
+        "key": "synthesis"
+      }
+    ],
+    "# to Level of Socketed Dexterity Gems": [
+      {
+        "loc": "S",
+        "title": "Delve",
+        "key": "delve"
+      },
+      {
+        "loc": "I",
+        "title": "Synthesis",
+        "key": "synthesis"
+      }
+    ],
+    "# to Level of Socketed Intelligence Gems": [
+      {
+        "loc": "S",
+        "title": "Delve",
+        "key": "delve"
+      },
+      {
+        "loc": "I",
+        "title": "Synthesis",
+        "key": "synthesis"
+      }
+    ],
+    "Has # Abyssal Socket": [
+      {
+        "loc": "S",
+        "title": "Delve",
+        "key": "delve"
+      }
+    ],
+    "#% chance to gain an additional Vaal Soul on Kill": [
+      {
+        "loc": "S",
+        "title": "Delve",
+        "key": "delve"
+      },
+      {
+        "loc": "I",
+        "title": "Synthesis",
+        "key": "synthesis"
+      }
+    ],
+    "#% increased Global Evasion Rating when on Full Life": [
+      {
+        "loc": "S",
+        "title": "Delve",
+        "key": "delve"
+      }
+    ],
+    "# to maximum Fortification": [
+      {
+        "loc": "S",
+        "title": "Delve",
+        "key": "delve"
+      }
+    ],
+    "#% increased Mana Regeneration Rate": [
+      {
+        "loc": "S",
+        "title": "Delve",
+        "key": "delve"
+      },
+      {
+        "loc": "I",
+        "title": "Eater of Worlds",
+        "key": "eater"
+      },
+      {
+        "loc": "S",
+        "title": "Shaper",
+        "key": "shaper"
+      },
+      {
+        "loc": "S",
+        "title": "Warlord",
+        "key": "warlord"
+      },
+      {
+        "loc": "I",
+        "title": "Synthesis",
+        "key": "synthesis"
+      }
+    ],
+    "#% of Damage taken Recouped as Mana": [
+      {
+        "loc": "S",
+        "title": "Delve",
+        "key": "delve"
+      }
+    ],
+    "#% of Physical Damage from Hits taken as Chaos Damage": [
+      {
+        "loc": "S",
+        "title": "Delve",
+        "key": "delve"
+      },
+      {
+        "loc": "I",
+        "title": "Eater of Worlds",
+        "key": "eater"
+      }
+    ],
+    "#% of Physical Damage from Hits taken as Cold Damage": [
+      {
+        "loc": "S",
+        "title": "Delve",
+        "key": "delve"
+      },
+      {
+        "loc": "S",
+        "title": "Incursion",
+        "key": "incursion"
+      },
+      {
+        "loc": "I",
+        "title": "Eater of Worlds",
+        "key": "eater"
+      },
+      {
+        "loc": "P",
+        "title": "Redeemer",
+        "key": "redeemer"
+      }
+    ],
+    "#% of Physical Damage from Hits taken as Fire Damage": [
+      {
+        "loc": "S",
+        "title": "Delve",
+        "key": "delve"
+      },
+      {
+        "loc": "S",
+        "title": "Incursion",
+        "key": "incursion"
+      },
+      {
+        "loc": "I",
+        "title": "Eater of Worlds",
+        "key": "eater"
+      },
+      {
+        "loc": "P",
+        "title": "Warlord",
+        "key": "warlord"
+      }
+    ],
+    "#% of Physical Damage from Hits taken as Lightning Damage": [
+      {
+        "loc": "S",
+        "title": "Delve",
+        "key": "delve"
+      },
+      {
+        "loc": "S",
+        "title": "Incursion",
+        "key": "incursion"
+      },
+      {
+        "loc": "I",
+        "title": "Eater of Worlds",
+        "key": "eater"
+      },
+      {
+        "loc": "P",
+        "title": "Crusader",
+        "key": "crusader"
+      }
+    ],
+    "Chaos Resistance is Zero": [
+      {
+        "loc": "S",
+        "title": "Delve",
+        "key": "delve"
+      }
+    ],
+    "#% increased maximum Mana": [
+      {
+        "loc": "P",
+        "title": "Incursion",
+        "key": "incursion"
+      },
+      {
+        "loc": "P",
+        "title": "Elder",
+        "key": "elder"
+      },
+      {
+        "loc": "P",
+        "title": "Crusader",
+        "key": "crusader"
+      },
+      {
+        "loc": "I",
+        "title": "Synthesis",
+        "key": "synthesis"
+      }
+    ],
+    "#% increased Armour": [
+      {
+        "loc": "P",
+        "title": "Crafting Bench",
+        "key": "master"
+      },
+      {
+        "loc": "I",
+        "title": "Synthesis",
+        "key": "synthesis"
+      }
+    ],
+    "#% increased Evasion Rating": [
+      {
+        "loc": "P",
+        "title": "Crafting Bench",
+        "key": "master"
+      },
+      {
+        "loc": "I",
+        "title": "Synthesis",
+        "key": "synthesis"
+      }
+    ],
+    "#% increased Armour and Evasion": [
+      {
+        "loc": "P",
+        "title": "Crafting Bench",
+        "key": "master"
+      }
+    ],
+    "#% increased Armour and Energy Shield": [
+      {
+        "loc": "P",
+        "title": "Crafting Bench",
+        "key": "master"
+      }
+    ],
+    "#% increased Evasion and Energy Shield": [
+      {
+        "loc": "P",
+        "title": "Crafting Bench",
+        "key": "master"
+      }
+    ],
+    "#% increased Armour, Evasion and Energy Shield": [
+      {
+        "loc": "P",
+        "title": "Crafting Bench",
+        "key": "master"
+      }
+    ],
+    "#% increased Warcry Buff Effect": [
+      {
+        "loc": "P",
+        "title": "Crafting Bench",
+        "key": "master"
+      },
+      {
+        "loc": "P",
+        "title": "Warlord",
+        "key": "warlord"
+      }
+    ],
+    "Suffixes Cannot Be Changed": [
+      {
+        "loc": "P",
+        "title": "Crafting Bench",
+        "key": "master"
+      }
+    ],
+    "#% to Fire and Cold Resistances": [
+      {
+        "loc": "S",
+        "title": "Crafting Bench",
+        "key": "master"
+      }
+    ],
+    "#% to Cold and Lightning Resistances": [
+      {
+        "loc": "S",
+        "title": "Crafting Bench",
+        "key": "master"
+      }
+    ],
+    "#% to Fire and Lightning Resistances": [
+      {
+        "loc": "S",
+        "title": "Crafting Bench",
+        "key": "master"
+      }
+    ],
+    "# to all Attributes": [
+      {
+        "loc": "S",
+        "title": "Crafting Bench",
+        "key": "master"
+      },
+      {
+        "loc": "I",
+        "title": "Synthesis",
+        "key": "synthesis"
+      }
+    ],
+    "#% increased Life Regeneration rate": [
+      {
+        "loc": "S",
+        "title": "Crafting Bench",
+        "key": "master"
+      }
+    ],
+    "#% chance to Suppress Spell Damage": [
+      {
+        "loc": "S",
+        "title": "Crafting Bench",
+        "key": "master"
+      },
+      {
+        "loc": "I",
+        "title": "Synthesis",
+        "key": "synthesis"
+      }
+    ],
+    "Light Radius is based on Energy Shield instead of Life": [
+      {
+        "loc": "S",
+        "title": "Crafting Bench",
+        "key": "master"
+      }
+    ],
+    "#% reduced Effect of Freeze on you": [
+      {
+        "loc": "S",
+        "title": "Crafting Bench",
+        "key": "master"
+      }
+    ],
+    "#% increased Rarity of Items Dropped by Slain Rare or Unique Enemies": [
+      {
+        "loc": "S",
+        "title": "Crafting Bench",
+        "key": "master"
+      }
+    ],
+    "Prefixes Cannot Be Changed": [
+      {
+        "loc": "S",
+        "title": "Crafting Bench",
+        "key": "master"
+      }
+    ],
+    "Can have up to # Crafted Modifiers": [
+      {
+        "loc": "S",
+        "title": "Crafting Bench",
+        "key": "master"
+      }
+    ],
+    "Cannot roll Attack Modifiers": [
+      {
+        "loc": "S",
+        "title": "Crafting Bench",
+        "key": "master"
+      }
+    ],
+    "Cannot roll Caster Modifiers": [
+      {
+        "loc": "S",
+        "title": "Crafting Bench",
+        "key": "master"
+      }
+    ],
+    "#% increased Cast Speed": [
+      {
+        "loc": "I",
+        "title": "Searing Exarch",
+        "key": "searing"
+      }
+    ],
+    "While a Unique Enemy is in your Presence, #% increased Cast Speed": [
+      {
+        "loc": "I",
+        "title": "Searing Exarch",
+        "key": "searing"
+      }
+    ],
+    "While a Pinnacle Atlas Boss is in your Presence, #% increased Cast Speed": [
+      {
+        "loc": "I",
+        "title": "Searing Exarch",
+        "key": "searing"
+      }
+    ],
+    "#% increased Spell Critical Strike Chance": [
+      {
+        "loc": "I",
+        "title": "Searing Exarch",
+        "key": "searing"
+      }
+    ],
+    "While a Unique Enemy is in your Presence, #% increased Spell Critical Strike Chance": [
+      {
+        "loc": "I",
+        "title": "Searing Exarch",
+        "key": "searing"
+      }
+    ],
+    "While a Pinnacle Atlas Boss is in your Presence, #% increased Spell Critical Strike Chance": [
+      {
+        "loc": "I",
+        "title": "Searing Exarch",
+        "key": "searing"
+      }
+    ],
+    "Adds # to # Fire Damage to Spells": [
+      {
+        "loc": "I",
+        "title": "Searing Exarch",
+        "key": "searing"
+      },
+      {
+        "loc": "P",
+        "title": "Elder",
+        "key": "elder"
+      },
+      {
+        "loc": "P",
+        "title": "Hunter",
+        "key": "hunter"
+      }
+    ],
+    "While a Unique Enemy is in your Presence, Adds # to # Fire Damage to Spells": [
+      {
+        "loc": "I",
+        "title": "Searing Exarch",
+        "key": "searing"
+      }
+    ],
+    "While a Pinnacle Atlas Boss is in your Presence, Adds # to # Fire Damage to Spells": [
+      {
+        "loc": "I",
+        "title": "Searing Exarch",
+        "key": "searing"
+      }
+    ],
+    "Adds # to # Cold Damage to Spells": [
+      {
+        "loc": "I",
+        "title": "Searing Exarch",
+        "key": "searing"
+      },
+      {
+        "loc": "P",
+        "title": "Shaper",
+        "key": "shaper"
+      },
+      {
+        "loc": "P",
+        "title": "Hunter",
+        "key": "hunter"
+      }
+    ],
+    "While a Unique Enemy is in your Presence, Adds # to # Cold Damage to Spells": [
+      {
+        "loc": "I",
+        "title": "Searing Exarch",
+        "key": "searing"
+      }
+    ],
+    "While a Pinnacle Atlas Boss is in your Presence, Adds # to # Cold Damage to Spells": [
+      {
+        "loc": "I",
+        "title": "Searing Exarch",
+        "key": "searing"
+      }
+    ],
+    "Adds # to # Lightning Damage to Spells": [
+      {
+        "loc": "I",
+        "title": "Searing Exarch",
+        "key": "searing"
+      },
+      {
+        "loc": "P",
+        "title": "Shaper",
+        "key": "shaper"
+      },
+      {
+        "loc": "P",
+        "title": "Hunter",
+        "key": "hunter"
+      }
+    ],
+    "While a Unique Enemy is in your Presence, Adds # to # Lightning Damage to Spells": [
+      {
+        "loc": "I",
+        "title": "Searing Exarch",
+        "key": "searing"
+      }
+    ],
+    "While a Pinnacle Atlas Boss is in your Presence, Adds # to # Lightning Damage to Spells": [
+      {
+        "loc": "I",
+        "title": "Searing Exarch",
+        "key": "searing"
+      }
+    ],
+    "Adds # to # Physical Damage to Spells": [
+      {
+        "loc": "I",
+        "title": "Searing Exarch",
+        "key": "searing"
+      },
+      {
+        "loc": "P",
+        "title": "Elder",
+        "key": "elder"
+      },
+      {
+        "loc": "P",
+        "title": "Hunter",
+        "key": "hunter"
+      }
+    ],
+    "While a Unique Enemy is in your Presence, Adds # to # Physical Damage to Spells": [
+      {
+        "loc": "I",
+        "title": "Searing Exarch",
+        "key": "searing"
+      }
+    ],
+    "While a Pinnacle Atlas Boss is in your Presence, Adds # to # Physical Damage to Spells": [
+      {
+        "loc": "I",
+        "title": "Searing Exarch",
+        "key": "searing"
+      }
+    ],
+    "Adds # to # Chaos Damage to Spells": [
+      {
+        "loc": "I",
+        "title": "Searing Exarch",
+        "key": "searing"
+      },
+      {
+        "loc": "P",
+        "title": "Elder",
+        "key": "elder"
+      },
+      {
+        "loc": "P",
+        "title": "Hunter",
+        "key": "hunter"
+      }
+    ],
+    "While a Unique Enemy is in your Presence, Adds # to # Chaos Damage to Spells": [
+      {
+        "loc": "I",
+        "title": "Searing Exarch",
+        "key": "searing"
+      }
+    ],
+    "While a Pinnacle Atlas Boss is in your Presence, Adds # to # Chaos Damage to Spells": [
+      {
+        "loc": "I",
+        "title": "Searing Exarch",
+        "key": "searing"
+      }
+    ],
+    "#% of Fire Damage taken Recouped as Life": [
+      {
+        "loc": "I",
+        "title": "Searing Exarch",
+        "key": "searing"
+      }
+    ],
+    "While a Unique Enemy is in your Presence, #% of Fire Damage taken Recouped as Life": [
+      {
+        "loc": "I",
+        "title": "Searing Exarch",
+        "key": "searing"
+      }
+    ],
+    "While a Pinnacle Atlas Boss is in your Presence, #% of Fire Damage taken Recouped as Life": [
+      {
+        "loc": "I",
+        "title": "Searing Exarch",
+        "key": "searing"
+      }
+    ],
+    "#% of Cold Damage taken Recouped as Life": [
+      {
+        "loc": "I",
+        "title": "Searing Exarch",
+        "key": "searing"
+      }
+    ],
+    "While a Unique Enemy is in your Presence, #% of Cold Damage taken Recouped as Life": [
+      {
+        "loc": "I",
+        "title": "Searing Exarch",
+        "key": "searing"
+      }
+    ],
+    "While a Pinnacle Atlas Boss is in your Presence, #% of Cold Damage taken Recouped as Life": [
+      {
+        "loc": "I",
+        "title": "Searing Exarch",
+        "key": "searing"
+      }
+    ],
+    "#% of Lightning Damage taken Recouped as Life": [
+      {
+        "loc": "I",
+        "title": "Searing Exarch",
+        "key": "searing"
+      }
+    ],
+    "While a Unique Enemy is in your Presence, #% of Lightning Damage taken Recouped as Life": [
+      {
+        "loc": "I",
+        "title": "Searing Exarch",
+        "key": "searing"
+      }
+    ],
+    "While a Pinnacle Atlas Boss is in your Presence, #% of Lightning Damage taken Recouped as Life": [
+      {
+        "loc": "I",
+        "title": "Searing Exarch",
+        "key": "searing"
+      }
+    ],
+    "#% of Physical Damage taken Recouped as Life": [
+      {
+        "loc": "I",
+        "title": "Searing Exarch",
+        "key": "searing"
+      }
+    ],
+    "While a Unique Enemy is in your Presence, #% of Physical Damage taken Recouped as Life": [
+      {
+        "loc": "I",
+        "title": "Searing Exarch",
+        "key": "searing"
+      }
+    ],
+    "While a Pinnacle Atlas Boss is in your Presence, #% of Physical Damage taken Recouped as Life": [
+      {
+        "loc": "I",
+        "title": "Searing Exarch",
+        "key": "searing"
+      }
+    ],
+    "#% increased Flammability Curse Effect": [
+      {
+        "loc": "I",
+        "title": "Searing Exarch",
+        "key": "searing"
+      }
+    ],
+    "While a Unique Enemy is in your Presence, #% increased Flammability Curse Effect": [
+      {
+        "loc": "I",
+        "title": "Searing Exarch",
+        "key": "searing"
+      }
+    ],
+    "While a Pinnacle Atlas Boss is in your Presence, #% increased Flammability Curse Effect": [
+      {
+        "loc": "I",
+        "title": "Searing Exarch",
+        "key": "searing"
+      }
+    ],
+    "#% increased Frostbite Curse Effect": [
+      {
+        "loc": "I",
+        "title": "Searing Exarch",
+        "key": "searing"
+      }
+    ],
+    "While a Unique Enemy is in your Presence, #% increased Frostbite Curse Effect": [
+      {
+        "loc": "I",
+        "title": "Searing Exarch",
+        "key": "searing"
+      }
+    ],
+    "While a Pinnacle Atlas Boss is in your Presence, #% increased Frostbite Curse Effect": [
+      {
+        "loc": "I",
+        "title": "Searing Exarch",
+        "key": "searing"
+      }
+    ],
+    "#% increased Conductivity Curse Effect": [
+      {
+        "loc": "I",
+        "title": "Searing Exarch",
+        "key": "searing"
+      }
+    ],
+    "While a Unique Enemy is in your Presence, #% increased Conductivity Curse Effect": [
+      {
+        "loc": "I",
+        "title": "Searing Exarch",
+        "key": "searing"
+      }
+    ],
+    "While a Pinnacle Atlas Boss is in your Presence, #% increased Conductivity Curse Effect": [
+      {
+        "loc": "I",
+        "title": "Searing Exarch",
+        "key": "searing"
+      }
+    ],
+    "#% increased Vulnerability Curse Effect": [
+      {
+        "loc": "I",
+        "title": "Searing Exarch",
+        "key": "searing"
+      }
+    ],
+    "While a Unique Enemy is in your Presence, #% increased Vulnerability Curse Effect": [
+      {
+        "loc": "I",
+        "title": "Searing Exarch",
+        "key": "searing"
+      }
+    ],
+    "While a Pinnacle Atlas Boss is in your Presence, #% increased Vulnerability Curse Effect": [
+      {
+        "loc": "I",
+        "title": "Searing Exarch",
+        "key": "searing"
+      }
+    ],
+    "#% increased Elemental Weakness Curse Effect": [
+      {
+        "loc": "I",
+        "title": "Searing Exarch",
+        "key": "searing"
+      }
+    ],
+    "While a Unique Enemy is in your Presence, #% increased Elemental Weakness Curse Effect": [
+      {
+        "loc": "I",
+        "title": "Searing Exarch",
+        "key": "searing"
+      }
+    ],
+    "While a Pinnacle Atlas Boss is in your Presence, #% increased Elemental Weakness Curse Effect": [
+      {
+        "loc": "I",
+        "title": "Searing Exarch",
+        "key": "searing"
+      }
+    ],
+    "#% increased Despair Curse Effect": [
+      {
+        "loc": "I",
+        "title": "Searing Exarch",
+        "key": "searing"
+      }
+    ],
+    "While a Unique Enemy is in your Presence, #% increased Despair Curse Effect": [
+      {
+        "loc": "I",
+        "title": "Searing Exarch",
+        "key": "searing"
+      }
+    ],
+    "While a Pinnacle Atlas Boss is in your Presence, #% increased Despair Curse Effect": [
+      {
+        "loc": "I",
+        "title": "Searing Exarch",
+        "key": "searing"
+      }
+    ],
+    "#% increased Temporal Chains Curse Effect": [
+      {
+        "loc": "I",
+        "title": "Searing Exarch",
+        "key": "searing"
+      }
+    ],
+    "While a Unique Enemy is in your Presence, #% increased Temporal Chains Curse Effect": [
+      {
+        "loc": "I",
+        "title": "Searing Exarch",
+        "key": "searing"
+      }
+    ],
+    "While a Pinnacle Atlas Boss is in your Presence, #% increased Temporal Chains Curse Effect": [
+      {
+        "loc": "I",
+        "title": "Searing Exarch",
+        "key": "searing"
+      }
+    ],
+    "#% increased Enfeeble Curse Effect": [
+      {
+        "loc": "I",
+        "title": "Searing Exarch",
+        "key": "searing"
+      }
+    ],
+    "While a Unique Enemy is in your Presence, #% increased Enfeeble Curse Effect": [
+      {
+        "loc": "I",
+        "title": "Searing Exarch",
+        "key": "searing"
+      }
+    ],
+    "While a Pinnacle Atlas Boss is in your Presence, #% increased Enfeeble Curse Effect": [
+      {
+        "loc": "I",
+        "title": "Searing Exarch",
+        "key": "searing"
+      }
+    ],
+    "#% increased Punishment Curse Effect": [
+      {
+        "loc": "I",
+        "title": "Searing Exarch",
+        "key": "searing"
+      }
+    ],
+    "While a Unique Enemy is in your Presence, #% increased Punishment Curse Effect": [
+      {
+        "loc": "I",
+        "title": "Searing Exarch",
+        "key": "searing"
+      }
+    ],
+    "While a Pinnacle Atlas Boss is in your Presence, #% increased Punishment Curse Effect": [
+      {
+        "loc": "I",
+        "title": "Searing Exarch",
+        "key": "searing"
+      }
+    ],
+    "#% reduced Mana Cost of Attacks": [
+      {
+        "loc": "I",
+        "title": "Searing Exarch",
+        "key": "searing"
+      }
+    ],
+    "While a Unique Enemy is in your Presence, #% reduced Mana Cost of Attacks": [
+      {
+        "loc": "I",
+        "title": "Searing Exarch",
+        "key": "searing"
+      }
+    ],
+    "While a Pinnacle Atlas Boss is in your Presence, #% reduced Mana Cost of Attacks": [
+      {
+        "loc": "I",
+        "title": "Searing Exarch",
+        "key": "searing"
+      }
+    ],
+    "#% to maximum Lightning Resistance": [
+      {
+        "loc": "I",
+        "title": "Searing Exarch",
+        "key": "searing"
+      },
+      {
+        "loc": "S",
+        "title": "Crusader",
+        "key": "crusader"
+      },
+      {
+        "loc": "I",
+        "title": "Synthesis",
+        "key": "synthesis"
+      }
+    ],
+    "While a Unique Enemy is in your Presence, #% to maximum Lightning Resistance": [
+      {
+        "loc": "I",
+        "title": "Searing Exarch",
+        "key": "searing"
+      }
+    ],
+    "While a Pinnacle Atlas Boss is in your Presence, #% to maximum Lightning Resistance": [
+      {
+        "loc": "I",
+        "title": "Searing Exarch",
+        "key": "searing"
+      }
+    ],
+    "#% increased Damage per Power Charge": [
+      {
+        "loc": "I",
+        "title": "Searing Exarch",
+        "key": "searing"
+      }
+    ],
+    "While a Unique Enemy is in your Presence, #% increased Damage per Power Charge": [
+      {
+        "loc": "I",
+        "title": "Searing Exarch",
+        "key": "searing"
+      }
+    ],
+    "While a Pinnacle Atlas Boss is in your Presence, #% increased Damage per Power Charge": [
+      {
+        "loc": "I",
+        "title": "Searing Exarch",
+        "key": "searing"
+      }
+    ],
+    "While a Unique Enemy is in your Presence, Minions have #% increased maximum Life": [
+      {
+        "loc": "I",
+        "title": "Searing Exarch",
+        "key": "searing"
+      }
+    ],
+    "While a Pinnacle Atlas Boss is in your Presence, Minions have #% increased maximum Life": [
+      {
+        "loc": "I",
+        "title": "Searing Exarch",
+        "key": "searing"
+      }
+    ],
+    "Minions have #% increased Movement Speed": [
+      {
+        "loc": "I",
+        "title": "Searing Exarch",
+        "key": "searing"
+      }
+    ],
+    "While a Unique Enemy is in your Presence, Minions have #% increased Movement Speed": [
+      {
+        "loc": "I",
+        "title": "Searing Exarch",
+        "key": "searing"
+      }
+    ],
+    "While a Pinnacle Atlas Boss is in your Presence, Minions have #% increased Movement Speed": [
+      {
+        "loc": "I",
+        "title": "Searing Exarch",
+        "key": "searing"
+      }
+    ],
+    "While a Unique Enemy is in your Presence, #% increased Area of Effect": [
+      {
+        "loc": "I",
+        "title": "Searing Exarch",
+        "key": "searing"
+      }
+    ],
+    "While a Pinnacle Atlas Boss is in your Presence, #% increased Area of Effect": [
+      {
+        "loc": "I",
+        "title": "Searing Exarch",
+        "key": "searing"
+      }
+    ],
+    "While a Unique Enemy is in your Presence, #% increased Energy Shield Recharge Rate": [
+      {
+        "loc": "I",
+        "title": "Eater of Worlds",
+        "key": "eater"
+      }
+    ],
+    "While a Pinnacle Atlas Boss is in your Presence, #% increased Energy Shield Recharge Rate": [
+      {
+        "loc": "I",
+        "title": "Eater of Worlds",
+        "key": "eater"
+      }
+    ],
+    "#% increased Maximum Energy Shield from Equipped Gloves and Boots": [
+      {
+        "loc": "I",
+        "title": "Eater of Worlds",
+        "key": "eater"
+      }
+    ],
+    "While a Unique Enemy is in your Presence, #% increased Maximum Energy Shield from Equipped Gloves and Boots": [
+      {
+        "loc": "I",
+        "title": "Eater of Worlds",
+        "key": "eater"
+      }
+    ],
+    "While a Pinnacle Atlas Boss is in your Presence, #% increased Maximum Energy Shield from Equipped Gloves and Boots": [
+      {
+        "loc": "I",
+        "title": "Eater of Worlds",
+        "key": "eater"
+      }
+    ],
+    "Damage Penetrates #% Fire Resistance": [
+      {
+        "loc": "I",
+        "title": "Eater of Worlds",
+        "key": "eater"
+      }
+    ],
+    "While a Unique Enemy is in your Presence, Damage Penetrates #% Fire Resistance": [
+      {
+        "loc": "I",
+        "title": "Eater of Worlds",
+        "key": "eater"
+      }
+    ],
+    "While a Pinnacle Atlas Boss is in your Presence, Damage Penetrates #% Fire Resistance": [
+      {
+        "loc": "I",
+        "title": "Eater of Worlds",
+        "key": "eater"
+      }
+    ],
+    "Damage Penetrates #% Cold Resistance": [
+      {
+        "loc": "I",
+        "title": "Eater of Worlds",
+        "key": "eater"
+      }
+    ],
+    "While a Unique Enemy is in your Presence, Damage Penetrates #% Cold Resistance": [
+      {
+        "loc": "I",
+        "title": "Eater of Worlds",
+        "key": "eater"
+      }
+    ],
+    "While a Pinnacle Atlas Boss is in your Presence, Damage Penetrates #% Cold Resistance": [
+      {
+        "loc": "I",
+        "title": "Eater of Worlds",
+        "key": "eater"
+      }
+    ],
+    "Damage Penetrates #% Lightning Resistance": [
+      {
+        "loc": "I",
+        "title": "Eater of Worlds",
+        "key": "eater"
+      }
+    ],
+    "While a Unique Enemy is in your Presence, Damage Penetrates #% Lightning Resistance": [
+      {
+        "loc": "I",
+        "title": "Eater of Worlds",
+        "key": "eater"
+      }
+    ],
+    "While a Pinnacle Atlas Boss is in your Presence, Damage Penetrates #% Lightning Resistance": [
+      {
+        "loc": "I",
+        "title": "Eater of Worlds",
+        "key": "eater"
+      }
+    ],
+    "#% increased Duration of Ailments on Enemies": [
+      {
+        "loc": "I",
+        "title": "Eater of Worlds",
+        "key": "eater"
+      }
+    ],
+    "While a Unique Enemy is in your Presence, #% increased Duration of Ailments on Enemies": [
+      {
+        "loc": "I",
+        "title": "Eater of Worlds",
+        "key": "eater"
+      }
+    ],
+    "While a Pinnacle Atlas Boss is in your Presence, #% increased Duration of Ailments on Enemies": [
+      {
+        "loc": "I",
+        "title": "Eater of Worlds",
+        "key": "eater"
+      }
+    ],
+    "#% increased Effect of Non-Damaging Ailments": [
+      {
+        "loc": "I",
+        "title": "Eater of Worlds",
+        "key": "eater"
+      }
+    ],
+    "While a Unique Enemy is in your Presence, #% increased Effect of Non-Damaging Ailments": [
+      {
+        "loc": "I",
+        "title": "Eater of Worlds",
+        "key": "eater"
+      }
+    ],
+    "While a Pinnacle Atlas Boss is in your Presence, #% increased Effect of Non-Damaging Ailments": [
+      {
+        "loc": "I",
+        "title": "Eater of Worlds",
+        "key": "eater"
+      }
+    ],
+    "While a Unique Enemy is in your Presence, #% of Physical Damage from Hits taken as Fire Damage": [
+      {
+        "loc": "I",
+        "title": "Eater of Worlds",
+        "key": "eater"
+      }
+    ],
+    "While a Pinnacle Atlas Boss is in your Presence, #% of Physical Damage from Hits taken as Fire Damage": [
+      {
+        "loc": "I",
+        "title": "Eater of Worlds",
+        "key": "eater"
+      }
+    ],
+    "While a Unique Enemy is in your Presence, #% of Physical Damage from Hits taken as Cold Damage": [
+      {
+        "loc": "I",
+        "title": "Eater of Worlds",
+        "key": "eater"
+      }
+    ],
+    "While a Pinnacle Atlas Boss is in your Presence, #% of Physical Damage from Hits taken as Cold Damage": [
+      {
+        "loc": "I",
+        "title": "Eater of Worlds",
+        "key": "eater"
+      }
+    ],
+    "While a Unique Enemy is in your Presence, #% of Physical Damage from Hits taken as Lightning Damage": [
+      {
+        "loc": "I",
+        "title": "Eater of Worlds",
+        "key": "eater"
+      }
+    ],
+    "While a Pinnacle Atlas Boss is in your Presence, #% of Physical Damage from Hits taken as Lightning Damage": [
+      {
+        "loc": "I",
+        "title": "Eater of Worlds",
+        "key": "eater"
+      }
+    ],
+    "While a Unique Enemy is in your Presence, #% of Physical Damage from Hits taken as Chaos Damage": [
+      {
+        "loc": "I",
+        "title": "Eater of Worlds",
+        "key": "eater"
+      }
+    ],
+    "While a Pinnacle Atlas Boss is in your Presence, #% of Physical Damage from Hits taken as Chaos Damage": [
+      {
+        "loc": "I",
+        "title": "Eater of Worlds",
+        "key": "eater"
+      }
+    ],
+    "While a Unique Enemy is in your Presence, #% increased Mana Reservation Efficiency of Skills": [
+      {
+        "loc": "I",
+        "title": "Eater of Worlds",
+        "key": "eater"
+      }
+    ],
+    "While a Pinnacle Atlas Boss is in your Presence, #% increased Mana Reservation Efficiency of Skills": [
+      {
+        "loc": "I",
+        "title": "Eater of Worlds",
+        "key": "eater"
+      }
+    ],
+    "#% chance to Ignite": [
+      {
+        "loc": "I",
+        "title": "Eater of Worlds",
+        "key": "eater"
+      },
+      {
+        "loc": "S",
+        "title": "Redeemer",
+        "key": "redeemer"
+      },
+      {
+        "loc": "I",
+        "title": "Synthesis",
+        "key": "synthesis"
+      }
+    ],
+    "While a Unique Enemy is in your Presence, #% chance to Ignite": [
+      {
+        "loc": "I",
+        "title": "Eater of Worlds",
+        "key": "eater"
+      }
+    ],
+    "While a Pinnacle Atlas Boss is in your Presence, #% chance to Ignite": [
+      {
+        "loc": "I",
+        "title": "Eater of Worlds",
+        "key": "eater"
+      }
+    ],
+    "#% chance to Freeze": [
+      {
+        "loc": "I",
+        "title": "Eater of Worlds",
+        "key": "eater"
+      },
+      {
+        "loc": "S",
+        "title": "Redeemer",
+        "key": "redeemer"
+      }
+    ],
+    "While a Unique Enemy is in your Presence, #% chance to Freeze": [
+      {
+        "loc": "I",
+        "title": "Eater of Worlds",
+        "key": "eater"
+      }
+    ],
+    "While a Pinnacle Atlas Boss is in your Presence, #% chance to Freeze": [
+      {
+        "loc": "I",
+        "title": "Eater of Worlds",
+        "key": "eater"
+      }
+    ],
+    "#% chance to Shock": [
+      {
+        "loc": "I",
+        "title": "Eater of Worlds",
+        "key": "eater"
+      },
+      {
+        "loc": "S",
+        "title": "Redeemer",
+        "key": "redeemer"
+      }
+    ],
+    "While a Unique Enemy is in your Presence, #% chance to Shock": [
+      {
+        "loc": "I",
+        "title": "Eater of Worlds",
+        "key": "eater"
+      }
+    ],
+    "While a Pinnacle Atlas Boss is in your Presence, #% chance to Shock": [
+      {
+        "loc": "I",
+        "title": "Eater of Worlds",
+        "key": "eater"
+      }
+    ],
+    "#% reduced Ignite Duration on you": [
+      {
+        "loc": "I",
+        "title": "Eater of Worlds",
+        "key": "eater"
+      },
+      {
+        "loc": "S",
+        "title": "Crusader",
+        "key": "crusader"
+      }
+    ],
+    "While a Unique Enemy is in your Presence, #% reduced Ignite Duration on you": [
+      {
+        "loc": "I",
+        "title": "Eater of Worlds",
+        "key": "eater"
+      }
+    ],
+    "While a Pinnacle Atlas Boss is in your Presence, #% reduced Ignite Duration on you": [
+      {
+        "loc": "I",
+        "title": "Eater of Worlds",
+        "key": "eater"
+      }
+    ],
+    "#% reduced Freeze Duration on you": [
+      {
+        "loc": "I",
+        "title": "Eater of Worlds",
+        "key": "eater"
+      },
+      {
+        "loc": "S",
+        "title": "Crusader",
+        "key": "crusader"
+      }
+    ],
+    "While a Unique Enemy is in your Presence, #% reduced Freeze Duration on you": [
+      {
+        "loc": "I",
+        "title": "Eater of Worlds",
+        "key": "eater"
+      }
+    ],
+    "While a Pinnacle Atlas Boss is in your Presence, #% reduced Freeze Duration on you": [
+      {
+        "loc": "I",
+        "title": "Eater of Worlds",
+        "key": "eater"
+      }
+    ],
+    "#% reduced Effect of Shock on you": [
+      {
+        "loc": "I",
+        "title": "Eater of Worlds",
+        "key": "eater"
+      },
+      {
+        "loc": "S",
+        "title": "Crusader",
+        "key": "crusader"
+      }
+    ],
+    "While a Unique Enemy is in your Presence, #% reduced Effect of Shock on you": [
+      {
+        "loc": "I",
+        "title": "Eater of Worlds",
+        "key": "eater"
+      }
+    ],
+    "While a Pinnacle Atlas Boss is in your Presence, #% reduced Effect of Shock on you": [
+      {
+        "loc": "I",
+        "title": "Eater of Worlds",
+        "key": "eater"
+      }
+    ],
+    "While a Unique Enemy is in your Presence, #% increased Mana Regeneration Rate": [
+      {
+        "loc": "I",
+        "title": "Eater of Worlds",
+        "key": "eater"
+      }
+    ],
+    "While a Pinnacle Atlas Boss is in your Presence, #% increased Mana Regeneration Rate": [
+      {
+        "loc": "I",
+        "title": "Eater of Worlds",
+        "key": "eater"
+      }
+    ],
+    "Enemies you've Hit Recently have #% reduced Life Regeneration rate": [
+      {
+        "loc": "I",
+        "title": "Eater of Worlds",
+        "key": "eater"
+      }
+    ],
+    "While a Unique Enemy is in your Presence, Enemies you've Hit Recently have #% reduced Life Regeneration rate": [
+      {
+        "loc": "I",
+        "title": "Eater of Worlds",
+        "key": "eater"
+      }
+    ],
+    "While a Pinnacle Atlas Boss is in your Presence, Enemies you've Hit Recently have #% reduced Life Regeneration rate": [
+      {
+        "loc": "I",
+        "title": "Eater of Worlds",
+        "key": "eater"
+      }
+    ],
+    "#% increased Mana Regeneration Rate per Power Charge": [
+      {
+        "loc": "I",
+        "title": "Eater of Worlds",
+        "key": "eater"
+      }
+    ],
+    "While a Unique Enemy is in your Presence, #% increased Mana Regeneration Rate per Power Charge": [
+      {
+        "loc": "I",
+        "title": "Eater of Worlds",
+        "key": "eater"
+      }
+    ],
+    "While a Pinnacle Atlas Boss is in your Presence, #% increased Mana Regeneration Rate per Power Charge": [
+      {
+        "loc": "I",
+        "title": "Eater of Worlds",
+        "key": "eater"
+      }
+    ],
+    "#% increased Attack Damage": [
+      {
+        "loc": "I",
+        "title": "Eater of Worlds",
+        "key": "eater"
+      }
+    ],
+    "While a Unique Enemy is in your Presence, #% increased Attack Damage": [
+      {
+        "loc": "I",
+        "title": "Eater of Worlds",
+        "key": "eater"
+      }
+    ],
+    "While a Pinnacle Atlas Boss is in your Presence, #% increased Attack Damage": [
+      {
+        "loc": "I",
+        "title": "Eater of Worlds",
+        "key": "eater"
+      }
+    ],
+    "#% increased Spell Damage": [
+      {
+        "loc": "I",
+        "title": "Eater of Worlds",
+        "key": "eater"
+      }
+    ],
+    "While a Unique Enemy is in your Presence, #% increased Spell Damage": [
+      {
+        "loc": "I",
+        "title": "Eater of Worlds",
+        "key": "eater"
+      }
+    ],
+    "While a Pinnacle Atlas Boss is in your Presence, #% increased Spell Damage": [
+      {
+        "loc": "I",
+        "title": "Eater of Worlds",
+        "key": "eater"
+      }
+    ],
+    "#% increased Effect of Arcane Surge on you": [
+      {
+        "loc": "I",
+        "title": "Eater of Worlds",
+        "key": "eater"
+      }
+    ],
+    "While a Unique Enemy is in your Presence, #% increased Effect of Arcane Surge on you": [
+      {
+        "loc": "I",
+        "title": "Eater of Worlds",
+        "key": "eater"
+      }
+    ],
+    "While a Pinnacle Atlas Boss is in your Presence, #% increased Effect of Arcane Surge on you": [
+      {
+        "loc": "I",
+        "title": "Eater of Worlds",
+        "key": "eater"
+      }
+    ],
+    "Socketed Gems are Supported by Level # Concentrated Effect": [
+      {
+        "loc": "P",
+        "title": "Elder",
+        "key": "elder"
+      }
+    ],
+    "#% increased Area Damage": [
+      {
+        "loc": "P",
+        "title": "Elder",
+        "key": "elder"
+      }
+    ],
+    "Socketed Gems are Supported by Level # Minion Damage": [
+      {
+        "loc": "P",
+        "title": "Elder",
+        "key": "elder"
+      }
+    ],
+    "Socketed Gems are Supported by Level # Minion Life": [
+      {
+        "loc": "P",
+        "title": "Elder",
+        "key": "elder"
+      }
+    ],
+    "Socketed Gems are Supported by Level # Less Duration": [
+      {
+        "loc": "P",
+        "title": "Elder",
+        "key": "elder"
+      }
+    ],
+    "Transfiguration of Mind": [
+      {
+        "loc": "P",
+        "title": "Elder",
+        "key": "elder"
+      }
+    ],
+    "Socketed Gems are Supported by Level # Immolate": [
+      {
+        "loc": "S",
+        "title": "Elder",
+        "key": "elder"
+      }
+    ],
+    "#% increased Ignite Duration on Enemies": [
+      {
+        "loc": "S",
+        "title": "Elder",
+        "key": "elder"
+      },
+      {
+        "loc": "S",
+        "title": "Hunter",
+        "key": "hunter"
+      },
+      {
+        "loc": "I",
+        "title": "Synthesis",
+        "key": "synthesis"
+      }
+    ],
+    "Socketed Gems are Supported by Level # Burning Damage": [
+      {
+        "loc": "S",
+        "title": "Elder",
+        "key": "elder"
+      }
+    ],
+    "#% increased Burning Damage": [
+      {
+        "loc": "S",
+        "title": "Elder",
+        "key": "elder"
+      },
+      {
+        "loc": "S",
+        "title": "Redeemer",
+        "key": "redeemer"
+      },
+      {
+        "loc": "I",
+        "title": "Corrupted",
+        "key": "corrupted"
+      }
+    ],
+    "Socketed Attacks have #% to Critical Strike Chance": [
+      {
+        "loc": "S",
+        "title": "Elder",
+        "key": "elder"
+      }
+    ],
+    "#% to maximum Chance to Block Spell Damage": [
+      {
+        "loc": "S",
+        "title": "Elder",
+        "key": "elder"
+      },
+      {
+        "loc": "S",
+        "title": "Crusader",
+        "key": "crusader"
+      }
+    ],
+    "Socketed Gems are Supported by Level # Increased Area of Effect": [
+      {
+        "loc": "P",
+        "title": "Shaper",
+        "key": "shaper"
+      }
+    ],
+    "#% chance to gain a Power Charge on Kill": [
+      {
+        "loc": "P",
+        "title": "Shaper",
+        "key": "shaper"
+      },
+      {
+        "loc": "P",
+        "title": "Redeemer",
+        "key": "redeemer"
+      },
+      {
+        "loc": "I",
+        "title": "Synthesis",
+        "key": "synthesis"
+      }
+    ],
+    "#% increased Power Charge Duration": [
+      {
+        "loc": "P",
+        "title": "Shaper",
+        "key": "shaper"
+      },
+      {
+        "loc": "P",
+        "title": "Redeemer",
+        "key": "redeemer"
+      }
+    ],
+    "Socketed Gems are Supported by Level # Blastchain Mine": [
+      {
+        "loc": "S",
+        "title": "Shaper",
+        "key": "shaper"
+      }
+    ],
+    "#% increased Mine Damage": [
+      {
+        "loc": "S",
+        "title": "Shaper",
+        "key": "shaper"
+      }
+    ],
+    "Socketed Gems are Supported by Level # Trap And Mine Damage": [
+      {
+        "loc": "S",
+        "title": "Shaper",
+        "key": "shaper"
+      }
+    ],
+    "Socketed Gems are Supported by Level # Hypothermia": [
+      {
+        "loc": "S",
+        "title": "Shaper",
+        "key": "shaper"
+      }
+    ],
+    "#% increased Effect of Cold Ailments": [
+      {
+        "loc": "S",
+        "title": "Shaper",
+        "key": "shaper"
+      },
+      {
+        "loc": "I",
+        "title": "Corrupted",
+        "key": "corrupted"
+      }
+    ],
+    "Socketed Gems are Supported by Level # Innervate": [
+      {
+        "loc": "S",
+        "title": "Shaper",
+        "key": "shaper"
+      }
+    ],
+    "#% increased Effect of Lightning Ailments": [
+      {
+        "loc": "S",
+        "title": "Shaper",
+        "key": "shaper"
+      },
+      {
+        "loc": "S",
+        "title": "Redeemer",
+        "key": "redeemer"
+      }
+    ],
+    "Socketed Spells have #% to Critical Strike Chance": [
+      {
+        "loc": "S",
+        "title": "Shaper",
+        "key": "shaper"
+      }
+    ],
+    "Nearby Enemies take #% increased Elemental Damage": [
+      {
+        "loc": "S",
+        "title": "Shaper",
+        "key": "shaper"
+      }
+    ],
+    "Mana Flasks gain # Charge every # seconds": [
+      {
+        "loc": "S",
+        "title": "Shaper",
+        "key": "shaper"
+      },
+      {
+        "loc": "S",
+        "title": "Redeemer",
+        "key": "redeemer"
+      }
+    ],
+    "#% increased Damage if you've been Ignited Recently": [
+      {
+        "loc": "S",
+        "title": "Crusader",
+        "key": "crusader"
+      }
+    ],
+    "#% reduced Damage taken if you've been Frozen Recently": [
+      {
+        "loc": "S",
+        "title": "Crusader",
+        "key": "crusader"
+      }
+    ],
+    "#% increased Critical Strike Chance if you've been Shocked Recently": [
+      {
+        "loc": "S",
+        "title": "Crusader",
+        "key": "crusader"
+      }
+    ],
+    "Skills supported by Unleash have # to maximum number of Seals": [
+      {
+        "loc": "P",
+        "title": "Redeemer",
+        "key": "redeemer"
+      }
+    ],
+    "#% increased Critical Strike Chance with Spells which remove the maximum number of Seals": [
+      {
+        "loc": "P",
+        "title": "Redeemer",
+        "key": "redeemer"
+      }
+    ],
+    "#% increased Freeze Duration on Enemies": [
+      {
+        "loc": "S",
+        "title": "Redeemer",
+        "key": "redeemer"
+      },
+      {
+        "loc": "I",
+        "title": "Synthesis",
+        "key": "synthesis"
+      }
+    ],
+    "Ignites you inflict deal Damage #% faster": [
+      {
+        "loc": "S",
+        "title": "Redeemer",
+        "key": "redeemer"
+      },
+      {
+        "loc": "I",
+        "title": "Synthesis",
+        "key": "synthesis"
+      }
+    ],
+    "Freeze Enemies as though dealing #% more Damage": [
+      {
+        "loc": "S",
+        "title": "Redeemer",
+        "key": "redeemer"
+      }
+    ],
+    "Shock Enemies as though dealing #% more Damage": [
+      {
+        "loc": "S",
+        "title": "Redeemer",
+        "key": "redeemer"
+      }
+    ],
+    "#% increased Intelligence": [
+      {
+        "loc": "S",
+        "title": "Hunter",
+        "key": "hunter"
+      }
+    ],
+    "You have Igniting Conflux for # seconds every # seconds": [
+      {
+        "loc": "S",
+        "title": "Hunter",
+        "key": "hunter"
+      }
+    ],
+    "You have Chilling Conflux for # seconds every # seconds": [
+      {
+        "loc": "S",
+        "title": "Hunter",
+        "key": "hunter"
+      }
+    ],
+    "You have Shocking Conflux for # seconds every # seconds": [
+      {
+        "loc": "S",
+        "title": "Hunter",
+        "key": "hunter"
+      }
+    ],
+    "#% increased Chill Duration on Enemies": [
+      {
+        "loc": "S",
+        "title": "Hunter",
+        "key": "hunter"
+      }
+    ],
+    "#% increased Shock Duration on Enemies": [
+      {
+        "loc": "S",
+        "title": "Hunter",
+        "key": "hunter"
+      },
+      {
+        "loc": "I",
+        "title": "Synthesis",
+        "key": "synthesis"
+      }
+    ],
+    "# to Maximum Power Charges": [
+      {
+        "loc": "P",
+        "title": "Warlord",
+        "key": "warlord"
+      },
+      {
+        "loc": "I",
+        "title": "Synthesis",
+        "key": "synthesis"
+      },
+      {
+        "loc": "I",
+        "title": "Corrupted",
+        "key": "corrupted"
+      }
+    ],
+    "#% increased Elemental Damage": [
+      {
+        "loc": "P",
+        "title": "Warlord",
+        "key": "warlord"
+      },
+      {
+        "loc": "I",
+        "title": "Synthesis",
+        "key": "synthesis"
+      }
+    ],
+    "Warcry Skills have #% increased Area of Effect": [
+      {
+        "loc": "P",
+        "title": "Warlord",
+        "key": "warlord"
+      }
+    ],
+    "#% chance that if you would gain Power Charges, you instead gain up to": [
+      {
+        "loc": "P",
+        "title": "Warlord",
+        "key": "warlord"
+      }
+    ],
+    "your maximum number of Power Charges": [
+      {
+        "loc": "P",
+        "title": "Warlord",
+        "key": "warlord"
+      }
+    ],
+    "Damage Penetrates #% of Enemy Elemental Resistances": [
+      {
+        "loc": "P",
+        "title": "Warlord",
+        "key": "warlord"
+      }
+    ],
+    "#% to Global Critical Strike Multiplier": [
+      {
+        "loc": "S",
+        "title": "Warlord",
+        "key": "warlord"
+      }
+    ],
+    "Gain Accuracy Rating equal to your Strength": [
+      {
+        "loc": "S",
+        "title": "Warlord",
+        "key": "warlord"
+      }
+    ],
+    "#% increased Mana Regeneration Rate while stationary": [
+      {
+        "loc": "S",
+        "title": "Warlord",
+        "key": "warlord"
+      }
+    ],
+    "#% increased Critical Strike Chance per # Strength": [
+      {
+        "loc": "S",
+        "title": "Warlord",
+        "key": "warlord"
+      }
+    ],
+    "Minions Regenerate #% of Life per second": [
+      {
+        "loc": "S",
+        "title": "Warlord",
+        "key": "warlord"
+      }
+    ],
+    "Grants Level # Aspect of the Avian Skill": [
+      {
+        "loc": "S",
+        "title": "Bestiary",
+        "key": "bestiary"
+      }
+    ],
+    "Grants Level # Aspect of the Cat Skill": [
+      {
+        "loc": "S",
+        "title": "Bestiary",
+        "key": "bestiary"
+      }
+    ],
+    "Grants Level # Aspect of the Crab Skill": [
+      {
+        "loc": "S",
+        "title": "Bestiary",
+        "key": "bestiary"
+      }
+    ],
+    "Grants Level # Aspect of the Spider Skill": [
+      {
+        "loc": "S",
+        "title": "Bestiary",
+        "key": "bestiary"
+      }
+    ],
+    "#% increased maximum Life": [
+      {
+        "loc": "I",
+        "title": "Synthesis",
+        "key": "synthesis"
+      },
+      {
+        "loc": "I",
+        "title": "Corrupted",
+        "key": "corrupted"
+      }
+    ],
+    "-# to Total Mana Cost of Skills": [
+      {
+        "loc": "I",
+        "title": "Synthesis",
+        "key": "synthesis"
+      }
+    ],
+    "#% reduced Mana Cost of Skills": [
+      {
+        "loc": "I",
+        "title": "Synthesis",
+        "key": "synthesis"
+      }
+    ],
+    "#% to maximum Fire Resistance": [
+      {
+        "loc": "I",
+        "title": "Synthesis",
+        "key": "synthesis"
+      }
+    ],
+    "#% to maximum Cold Resistance": [
+      {
+        "loc": "I",
+        "title": "Synthesis",
+        "key": "synthesis"
+      }
+    ],
+    "#% to maximum Chaos Resistance": [
+      {
+        "loc": "I",
+        "title": "Synthesis",
+        "key": "synthesis"
+      }
+    ],
+    "# to Level of Socketed Gems": [
+      {
+        "loc": "I",
+        "title": "Synthesis",
+        "key": "synthesis"
+      }
+    ],
+    "#% increased Lightning Damage": [
+      {
+        "loc": "I",
+        "title": "Synthesis",
+        "key": "synthesis"
+      }
+    ],
+    "Gain #% of Physical Damage as Extra Lightning Damage": [
+      {
+        "loc": "I",
+        "title": "Synthesis",
+        "key": "synthesis"
+      }
+    ],
+    "#% increased Strength": [
+      {
+        "loc": "I",
+        "title": "Synthesis",
+        "key": "synthesis"
+      }
+    ],
+    "#% increased Dexterity": [
+      {
+        "loc": "I",
+        "title": "Synthesis",
+        "key": "synthesis"
+      }
+    ],
+    "#% chance to Avoid Elemental Ailments": [
+      {
+        "loc": "I",
+        "title": "Synthesis",
+        "key": "synthesis"
+      }
+    ],
+    "#% Chance to Block Attack Damage": [
+      {
+        "loc": "I",
+        "title": "Synthesis",
+        "key": "synthesis"
+      }
+    ],
+    "#% increased effect of Non-Curse Auras from your Skills": [
+      {
+        "loc": "I",
+        "title": "Synthesis",
+        "key": "synthesis"
+      }
+    ],
+    "Socketed Skill Gems get a #% Cost & Reservation Multiplier": [
+      {
+        "loc": "I",
+        "title": "Synthesis",
+        "key": "synthesis"
+      },
+      {
+        "loc": "I",
+        "title": "Corrupted",
+        "key": "corrupted"
+      }
+    ],
+    "Triggered Spells deal #% increased Spell Damage": [
+      {
+        "loc": "I",
+        "title": "Synthesis",
+        "key": "synthesis"
+      }
+    ],
+    "Raised Zombies deal #% increased Damage": [
+      {
+        "loc": "I",
+        "title": "Synthesis",
+        "key": "synthesis"
+      }
+    ],
+    "Skeletons deal #% increased Damage": [
+      {
+        "loc": "I",
+        "title": "Synthesis",
+        "key": "synthesis"
+      }
+    ],
+    "#% increased Movement Speed": [
+      {
+        "loc": "I",
+        "title": "Synthesis",
+        "key": "synthesis"
+      }
+    ],
+    "#% increased Quantity of Items found": [
+      {
+        "loc": "I",
+        "title": "Synthesis",
+        "key": "synthesis"
+      }
+    ],
+    "#% to Quality of Socketed Melee Gems": [
+      {
+        "loc": "I",
+        "title": "Synthesis",
+        "key": "synthesis"
+      }
+    ],
+    "#% to Quality of Socketed Aura Gems": [
+      {
+        "loc": "I",
+        "title": "Synthesis",
+        "key": "synthesis"
+      }
+    ],
+    "#% to Quality of Socketed Strength Gems": [
+      {
+        "loc": "I",
+        "title": "Synthesis",
+        "key": "synthesis"
+      }
+    ],
+    "#% to Quality of Socketed Dexterity Gems": [
+      {
+        "loc": "I",
+        "title": "Synthesis",
+        "key": "synthesis"
+      }
+    ],
+    "#% to Quality of Socketed Intelligence Gems": [
+      {
+        "loc": "I",
+        "title": "Synthesis",
+        "key": "synthesis"
+      }
+    ],
+    "#% to Quality of Socketed AoE Gems": [
+      {
+        "loc": "I",
+        "title": "Synthesis",
+        "key": "synthesis"
+      }
+    ],
+    "#% to Quality of Socketed Projectile Gems": [
+      {
+        "loc": "I",
+        "title": "Synthesis",
+        "key": "synthesis"
+      }
+    ],
+    "# Physical Damage taken from Attack Hits": [
+      {
+        "loc": "I",
+        "title": "Synthesis",
+        "key": "synthesis"
+      }
+    ],
+    "#% to all Elemental Resistances if Corrupted": [
+      {
+        "loc": "I",
+        "title": "Synthesis",
+        "key": "synthesis"
+      }
+    ],
+    "#% increased Damage with Hits and Ailments against Abyssal Monsters": [
+      {
+        "loc": "I",
+        "title": "Synthesis",
+        "key": "synthesis"
+      }
+    ],
+    "#% increased Effect of Socketed Abyss Jewels": [
+      {
+        "loc": "I",
+        "title": "Synthesis",
+        "key": "synthesis"
+      }
+    ],
+    "Cannot be Blinded": [
+      {
+        "loc": "I",
+        "title": "Corrupted",
+        "key": "corrupted"
+      }
+    ],
+    "#% of Cold Damage Leeched as Life": [
+      {
+        "loc": "I",
+        "title": "Corrupted",
+        "key": "corrupted"
+      }
+    ],
+    "#% of Fire Damage Leeched as Life": [
+      {
+        "loc": "I",
+        "title": "Corrupted",
+        "key": "corrupted"
+      }
+    ],
+    "#% increased Effect of Shock": [
+      {
+        "loc": "I",
+        "title": "Corrupted",
+        "key": "corrupted"
+      }
+    ],
+    "# to Level of Socketed Cold Gems": [
+      {
+        "loc": "I",
+        "title": "Corrupted",
+        "key": "corrupted"
+      }
+    ],
+    "# to Level of Socketed Fire Gems": [
+      {
+        "loc": "I",
+        "title": "Corrupted",
+        "key": "corrupted"
+      }
+    ],
+    "# to Level of Socketed Lightning Gems": [
+      {
+        "loc": "I",
+        "title": "Corrupted",
+        "key": "corrupted"
+      }
+    ],
+    "#% of Lightning Damage Leeched as Life": [
+      {
+        "loc": "I",
+        "title": "Corrupted",
+        "key": "corrupted"
+      }
+    ],
+    "# to Level of Socketed Duration Gems": [
+      {
+        "loc": "I",
+        "title": "Corrupted",
+        "key": "corrupted"
+      }
+    ],
+    "# to Level of Socketed Trap or Mine Gems": [
+      {
+        "loc": "I",
+        "title": "Corrupted",
+        "key": "corrupted"
+      }
+    ],
+    "# to Level of Socketed Minion Gems": [
+      {
+        "loc": "I",
+        "title": "Corrupted",
+        "key": "corrupted"
+      }
+    ],
+    "# to Level of Socketed Warcry Gems": [
+      {
+        "loc": "I",
+        "title": "Corrupted",
+        "key": "corrupted"
+      }
+    ],
+    "#% increased maximum Energy Shield": [
+      {
+        "loc": "I",
+        "title": "Corrupted",
+        "key": "corrupted"
+      }
+    ]
+  }
+}
