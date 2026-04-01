@@ -952,7 +952,7 @@
         "key": "corrupted"
       }
     ],
-    "Nearby Enemies have -#% to Fire Resistance": [
+    "Nearby Enemies have #% to Fire Resistance": [
       {
         "loc": "S",
         "title": "Delve",
@@ -964,7 +964,7 @@
         "key": "warlord"
       }
     ],
-    "Nearby Enemies have -#% to Cold Resistance": [
+    "Nearby Enemies have #% to Cold Resistance": [
       {
         "loc": "S",
         "title": "Delve",
@@ -976,7 +976,7 @@
         "key": "redeemer"
       }
     ],
-    "Nearby Enemies have -#% to Lightning Resistance": [
+    "Nearby Enemies have #% to Lightning Resistance": [
       {
         "loc": "S",
         "title": "Delve",
@@ -1000,7 +1000,7 @@
         "key": "elder"
       }
     ],
-    "Nearby Enemies have -#% to Chaos Resistance": [
+    "Nearby Enemies have #% to Chaos Resistance": [
       {
         "loc": "S",
         "title": "Delve",
@@ -1074,7 +1074,7 @@
         "key": "delve"
       }
     ],
-    "Socketed Attacks have -# to Total Mana Cost": [
+    "Socketed Attacks have # to Total Mana Cost": [
       {
         "loc": "S",
         "title": "Delve",
@@ -3061,7 +3061,7 @@
         "key": "corrupted"
       }
     ],
-    "-# to Total Mana Cost of Skills": [
+    "# to Total Mana Cost of Skills": [
       {
         "loc": "I",
         "title": "Synthesis",

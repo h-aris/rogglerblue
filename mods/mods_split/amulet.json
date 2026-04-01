@@ -1607,14 +1607,14 @@
         "key": "master"
       }
     ],
-    "Channelling Skills have -# to Total Mana Cost": [
+    "Channelling Skills have # to Total Mana Cost": [
       {
         "loc": "P",
         "title": "Crafting Bench",
         "key": "master"
       }
     ],
-    "Non-Channelling Skills have -# to Total Mana Cost": [
+    "Non-Channelling Skills have # to Total Mana Cost": [
       {
         "loc": "P",
         "title": "Crafting Bench",
@@ -3063,7 +3063,7 @@
         "key": "synthesis"
       }
     ],
-    "-# to Total Mana Cost of Skills": [
+    "# to Total Mana Cost of Skills": [
       {
         "loc": "I",
         "title": "Synthesis",

@@ -1000,7 +1000,7 @@
         "key": "delve"
       }
     ],
-    "Socketed Attacks have -# to Total Mana Cost": [
+    "Socketed Attacks have # to Total Mana Cost": [
       {
         "loc": "S",
         "title": "Delve",
@@ -3152,7 +3152,7 @@
         "key": "synthesis"
       }
     ],
-    "-# to Total Mana Cost of Skills": [
+    "# to Total Mana Cost of Skills": [
       {
         "loc": "I",
         "title": "Synthesis",
