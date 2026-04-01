@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Roggler Blue v2.0
-// @version      2.0.5
+// @version      2.0.6
 // @description  Mode 1: resizable sidebar. Mode 2: 2-col panels + mod/basetype badges.
 // @match        https://poe.ninja/poe1/builds/*
 // @grant        none
@@ -22,7 +22,7 @@
   const LOC_W             = 16;    // px — loc badge width
   const BADGES_LEFT       = 7;     // px — offset from cell left edge to badge container
   const MAX_MOD_ICONS     = 2;   // max category icons shown inline per mod (excluding [...])
-  const SB_W              = 30;
+  const SB_W              = 40;
   const THUMB_PAD         = 5;
   const UNKNOWN_GREY      = '#9ca3af';
   const UNKNOWN_DARK      = '#374151';
@@ -192,6 +192,10 @@
     .rb-tip-label-P { color: #c8a951; } .rb-tip-label-S { color: #6fa0d0; } .rb-tip-label-I { color: #9d7cd8; }
     .rb-tip-row { display: flex; align-items: center; gap: 5px; padding: 1px 0 1px 4px; font-size: 11px; color: #8b949e; }
     .rb-tip-row img { width: 14px; height: 14px; object-fit: contain; }
+
+    /* Suppress poe.ninja hover panels (Radix UI popovers) in mode 2 */
+    body.pn-mode2 [data-radix-popper-content-wrapper],
+    body.pn-mode2 [role="tooltip"] { display: none !important; }
   `;
   const style = document.createElement('style');
   style.textContent = css;
@@ -386,7 +390,11 @@
       }
       tip += '</div>';
     }
-    attachTooltip(wrap, tip);
+    // Tooltip only on [...] — if no ellipsis shown, attach to wrap as fallback
+    if (showEllipsis) {
+      const ellEl = wrap.querySelector('.rb-ellipsis');
+      if (ellEl) attachTooltip(ellEl, tip);
+    }
     return { el: wrap, firstLoc };
   }
 
