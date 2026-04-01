@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Roggler Blue v2.0
-// @version      2.0.2
+// @version      2.0.5
 // @description  Mode 1: resizable sidebar. Mode 2: 2-col panels + mod/basetype badges.
 // @match        https://poe.ninja/poe1/builds/*
 // @grant        none
@@ -16,18 +16,19 @@
   const BASES_REVERSE_URL = 'https://raw.githubusercontent.com/h-aris/rogglerblue/refs/heads/main/mods/bases_reverse.json';
   const MODS_SPLIT_BASE   = 'https://raw.githubusercontent.com/h-aris/rogglerblue/refs/heads/main/mods/mods_split/';
   const ICON_BASE         = 'https://raw.githubusercontent.com/h-aris/rogglerblue/main/icons/';
-  const BADGE_WIDTH       = 100;   // px — fixed allocation for badge area
+  const BADGE_WIDTH       = 120;   // px — fixed allocation for badge area
   const BADGE_PAD         = 6;     // px — gap between badge area and text
-  const ICON_SIZE         = 24;    // px — icon dimensions
+  const ICON_SIZE         = 22;    // px — icon dimensions
   const LOC_W             = 16;    // px — loc badge width
   const BADGES_LEFT       = 7;     // px — offset from cell left edge to badge container
+  const MAX_MOD_ICONS     = 2;   // max category icons shown inline per mod (excluding [...])
   const SB_W              = 30;
   const THUMB_PAD         = 5;
   const UNKNOWN_GREY      = '#9ca3af';
   const UNKNOWN_DARK      = '#374151';
   // BT dual-attr icon layout
   const BT_ICON_GAP       = 8;    // px gap between dual attr icons
-  const BT_DUAL_LEFT      = 15;    // px left offset for dual-attr bt icons
+  const BT_DUAL_LEFT      = 25;    // px left offset for dual-attr bt icons
   // Single-attr center = BT_DUAL_LEFT + (24+BT_ICON_GAP+24)/2 - ICON_SIZE/2
   const BT_SINGLE_LEFT    = Math.round(BT_DUAL_LEFT + (ICON_SIZE + BT_ICON_GAP + ICON_SIZE) / 2 - ICON_SIZE / 2);
 
@@ -336,21 +337,21 @@
     const inlineArr   = hasNonSynth ? arr.filter(e => e.key !== 'synthesis') : arr;
     if (!inlineArr.length) return { el: wrap, firstLoc: null };
 
-    const topKey      = inlineArr[0].key;
-    const allTopEntries = inlineArr.filter(e => e.key === topKey);
-    const topEntries  = allTopEntries.slice(0, 2); // max 2 icons from topKey
-
-    const showEllipsis = inlineArr.some(e => e.key !== topKey && !ELLIPSIS_IGNORE.has(e.key))
-                      || allTopEntries.length > 2;
+    // Show top MAX_MOD_ICONS entries by priority, across any categories.
+    // Loc badge shown once per loc type; / separator on loc transitions.
+    const shownEntries = inlineArr.slice(0, MAX_MOD_ICONS);
+    const showEllipsis = inlineArr.slice(MAX_MOD_ICONS).some(e => !ELLIPSIS_IGNORE.has(e.key));
 
     let dispLoc = null, firstLoc = null;
-    for (const e of topEntries) {
+    const shownLocs = {};
+    for (const e of shownEntries) {
       if (dispLoc !== null && e.loc !== dispLoc) {
         const sep = document.createElement('span');
         sep.className = 'rb-sep'; sep.textContent = '/';
         wrap.appendChild(sep);
       }
-      if (e.loc !== dispLoc) {
+      if (!shownLocs[e.loc]) {
+        shownLocs[e.loc] = true;
         const locEl = document.createElement('span');
         locEl.className = 'rb-loc rb-loc-' + e.loc;
         locEl.textContent = e.loc;
@@ -441,7 +442,7 @@
         bars.appendChild(bar); cell.appendChild(bars);
 
         const icons = document.createElement('span'); icons.className = 'rb-bt-icons';
-        icons.style.left = BT_SINGLE_LEFT + 'px';
+        icons.style.left = 4 + BT_SINGLE_LEFT + 'px';
         const q = document.createElement('span'); q.className = 'rb-unknown-badge'; q.textContent = '?';
         icons.appendChild(q); cell.prepend(icons);
         return;
@@ -561,6 +562,20 @@
     for (let i=0; i<panels.length; i+=4) {
       const tL=panels[i], tR=panels[i+1], bL=panels[i+3], bR=panels[i+2];
       if (tL) resizeObs.observe(tL); if (tR) resizeObs.observe(tR);
+
+      // Shrink top panel wrappers if their list content is shorter than rendered height.
+      // poe.ninja sizes panels to available space in mode 2, so on re-entry the BT panel
+      // with few items ends up oversized. We cap it at actual content height.
+      for (const top of [tL, tR]) {
+        if (!top) continue;
+        const topW = top.querySelector('.filter-list-wrapper');
+        if (!topW) continue;
+        const topList = topW.querySelector('.filter-list');
+        if (topList && topList.scrollHeight > 0 && topList.scrollHeight < topW.offsetHeight)
+          topW.style.height = topList.scrollHeight + 'px';
+      }
+
+      // Re-read heights after potential top-panel shrink
       const hL=tL?tL.offsetHeight:0, hR=tR?tR.offsetHeight:0;
       if (bL) bL.style.marginTop=hL<hR?-(hR-hL)+'px':'';
       if (bR) bR.style.marginTop=hR<hL?-(hL-hR)+'px':'';
