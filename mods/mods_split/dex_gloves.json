@@ -4,3840 +4,4444 @@
       {
         "loc": "P",
         "title": "Base",
-        "key": "normal"
+        "key": "normal",
+        "level": 54
       },
       {
         "loc": "P",
         "title": "Essence",
-        "key": "essence"
+        "key": "essence",
+        "level": 82
       },
       {
         "loc": "P",
         "title": "Veiled",
-        "key": "veiled"
+        "key": "veiled",
+        "level": 60
       },
       {
         "loc": "P",
         "title": "Crafting Bench",
-        "key": "master"
+        "key": "master",
+        "level": 81
       },
       {
         "loc": "I",
         "title": "Synthesis",
-        "key": "synthesis"
+        "key": "synthesis",
+        "level": 48
       }
     ],
     "Adds # to # Physical Damage to Attacks": [
       {
         "loc": "P",
         "title": "Base",
-        "key": "normal"
+        "key": "normal",
+        "level": 28
       },
       {
         "loc": "P",
         "title": "Essence",
-        "key": "essence"
+        "key": "essence",
+        "level": 82
       },
       {
         "loc": "P",
         "title": "Crafting Bench",
-        "key": "master"
+        "key": "master",
+        "level": 20
       },
       {
         "loc": "I",
         "title": "Searing Exarch",
-        "key": "searing"
+        "key": "searing",
+        "level": 75
       }
     ],
     "Adds # to # Fire Damage to Attacks": [
       {
         "loc": "P",
         "title": "Base",
-        "key": "normal"
+        "key": "normal",
+        "level": 44
       },
       {
         "loc": "P",
         "title": "Essence",
-        "key": "essence"
+        "key": "essence",
+        "level": 44
       },
       {
         "loc": "P",
         "title": "Incursion",
-        "key": "incursion"
+        "key": "incursion",
+        "level": 50
       },
       {
         "loc": "P",
         "title": "Crafting Bench",
-        "key": "master"
+        "key": "master",
+        "level": 20
       },
       {
         "loc": "I",
         "title": "Searing Exarch",
-        "key": "searing"
+        "key": "searing",
+        "level": 75
       }
     ],
     "Adds # to # Cold Damage to Attacks": [
       {
         "loc": "P",
         "title": "Base",
-        "key": "normal"
+        "key": "normal",
+        "level": 45
       },
       {
         "loc": "P",
         "title": "Essence",
-        "key": "essence"
+        "key": "essence",
+        "level": 45
       },
       {
         "loc": "P",
         "title": "Incursion",
-        "key": "incursion"
+        "key": "incursion",
+        "level": 50
       },
       {
         "loc": "P",
         "title": "Crafting Bench",
-        "key": "master"
+        "key": "master",
+        "level": 20
       },
       {
         "loc": "I",
         "title": "Searing Exarch",
-        "key": "searing"
+        "key": "searing",
+        "level": 75
       }
     ],
     "Adds # to # Lightning Damage to Attacks": [
       {
         "loc": "P",
         "title": "Base",
-        "key": "normal"
+        "key": "normal",
+        "level": 44
       },
       {
         "loc": "P",
         "title": "Essence",
-        "key": "essence"
+        "key": "essence",
+        "level": 44
       },
       {
         "loc": "P",
         "title": "Incursion",
-        "key": "incursion"
+        "key": "incursion",
+        "level": 50
       },
       {
         "loc": "P",
         "title": "Crafting Bench",
-        "key": "master"
+        "key": "master",
+        "level": 20
       },
       {
         "loc": "I",
         "title": "Searing Exarch",
-        "key": "searing"
+        "key": "searing",
+        "level": 75
       }
     ],
     "#% increased Evasion Rating": [
       {
         "loc": "P",
         "title": "Base",
-        "key": "normal"
+        "key": "normal",
+        "level": 84
       },
       {
         "loc": "P",
         "title": "Veiled",
-        "key": "veiled"
+        "key": "veiled",
+        "level": 60
       },
       {
         "loc": "P",
         "title": "Crafting Bench",
-        "key": "master"
+        "key": "master",
+        "level": 81
       },
       {
         "loc": "I",
         "title": "Synthesis",
-        "key": "synthesis"
+        "key": "synthesis",
+        "level": 48
       }
     ],
     "#% increased Stun and Block Recovery": [
       {
         "loc": "P",
         "title": "Base",
-        "key": "normal"
+        "key": "normal",
+        "level": 78
       },
       {
         "loc": "I",
         "title": "Synthesis",
-        "key": "synthesis"
+        "key": "synthesis",
+        "level": 48
       }
     ],
     "# to Evasion Rating": [
       {
         "loc": "P",
         "title": "Base",
-        "key": "normal"
+        "key": "normal",
+        "level": 46
       },
       {
         "loc": "P",
         "title": "Essence",
-        "key": "essence"
+        "key": "essence",
+        "level": 82
       },
       {
         "loc": "P",
         "title": "Crafting Bench",
-        "key": "master"
+        "key": "master",
+        "level": 30
       },
       {
         "loc": "I",
         "title": "Synthesis",
-        "key": "synthesis"
+        "key": "synthesis",
+        "level": 48
       }
     ],
     "#% increased Rarity of Items found": [
       {
         "loc": "P",
         "title": "Base",
-        "key": "normal"
+        "key": "normal",
+        "level": 39
       },
       {
         "loc": "S",
         "title": "Base",
-        "key": "normal"
+        "key": "normal",
+        "level": 39
       },
       {
         "loc": "I",
         "title": "Synthesis",
-        "key": "synthesis"
+        "key": "synthesis",
+        "level": 48
       }
     ],
     "# to Dexterity": [
       {
         "loc": "S",
         "title": "Base",
-        "key": "normal"
+        "key": "normal",
+        "level": 85
       },
       {
         "loc": "S",
         "title": "Essence",
-        "key": "essence"
+        "key": "essence",
+        "level": 82
       },
       {
         "loc": "S",
         "title": "Crafting Bench",
-        "key": "master"
+        "key": "master",
+        "level": 40
       },
       {
         "loc": "I",
         "title": "Synthesis",
-        "key": "synthesis"
+        "key": "synthesis",
+        "level": 24
       }
     ],
     "#% of Physical Attack Damage Leeched as Life": [
       {
         "loc": "S",
         "title": "Base",
-        "key": "normal"
+        "key": "normal",
+        "level": 50
       },
       {
         "loc": "S",
         "title": "Crafting Bench",
-        "key": "master"
+        "key": "master",
+        "level": 30
       },
       {
         "loc": "I",
         "title": "Synthesis",
-        "key": "synthesis"
+        "key": "synthesis",
+        "level": 24
       }
     ],
     "#% of Physical Attack Damage Leeched as Mana": [
       {
         "loc": "S",
         "title": "Base",
-        "key": "normal"
+        "key": "normal",
+        "level": 50
       },
       {
         "loc": "I",
         "title": "Synthesis",
-        "key": "synthesis"
+        "key": "synthesis",
+        "level": 24
       }
     ],
     "#% increased Attack Speed": [
       {
         "loc": "S",
         "title": "Base",
-        "key": "normal"
+        "key": "normal",
+        "level": 76
       },
       {
         "loc": "S",
         "title": "Essence",
-        "key": "essence"
+        "key": "essence",
+        "level": 82
       },
       {
         "loc": "S",
         "title": "Crafting Bench",
-        "key": "master"
+        "key": "master",
+        "level": 30
       },
       {
         "loc": "I",
         "title": "Searing Exarch",
-        "key": "searing"
+        "key": "searing",
+        "level": 75
       },
       {
         "loc": "S",
         "title": "Elder",
-        "key": "elder"
+        "key": "elder",
+        "level": 82
       },
       {
         "loc": "I",
         "title": "Synthesis",
-        "key": "synthesis"
+        "key": "synthesis",
+        "level": 24
       },
       {
         "loc": "I",
         "title": "Corrupted",
-        "key": "corrupted"
+        "key": "corrupted",
+        "level": 1
       }
     ],
     "# to Accuracy Rating": [
       {
         "loc": "S",
         "title": "Base",
-        "key": "normal"
+        "key": "normal",
+        "level": 85
       },
       {
         "loc": "S",
         "title": "Crafting Bench",
-        "key": "master"
+        "key": "master",
+        "level": 68
       },
       {
         "loc": "I",
         "title": "Synthesis",
-        "key": "synthesis"
+        "key": "synthesis",
+        "level": 48
       }
     ],
     "Regenerate # Life per second": [
       {
         "loc": "S",
         "title": "Base",
-        "key": "normal"
+        "key": "normal",
+        "level": 74
       },
       {
         "loc": "P",
         "title": "Veiled",
-        "key": "veiled"
+        "key": "veiled",
+        "level": 60
       },
       {
         "loc": "P",
         "title": "Crafting Bench",
-        "key": "master"
+        "key": "master",
+        "level": 81
       },
       {
         "loc": "I",
         "title": "Synthesis",
-        "key": "synthesis"
+        "key": "synthesis",
+        "level": 48
       }
     ],
     "#% to Fire Resistance": [
       {
         "loc": "S",
         "title": "Base",
-        "key": "normal"
+        "key": "normal",
+        "level": 84
       },
       {
         "loc": "S",
         "title": "Essence",
-        "key": "essence"
+        "key": "essence",
+        "level": 84
       },
       {
         "loc": "S",
         "title": "Incursion",
-        "key": "incursion"
+        "key": "incursion",
+        "level": 50
       },
       {
         "loc": "S",
         "title": "Crafting Bench",
-        "key": "master"
+        "key": "master",
+        "level": 50
       },
       {
         "loc": "I",
         "title": "Synthesis",
-        "key": "synthesis"
+        "key": "synthesis",
+        "level": 48
       }
     ],
     "#% to Cold Resistance": [
       {
         "loc": "S",
         "title": "Base",
-        "key": "normal"
+        "key": "normal",
+        "level": 84
       },
       {
         "loc": "S",
         "title": "Essence",
-        "key": "essence"
+        "key": "essence",
+        "level": 84
       },
       {
         "loc": "S",
         "title": "Incursion",
-        "key": "incursion"
+        "key": "incursion",
+        "level": 50
       },
       {
         "loc": "S",
         "title": "Crafting Bench",
-        "key": "master"
+        "key": "master",
+        "level": 50
       },
       {
         "loc": "I",
         "title": "Synthesis",
-        "key": "synthesis"
+        "key": "synthesis",
+        "level": 48
       }
     ],
     "#% to Lightning Resistance": [
       {
         "loc": "S",
         "title": "Base",
-        "key": "normal"
+        "key": "normal",
+        "level": 84
       },
       {
         "loc": "S",
         "title": "Essence",
-        "key": "essence"
+        "key": "essence",
+        "level": 84
       },
       {
         "loc": "S",
         "title": "Incursion",
-        "key": "incursion"
+        "key": "incursion",
+        "level": 50
       },
       {
         "loc": "S",
         "title": "Crafting Bench",
-        "key": "master"
+        "key": "master",
+        "level": 50
       },
       {
         "loc": "I",
         "title": "Synthesis",
-        "key": "synthesis"
+        "key": "synthesis",
+        "level": 48
       }
     ],
     "#% to Chaos Resistance": [
       {
         "loc": "S",
         "title": "Base",
-        "key": "normal"
+        "key": "normal",
+        "level": 81
       },
       {
         "loc": "S",
         "title": "Essence",
-        "key": "essence"
+        "key": "essence",
+        "level": 81
       },
       {
         "loc": "I",
         "title": "Synthesis",
-        "key": "synthesis"
+        "key": "synthesis",
+        "level": 24
       }
     ],
     "Gain # Life per Enemy Hit with Attacks": [
       {
         "loc": "S",
         "title": "Base",
-        "key": "normal"
+        "key": "normal",
+        "level": 8
       },
       {
         "loc": "I",
         "title": "Synthesis",
-        "key": "synthesis"
+        "key": "synthesis",
+        "level": 15
       }
     ],
     "Gain # Life per Enemy Killed": [
       {
         "loc": "S",
         "title": "Base",
-        "key": "normal"
+        "key": "normal",
+        "level": 81
       },
       {
         "loc": "I",
         "title": "Synthesis",
-        "key": "synthesis"
+        "key": "synthesis",
+        "level": 24
       }
     ],
     "Gain # Mana per Enemy Killed": [
       {
         "loc": "S",
         "title": "Base",
-        "key": "normal"
+        "key": "normal",
+        "level": 81
       },
       {
         "loc": "I",
         "title": "Synthesis",
-        "key": "synthesis"
+        "key": "synthesis",
+        "level": 24
       }
     ],
     "#% reduced Attribute Requirements": [
       {
         "loc": "S",
         "title": "Base",
-        "key": "normal"
+        "key": "normal",
+        "level": 60
       }
     ],
     "#% chance to Suppress Spell Damage": [
       {
         "loc": "S",
         "title": "Base",
-        "key": "normal"
+        "key": "normal",
+        "level": 85
       },
       {
         "loc": "S",
         "title": "Crafting Bench",
-        "key": "master"
+        "key": "master",
+        "level": 60
       },
       {
         "loc": "I",
         "title": "Eater of Worlds",
-        "key": "eater"
+        "key": "eater",
+        "level": 75
       },
       {
         "loc": "I",
         "title": "Synthesis",
-        "key": "synthesis"
+        "key": "synthesis",
+        "level": 48
       }
     ],
     "# to maximum Energy Shield": [
       {
         "loc": "P",
         "title": "Essence",
-        "key": "essence"
+        "key": "essence",
+        "level": 82
       },
       {
         "loc": "P",
         "title": "Crafting Bench",
-        "key": "master"
+        "key": "master",
+        "level": 30
       },
       {
         "loc": "I",
         "title": "Synthesis",
-        "key": "synthesis"
+        "key": "synthesis",
+        "level": 48
       }
     ],
     "Minions deal #% increased Damage": [
       {
         "loc": "P",
         "title": "Essence",
-        "key": "essence"
+        "key": "essence",
+        "level": 82
       },
       {
         "loc": "P",
         "title": "Delve",
-        "key": "delve"
+        "key": "delve",
+        "level": 1
       },
       {
         "loc": "P",
         "title": "Crafting Bench",
-        "key": "master"
+        "key": "master",
+        "level": 40
       },
       {
         "loc": "I",
         "title": "Searing Exarch",
-        "key": "searing"
+        "key": "searing",
+        "level": 75
       },
       {
         "loc": "P",
         "title": "Redeemer",
-        "key": "redeemer"
+        "key": "redeemer",
+        "level": 83
       },
       {
         "loc": "I",
         "title": "Synthesis",
-        "key": "synthesis"
+        "key": "synthesis",
+        "level": 24
       }
     ],
     "# to maximum Mana": [
       {
         "loc": "P",
         "title": "Essence",
-        "key": "essence"
+        "key": "essence",
+        "level": 82
       },
       {
         "loc": "P",
         "title": "Veiled",
-        "key": "veiled"
+        "key": "veiled",
+        "level": 60
       },
       {
         "loc": "P",
         "title": "Incursion",
-        "key": "incursion"
+        "key": "incursion",
+        "level": 50
       },
       {
         "loc": "P",
         "title": "Crafting Bench",
-        "key": "master"
+        "key": "master",
+        "level": 81
       },
       {
         "loc": "I",
         "title": "Synthesis",
-        "key": "synthesis"
+        "key": "synthesis",
+        "level": 48
       }
     ],
     "# to Armour": [
       {
         "loc": "P",
         "title": "Essence",
-        "key": "essence"
+        "key": "essence",
+        "level": 82
       },
       {
         "loc": "P",
         "title": "Crafting Bench",
-        "key": "master"
+        "key": "master",
+        "level": 30
       },
       {
         "loc": "I",
         "title": "Synthesis",
-        "key": "synthesis"
+        "key": "synthesis",
+        "level": 48
       }
     ],
     "# to Strength": [
       {
         "loc": "S",
         "title": "Essence",
-        "key": "essence"
+        "key": "essence",
+        "level": 82
       },
       {
         "loc": "S",
         "title": "Crafting Bench",
-        "key": "master"
+        "key": "master",
+        "level": 40
       },
       {
         "loc": "I",
         "title": "Synthesis",
-        "key": "synthesis"
+        "key": "synthesis",
+        "level": 24
       }
     ],
     "#% increased Global Critical Strike Chance": [
       {
         "loc": "S",
         "title": "Essence",
-        "key": "essence"
+        "key": "essence",
+        "level": 82
       },
       {
         "loc": "S",
         "title": "Veiled",
-        "key": "veiled"
+        "key": "veiled",
+        "level": 60
       },
       {
         "loc": "S",
         "title": "Crafting Bench",
-        "key": "master"
+        "key": "master",
+        "level": 81
       },
       {
         "loc": "S",
         "title": "Crusader",
-        "key": "crusader"
+        "key": "crusader",
+        "level": 85
       },
       {
         "loc": "I",
         "title": "Synthesis",
-        "key": "synthesis"
+        "key": "synthesis",
+        "level": 24
       }
     ],
     "# to Intelligence": [
       {
         "loc": "S",
         "title": "Essence",
-        "key": "essence"
+        "key": "essence",
+        "level": 82
       },
       {
         "loc": "S",
         "title": "Crafting Bench",
-        "key": "master"
+        "key": "master",
+        "level": 40
       },
       {
         "loc": "I",
         "title": "Synthesis",
-        "key": "synthesis"
+        "key": "synthesis",
+        "level": 24
       }
     ],
     "#% chance to Avoid being Stunned": [
       {
         "loc": "S",
         "title": "Essence",
-        "key": "essence"
+        "key": "essence",
+        "level": 82
       },
       {
         "loc": "S",
         "title": "Crafting Bench",
-        "key": "master"
+        "key": "master",
+        "level": 60
       },
       {
         "loc": "S",
         "title": "Warlord",
-        "key": "warlord"
+        "key": "warlord",
+        "level": 85
       },
       {
         "loc": "I",
         "title": "Synthesis",
-        "key": "synthesis"
+        "key": "synthesis",
+        "level": 36
       }
     ],
     "Socketed Gems deal # to # Added Fire Damage": [
       {
         "loc": "S",
         "title": "Essence",
-        "key": "essence"
+        "key": "essence",
+        "level": 63
       }
     ],
     "Socketed Gems have #% more Attack and Cast Speed": [
       {
         "loc": "S",
         "title": "Essence",
-        "key": "essence"
+        "key": "essence",
+        "level": 63
       }
     ],
     "Socketed Gems have #% Critical Strike Chance": [
       {
         "loc": "S",
         "title": "Essence",
-        "key": "essence"
+        "key": "essence",
+        "level": 63
       }
     ],
     "Socketed Gems deal #% more Damage over Time": [
       {
         "loc": "S",
         "title": "Essence",
-        "key": "essence"
+        "key": "essence",
+        "level": 63
       }
     ],
     "#% increased Attack and Cast Speed for each nearby Enemy, up to a maximum of #%": [
       {
         "loc": "S",
         "title": "Essence",
-        "key": "essence"
+        "key": "essence",
+        "level": 63
       }
     ],
     "#% increased Area of Effect": [
       {
         "loc": "P",
         "title": "Veiled",
-        "key": "veiled"
+        "key": "veiled",
+        "level": 60
       },
       {
         "loc": "P",
         "title": "Crafting Bench",
-        "key": "master"
+        "key": "master",
+        "level": 81
       }
     ],
     "#% increased Area Damage": [
       {
         "loc": "P",
         "title": "Veiled",
-        "key": "veiled"
+        "key": "veiled",
+        "level": 60
       },
       {
         "loc": "P",
         "title": "Crafting Bench",
-        "key": "master"
+        "key": "master",
+        "level": 81
       }
     ],
     "#% increased Projectile Speed": [
       {
         "loc": "P",
         "title": "Veiled",
-        "key": "veiled"
+        "key": "veiled",
+        "level": 60
       },
       {
         "loc": "P",
         "title": "Crafting Bench",
-        "key": "master"
+        "key": "master",
+        "level": 81
       },
       {
         "loc": "P",
         "title": "Elder",
-        "key": "elder"
+        "key": "elder",
+        "level": 92
       }
     ],
     "#% increased Projectile Damage": [
       {
         "loc": "P",
         "title": "Veiled",
-        "key": "veiled"
+        "key": "veiled",
+        "level": 60
       },
       {
         "loc": "P",
         "title": "Crafting Bench",
-        "key": "master"
+        "key": "master",
+        "level": 81
       },
       {
         "loc": "P",
         "title": "Shaper",
-        "key": "shaper"
+        "key": "shaper",
+        "level": 93
       }
     ],
     "#% increased Melee Damage": [
       {
         "loc": "P",
         "title": "Veiled",
-        "key": "veiled"
+        "key": "veiled",
+        "level": 60
       },
       {
         "loc": "P",
         "title": "Crafting Bench",
-        "key": "master"
+        "key": "master",
+        "level": 81
       },
       {
         "loc": "S",
         "title": "Elder",
-        "key": "elder"
+        "key": "elder",
+        "level": 95
       },
       {
         "loc": "P",
         "title": "Warlord",
-        "key": "warlord"
+        "key": "warlord",
+        "level": 83
       }
     ],
     "# metres to Melee Strike Range": [
       {
         "loc": "P",
         "title": "Veiled",
-        "key": "veiled"
+        "key": "veiled",
+        "level": 60
       },
       {
         "loc": "P",
         "title": "Crafting Bench",
-        "key": "master"
+        "key": "master",
+        "level": 81
       },
       {
         "loc": "S",
         "title": "Elder",
-        "key": "elder"
+        "key": "elder",
+        "level": 95
       },
       {
         "loc": "S",
         "title": "Warlord",
-        "key": "warlord"
+        "key": "warlord",
+        "level": 92
       }
     ],
     "#% of Physical Damage Converted to Fire Damage": [
       {
         "loc": "P",
         "title": "Veiled",
-        "key": "veiled"
+        "key": "veiled",
+        "level": 60
       },
       {
         "loc": "P",
         "title": "Incursion",
-        "key": "incursion"
+        "key": "incursion",
+        "level": 50
       },
       {
         "loc": "P",
         "title": "Crafting Bench",
-        "key": "master"
+        "key": "master",
+        "level": 60
       },
       {
         "loc": "I",
         "title": "Eater of Worlds",
-        "key": "eater"
+        "key": "eater",
+        "level": 75
       },
       {
         "loc": "P",
         "title": "Crusader",
-        "key": "crusader"
+        "key": "crusader",
+        "level": 81
       },
       {
         "loc": "I",
         "title": "Synthesis",
-        "key": "synthesis"
+        "key": "synthesis",
+        "level": 55
       }
     ],
     "#% of Physical Damage Converted to Cold Damage": [
       {
         "loc": "P",
         "title": "Veiled",
-        "key": "veiled"
+        "key": "veiled",
+        "level": 60
       },
       {
         "loc": "P",
         "title": "Incursion",
-        "key": "incursion"
+        "key": "incursion",
+        "level": 50
       },
       {
         "loc": "P",
         "title": "Crafting Bench",
-        "key": "master"
+        "key": "master",
+        "level": 60
       },
       {
         "loc": "I",
         "title": "Eater of Worlds",
-        "key": "eater"
+        "key": "eater",
+        "level": 75
       },
       {
         "loc": "P",
         "title": "Crusader",
-        "key": "crusader"
+        "key": "crusader",
+        "level": 81
       },
       {
         "loc": "I",
         "title": "Synthesis",
-        "key": "synthesis"
+        "key": "synthesis",
+        "level": 55
       }
     ],
     "#% of Physical Damage Converted to Lightning Damage": [
       {
         "loc": "P",
         "title": "Veiled",
-        "key": "veiled"
+        "key": "veiled",
+        "level": 60
       },
       {
         "loc": "P",
         "title": "Incursion",
-        "key": "incursion"
+        "key": "incursion",
+        "level": 50
       },
       {
         "loc": "P",
         "title": "Crafting Bench",
-        "key": "master"
+        "key": "master",
+        "level": 60
       },
       {
         "loc": "I",
         "title": "Eater of Worlds",
-        "key": "eater"
+        "key": "eater",
+        "level": 75
       },
       {
         "loc": "P",
         "title": "Crusader",
-        "key": "crusader"
+        "key": "crusader",
+        "level": 81
       },
       {
         "loc": "I",
         "title": "Synthesis",
-        "key": "synthesis"
+        "key": "synthesis",
+        "level": 55
       }
     ],
     "Regenerate # Mana per second": [
       {
         "loc": "P",
         "title": "Veiled",
-        "key": "veiled"
+        "key": "veiled",
+        "level": 60
       },
       {
         "loc": "P",
         "title": "Crafting Bench",
-        "key": "master"
+        "key": "master",
+        "level": 81
       }
     ],
     "#% additional Physical Damage Reduction while Focused": [
       {
         "loc": "P",
         "title": "Veiled",
-        "key": "veiled"
+        "key": "veiled",
+        "level": 60
       },
       {
         "loc": "P",
         "title": "Crafting Bench",
-        "key": "master"
+        "key": "master",
+        "level": 81
       }
     ],
     "grant focus skill [#]": [
       {
         "loc": "P",
         "title": "Veiled",
-        "key": "veiled"
+        "key": "veiled",
+        "level": 60
       },
       {
         "loc": "S",
         "title": "Veiled",
-        "key": "veiled"
+        "key": "veiled",
+        "level": 60
       },
       {
         "loc": "P",
         "title": "Crafting Bench",
-        "key": "master"
+        "key": "master",
+        "level": 81
       },
       {
         "loc": "S",
         "title": "Crafting Bench",
-        "key": "master"
+        "key": "master",
+        "level": 81
       }
     ],
     "# to Strength and Dexterity": [
       {
         "loc": "S",
         "title": "Veiled",
-        "key": "veiled"
+        "key": "veiled",
+        "level": 60
       },
       {
         "loc": "S",
         "title": "Crafting Bench",
-        "key": "master"
+        "key": "master",
+        "level": 81
       }
     ],
     "# to Dexterity and Intelligence": [
       {
         "loc": "S",
         "title": "Veiled",
-        "key": "veiled"
+        "key": "veiled",
+        "level": 60
       },
       {
         "loc": "S",
         "title": "Crafting Bench",
-        "key": "master"
+        "key": "master",
+        "level": 81
       }
     ],
     "# to Strength and Intelligence": [
       {
         "loc": "S",
         "title": "Veiled",
-        "key": "veiled"
+        "key": "veiled",
+        "level": 60
       },
       {
         "loc": "S",
         "title": "Crafting Bench",
-        "key": "master"
+        "key": "master",
+        "level": 81
       }
     ],
     "You have Onslaught during Soul Gain Prevention": [
       {
         "loc": "S",
         "title": "Veiled",
-        "key": "veiled"
+        "key": "veiled",
+        "level": 60
       },
       {
         "loc": "S",
         "title": "Crafting Bench",
-        "key": "master"
+        "key": "master",
+        "level": 50
       }
     ],
     "#% increased Damage with Non-Vaal Skills during Soul Gain Prevention": [
       {
         "loc": "S",
         "title": "Veiled",
-        "key": "veiled"
+        "key": "veiled",
+        "level": 60
       },
       {
         "loc": "S",
         "title": "Crafting Bench",
-        "key": "master"
+        "key": "master",
+        "level": 81
       }
     ],
     "#% increased Elemental Damage if you've dealt a Critical Strike Recently": [
       {
         "loc": "S",
         "title": "Veiled",
-        "key": "veiled"
+        "key": "veiled",
+        "level": 60
       },
       {
         "loc": "S",
         "title": "Crafting Bench",
-        "key": "master"
+        "key": "master",
+        "level": 81
       }
     ],
     "Adds # to # Chaos Damage if you've dealt a Critical Strike Recently": [
       {
         "loc": "S",
         "title": "Veiled",
-        "key": "veiled"
+        "key": "veiled",
+        "level": 60
       },
       {
         "loc": "S",
         "title": "Crafting Bench",
-        "key": "master"
+        "key": "master",
+        "level": 81
       }
     ],
     "#% increased Brand Attachment range": [
       {
         "loc": "S",
         "title": "Veiled",
-        "key": "veiled"
+        "key": "veiled",
+        "level": 60
       },
       {
         "loc": "S",
         "title": "Crafting Bench",
-        "key": "master"
+        "key": "master",
+        "level": 81
       },
       {
         "loc": "I",
         "title": "Synthesis",
-        "key": "synthesis"
+        "key": "synthesis",
+        "level": 56
       }
     ],
     "#% increased Attack and Cast Speed while Focused": [
       {
         "loc": "S",
         "title": "Veiled",
-        "key": "veiled"
+        "key": "veiled",
+        "level": 60
       },
       {
         "loc": "S",
         "title": "Crafting Bench",
-        "key": "master"
+        "key": "master",
+        "level": 81
       }
     ],
     "Focus has #% increased Cooldown Recovery Rate": [
       {
         "loc": "S",
         "title": "Veiled",
-        "key": "veiled"
+        "key": "veiled",
+        "level": 60
       }
     ],
     "Minions Recover #% of their Life when you Focus": [
       {
         "loc": "S",
         "title": "Veiled",
-        "key": "veiled"
+        "key": "veiled",
+        "level": 60
       },
       {
         "loc": "S",
         "title": "Crafting Bench",
-        "key": "master"
+        "key": "master",
+        "level": 60
       }
     ],
     "#% to Fire and Chaos Resistances": [
       {
         "loc": "S",
         "title": "Veiled",
-        "key": "veiled"
+        "key": "veiled",
+        "level": 60
       },
       {
         "loc": "S",
         "title": "Crafting Bench",
-        "key": "master"
+        "key": "master",
+        "level": 81
       }
     ],
     "#% to Lightning and Chaos Resistances": [
       {
         "loc": "S",
         "title": "Veiled",
-        "key": "veiled"
+        "key": "veiled",
+        "level": 60
       },
       {
         "loc": "S",
         "title": "Crafting Bench",
-        "key": "master"
+        "key": "master",
+        "level": 81
       }
     ],
     "#% to Cold and Chaos Resistances": [
       {
         "loc": "S",
         "title": "Veiled",
-        "key": "veiled"
+        "key": "veiled",
+        "level": 60
       },
       {
         "loc": "S",
         "title": "Crafting Bench",
-        "key": "master"
+        "key": "master",
+        "level": 81
       }
     ],
     "Adds # to # Fire Damage": [
       {
         "loc": "P",
         "title": "Delve",
-        "key": "delve"
+        "key": "delve",
+        "level": 1
       }
     ],
     "Adds # to # Cold Damage": [
       {
         "loc": "P",
         "title": "Delve",
-        "key": "delve"
+        "key": "delve",
+        "level": 1
       }
     ],
     "Adds # to # Lightning Damage": [
       {
         "loc": "P",
         "title": "Delve",
-        "key": "delve"
+        "key": "delve",
+        "level": 1
       }
     ],
     "Adds # to # Physical Damage": [
       {
         "loc": "P",
         "title": "Delve",
-        "key": "delve"
+        "key": "delve",
+        "level": 1
       }
     ],
     "Adds # to # Chaos Damage": [
       {
         "loc": "P",
         "title": "Delve",
-        "key": "delve"
+        "key": "delve",
+        "level": 1
       }
     ],
     "Adds # to # Physical Damage against Poisoned Enemies": [
       {
         "loc": "P",
         "title": "Delve",
-        "key": "delve"
+        "key": "delve",
+        "level": 1
       }
     ],
     "Adds # to # Physical Damage against Bleeding Enemies": [
       {
         "loc": "P",
         "title": "Delve",
-        "key": "delve"
+        "key": "delve",
+        "level": 1
       }
     ],
     "# to Level of Socketed Minion Gems": [
       {
         "loc": "P",
         "title": "Delve",
-        "key": "delve"
+        "key": "delve",
+        "level": 60
       },
       {
         "loc": "I",
         "title": "Corrupted",
-        "key": "corrupted"
+        "key": "corrupted",
+        "level": 20
       }
     ],
     "Summoned Phantasms have #% chance to refresh their Duration when they Hit a Rare or Unique Enemy": [
       {
         "loc": "P",
         "title": "Delve",
-        "key": "delve"
+        "key": "delve",
+        "level": 60
       }
     ],
     "Summoned Raging Spirits have #% chance to refresh their Duration when they Hit a Rare or Unique Enemy": [
       {
         "loc": "P",
         "title": "Delve",
-        "key": "delve"
+        "key": "delve",
+        "level": 60
       }
     ],
     "Regenerate #% of Life per second": [
       {
         "loc": "S",
         "title": "Delve",
-        "key": "delve"
+        "key": "delve",
+        "level": 1
       }
     ],
     "#% Global chance to Blind Enemies on hit": [
       {
         "loc": "S",
         "title": "Delve",
-        "key": "delve"
+        "key": "delve",
+        "level": 1
       },
       {
         "loc": "S",
         "title": "Shaper",
-        "key": "shaper"
+        "key": "shaper",
+        "level": 90
       },
       {
         "loc": "S",
         "title": "Redeemer",
-        "key": "redeemer"
+        "key": "redeemer",
+        "level": 90
       }
     ],
     "#% reduced Elemental Ailment Duration on you": [
       {
         "loc": "S",
         "title": "Delve",
-        "key": "delve"
+        "key": "delve",
+        "level": 1
       },
       {
         "loc": "I",
         "title": "Synthesis",
-        "key": "synthesis"
+        "key": "synthesis",
+        "level": 36
       }
     ],
     "Socketed Skills have #% increased Cast Speed": [
       {
         "loc": "S",
         "title": "Delve",
-        "key": "delve"
+        "key": "delve",
+        "level": 1
       }
     ],
     "Socketed Skills have #% increased Attack Speed": [
       {
         "loc": "S",
         "title": "Delve",
-        "key": "delve"
+        "key": "delve",
+        "level": 1
       }
     ],
     "Gain # Mana per Enemy Hit with Attacks": [
       {
         "loc": "S",
         "title": "Delve",
-        "key": "delve"
+        "key": "delve",
+        "level": 1
       },
       {
         "loc": "S",
         "title": "Hunter",
-        "key": "hunter"
+        "key": "hunter",
+        "level": 78
       },
       {
         "loc": "I",
         "title": "Synthesis",
-        "key": "synthesis"
+        "key": "synthesis",
+        "level": 24
       }
     ],
     "#% increased Attack and Cast Speed if you've Hit an Enemy Recently": [
       {
         "loc": "S",
         "title": "Delve",
-        "key": "delve"
+        "key": "delve",
+        "level": 1
       }
     ],
     "# to Level of Socketed Strength Gems": [
       {
         "loc": "S",
         "title": "Delve",
-        "key": "delve"
+        "key": "delve",
+        "level": 1
       },
       {
         "loc": "I",
         "title": "Synthesis",
-        "key": "synthesis"
+        "key": "synthesis",
+        "level": 65
       }
     ],
     "# to Level of Socketed Dexterity Gems": [
       {
         "loc": "S",
         "title": "Delve",
-        "key": "delve"
+        "key": "delve",
+        "level": 1
       },
       {
         "loc": "I",
         "title": "Synthesis",
-        "key": "synthesis"
+        "key": "synthesis",
+        "level": 65
       }
     ],
     "# to Level of Socketed Intelligence Gems": [
       {
         "loc": "S",
         "title": "Delve",
-        "key": "delve"
+        "key": "delve",
+        "level": 1
       },
       {
         "loc": "I",
         "title": "Synthesis",
-        "key": "synthesis"
+        "key": "synthesis",
+        "level": 65
       }
     ],
     "Has # Abyssal Socket": [
       {
         "loc": "S",
         "title": "Delve",
-        "key": "delve"
+        "key": "delve",
+        "level": 1
       }
     ],
     "#% increased Vaal Skill Critical Strike Chance": [
       {
         "loc": "S",
         "title": "Delve",
-        "key": "delve"
+        "key": "delve",
+        "level": 1
       },
       {
         "loc": "I",
         "title": "Synthesis",
-        "key": "synthesis"
+        "key": "synthesis",
+        "level": 48
       }
     ],
     "#% increased Effect of Non-Curse Auras from your Skills on Enemies": [
       {
         "loc": "S",
         "title": "Delve",
-        "key": "delve"
+        "key": "delve",
+        "level": 60
       }
     ],
     "Attacks have #% chance to cause Bleeding": [
       {
         "loc": "S",
         "title": "Delve",
-        "key": "delve"
+        "key": "delve",
+        "level": 60
       },
       {
         "loc": "I",
         "title": "Eater of Worlds",
-        "key": "eater"
+        "key": "eater",
+        "level": 75
       }
     ],
     "#% increased Damage with Bleeding": [
       {
         "loc": "S",
         "title": "Delve",
-        "key": "delve"
+        "key": "delve",
+        "level": 60
       },
       {
         "loc": "S",
         "title": "Elder",
-        "key": "elder"
+        "key": "elder",
+        "level": 90
       },
       {
         "loc": "I",
         "title": "Synthesis",
-        "key": "synthesis"
+        "key": "synthesis",
+        "level": 36
       }
     ],
     "#% increased Duration of Cold Ailments": [
       {
         "loc": "S",
         "title": "Delve",
-        "key": "delve"
+        "key": "delve",
+        "level": 60
       }
     ],
     "Corrupted Blood cannot be inflicted on you": [
       {
         "loc": "S",
         "title": "Delve",
-        "key": "delve"
+        "key": "delve",
+        "level": 60
       }
     ],
     "#% of Spell Damage Leeched as Energy Shield": [
       {
         "loc": "S",
         "title": "Delve",
-        "key": "delve"
+        "key": "delve",
+        "level": 1
       }
     ],
     "Bleeding you inflict deals Damage #% faster": [
       {
         "loc": "S",
         "title": "Delve",
-        "key": "delve"
+        "key": "delve",
+        "level": 60
       }
     ],
     "Ignites you inflict deal Damage #% faster": [
       {
         "loc": "S",
         "title": "Delve",
-        "key": "delve"
+        "key": "delve",
+        "level": 60
       }
     ],
     "Poisons you inflict deal Damage #% faster": [
       {
         "loc": "S",
         "title": "Delve",
-        "key": "delve"
+        "key": "delve",
+        "level": 60
       }
     ],
     "#% increased Effect of Lightning Ailments": [
       {
         "loc": "S",
         "title": "Delve",
-        "key": "delve"
+        "key": "delve",
+        "level": 60
       }
     ],
     "#% increased Mana Regeneration Rate": [
       {
         "loc": "S",
         "title": "Delve",
-        "key": "delve"
+        "key": "delve",
+        "level": 60
       }
     ],
     "#% of Damage taken Recouped as Mana": [
       {
         "loc": "S",
         "title": "Delve",
-        "key": "delve"
+        "key": "delve",
+        "level": 60
       }
     ],
     "#% increased maximum Mana": [
       {
         "loc": "P",
         "title": "Incursion",
-        "key": "incursion"
+        "key": "incursion",
+        "level": 50
       },
       {
         "loc": "I",
         "title": "Synthesis",
-        "key": "synthesis"
+        "key": "synthesis",
+        "level": 24
       }
     ],
     "#% increased Damage with Hits against Chilled Enemies": [
       {
         "loc": "S",
         "title": "Incursion",
-        "key": "incursion"
+        "key": "incursion",
+        "level": 50
       }
     ],
     "# to # added Fire Damage against Burning Enemies": [
       {
         "loc": "S",
         "title": "Incursion",
-        "key": "incursion"
+        "key": "incursion",
+        "level": 50
       }
     ],
     "#% increased Critical Strike Chance against Shocked Enemies": [
       {
         "loc": "S",
         "title": "Incursion",
-        "key": "incursion"
+        "key": "incursion",
+        "level": 50
       }
     ],
     "#% increased Armour": [
       {
         "loc": "P",
         "title": "Crafting Bench",
-        "key": "master"
+        "key": "master",
+        "level": 81
       },
       {
         "loc": "I",
         "title": "Synthesis",
-        "key": "synthesis"
+        "key": "synthesis",
+        "level": 48
       }
     ],
     "#% increased Energy Shield": [
       {
         "loc": "P",
         "title": "Crafting Bench",
-        "key": "master"
+        "key": "master",
+        "level": 81
       },
       {
         "loc": "I",
         "title": "Synthesis",
-        "key": "synthesis"
+        "key": "synthesis",
+        "level": 48
       }
     ],
     "#% increased Armour and Evasion": [
       {
         "loc": "P",
         "title": "Crafting Bench",
-        "key": "master"
+        "key": "master",
+        "level": 81
       }
     ],
     "#% increased Armour and Energy Shield": [
       {
         "loc": "P",
         "title": "Crafting Bench",
-        "key": "master"
+        "key": "master",
+        "level": 81
       }
     ],
     "#% increased Evasion and Energy Shield": [
       {
         "loc": "P",
         "title": "Crafting Bench",
-        "key": "master"
+        "key": "master",
+        "level": 81
       }
     ],
     "Adds # to # Chaos Damage to Attacks": [
       {
         "loc": "P",
         "title": "Crafting Bench",
-        "key": "master"
+        "key": "master",
+        "level": 30
       },
       {
         "loc": "I",
         "title": "Searing Exarch",
-        "key": "searing"
+        "key": "searing",
+        "level": 75
       }
     ],
     "#% increased Damage with Vaal Skills": [
       {
         "loc": "P",
         "title": "Crafting Bench",
-        "key": "master"
+        "key": "master",
+        "level": 24
       },
       {
         "loc": "I",
         "title": "Synthesis",
-        "key": "synthesis"
+        "key": "synthesis",
+        "level": 36
       }
     ],
     "#% increased Armour, Evasion and Energy Shield": [
       {
         "loc": "P",
         "title": "Crafting Bench",
-        "key": "master"
+        "key": "master",
+        "level": 81
       }
     ],
     "#% increased Damage while Leeching": [
       {
         "loc": "P",
         "title": "Crafting Bench",
-        "key": "master"
+        "key": "master",
+        "level": 81
       },
       {
         "loc": "I",
         "title": "Synthesis",
-        "key": "synthesis"
+        "key": "synthesis",
+        "level": 48
       }
     ],
     "#% increased Damage during any Flask Effect": [
       {
         "loc": "P",
         "title": "Crafting Bench",
-        "key": "master"
+        "key": "master",
+        "level": 81
       },
       {
         "loc": "I",
         "title": "Synthesis",
-        "key": "synthesis"
+        "key": "synthesis",
+        "level": 48
       }
     ],
     "Suffixes Cannot Be Changed": [
       {
         "loc": "P",
         "title": "Crafting Bench",
-        "key": "master"
+        "key": "master",
+        "level": 1
       }
     ],
     "#% to Fire and Cold Resistances": [
       {
         "loc": "S",
         "title": "Crafting Bench",
-        "key": "master"
+        "key": "master",
+        "level": 75
       }
     ],
     "#% to Cold and Lightning Resistances": [
       {
         "loc": "S",
         "title": "Crafting Bench",
-        "key": "master"
+        "key": "master",
+        "level": 75
       }
     ],
     "#% to Fire and Lightning Resistances": [
       {
         "loc": "S",
         "title": "Crafting Bench",
-        "key": "master"
+        "key": "master",
+        "level": 75
       }
     ],
     "# to all Attributes": [
       {
         "loc": "S",
         "title": "Crafting Bench",
-        "key": "master"
+        "key": "master",
+        "level": 50
       },
       {
         "loc": "I",
         "title": "Synthesis",
-        "key": "synthesis"
+        "key": "synthesis",
+        "level": 24
       }
     ],
     "#% reduced Effect of Chill and Shock on you": [
       {
         "loc": "S",
         "title": "Crafting Bench",
-        "key": "master"
+        "key": "master",
+        "level": 60
       }
     ],
     "#% increased Life Regeneration rate": [
       {
         "loc": "S",
         "title": "Crafting Bench",
-        "key": "master"
+        "key": "master",
+        "level": 60
       }
     ],
     "#% increased Energy Shield Recharge Rate": [
       {
         "loc": "S",
         "title": "Crafting Bench",
-        "key": "master"
+        "key": "master",
+        "level": 60
       }
     ],
     "Prefixes Cannot Be Changed": [
       {
         "loc": "S",
         "title": "Crafting Bench",
-        "key": "master"
+        "key": "master",
+        "level": 1
       }
     ],
     "Can have up to # Crafted Modifiers": [
       {
         "loc": "S",
         "title": "Crafting Bench",
-        "key": "master"
+        "key": "master",
+        "level": 1
       }
     ],
     "Cannot roll Attack Modifiers": [
       {
         "loc": "S",
         "title": "Crafting Bench",
-        "key": "master"
+        "key": "master",
+        "level": 1
       }
     ],
     "Cannot roll Caster Modifiers": [
       {
         "loc": "S",
         "title": "Crafting Bench",
-        "key": "master"
+        "key": "master",
+        "level": 1
       }
     ],
     "While a Unique Enemy is in your Presence, #% increased Attack Speed": [
       {
         "loc": "I",
         "title": "Searing Exarch",
-        "key": "searing"
+        "key": "searing",
+        "level": 75
       }
     ],
     "While a Pinnacle Atlas Boss is in your Presence, #% increased Attack Speed": [
       {
         "loc": "I",
         "title": "Searing Exarch",
-        "key": "searing"
+        "key": "searing",
+        "level": 75
       }
     ],
     "#% increased Critical Strike Chance for Attacks": [
       {
         "loc": "I",
         "title": "Searing Exarch",
-        "key": "searing"
+        "key": "searing",
+        "level": 75
       }
     ],
     "While a Unique Enemy is in your Presence, #% increased Critical Strike Chance for Attacks": [
       {
         "loc": "I",
         "title": "Searing Exarch",
-        "key": "searing"
+        "key": "searing",
+        "level": 75
       }
     ],
     "While a Pinnacle Atlas Boss is in your Presence, #% increased Critical Strike Chance for Attacks": [
       {
         "loc": "I",
         "title": "Searing Exarch",
-        "key": "searing"
+        "key": "searing",
+        "level": 75
       }
     ],
     "While a Unique Enemy is in your Presence, Adds # to # Physical Damage to Attacks": [
       {
         "loc": "I",
         "title": "Searing Exarch",
-        "key": "searing"
+        "key": "searing",
+        "level": 75
       }
     ],
     "While a Pinnacle Atlas Boss is in your Presence, Adds # to # Physical Damage to Attacks": [
       {
         "loc": "I",
         "title": "Searing Exarch",
-        "key": "searing"
+        "key": "searing",
+        "level": 75
       }
     ],
     "While a Unique Enemy is in your Presence, Adds # to # Fire Damage to Attacks": [
       {
         "loc": "I",
         "title": "Searing Exarch",
-        "key": "searing"
+        "key": "searing",
+        "level": 75
       }
     ],
     "While a Pinnacle Atlas Boss is in your Presence, Adds # to # Fire Damage to Attacks": [
       {
         "loc": "I",
         "title": "Searing Exarch",
-        "key": "searing"
+        "key": "searing",
+        "level": 75
       }
     ],
     "While a Unique Enemy is in your Presence, Adds # to # Cold Damage to Attacks": [
       {
         "loc": "I",
         "title": "Searing Exarch",
-        "key": "searing"
+        "key": "searing",
+        "level": 75
       }
     ],
     "While a Pinnacle Atlas Boss is in your Presence, Adds # to # Cold Damage to Attacks": [
       {
         "loc": "I",
         "title": "Searing Exarch",
-        "key": "searing"
+        "key": "searing",
+        "level": 75
       }
     ],
     "While a Unique Enemy is in your Presence, Adds # to # Lightning Damage to Attacks": [
       {
         "loc": "I",
         "title": "Searing Exarch",
-        "key": "searing"
+        "key": "searing",
+        "level": 75
       }
     ],
     "While a Pinnacle Atlas Boss is in your Presence, Adds # to # Lightning Damage to Attacks": [
       {
         "loc": "I",
         "title": "Searing Exarch",
-        "key": "searing"
+        "key": "searing",
+        "level": 75
       }
     ],
     "While a Unique Enemy is in your Presence, Adds # to # Chaos Damage to Attacks": [
       {
         "loc": "I",
         "title": "Searing Exarch",
-        "key": "searing"
+        "key": "searing",
+        "level": 75
       }
     ],
     "While a Pinnacle Atlas Boss is in your Presence, Adds # to # Chaos Damage to Attacks": [
       {
         "loc": "I",
         "title": "Searing Exarch",
-        "key": "searing"
+        "key": "searing",
+        "level": 75
       }
     ],
     "#% to Fire Damage over Time Multiplier": [
       {
         "loc": "I",
         "title": "Searing Exarch",
-        "key": "searing"
+        "key": "searing",
+        "level": 75
       },
       {
         "loc": "S",
         "title": "Shaper",
-        "key": "shaper"
+        "key": "shaper",
+        "level": 90
       },
       {
         "loc": "S",
         "title": "Hunter",
-        "key": "hunter"
+        "key": "hunter",
+        "level": 90
       }
     ],
     "While a Unique Enemy is in your Presence, #% to Fire Damage over Time Multiplier": [
       {
         "loc": "I",
         "title": "Searing Exarch",
-        "key": "searing"
+        "key": "searing",
+        "level": 75
       }
     ],
     "While a Pinnacle Atlas Boss is in your Presence, #% to Fire Damage over Time Multiplier": [
       {
         "loc": "I",
         "title": "Searing Exarch",
-        "key": "searing"
+        "key": "searing",
+        "level": 75
       }
     ],
     "#% to Cold Damage over Time Multiplier": [
       {
         "loc": "I",
         "title": "Searing Exarch",
-        "key": "searing"
+        "key": "searing",
+        "level": 75
       },
       {
         "loc": "S",
         "title": "Shaper",
-        "key": "shaper"
+        "key": "shaper",
+        "level": 90
       },
       {
         "loc": "S",
         "title": "Hunter",
-        "key": "hunter"
+        "key": "hunter",
+        "level": 90
       }
     ],
     "While a Unique Enemy is in your Presence, #% to Cold Damage over Time Multiplier": [
       {
         "loc": "I",
         "title": "Searing Exarch",
-        "key": "searing"
+        "key": "searing",
+        "level": 75
       }
     ],
     "While a Pinnacle Atlas Boss is in your Presence, #% to Cold Damage over Time Multiplier": [
       {
         "loc": "I",
         "title": "Searing Exarch",
-        "key": "searing"
+        "key": "searing",
+        "level": 75
       }
     ],
     "#% to Physical Damage over Time Multiplier": [
       {
         "loc": "I",
         "title": "Searing Exarch",
-        "key": "searing"
+        "key": "searing",
+        "level": 75
       },
       {
         "loc": "S",
         "title": "Elder",
-        "key": "elder"
+        "key": "elder",
+        "level": 90
       },
       {
         "loc": "S",
         "title": "Hunter",
-        "key": "hunter"
+        "key": "hunter",
+        "level": 90
       }
     ],
     "While a Unique Enemy is in your Presence, #% to Physical Damage over Time Multiplier": [
       {
         "loc": "I",
         "title": "Searing Exarch",
-        "key": "searing"
+        "key": "searing",
+        "level": 75
       }
     ],
     "While a Pinnacle Atlas Boss is in your Presence, #% to Physical Damage over Time Multiplier": [
       {
         "loc": "I",
         "title": "Searing Exarch",
-        "key": "searing"
+        "key": "searing",
+        "level": 75
       }
     ],
     "#% to Chaos Damage over Time Multiplier": [
       {
         "loc": "I",
         "title": "Searing Exarch",
-        "key": "searing"
+        "key": "searing",
+        "level": 75
       },
       {
         "loc": "S",
         "title": "Elder",
-        "key": "elder"
+        "key": "elder",
+        "level": 90
       },
       {
         "loc": "S",
         "title": "Hunter",
-        "key": "hunter"
+        "key": "hunter",
+        "level": 90
       }
     ],
     "While a Unique Enemy is in your Presence, #% to Chaos Damage over Time Multiplier": [
       {
         "loc": "I",
         "title": "Searing Exarch",
-        "key": "searing"
+        "key": "searing",
+        "level": 75
       }
     ],
     "While a Pinnacle Atlas Boss is in your Presence, #% to Chaos Damage over Time Multiplier": [
       {
         "loc": "I",
         "title": "Searing Exarch",
-        "key": "searing"
+        "key": "searing",
+        "level": 75
       }
     ],
     "Herald of Ash has #% increased Buff Effect": [
       {
         "loc": "I",
         "title": "Searing Exarch",
-        "key": "searing"
+        "key": "searing",
+        "level": 75
       }
     ],
     "While a Unique Enemy is in your Presence, Herald of Ash has #% increased Buff Effect": [
       {
         "loc": "I",
         "title": "Searing Exarch",
-        "key": "searing"
+        "key": "searing",
+        "level": 75
       }
     ],
     "While a Pinnacle Atlas Boss is in your Presence, Herald of Ash has #% increased Buff Effect": [
       {
         "loc": "I",
         "title": "Searing Exarch",
-        "key": "searing"
+        "key": "searing",
+        "level": 75
       }
     ],
     "Herald of Ice has #% increased Buff Effect": [
       {
         "loc": "I",
         "title": "Searing Exarch",
-        "key": "searing"
+        "key": "searing",
+        "level": 75
       }
     ],
     "While a Unique Enemy is in your Presence, Herald of Ice has #% increased Buff Effect": [
       {
         "loc": "I",
         "title": "Searing Exarch",
-        "key": "searing"
+        "key": "searing",
+        "level": 75
       }
     ],
     "While a Pinnacle Atlas Boss is in your Presence, Herald of Ice has #% increased Buff Effect": [
       {
         "loc": "I",
         "title": "Searing Exarch",
-        "key": "searing"
+        "key": "searing",
+        "level": 75
       }
     ],
     "Herald of Thunder has #% increased Buff Effect": [
       {
         "loc": "I",
         "title": "Searing Exarch",
-        "key": "searing"
+        "key": "searing",
+        "level": 75
       }
     ],
     "While a Unique Enemy is in your Presence, Herald of Thunder has #% increased Buff Effect": [
       {
         "loc": "I",
         "title": "Searing Exarch",
-        "key": "searing"
+        "key": "searing",
+        "level": 75
       }
     ],
     "While a Pinnacle Atlas Boss is in your Presence, Herald of Thunder has #% increased Buff Effect": [
       {
         "loc": "I",
         "title": "Searing Exarch",
-        "key": "searing"
+        "key": "searing",
+        "level": 75
       }
     ],
     "Herald of Purity has #% increased Buff Effect": [
       {
         "loc": "I",
         "title": "Searing Exarch",
-        "key": "searing"
+        "key": "searing",
+        "level": 75
       }
     ],
     "While a Unique Enemy is in your Presence, Herald of Purity has #% increased Buff Effect": [
       {
         "loc": "I",
         "title": "Searing Exarch",
-        "key": "searing"
+        "key": "searing",
+        "level": 75
       }
     ],
     "While a Pinnacle Atlas Boss is in your Presence, Herald of Purity has #% increased Buff Effect": [
       {
         "loc": "I",
         "title": "Searing Exarch",
-        "key": "searing"
+        "key": "searing",
+        "level": 75
       }
     ],
     "Herald of Agony has #% increased Buff Effect": [
       {
         "loc": "I",
         "title": "Searing Exarch",
-        "key": "searing"
+        "key": "searing",
+        "level": 75
       }
     ],
     "While a Unique Enemy is in your Presence, Herald of Agony has #% increased Buff Effect": [
       {
         "loc": "I",
         "title": "Searing Exarch",
-        "key": "searing"
+        "key": "searing",
+        "level": 75
       }
     ],
     "While a Pinnacle Atlas Boss is in your Presence, Herald of Agony has #% increased Buff Effect": [
       {
         "loc": "I",
         "title": "Searing Exarch",
-        "key": "searing"
+        "key": "searing",
+        "level": 75
       }
     ],
     "Ignites you inflict spread to other Enemies within # metres": [
       {
         "loc": "I",
         "title": "Searing Exarch",
-        "key": "searing"
+        "key": "searing",
+        "level": 75
       }
     ],
     "While a Unique Enemy is in your Presence, Ignites you inflict spread to other Enemies within # metres": [
       {
         "loc": "I",
         "title": "Searing Exarch",
-        "key": "searing"
+        "key": "searing",
+        "level": 75
       }
     ],
     "While a Pinnacle Atlas Boss is in your Presence, Ignites you inflict spread to other Enemies within # metres": [
       {
         "loc": "I",
         "title": "Searing Exarch",
-        "key": "searing"
+        "key": "searing",
+        "level": 75
       }
     ],
     "Freezes you inflict spread to other Enemies within # metres": [
       {
         "loc": "I",
         "title": "Searing Exarch",
-        "key": "searing"
+        "key": "searing",
+        "level": 75
       }
     ],
     "While a Unique Enemy is in your Presence, Freezes you inflict spread to other Enemies within # metres": [
       {
         "loc": "I",
         "title": "Searing Exarch",
-        "key": "searing"
+        "key": "searing",
+        "level": 75
       }
     ],
     "While a Pinnacle Atlas Boss is in your Presence, Freezes you inflict spread to other Enemies within # metres": [
       {
         "loc": "I",
         "title": "Searing Exarch",
-        "key": "searing"
+        "key": "searing",
+        "level": 75
       }
     ],
     "Shocks you inflict spread to other Enemies within # metres": [
       {
         "loc": "I",
         "title": "Searing Exarch",
-        "key": "searing"
+        "key": "searing",
+        "level": 75
       }
     ],
     "While a Unique Enemy is in your Presence, Shocks you inflict spread to other Enemies within # metres": [
       {
         "loc": "I",
         "title": "Searing Exarch",
-        "key": "searing"
+        "key": "searing",
+        "level": 75
       }
     ],
     "While a Pinnacle Atlas Boss is in your Presence, Shocks you inflict spread to other Enemies within # metres": [
       {
         "loc": "I",
         "title": "Searing Exarch",
-        "key": "searing"
+        "key": "searing",
+        "level": 75
       }
     ],
     "#% reduced Enemy Stun Threshold": [
       {
         "loc": "I",
         "title": "Searing Exarch",
-        "key": "searing"
+        "key": "searing",
+        "level": 75
       }
     ],
     "While a Unique Enemy is in your Presence, #% reduced Enemy Stun Threshold": [
       {
         "loc": "I",
         "title": "Searing Exarch",
-        "key": "searing"
+        "key": "searing",
+        "level": 75
       }
     ],
     "While a Pinnacle Atlas Boss is in your Presence, #% reduced Enemy Stun Threshold": [
       {
         "loc": "I",
         "title": "Searing Exarch",
-        "key": "searing"
+        "key": "searing",
+        "level": 75
       }
     ],
     "While a Unique Enemy is in your Presence, Minions deal #% increased Damage": [
       {
         "loc": "I",
         "title": "Searing Exarch",
-        "key": "searing"
+        "key": "searing",
+        "level": 75
       }
     ],
     "While a Pinnacle Atlas Boss is in your Presence, Minions deal #% increased Damage": [
       {
         "loc": "I",
         "title": "Searing Exarch",
-        "key": "searing"
+        "key": "searing",
+        "level": 75
       }
     ],
     "#% increased Trap Throwing Speed": [
       {
         "loc": "I",
         "title": "Searing Exarch",
-        "key": "searing"
+        "key": "searing",
+        "level": 75
       },
       {
         "loc": "S",
         "title": "Shaper",
-        "key": "shaper"
+        "key": "shaper",
+        "level": 90
       }
     ],
     "While a Unique Enemy is in your Presence, #% increased Trap Throwing Speed": [
       {
         "loc": "I",
         "title": "Searing Exarch",
-        "key": "searing"
+        "key": "searing",
+        "level": 75
       }
     ],
     "While a Pinnacle Atlas Boss is in your Presence, #% increased Trap Throwing Speed": [
       {
         "loc": "I",
         "title": "Searing Exarch",
-        "key": "searing"
+        "key": "searing",
+        "level": 75
       }
     ],
     "#% increased Mine Throwing Speed": [
       {
         "loc": "I",
         "title": "Searing Exarch",
-        "key": "searing"
+        "key": "searing",
+        "level": 75
       }
     ],
     "While a Unique Enemy is in your Presence, #% increased Mine Throwing Speed": [
       {
         "loc": "I",
         "title": "Searing Exarch",
-        "key": "searing"
+        "key": "searing",
+        "level": 75
       }
     ],
     "While a Pinnacle Atlas Boss is in your Presence, #% increased Mine Throwing Speed": [
       {
         "loc": "I",
         "title": "Searing Exarch",
-        "key": "searing"
+        "key": "searing",
+        "level": 75
       }
     ],
     "#% chance to Extinguish Enemies on Hit": [
       {
         "loc": "I",
         "title": "Searing Exarch",
-        "key": "searing"
+        "key": "searing",
+        "level": 75
       }
     ],
     "While a Unique Enemy is in your Presence, #% chance to Extinguish Enemies on Hit": [
       {
         "loc": "I",
         "title": "Searing Exarch",
-        "key": "searing"
+        "key": "searing",
+        "level": 75
       }
     ],
     "While a Pinnacle Atlas Boss is in your Presence, #% chance to Extinguish Enemies on Hit": [
       {
         "loc": "I",
         "title": "Searing Exarch",
-        "key": "searing"
+        "key": "searing",
+        "level": 75
       }
     ],
     "#% to maximum Cold Resistance": [
       {
         "loc": "I",
         "title": "Searing Exarch",
-        "key": "searing"
+        "key": "searing",
+        "level": 75
       },
       {
         "loc": "S",
         "title": "Crusader",
-        "key": "crusader"
+        "key": "crusader",
+        "level": 95
       },
       {
         "loc": "I",
         "title": "Synthesis",
-        "key": "synthesis"
+        "key": "synthesis",
+        "level": 60
       }
     ],
     "While a Unique Enemy is in your Presence, #% to maximum Cold Resistance": [
       {
         "loc": "I",
         "title": "Searing Exarch",
-        "key": "searing"
+        "key": "searing",
+        "level": 75
       }
     ],
     "While a Pinnacle Atlas Boss is in your Presence, #% to maximum Cold Resistance": [
       {
         "loc": "I",
         "title": "Searing Exarch",
-        "key": "searing"
+        "key": "searing",
+        "level": 75
       }
     ],
     "#% increased Damage per Frenzy Charge": [
       {
         "loc": "I",
         "title": "Searing Exarch",
-        "key": "searing"
+        "key": "searing",
+        "level": 75
       }
     ],
     "While a Unique Enemy is in your Presence, #% increased Damage per Frenzy Charge": [
       {
         "loc": "I",
         "title": "Searing Exarch",
-        "key": "searing"
+        "key": "searing",
+        "level": 75
       }
     ],
     "While a Pinnacle Atlas Boss is in your Presence, #% increased Damage per Frenzy Charge": [
       {
         "loc": "I",
         "title": "Searing Exarch",
-        "key": "searing"
+        "key": "searing",
+        "level": 75
       }
     ],
     "Non-Vaal Strike Skills target # additional nearby Enemy": [
       {
         "loc": "I",
         "title": "Searing Exarch",
-        "key": "searing"
+        "key": "searing",
+        "level": 75
       },
       {
         "loc": "P",
         "title": "Hunter",
-        "key": "hunter"
+        "key": "hunter",
+        "level": 80
       }
     ],
     "Non-Vaal Strike Skills target # additional nearby Enemies": [
       {
         "loc": "I",
         "title": "Searing Exarch",
-        "key": "searing"
+        "key": "searing",
+        "level": 75
       },
       {
         "loc": "P",
         "title": "Hunter",
-        "key": "hunter"
+        "key": "hunter",
+        "level": 90
       }
     ],
     "While a Unique Enemy is in your Presence, Non-Vaal Strike Skills target # additional nearby Enemies": [
       {
         "loc": "I",
         "title": "Searing Exarch",
-        "key": "searing"
+        "key": "searing",
+        "level": 75
       }
     ],
     "While a Pinnacle Atlas Boss is in your Presence, Non-Vaal Strike Skills target # additional nearby Enemies": [
       {
         "loc": "I",
         "title": "Searing Exarch",
-        "key": "searing"
+        "key": "searing",
+        "level": 75
       }
     ],
     "Gain # Rage on Attack Hit": [
       {
         "loc": "I",
         "title": "Searing Exarch",
-        "key": "searing"
+        "key": "searing",
+        "level": 75
       }
     ],
     "While a Unique Enemy is in your Presence, Gain # Rage on Attack Hit": [
       {
         "loc": "I",
         "title": "Searing Exarch",
-        "key": "searing"
+        "key": "searing",
+        "level": 75
       }
     ],
     "While a Pinnacle Atlas Boss is in your Presence, Gain # Rage on Attack Hit": [
       {
         "loc": "I",
         "title": "Searing Exarch",
-        "key": "searing"
+        "key": "searing",
+        "level": 75
       }
     ],
     "#% chance to Intimidate Enemies for # seconds on Hit": [
       {
         "loc": "I",
         "title": "Searing Exarch",
-        "key": "searing"
+        "key": "searing",
+        "level": 75
       },
       {
         "loc": "P",
         "title": "Hunter",
-        "key": "hunter"
+        "key": "hunter",
+        "level": 85
       }
     ],
     "While a Unique Enemy is in your Presence, #% chance to Intimidate Enemies for # seconds on Hit": [
       {
         "loc": "I",
         "title": "Searing Exarch",
-        "key": "searing"
+        "key": "searing",
+        "level": 75
       }
     ],
     "While a Pinnacle Atlas Boss is in your Presence, #% chance to Intimidate Enemies for # seconds on Hit": [
       {
         "loc": "I",
         "title": "Searing Exarch",
-        "key": "searing"
+        "key": "searing",
+        "level": 75
       }
     ],
     "While a Pinnacle Atlas Boss is in your Presence, Intimidate Enemies for # seconds on Hit": [
       {
         "loc": "I",
         "title": "Searing Exarch",
-        "key": "searing"
+        "key": "searing",
+        "level": 75
       }
     ],
     "#% chance to Unnerve Enemies for # seconds on Hit": [
       {
         "loc": "I",
         "title": "Searing Exarch",
-        "key": "searing"
+        "key": "searing",
+        "level": 75
       },
       {
         "loc": "P",
         "title": "Hunter",
-        "key": "hunter"
+        "key": "hunter",
+        "level": 85
       }
     ],
     "While a Unique Enemy is in your Presence, #% chance to Unnerve Enemies for # seconds on Hit": [
       {
         "loc": "I",
         "title": "Searing Exarch",
-        "key": "searing"
+        "key": "searing",
+        "level": 75
       }
     ],
     "While a Pinnacle Atlas Boss is in your Presence, #% chance to Unnerve Enemies for # seconds on Hit": [
       {
         "loc": "I",
         "title": "Searing Exarch",
-        "key": "searing"
+        "key": "searing",
+        "level": 75
       }
     ],
     "While a Pinnacle Atlas Boss is in your Presence, Unnerve Enemies for # seconds on Hit": [
       {
         "loc": "I",
         "title": "Searing Exarch",
-        "key": "searing"
+        "key": "searing",
+        "level": 75
       }
     ],
     "While a Unique Enemy is in your Presence, #% chance to Suppress Spell Damage": [
       {
         "loc": "I",
         "title": "Eater of Worlds",
-        "key": "eater"
+        "key": "eater",
+        "level": 75
       }
     ],
     "While a Pinnacle Atlas Boss is in your Presence, #% chance to Suppress Spell Damage": [
       {
         "loc": "I",
         "title": "Eater of Worlds",
-        "key": "eater"
+        "key": "eater",
+        "level": 75
       }
     ],
     "#% increased Evasion Rating from Equipped Helmet and Boots": [
       {
         "loc": "I",
         "title": "Eater of Worlds",
-        "key": "eater"
+        "key": "eater",
+        "level": 75
       }
     ],
     "While a Unique Enemy is in your Presence, #% increased Evasion Rating from Equipped Helmet and Boots": [
       {
         "loc": "I",
         "title": "Eater of Worlds",
-        "key": "eater"
+        "key": "eater",
+        "level": 75
       }
     ],
     "While a Pinnacle Atlas Boss is in your Presence, #% increased Evasion Rating from Equipped Helmet and Boots": [
       {
         "loc": "I",
         "title": "Eater of Worlds",
-        "key": "eater"
+        "key": "eater",
+        "level": 75
       }
     ],
     "Inflict Fire Exposure on Hit, applying #% to Fire Resistance": [
       {
         "loc": "I",
         "title": "Eater of Worlds",
-        "key": "eater"
+        "key": "eater",
+        "level": 75
       }
     ],
     "While a Unique Enemy is in your Presence, Inflict Fire Exposure on Hit, applying #% to Fire Resistance": [
       {
         "loc": "I",
         "title": "Eater of Worlds",
-        "key": "eater"
+        "key": "eater",
+        "level": 75
       }
     ],
     "While a Pinnacle Atlas Boss is in your Presence, Inflict Fire Exposure on Hit, applying #% to Fire Resistance": [
       {
         "loc": "I",
         "title": "Eater of Worlds",
-        "key": "eater"
+        "key": "eater",
+        "level": 75
       }
     ],
     "Inflict Cold Exposure on Hit, applying #% to Cold Resistance": [
       {
         "loc": "I",
         "title": "Eater of Worlds",
-        "key": "eater"
+        "key": "eater",
+        "level": 75
       }
     ],
     "While a Unique Enemy is in your Presence, Inflict Cold Exposure on Hit, applying #% to Cold Resistance": [
       {
         "loc": "I",
         "title": "Eater of Worlds",
-        "key": "eater"
+        "key": "eater",
+        "level": 75
       }
     ],
     "While a Pinnacle Atlas Boss is in your Presence, Inflict Cold Exposure on Hit, applying #% to Cold Resistance": [
       {
         "loc": "I",
         "title": "Eater of Worlds",
-        "key": "eater"
+        "key": "eater",
+        "level": 75
       }
     ],
     "Inflict Lightning Exposure on Hit, applying #% to Lightning Resistance": [
       {
         "loc": "I",
         "title": "Eater of Worlds",
-        "key": "eater"
+        "key": "eater",
+        "level": 75
       }
     ],
     "While a Unique Enemy is in your Presence, Inflict Lightning Exposure on Hit, applying #% to Lightning Resistance": [
       {
         "loc": "I",
         "title": "Eater of Worlds",
-        "key": "eater"
+        "key": "eater",
+        "level": 75
       }
     ],
     "While a Pinnacle Atlas Boss is in your Presence, Inflict Lightning Exposure on Hit, applying #% to Lightning Resistance": [
       {
         "loc": "I",
         "title": "Eater of Worlds",
-        "key": "eater"
+        "key": "eater",
+        "level": 75
       }
     ],
     "Hits have #% chance to ignore Enemy Physical Damage Reduction": [
       {
         "loc": "I",
         "title": "Eater of Worlds",
-        "key": "eater"
+        "key": "eater",
+        "level": 75
       }
     ],
     "While a Unique Enemy is in your Presence, Hits have #% chance to ignore Enemy Physical Damage Reduction": [
       {
         "loc": "I",
         "title": "Eater of Worlds",
-        "key": "eater"
+        "key": "eater",
+        "level": 75
       }
     ],
     "While a Pinnacle Atlas Boss is in your Presence, Hits have #% chance to ignore Enemy Physical Damage Reduction": [
       {
         "loc": "I",
         "title": "Eater of Worlds",
-        "key": "eater"
+        "key": "eater",
+        "level": 75
       }
     ],
     "Withered you Inflict expires #% slower": [
       {
         "loc": "I",
         "title": "Eater of Worlds",
-        "key": "eater"
+        "key": "eater",
+        "level": 75
       }
     ],
     "While a Unique Enemy is in your Presence, Withered you Inflict expires #% slower": [
       {
         "loc": "I",
         "title": "Eater of Worlds",
-        "key": "eater"
+        "key": "eater",
+        "level": 75
       }
     ],
     "While a Pinnacle Atlas Boss is in your Presence, Withered you Inflict expires #% slower": [
       {
         "loc": "I",
         "title": "Eater of Worlds",
-        "key": "eater"
+        "key": "eater",
+        "level": 75
       }
     ],
     "While a Unique Enemy is in your Presence, #% of Physical Damage Converted to Fire Damage": [
       {
         "loc": "I",
         "title": "Eater of Worlds",
-        "key": "eater"
+        "key": "eater",
+        "level": 75
       }
     ],
     "While a Pinnacle Atlas Boss is in your Presence, #% of Physical Damage Converted to Fire Damage": [
       {
         "loc": "I",
         "title": "Eater of Worlds",
-        "key": "eater"
+        "key": "eater",
+        "level": 75
       }
     ],
     "While a Unique Enemy is in your Presence, #% of Physical Damage Converted to Cold Damage": [
       {
         "loc": "I",
         "title": "Eater of Worlds",
-        "key": "eater"
+        "key": "eater",
+        "level": 75
       }
     ],
     "While a Pinnacle Atlas Boss is in your Presence, #% of Physical Damage Converted to Cold Damage": [
       {
         "loc": "I",
         "title": "Eater of Worlds",
-        "key": "eater"
+        "key": "eater",
+        "level": 75
       }
     ],
     "While a Unique Enemy is in your Presence, #% of Physical Damage Converted to Lightning Damage": [
       {
         "loc": "I",
         "title": "Eater of Worlds",
-        "key": "eater"
+        "key": "eater",
+        "level": 75
       }
     ],
     "While a Pinnacle Atlas Boss is in your Presence, #% of Physical Damage Converted to Lightning Damage": [
       {
         "loc": "I",
         "title": "Eater of Worlds",
-        "key": "eater"
+        "key": "eater",
+        "level": 75
       }
     ],
     "#% of Physical Damage Converted to Chaos Damage": [
       {
         "loc": "I",
         "title": "Eater of Worlds",
-        "key": "eater"
+        "key": "eater",
+        "level": 75
       }
     ],
     "While a Unique Enemy is in your Presence, #% of Physical Damage Converted to Chaos Damage": [
       {
         "loc": "I",
         "title": "Eater of Worlds",
-        "key": "eater"
+        "key": "eater",
+        "level": 75
       }
     ],
     "While a Pinnacle Atlas Boss is in your Presence, #% of Physical Damage Converted to Chaos Damage": [
       {
         "loc": "I",
         "title": "Eater of Worlds",
-        "key": "eater"
+        "key": "eater",
+        "level": 75
       }
     ],
     "#% of Fire Damage Leeched as Life": [
       {
         "loc": "I",
         "title": "Eater of Worlds",
-        "key": "eater"
+        "key": "eater",
+        "level": 75
       }
     ],
     "While a Unique Enemy is in your Presence, #% of Fire Damage Leeched as Life": [
       {
         "loc": "I",
         "title": "Eater of Worlds",
-        "key": "eater"
+        "key": "eater",
+        "level": 75
       }
     ],
     "While a Pinnacle Atlas Boss is in your Presence, #% of Fire Damage Leeched as Life": [
       {
         "loc": "I",
         "title": "Eater of Worlds",
-        "key": "eater"
+        "key": "eater",
+        "level": 75
       }
     ],
     "#% of Cold Damage Leeched as Life": [
       {
         "loc": "I",
         "title": "Eater of Worlds",
-        "key": "eater"
+        "key": "eater",
+        "level": 75
       }
     ],
     "While a Unique Enemy is in your Presence, #% of Cold Damage Leeched as Life": [
       {
         "loc": "I",
         "title": "Eater of Worlds",
-        "key": "eater"
+        "key": "eater",
+        "level": 75
       }
     ],
     "While a Pinnacle Atlas Boss is in your Presence, #% of Cold Damage Leeched as Life": [
       {
         "loc": "I",
         "title": "Eater of Worlds",
-        "key": "eater"
+        "key": "eater",
+        "level": 75
       }
     ],
     "#% of Lightning Damage Leeched as Life": [
       {
         "loc": "I",
         "title": "Eater of Worlds",
-        "key": "eater"
+        "key": "eater",
+        "level": 75
       }
     ],
     "While a Unique Enemy is in your Presence, #% of Lightning Damage Leeched as Life": [
       {
         "loc": "I",
         "title": "Eater of Worlds",
-        "key": "eater"
+        "key": "eater",
+        "level": 75
       }
     ],
     "While a Pinnacle Atlas Boss is in your Presence, #% of Lightning Damage Leeched as Life": [
       {
         "loc": "I",
         "title": "Eater of Worlds",
-        "key": "eater"
+        "key": "eater",
+        "level": 75
       }
     ],
     "#% of Physical Damage Leeched as Life": [
       {
         "loc": "I",
         "title": "Eater of Worlds",
-        "key": "eater"
+        "key": "eater",
+        "level": 75
       }
     ],
     "While a Unique Enemy is in your Presence, #% of Physical Damage Leeched as Life": [
       {
         "loc": "I",
         "title": "Eater of Worlds",
-        "key": "eater"
+        "key": "eater",
+        "level": 75
       }
     ],
     "While a Pinnacle Atlas Boss is in your Presence, #% of Physical Damage Leeched as Life": [
       {
         "loc": "I",
         "title": "Eater of Worlds",
-        "key": "eater"
+        "key": "eater",
+        "level": 75
       }
     ],
     "#% of Chaos Damage Leeched as Life": [
       {
         "loc": "I",
         "title": "Eater of Worlds",
-        "key": "eater"
+        "key": "eater",
+        "level": 75
       }
     ],
     "While a Unique Enemy is in your Presence, #% of Chaos Damage Leeched as Life": [
       {
         "loc": "I",
         "title": "Eater of Worlds",
-        "key": "eater"
+        "key": "eater",
+        "level": 75
       }
     ],
     "While a Pinnacle Atlas Boss is in your Presence, #% of Chaos Damage Leeched as Life": [
       {
         "loc": "I",
         "title": "Eater of Worlds",
-        "key": "eater"
+        "key": "eater",
+        "level": 75
       }
     ],
     "#% increased Damage per # Strength": [
       {
         "loc": "I",
         "title": "Eater of Worlds",
-        "key": "eater"
+        "key": "eater",
+        "level": 75
       }
     ],
     "While a Unique Enemy is in your Presence, #% increased Damage per # Strength": [
       {
         "loc": "I",
         "title": "Eater of Worlds",
-        "key": "eater"
+        "key": "eater",
+        "level": 75
       }
     ],
     "While a Pinnacle Atlas Boss is in your Presence, #% increased Damage per # Strength": [
       {
         "loc": "I",
         "title": "Eater of Worlds",
-        "key": "eater"
+        "key": "eater",
+        "level": 75
       }
     ],
     "#% increased Damage per # Dexterity": [
       {
         "loc": "I",
         "title": "Eater of Worlds",
-        "key": "eater"
+        "key": "eater",
+        "level": 75
       }
     ],
     "While a Unique Enemy is in your Presence, #% increased Damage per # Dexterity": [
       {
         "loc": "I",
         "title": "Eater of Worlds",
-        "key": "eater"
+        "key": "eater",
+        "level": 75
       }
     ],
     "While a Pinnacle Atlas Boss is in your Presence, #% increased Damage per # Dexterity": [
       {
         "loc": "I",
         "title": "Eater of Worlds",
-        "key": "eater"
+        "key": "eater",
+        "level": 75
       }
     ],
     "#% increased Damage per # Intelligence": [
       {
         "loc": "I",
         "title": "Eater of Worlds",
-        "key": "eater"
+        "key": "eater",
+        "level": 75
       }
     ],
     "While a Unique Enemy is in your Presence, #% increased Damage per # Intelligence": [
       {
         "loc": "I",
         "title": "Eater of Worlds",
-        "key": "eater"
+        "key": "eater",
+        "level": 75
       }
     ],
     "While a Pinnacle Atlas Boss is in your Presence, #% increased Damage per # Intelligence": [
       {
         "loc": "I",
         "title": "Eater of Worlds",
-        "key": "eater"
+        "key": "eater",
+        "level": 75
       }
     ],
     "#% increased Blind Effect": [
       {
         "loc": "I",
         "title": "Eater of Worlds",
-        "key": "eater"
+        "key": "eater",
+        "level": 75
       }
     ],
     "While a Unique Enemy is in your Presence, #% increased Blind Effect": [
       {
         "loc": "I",
         "title": "Eater of Worlds",
-        "key": "eater"
+        "key": "eater",
+        "level": 75
       }
     ],
     "While a Pinnacle Atlas Boss is in your Presence, #% increased Blind Effect": [
       {
         "loc": "I",
         "title": "Eater of Worlds",
-        "key": "eater"
+        "key": "eater",
+        "level": 75
       }
     ],
     "Exerted Attacks deal #% increased Damage": [
       {
         "loc": "I",
         "title": "Eater of Worlds",
-        "key": "eater"
+        "key": "eater",
+        "level": 75
       }
     ],
     "While a Unique Enemy is in your Presence, Exerted Attacks deal #% increased Damage": [
       {
         "loc": "I",
         "title": "Eater of Worlds",
-        "key": "eater"
+        "key": "eater",
+        "level": 75
       }
     ],
     "While a Pinnacle Atlas Boss is in your Presence, Exerted Attacks deal #% increased Damage": [
       {
         "loc": "I",
         "title": "Eater of Worlds",
-        "key": "eater"
+        "key": "eater",
+        "level": 75
       }
     ],
     "Attacks have #% chance to Maim on Hit": [
       {
         "loc": "I",
         "title": "Eater of Worlds",
-        "key": "eater"
+        "key": "eater",
+        "level": 75
       }
     ],
     "While a Unique Enemy is in your Presence, Attacks have #% chance to Maim on Hit": [
       {
         "loc": "I",
         "title": "Eater of Worlds",
-        "key": "eater"
+        "key": "eater",
+        "level": 75
       }
     ],
     "While a Pinnacle Atlas Boss is in your Presence, Attacks have #% chance to Maim on Hit": [
       {
         "loc": "I",
         "title": "Eater of Worlds",
-        "key": "eater"
+        "key": "eater",
+        "level": 75
       }
     ],
     "While a Pinnacle Atlas Boss is in your Presence, Attacks always Maim on Hit": [
       {
         "loc": "I",
         "title": "Eater of Worlds",
-        "key": "eater"
+        "key": "eater",
+        "level": 75
       }
     ],
     "#% chance to Hinder Enemies on Hit with Spells": [
       {
         "loc": "I",
         "title": "Eater of Worlds",
-        "key": "eater"
+        "key": "eater",
+        "level": 75
       }
     ],
     "While a Unique Enemy is in your Presence, #% chance to Hinder Enemies on Hit with Spells": [
       {
         "loc": "I",
         "title": "Eater of Worlds",
-        "key": "eater"
+        "key": "eater",
+        "level": 75
       }
     ],
     "While a Pinnacle Atlas Boss is in your Presence, #% chance to Hinder Enemies on Hit with Spells": [
       {
         "loc": "I",
         "title": "Eater of Worlds",
-        "key": "eater"
+        "key": "eater",
+        "level": 75
       }
     ],
     "While a Pinnacle Atlas Boss is in your Presence, Hinder Enemies on Hit with Spells": [
       {
         "loc": "I",
         "title": "Eater of Worlds",
-        "key": "eater"
+        "key": "eater",
+        "level": 75
       }
     ],
     "#% increased Global Accuracy Rating": [
       {
         "loc": "I",
         "title": "Eater of Worlds",
-        "key": "eater"
+        "key": "eater",
+        "level": 75
       },
       {
         "loc": "S",
         "title": "Elder",
-        "key": "elder"
+        "key": "elder",
+        "level": 93
       },
       {
         "loc": "S",
         "title": "Redeemer",
-        "key": "redeemer"
+        "key": "redeemer",
+        "level": 90
       },
       {
         "loc": "I",
         "title": "Synthesis",
-        "key": "synthesis"
+        "key": "synthesis",
+        "level": 48
       }
     ],
     "While a Unique Enemy is in your Presence, #% increased Global Accuracy Rating": [
       {
         "loc": "I",
         "title": "Eater of Worlds",
-        "key": "eater"
+        "key": "eater",
+        "level": 75
       }
     ],
     "While a Pinnacle Atlas Boss is in your Presence, #% increased Global Accuracy Rating": [
       {
         "loc": "I",
         "title": "Eater of Worlds",
-        "key": "eater"
+        "key": "eater",
+        "level": 75
       }
     ],
     "#% increased Effect of your Marks": [
       {
         "loc": "I",
         "title": "Eater of Worlds",
-        "key": "eater"
+        "key": "eater",
+        "level": 75
       }
     ],
     "While a Unique Enemy is in your Presence, #% increased Effect of your Marks": [
       {
         "loc": "I",
         "title": "Eater of Worlds",
-        "key": "eater"
+        "key": "eater",
+        "level": 75
       }
     ],
     "While a Pinnacle Atlas Boss is in your Presence, #% increased Effect of your Marks": [
       {
         "loc": "I",
         "title": "Eater of Worlds",
-        "key": "eater"
+        "key": "eater",
+        "level": 75
       }
     ],
     "# to Accuracy Rating per Frenzy Charge": [
       {
         "loc": "I",
         "title": "Eater of Worlds",
-        "key": "eater"
+        "key": "eater",
+        "level": 75
       }
     ],
     "While a Unique Enemy is in your Presence, # to Accuracy Rating per Frenzy Charge": [
       {
         "loc": "I",
         "title": "Eater of Worlds",
-        "key": "eater"
+        "key": "eater",
+        "level": 75
       }
     ],
     "While a Pinnacle Atlas Boss is in your Presence, # to Accuracy Rating per Frenzy Charge": [
       {
         "loc": "I",
         "title": "Eater of Worlds",
-        "key": "eater"
+        "key": "eater",
+        "level": 75
       }
     ],
     "Projectiles Pierce an additional Target": [
       {
         "loc": "I",
         "title": "Eater of Worlds",
-        "key": "eater"
+        "key": "eater",
+        "level": 75
       }
     ],
     "Projectiles Pierce # additional Targets": [
       {
         "loc": "I",
         "title": "Eater of Worlds",
-        "key": "eater"
+        "key": "eater",
+        "level": 75
       }
     ],
     "While a Unique Enemy is in your Presence, Projectiles Pierce # additional Targets": [
       {
         "loc": "I",
         "title": "Eater of Worlds",
-        "key": "eater"
+        "key": "eater",
+        "level": 75
       }
     ],
     "While a Pinnacle Atlas Boss is in your Presence, Projectiles Pierce # additional Targets": [
       {
         "loc": "I",
         "title": "Eater of Worlds",
-        "key": "eater"
+        "key": "eater",
+        "level": 75
       }
     ],
     "#% chance to Poison on Hit": [
       {
         "loc": "I",
         "title": "Eater of Worlds",
-        "key": "eater"
+        "key": "eater",
+        "level": 75
       }
     ],
     "While a Unique Enemy is in your Presence, #% chance to Poison on Hit": [
       {
         "loc": "I",
         "title": "Eater of Worlds",
-        "key": "eater"
+        "key": "eater",
+        "level": 75
       }
     ],
     "While a Pinnacle Atlas Boss is in your Presence, #% chance to Poison on Hit": [
       {
         "loc": "I",
         "title": "Eater of Worlds",
-        "key": "eater"
+        "key": "eater",
+        "level": 75
       }
     ],
     "While a Unique Enemy is in your Presence, Attacks have #% chance to cause Bleeding": [
       {
         "loc": "I",
         "title": "Eater of Worlds",
-        "key": "eater"
+        "key": "eater",
+        "level": 75
       }
     ],
     "While a Pinnacle Atlas Boss is in your Presence, Attacks have #% chance to cause Bleeding": [
       {
         "loc": "I",
         "title": "Eater of Worlds",
-        "key": "eater"
+        "key": "eater",
+        "level": 75
       }
     ],
     "#% chance to Aggravate Bleeding on targets you Hit with Attacks": [
       {
         "loc": "I",
         "title": "Eater of Worlds",
-        "key": "eater"
+        "key": "eater",
+        "level": 75
       }
     ],
     "While a Unique Enemy is in your Presence, #% chance to Aggravate Bleeding on targets you Hit with Attacks": [
       {
         "loc": "I",
         "title": "Eater of Worlds",
-        "key": "eater"
+        "key": "eater",
+        "level": 75
       }
     ],
     "While a Pinnacle Atlas Boss is in your Presence, #% chance to Aggravate Bleeding on targets you Hit with Attacks": [
       {
         "loc": "I",
         "title": "Eater of Worlds",
-        "key": "eater"
+        "key": "eater",
+        "level": 75
       }
     ],
     "#% chance to Impale Enemies on Hit with Attacks": [
       {
         "loc": "I",
         "title": "Eater of Worlds",
-        "key": "eater"
+        "key": "eater",
+        "level": 75
       },
       {
         "loc": "P",
         "title": "Hunter",
-        "key": "hunter"
+        "key": "hunter",
+        "level": 90
       },
       {
         "loc": "I",
         "title": "Synthesis",
-        "key": "synthesis"
+        "key": "synthesis",
+        "level": 1
       }
     ],
     "While a Unique Enemy is in your Presence, #% chance to Impale Enemies on Hit with Attacks": [
       {
         "loc": "I",
         "title": "Eater of Worlds",
-        "key": "eater"
+        "key": "eater",
+        "level": 75
       }
     ],
     "While a Pinnacle Atlas Boss is in your Presence, #% chance to Impale Enemies on Hit with Attacks": [
       {
         "loc": "I",
         "title": "Eater of Worlds",
-        "key": "eater"
+        "key": "eater",
+        "level": 75
       }
     ],
     "Socketed Gems are supported by Level # Faster Projectiles": [
       {
         "loc": "P",
         "title": "Elder",
-        "key": "elder"
+        "key": "elder",
+        "level": 92
       }
     ],
     "#% chance to gain a Frenzy Charge on Kill": [
       {
         "loc": "P",
         "title": "Elder",
-        "key": "elder"
+        "key": "elder",
+        "level": 94
       },
       {
         "loc": "P",
         "title": "Redeemer",
-        "key": "redeemer"
+        "key": "redeemer",
+        "level": 90
       },
       {
         "loc": "I",
         "title": "Synthesis",
-        "key": "synthesis"
+        "key": "synthesis",
+        "level": 55
       }
     ],
     "#% increased Frenzy Charge Duration": [
       {
         "loc": "P",
         "title": "Elder",
-        "key": "elder"
+        "key": "elder",
+        "level": 94
       },
       {
         "loc": "P",
         "title": "Redeemer",
-        "key": "redeemer"
+        "key": "redeemer",
+        "level": 90
       }
     ],
     "Socketed Gems are Supported by Level # Faster Attacks": [
       {
         "loc": "S",
         "title": "Elder",
-        "key": "elder"
+        "key": "elder",
+        "level": 82
       }
     ],
     "#% increased Attack and Cast Speed": [
       {
         "loc": "S",
         "title": "Elder",
-        "key": "elder"
+        "key": "elder",
+        "level": 95
       },
       {
         "loc": "I",
         "title": "Synthesis",
-        "key": "synthesis"
+        "key": "synthesis",
+        "level": 24
       }
     ],
     "Socketed Gems are Supported by Level # Chance to Poison": [
       {
         "loc": "S",
         "title": "Elder",
-        "key": "elder"
+        "key": "elder",
+        "level": 90
       }
     ],
     "#% increased Damage with Poison": [
       {
         "loc": "S",
         "title": "Elder",
-        "key": "elder"
+        "key": "elder",
+        "level": 90
       },
       {
         "loc": "I",
         "title": "Synthesis",
-        "key": "synthesis"
+        "key": "synthesis",
+        "level": 24
       }
     ],
     "Socketed Gems are Supported by Level # Chance To Bleed": [
       {
         "loc": "S",
         "title": "Elder",
-        "key": "elder"
+        "key": "elder",
+        "level": 90
       }
     ],
     "Socketed Gems are supported by Level # Additional Accuracy": [
       {
         "loc": "S",
         "title": "Elder",
-        "key": "elder"
+        "key": "elder",
+        "level": 93
       }
     ],
     "#% Chance to Block Attack Damage": [
       {
         "loc": "S",
         "title": "Elder",
-        "key": "elder"
+        "key": "elder",
+        "level": 90
       },
       {
         "loc": "S",
         "title": "Warlord",
-        "key": "warlord"
+        "key": "warlord",
+        "level": 90
       },
       {
         "loc": "I",
         "title": "Synthesis",
-        "key": "synthesis"
+        "key": "synthesis",
+        "level": 56
       }
     ],
     "Socketed Attacks have #% to Critical Strike Multiplier": [
       {
         "loc": "S",
         "title": "Elder",
-        "key": "elder"
+        "key": "elder",
+        "level": 94
       }
     ],
     "#% chance to gain Onslaught for # seconds on Kill": [
       {
         "loc": "S",
         "title": "Elder",
-        "key": "elder"
+        "key": "elder",
+        "level": 95
       }
     ],
     "#% to maximum Chance to Block Attack Damage": [
       {
         "loc": "S",
         "title": "Elder",
-        "key": "elder"
+        "key": "elder",
+        "level": 90
       },
       {
         "loc": "S",
         "title": "Warlord",
-        "key": "warlord"
+        "key": "warlord",
+        "level": 90
       }
     ],
     "Socketed Gems are Supported by Level # Mana Leech": [
       {
         "loc": "P",
         "title": "Shaper",
-        "key": "shaper"
+        "key": "shaper",
+        "level": 78
       }
     ],
     "Socketed Gems are Supported by Level # Slower Projectiles": [
       {
         "loc": "P",
         "title": "Shaper",
-        "key": "shaper"
+        "key": "shaper",
+        "level": 93
       }
     ],
     "#% increased Maximum total Mana Recovery per second from Leech": [
       {
         "loc": "P",
         "title": "Shaper",
-        "key": "shaper"
+        "key": "shaper",
+        "level": 78
       },
       {
         "loc": "I",
         "title": "Synthesis",
-        "key": "synthesis"
+        "key": "synthesis",
+        "level": 56
       }
     ],
     "Socketed Gems are Supported by Level # Faster Casting": [
       {
         "loc": "S",
         "title": "Shaper",
-        "key": "shaper"
+        "key": "shaper",
+        "level": 94
       }
     ],
     "#% increased Cast Speed": [
       {
         "loc": "S",
         "title": "Shaper",
-        "key": "shaper"
+        "key": "shaper",
+        "level": 94
       },
       {
         "loc": "I",
         "title": "Synthesis",
-        "key": "synthesis"
+        "key": "synthesis",
+        "level": 24
       },
       {
         "loc": "I",
         "title": "Corrupted",
-        "key": "corrupted"
+        "key": "corrupted",
+        "level": 1
       }
     ],
     "#% chance to Ignore Stuns while Casting": [
       {
         "loc": "S",
         "title": "Shaper",
-        "key": "shaper"
+        "key": "shaper",
+        "level": 90
       },
       {
         "loc": "S",
         "title": "Crusader",
-        "key": "crusader"
+        "key": "crusader",
+        "level": 85
       }
     ],
     "Socketed Gems are Supported by Level # Trap": [
       {
         "loc": "S",
         "title": "Shaper",
-        "key": "shaper"
+        "key": "shaper",
+        "level": 90
       }
     ],
     "#% increased Trap Damage": [
       {
         "loc": "S",
         "title": "Shaper",
-        "key": "shaper"
+        "key": "shaper",
+        "level": 90
       }
     ],
     "Socketed Gems are Supported by Level # Advanced Traps": [
       {
         "loc": "S",
         "title": "Shaper",
-        "key": "shaper"
+        "key": "shaper",
+        "level": 90
       }
     ],
     "Socketed Gems are Supported by Level # Trap And Mine Damage": [
       {
         "loc": "S",
         "title": "Shaper",
-        "key": "shaper"
+        "key": "shaper",
+        "level": 90
       }
     ],
     "Socketed Gems are supported by Level # Blind": [
       {
         "loc": "S",
         "title": "Shaper",
-        "key": "shaper"
+        "key": "shaper",
+        "level": 90
       }
     ],
     "Socketed Spells have #% to Critical Strike Multiplier": [
       {
         "loc": "S",
         "title": "Shaper",
-        "key": "shaper"
+        "key": "shaper",
+        "level": 93
       }
     ],
     "#% increased Maximum total Life Recovery per second from Leech": [
       {
         "loc": "P",
         "title": "Crusader",
-        "key": "crusader"
+        "key": "crusader",
+        "level": 85
       },
       {
         "loc": "I",
         "title": "Synthesis",
-        "key": "synthesis"
+        "key": "synthesis",
+        "level": 56
       }
     ],
     "Gain #% of Physical Damage as Extra Fire Damage": [
       {
         "loc": "P",
         "title": "Crusader",
-        "key": "crusader"
+        "key": "crusader",
+        "level": 81
       }
     ],
     "Gain #% of Physical Damage as Extra Cold Damage": [
       {
         "loc": "P",
         "title": "Crusader",
-        "key": "crusader"
+        "key": "crusader",
+        "level": 81
       }
     ],
     "Gain #% of Physical Damage as Extra Lightning Damage": [
       {
         "loc": "P",
         "title": "Crusader",
-        "key": "crusader"
+        "key": "crusader",
+        "level": 81
       }
     ],
     "#% increased Maximum total Energy Shield Recovery per second from Leech": [
       {
         "loc": "S",
         "title": "Crusader",
-        "key": "crusader"
+        "key": "crusader",
+        "level": 75
       }
     ],
     "Adds # to # Physical Damage if you've dealt a Critical Strike Recently": [
       {
         "loc": "P",
         "title": "Redeemer",
-        "key": "redeemer"
+        "key": "redeemer",
+        "level": 83
       }
     ],
     "Adds # to # Fire Damage if you've dealt a Critical Strike Recently": [
       {
         "loc": "P",
         "title": "Redeemer",
-        "key": "redeemer"
+        "key": "redeemer",
+        "level": 83
       }
     ],
     "Adds # to # Cold Damage if you've dealt a Critical Strike Recently": [
       {
         "loc": "P",
         "title": "Redeemer",
-        "key": "redeemer"
+        "key": "redeemer",
+        "level": 83
       }
     ],
     "Adds # to # Lightning Damage if you've dealt a Critical Strike Recently": [
       {
         "loc": "P",
         "title": "Redeemer",
-        "key": "redeemer"
+        "key": "redeemer",
+        "level": 83
       }
     ],
     "#% increased Damage with Hits and Ailments against Blinded Enemies": [
       {
         "loc": "S",
         "title": "Redeemer",
-        "key": "redeemer"
+        "key": "redeemer",
+        "level": 90
       }
     ],
     "#% increased Duration of Ailments on Enemies": [
       {
         "loc": "P",
         "title": "Hunter",
-        "key": "hunter"
+        "key": "hunter",
+        "level": 90
       }
     ],
     "Intimidate Enemies for # seconds on Hit": [
       {
         "loc": "P",
         "title": "Hunter",
-        "key": "hunter"
+        "key": "hunter",
+        "level": 95
       }
     ],
     "Unnerve Enemies for # seconds on Hit": [
       {
         "loc": "P",
         "title": "Hunter",
-        "key": "hunter"
+        "key": "hunter",
+        "level": 95
       }
     ],
     "Adds # to # Physical Damage for each Impale on Enemy": [
       {
         "loc": "P",
         "title": "Hunter",
-        "key": "hunter"
+        "key": "hunter",
+        "level": 90
       }
     ],
     "#% increased Effect of Non-Damaging Ailments": [
       {
         "loc": "P",
         "title": "Hunter",
-        "key": "hunter"
+        "key": "hunter",
+        "level": 90
       }
     ],
     "#% increased Dexterity": [
       {
         "loc": "S",
         "title": "Hunter",
-        "key": "hunter"
+        "key": "hunter",
+        "level": 85
       }
     ],
     "#% increased Attack Speed while not on Low Mana": [
       {
         "loc": "S",
         "title": "Hunter",
-        "key": "hunter"
+        "key": "hunter",
+        "level": 78
       }
     ],
     "# to Maximum Frenzy Charges": [
       {
         "loc": "P",
         "title": "Warlord",
-        "key": "warlord"
+        "key": "warlord",
+        "level": 85
       },
       {
         "loc": "I",
         "title": "Synthesis",
-        "key": "synthesis"
+        "key": "synthesis",
+        "level": 60
       },
       {
         "loc": "I",
         "title": "Corrupted",
-        "key": "corrupted"
+        "key": "corrupted",
+        "level": 60
       }
     ],
     "#% increased Projectile Attack Damage": [
       {
         "loc": "P",
         "title": "Warlord",
-        "key": "warlord"
+        "key": "warlord",
+        "level": 83
       }
     ],
     "#% increased Spell Damage": [
       {
         "loc": "P",
         "title": "Warlord",
-        "key": "warlord"
+        "key": "warlord",
+        "level": 83
       }
     ],
     "#% increased Damage over Time": [
       {
         "loc": "P",
         "title": "Warlord",
-        "key": "warlord"
+        "key": "warlord",
+        "level": 83
       },
       {
         "loc": "I",
         "title": "Synthesis",
-        "key": "synthesis"
+        "key": "synthesis",
+        "level": 24
       }
     ],
     "#% chance that if you would gain Frenzy Charges, you instead gain up to your maximum number of Frenzy Charges": [
       {
         "loc": "P",
         "title": "Warlord",
-        "key": "warlord"
+        "key": "warlord",
+        "level": 85
       }
     ],
     "Culling Strike": [
       {
         "loc": "S",
         "title": "Warlord",
-        "key": "warlord"
+        "key": "warlord",
+        "level": 83
       }
     ],
     "#% increased Area of Effect if you've dealt a Culling Strike Recently": [
       {
         "loc": "S",
         "title": "Warlord",
-        "key": "warlord"
+        "key": "warlord",
+        "level": 83
       }
     ],
     "Grants Level # Aspect of the Avian Skill": [
       {
         "loc": "S",
         "title": "Bestiary",
-        "key": "bestiary"
+        "key": "bestiary",
+        "level": 20
       }
     ],
     "Grants Level # Aspect of the Cat Skill": [
       {
         "loc": "S",
         "title": "Bestiary",
-        "key": "bestiary"
+        "key": "bestiary",
+        "level": 20
       }
     ],
     "Grants Level # Aspect of the Crab Skill": [
       {
         "loc": "S",
         "title": "Bestiary",
-        "key": "bestiary"
+        "key": "bestiary",
+        "level": 20
       }
     ],
     "Grants Level # Aspect of the Spider Skill": [
       {
         "loc": "S",
         "title": "Bestiary",
-        "key": "bestiary"
+        "key": "bestiary",
+        "level": 20
       }
     ],
     "#% increased maximum Life": [
       {
         "loc": "I",
         "title": "Synthesis",
-        "key": "synthesis"
+        "key": "synthesis",
+        "level": 15
       },
       {
         "loc": "I",
         "title": "Corrupted",
-        "key": "corrupted"
+        "key": "corrupted",
+        "level": 1
       }
     ],
     "Recover #% of Life on Kill": [
       {
         "loc": "I",
         "title": "Synthesis",
-        "key": "synthesis"
+        "key": "synthesis",
+        "level": 55
       }
     ],
     "Recover #% of Mana on Kill": [
       {
         "loc": "I",
         "title": "Synthesis",
-        "key": "synthesis"
+        "key": "synthesis",
+        "level": 56
       }
     ],
     "#% to maximum Fire Resistance": [
       {
         "loc": "I",
         "title": "Synthesis",
-        "key": "synthesis"
+        "key": "synthesis",
+        "level": 60
       }
     ],
     "#% to maximum Lightning Resistance": [
       {
         "loc": "I",
         "title": "Synthesis",
-        "key": "synthesis"
+        "key": "synthesis",
+        "level": 60
       }
     ],
     "#% to maximum Chaos Resistance": [
       {
         "loc": "I",
         "title": "Synthesis",
-        "key": "synthesis"
+        "key": "synthesis",
+        "level": 60
       }
     ],
     "#% increased Poison Duration": [
       {
         "loc": "I",
         "title": "Synthesis",
-        "key": "synthesis"
+        "key": "synthesis",
+        "level": 55
       }
     ],
     "#% increased Bleeding Duration": [
       {
         "loc": "I",
         "title": "Synthesis",
-        "key": "synthesis"
+        "key": "synthesis",
+        "level": 55
       }
     ],
     "#% increased Fire Damage": [
       {
         "loc": "I",
         "title": "Synthesis",
-        "key": "synthesis"
+        "key": "synthesis",
+        "level": 48
       }
     ],
     "#% increased Cold Damage": [
       {
         "loc": "I",
         "title": "Synthesis",
-        "key": "synthesis"
+        "key": "synthesis",
+        "level": 48
       }
     ],
     "#% increased Lightning Damage": [
       {
         "loc": "I",
         "title": "Synthesis",
-        "key": "synthesis"
+        "key": "synthesis",
+        "level": 48
       }
     ],
     "#% increased Global Physical Damage": [
       {
         "loc": "I",
         "title": "Synthesis",
-        "key": "synthesis"
+        "key": "synthesis",
+        "level": 48
       }
     ],
     "#% increased Chaos Damage": [
       {
         "loc": "I",
         "title": "Synthesis",
-        "key": "synthesis"
+        "key": "synthesis",
+        "level": 48
       }
     ],
     "#% increased Elemental Damage": [
       {
         "loc": "I",
         "title": "Synthesis",
-        "key": "synthesis"
+        "key": "synthesis",
+        "level": 48
       }
     ],
     "#% increased Strength": [
       {
         "loc": "I",
         "title": "Synthesis",
-        "key": "synthesis"
+        "key": "synthesis",
+        "level": 16
       }
     ],
     "#% increased Intelligence": [
       {
         "loc": "I",
         "title": "Synthesis",
-        "key": "synthesis"
+        "key": "synthesis",
+        "level": 16
       }
     ],
     "#% chance to Avoid Elemental Ailments": [
       {
         "loc": "I",
         "title": "Synthesis",
-        "key": "synthesis"
+        "key": "synthesis",
+        "level": 55
       }
     ],
     "#% Chance to Block Spell Damage": [
       {
         "loc": "I",
         "title": "Synthesis",
-        "key": "synthesis"
+        "key": "synthesis",
+        "level": 48
       }
     ],
     "Vitality has #% increased Mana Reservation Efficiency": [
       {
         "loc": "I",
         "title": "Synthesis",
-        "key": "synthesis"
+        "key": "synthesis",
+        "level": 48
       }
     ],
     "Determination has #% increased Mana Reservation Efficiency": [
       {
         "loc": "I",
         "title": "Synthesis",
-        "key": "synthesis"
+        "key": "synthesis",
+        "level": 48
       }
     ],
     "Grace has #% increased Mana Reservation Efficiency": [
       {
         "loc": "I",
         "title": "Synthesis",
-        "key": "synthesis"
+        "key": "synthesis",
+        "level": 48
       }
     ],
     "Discipline has #% increased Mana Reservation Efficiency": [
       {
         "loc": "I",
         "title": "Synthesis",
-        "key": "synthesis"
+        "key": "synthesis",
+        "level": 48
       }
     ],
     "Purity of Fire has #% increased Mana Reservation Efficiency": [
       {
         "loc": "I",
         "title": "Synthesis",
-        "key": "synthesis"
+        "key": "synthesis",
+        "level": 48
       }
     ],
     "Purity of Ice has #% increased Mana Reservation Efficiency": [
       {
         "loc": "I",
         "title": "Synthesis",
-        "key": "synthesis"
+        "key": "synthesis",
+        "level": 48
       }
     ],
     "Purity of Lightning has #% increased Mana Reservation Efficiency": [
       {
         "loc": "I",
         "title": "Synthesis",
-        "key": "synthesis"
+        "key": "synthesis",
+        "level": 48
       }
     ],
     "Curse Enemies with Flammability on Hit": [
       {
         "loc": "I",
         "title": "Synthesis",
-        "key": "synthesis"
+        "key": "synthesis",
+        "level": 56
       }
     ],
     "Curse Enemies with Frostbite on Hit": [
       {
         "loc": "I",
         "title": "Synthesis",
-        "key": "synthesis"
+        "key": "synthesis",
+        "level": 56
       }
     ],
     "Curse Enemies with Conductivity on Hit": [
       {
         "loc": "I",
         "title": "Synthesis",
-        "key": "synthesis"
+        "key": "synthesis",
+        "level": 56
       }
     ],
     "Curse Enemies with Vulnerability on Hit": [
       {
         "loc": "I",
         "title": "Synthesis",
-        "key": "synthesis"
+        "key": "synthesis",
+        "level": 56
       },
       {
         "loc": "I",
         "title": "Corrupted",
-        "key": "corrupted"
+        "key": "corrupted",
+        "level": 30
       }
     ],
     "Minions have #% increased maximum Life": [
       {
         "loc": "I",
         "title": "Synthesis",
-        "key": "synthesis"
+        "key": "synthesis",
+        "level": 36
       }
     ],
     "Minions Regenerate #% of Life per second": [
       {
         "loc": "I",
         "title": "Synthesis",
-        "key": "synthesis"
+        "key": "synthesis",
+        "level": 48
       }
     ],
     "#% increased Quantity of Items found": [
       {
         "loc": "I",
         "title": "Synthesis",
-        "key": "synthesis"
+        "key": "synthesis",
+        "level": 65
       }
     ],
     "#% to Quality of Socketed Melee Gems": [
       {
         "loc": "I",
         "title": "Synthesis",
-        "key": "synthesis"
+        "key": "synthesis",
+        "level": 50
       }
     ],
     "#% to Quality of Socketed Strength Gems": [
       {
         "loc": "I",
         "title": "Synthesis",
-        "key": "synthesis"
+        "key": "synthesis",
+        "level": 50
       }
     ],
     "#% to Quality of Socketed Dexterity Gems": [
       {
         "loc": "I",
         "title": "Synthesis",
-        "key": "synthesis"
+        "key": "synthesis",
+        "level": 50
       }
     ],
     "#% to Quality of Socketed Intelligence Gems": [
       {
         "loc": "I",
         "title": "Synthesis",
-        "key": "synthesis"
+        "key": "synthesis",
+        "level": 50
       }
     ],
     "#% to Quality of Socketed AoE Gems": [
       {
         "loc": "I",
         "title": "Synthesis",
-        "key": "synthesis"
+        "key": "synthesis",
+        "level": 50
       }
     ],
     "#% to Quality of Socketed Projectile Gems": [
       {
         "loc": "I",
         "title": "Synthesis",
-        "key": "synthesis"
+        "key": "synthesis",
+        "level": 50
       }
     ],
     "# Physical Damage taken from Attack Hits": [
       {
         "loc": "I",
         "title": "Synthesis",
-        "key": "synthesis"
+        "key": "synthesis",
+        "level": 36
       }
     ],
     "#% increased Attack and Cast Speed if Corrupted": [
       {
         "loc": "I",
         "title": "Synthesis",
-        "key": "synthesis"
+        "key": "synthesis",
+        "level": 60
       }
     ],
     "#% increased Damage with Hits and Ailments against Abyssal Monsters": [
       {
         "loc": "I",
         "title": "Synthesis",
-        "key": "synthesis"
+        "key": "synthesis",
+        "level": 50
       }
     ],
     "#% increased Effect of Socketed Abyss Jewels": [
       {
         "loc": "I",
         "title": "Synthesis",
-        "key": "synthesis"
+        "key": "synthesis",
+        "level": 70
       }
     ],
     "Curse Enemies with Despair on Hit": [
       {
         "loc": "I",
         "title": "Corrupted",
-        "key": "corrupted"
+        "key": "corrupted",
+        "level": 30
       }
     ],
     "Curse Enemies with Elemental Weakness on Hit": [
       {
         "loc": "I",
         "title": "Corrupted",
-        "key": "corrupted"
+        "key": "corrupted",
+        "level": 30
       }
     ],
     "Curse Enemies with Enfeeble on Hit": [
       {
         "loc": "I",
         "title": "Corrupted",
-        "key": "corrupted"
+        "key": "corrupted",
+        "level": 30
       }
     ],
     "Curse Enemies with Temporal Chains on Hit": [
       {
         "loc": "I",
         "title": "Corrupted",
-        "key": "corrupted"
+        "key": "corrupted",
+        "level": 30
       }
     ],
     "# to Level of Socketed Gems": [
       {
         "loc": "I",
         "title": "Corrupted",
-        "key": "corrupted"
+        "key": "corrupted",
+        "level": 1
       }
     ],
     "Attacks have #% to Critical Strike Chance": [
       {
         "loc": "I",
         "title": "Corrupted",
-        "key": "corrupted"
+        "key": "corrupted",
+        "level": 60
       }
     ],
     "#% to Spell Critical Strike Chance": [
       {
         "loc": "I",
         "title": "Corrupted",
-        "key": "corrupted"
+        "key": "corrupted",
+        "level": 60
       }
     ],
     "# to Level of Socketed Duration Gems": [
       {
         "loc": "I",
         "title": "Corrupted",
-        "key": "corrupted"
+        "key": "corrupted",
+        "level": 20
       }
     ],
     "# to Level of Socketed AoE Gems": [
       {
         "loc": "I",
         "title": "Corrupted",
-        "key": "corrupted"
+        "key": "corrupted",
+        "level": 20
       }
     ],
     "# to Level of Socketed Aura Gems": [
       {
         "loc": "I",
         "title": "Corrupted",
-        "key": "corrupted"
+        "key": "corrupted",
+        "level": 20
       }
     ],
     "# to Level of Socketed Curse Gems": [
       {
         "loc": "I",
         "title": "Corrupted",
-        "key": "corrupted"
+        "key": "corrupted",
+        "level": 20
       }
     ],
     "# to Level of Socketed Trap or Mine Gems": [
       {
         "loc": "I",
         "title": "Corrupted",
-        "key": "corrupted"
+        "key": "corrupted",
+        "level": 20
       }
     ],
     "# to Level of Socketed Warcry Gems": [
       {
         "loc": "I",
         "title": "Corrupted",
-        "key": "corrupted"
+        "key": "corrupted",
+        "level": 20
       }
     ],
     "# to Level of Socketed Projectile Gems": [
       {
         "loc": "I",
         "title": "Corrupted",
-        "key": "corrupted"
+        "key": "corrupted",
+        "level": 20
       }
     ],
     "#% increased maximum Energy Shield": [
       {
         "loc": "I",
         "title": "Corrupted",
-        "key": "corrupted"
+        "key": "corrupted",
+        "level": 1
       }
     ]
   }

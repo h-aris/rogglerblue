@@ -4,1680 +4,1958 @@
       {
         "loc": "P",
         "title": "Base",
-        "key": "normal"
+        "key": "normal",
+        "level": 64
       },
       {
         "loc": "P",
         "title": "Veiled",
-        "key": "veiled"
+        "key": "veiled",
+        "level": 60
       },
       {
         "loc": "P",
         "title": "Incursion",
-        "key": "incursion"
+        "key": "incursion",
+        "level": 50
       },
       {
         "loc": "P",
         "title": "Crafting Bench",
-        "key": "master"
+        "key": "master",
+        "level": 81
       }
     ],
     "# to maximum Mana": [
       {
         "loc": "P",
         "title": "Base",
-        "key": "normal"
+        "key": "normal",
+        "level": 75
       },
       {
         "loc": "P",
         "title": "Veiled",
-        "key": "veiled"
+        "key": "veiled",
+        "level": 60
       },
       {
         "loc": "P",
         "title": "Crafting Bench",
-        "key": "master"
+        "key": "master",
+        "level": 81
       }
     ],
     "# to maximum Energy Shield": [
       {
         "loc": "P",
         "title": "Base",
-        "key": "normal"
+        "key": "normal",
+        "level": 80
       },
       {
         "loc": "P",
         "title": "Essence",
-        "key": "essence"
+        "key": "essence",
+        "level": 68
       },
       {
         "loc": "P",
         "title": "Veiled",
-        "key": "veiled"
+        "key": "veiled",
+        "level": 60
       },
       {
         "loc": "P",
         "title": "Incursion",
-        "key": "incursion"
+        "key": "incursion",
+        "level": 50
       },
       {
         "loc": "P",
         "title": "Crafting Bench",
-        "key": "master"
+        "key": "master",
+        "level": 81
       }
     ],
     "# to Armour": [
       {
         "loc": "P",
         "title": "Base",
-        "key": "normal"
+        "key": "normal",
+        "level": 86
       },
       {
         "loc": "P",
         "title": "Essence",
-        "key": "essence"
+        "key": "essence",
+        "level": 83
       },
       {
         "loc": "P",
         "title": "Veiled",
-        "key": "veiled"
+        "key": "veiled",
+        "level": 60
       },
       {
         "loc": "P",
         "title": "Crafting Bench",
-        "key": "master"
+        "key": "master",
+        "level": 81
       }
     ],
     "#% increased Elemental Damage with Attack Skills": [
       {
         "loc": "P",
         "title": "Base",
-        "key": "normal"
+        "key": "normal",
+        "level": 86
       },
       {
         "loc": "P",
         "title": "Crafting Bench",
-        "key": "master"
+        "key": "master",
+        "level": 50
       },
       {
         "loc": "I",
         "title": "Synthesis",
-        "key": "synthesis"
+        "key": "synthesis",
+        "level": 56
       }
     ],
     "Flasks applied to you have #% increased Effect": [
       {
         "loc": "P",
         "title": "Base",
-        "key": "normal"
+        "key": "normal",
+        "level": 85
       },
       {
         "loc": "P",
         "title": "Veiled",
-        "key": "veiled"
+        "key": "veiled",
+        "level": 60
       },
       {
         "loc": "P",
         "title": "Crafting Bench",
-        "key": "master"
+        "key": "master",
+        "level": 75
       }
     ],
     "#% increased Flask Life Recovery rate": [
       {
         "loc": "P",
         "title": "Base",
-        "key": "normal"
+        "key": "normal",
+        "level": 77
       },
       {
         "loc": "P",
         "title": "Essence",
-        "key": "essence"
+        "key": "essence",
+        "level": 82
       }
     ],
     "#% increased Flask Mana Recovery rate": [
       {
         "loc": "P",
         "title": "Base",
-        "key": "normal"
+        "key": "normal",
+        "level": 77
       },
       {
         "loc": "P",
         "title": "Essence",
-        "key": "essence"
+        "key": "essence",
+        "level": 82
       }
     ],
     "Reflects # Physical Damage to Melee Attackers": [
       {
         "loc": "P",
         "title": "Base",
-        "key": "normal"
+        "key": "normal",
+        "level": 10
       },
       {
         "loc": "P",
         "title": "Essence",
-        "key": "essence"
+        "key": "essence",
+        "level": 82
       },
       {
         "loc": "I",
         "title": "Synthesis",
-        "key": "synthesis"
+        "key": "synthesis",
+        "level": 24
       }
     ],
     "# to Strength": [
       {
         "loc": "S",
         "title": "Base",
-        "key": "normal"
+        "key": "normal",
+        "level": 85
       },
       {
         "loc": "S",
         "title": "Essence",
-        "key": "essence"
+        "key": "essence",
+        "level": 82
       },
       {
         "loc": "S",
         "title": "Crafting Bench",
-        "key": "master"
+        "key": "master",
+        "level": 40
       },
       {
         "loc": "I",
         "title": "Synthesis",
-        "key": "synthesis"
+        "key": "synthesis",
+        "level": 1
       }
     ],
     "Regenerate # Life per second": [
       {
         "loc": "S",
         "title": "Base",
-        "key": "normal"
+        "key": "normal",
+        "level": 78
       },
       {
         "loc": "P",
         "title": "Veiled",
-        "key": "veiled"
+        "key": "veiled",
+        "level": 60
       },
       {
         "loc": "S",
         "title": "Incursion",
-        "key": "incursion"
+        "key": "incursion",
+        "level": 50
       },
       {
         "loc": "P",
         "title": "Crafting Bench",
-        "key": "master"
+        "key": "master",
+        "level": 81
       },
       {
         "loc": "I",
         "title": "Synthesis",
-        "key": "synthesis"
+        "key": "synthesis",
+        "level": 48
       }
     ],
     "#% reduced Enemy Stun Threshold": [
       {
         "loc": "S",
         "title": "Base",
-        "key": "normal"
+        "key": "normal",
+        "level": 58
       },
       {
         "loc": "S",
         "title": "Essence",
-        "key": "essence"
+        "key": "essence",
+        "level": 82
       },
       {
         "loc": "I",
         "title": "Synthesis",
-        "key": "synthesis"
+        "key": "synthesis",
+        "level": 24
       }
     ],
     "#% to Fire Resistance": [
       {
         "loc": "S",
         "title": "Base",
-        "key": "normal"
+        "key": "normal",
+        "level": 84
       },
       {
         "loc": "S",
         "title": "Essence",
-        "key": "essence"
+        "key": "essence",
+        "level": 84
       },
       {
         "loc": "S",
         "title": "Crafting Bench",
-        "key": "master"
+        "key": "master",
+        "level": 50
       },
       {
         "loc": "I",
         "title": "Synthesis",
-        "key": "synthesis"
+        "key": "synthesis",
+        "level": 48
       }
     ],
     "#% to Cold Resistance": [
       {
         "loc": "S",
         "title": "Base",
-        "key": "normal"
+        "key": "normal",
+        "level": 84
       },
       {
         "loc": "S",
         "title": "Essence",
-        "key": "essence"
+        "key": "essence",
+        "level": 84
       },
       {
         "loc": "S",
         "title": "Crafting Bench",
-        "key": "master"
+        "key": "master",
+        "level": 50
       },
       {
         "loc": "I",
         "title": "Synthesis",
-        "key": "synthesis"
+        "key": "synthesis",
+        "level": 48
       }
     ],
     "#% to Lightning Resistance": [
       {
         "loc": "S",
         "title": "Base",
-        "key": "normal"
+        "key": "normal",
+        "level": 84
       },
       {
         "loc": "S",
         "title": "Essence",
-        "key": "essence"
+        "key": "essence",
+        "level": 84
       },
       {
         "loc": "S",
         "title": "Crafting Bench",
-        "key": "master"
+        "key": "master",
+        "level": 50
       },
       {
         "loc": "I",
         "title": "Synthesis",
-        "key": "synthesis"
+        "key": "synthesis",
+        "level": 48
       }
     ],
     "#% to Chaos Resistance": [
       {
         "loc": "S",
         "title": "Base",
-        "key": "normal"
+        "key": "normal",
+        "level": 81
       },
       {
         "loc": "S",
         "title": "Essence",
-        "key": "essence"
+        "key": "essence",
+        "level": 81
       },
       {
         "loc": "I",
         "title": "Synthesis",
-        "key": "synthesis"
+        "key": "synthesis",
+        "level": 24
       }
     ],
     "#% increased Stun and Block Recovery": [
       {
         "loc": "S",
         "title": "Base",
-        "key": "normal"
+        "key": "normal",
+        "level": 79
       }
     ],
     "#% increased Stun Duration on Enemies": [
       {
         "loc": "S",
         "title": "Base",
-        "key": "normal"
+        "key": "normal",
+        "level": 58
       },
       {
         "loc": "S",
         "title": "Essence",
-        "key": "essence"
+        "key": "essence",
+        "level": 82
       },
       {
         "loc": "I",
         "title": "Synthesis",
-        "key": "synthesis"
+        "key": "synthesis",
+        "level": 15
       }
     ],
     "#% increased Flask Charges gained": [
       {
         "loc": "S",
         "title": "Base",
-        "key": "normal"
+        "key": "normal",
+        "level": 84
       },
       {
         "loc": "I",
         "title": "Synthesis",
-        "key": "synthesis"
+        "key": "synthesis",
+        "level": 24
       }
     ],
     "#% reduced Flask Charges used": [
       {
         "loc": "S",
         "title": "Base",
-        "key": "normal"
+        "key": "normal",
+        "level": 3
       },
       {
         "loc": "I",
         "title": "Synthesis",
-        "key": "synthesis"
+        "key": "synthesis",
+        "level": 24
       }
     ],
     "#% increased Flask Effect Duration": [
       {
         "loc": "S",
         "title": "Base",
-        "key": "normal"
+        "key": "normal",
+        "level": 82
       },
       {
         "loc": "S",
         "title": "Crafting Bench",
-        "key": "master"
+        "key": "master",
+        "level": 68
       },
       {
         "loc": "I",
         "title": "Synthesis",
-        "key": "synthesis"
+        "key": "synthesis",
+        "level": 24
       }
     ],
     "# to Evasion Rating": [
       {
         "loc": "P",
         "title": "Essence",
-        "key": "essence"
+        "key": "essence",
+        "level": 82
       },
       {
         "loc": "P",
         "title": "Veiled",
-        "key": "veiled"
+        "key": "veiled",
+        "level": 60
       },
       {
         "loc": "P",
         "title": "Crafting Bench",
-        "key": "master"
+        "key": "master",
+        "level": 81
       }
     ],
     "Equipped Magic Flasks have #% increased effect on you if no Flasks are Adjacent to them": [
       {
         "loc": "P",
         "title": "Essence",
-        "key": "essence"
+        "key": "essence",
+        "level": 63
       }
     ],
     "# to Dexterity": [
       {
         "loc": "S",
         "title": "Essence",
-        "key": "essence"
+        "key": "essence",
+        "level": 82
       },
       {
         "loc": "I",
         "title": "Synthesis",
-        "key": "synthesis"
+        "key": "synthesis",
+        "level": 1
       }
     ],
     "#% chance to Avoid being Shocked": [
       {
         "loc": "S",
         "title": "Essence",
-        "key": "essence"
+        "key": "essence",
+        "level": 82
       },
       {
         "loc": "I",
         "title": "Synthesis",
-        "key": "synthesis"
+        "key": "synthesis",
+        "level": 36
       }
     ],
     "Minions have #% increased maximum Life": [
       {
         "loc": "S",
         "title": "Essence",
-        "key": "essence"
+        "key": "essence",
+        "level": 82
       },
       {
         "loc": "S",
         "title": "Delve",
-        "key": "delve"
+        "key": "delve",
+        "level": 74
       },
       {
         "loc": "I",
         "title": "Synthesis",
-        "key": "synthesis"
+        "key": "synthesis",
+        "level": 36
       }
     ],
     "#% chance to Avoid being Frozen": [
       {
         "loc": "S",
         "title": "Essence",
-        "key": "essence"
+        "key": "essence",
+        "level": 1
       },
       {
         "loc": "I",
         "title": "Synthesis",
-        "key": "synthesis"
+        "key": "synthesis",
+        "level": 36
       }
     ],
     "#% chance to Avoid being Ignited": [
       {
         "loc": "S",
         "title": "Essence",
-        "key": "essence"
+        "key": "essence",
+        "level": 82
       },
       {
         "loc": "I",
         "title": "Synthesis",
-        "key": "synthesis"
+        "key": "synthesis",
+        "level": 36
       }
     ],
     "# to Intelligence": [
       {
         "loc": "S",
         "title": "Essence",
-        "key": "essence"
+        "key": "essence",
+        "level": 82
       },
       {
         "loc": "I",
         "title": "Synthesis",
-        "key": "synthesis"
+        "key": "synthesis",
+        "level": 1
       }
     ],
     "#% increased Trap and Mine Throwing Speed": [
       {
         "loc": "S",
         "title": "Essence",
-        "key": "essence"
+        "key": "essence",
+        "level": 82
       }
     ],
     "Damage Penetrates #% Elemental Resistances during any Flask Effect": [
       {
         "loc": "S",
         "title": "Essence",
-        "key": "essence"
+        "key": "essence",
+        "level": 63
       }
     ],
     "#% increased Movement Speed during any Flask Effect": [
       {
         "loc": "S",
         "title": "Essence",
-        "key": "essence"
+        "key": "essence",
+        "level": 63
       },
       {
         "loc": "S",
         "title": "Shaper",
-        "key": "shaper"
+        "key": "shaper",
+        "level": 81
       },
       {
         "loc": "S",
         "title": "Hunter",
-        "key": "hunter"
+        "key": "hunter",
+        "level": 81
       },
       {
         "loc": "I",
         "title": "Corrupted",
-        "key": "corrupted"
+        "key": "corrupted",
+        "level": 60
       }
     ],
     "Gain Alchemist's Genius when you use a Flask": [
       {
         "loc": "S",
         "title": "Essence",
-        "key": "essence"
+        "key": "essence",
+        "level": 63
       }
     ],
     "#% to Chaos Resistance during any Flask Effect": [
       {
         "loc": "S",
         "title": "Essence",
-        "key": "essence"
+        "key": "essence",
+        "level": 63
       },
       {
         "loc": "S",
         "title": "Elder",
-        "key": "elder"
+        "key": "elder",
+        "level": 75
       }
     ],
     "# to Armour and Evasion Rating": [
       {
         "loc": "P",
         "title": "Veiled",
-        "key": "veiled"
+        "key": "veiled",
+        "level": 60
       },
       {
         "loc": "P",
         "title": "Crafting Bench",
-        "key": "master"
+        "key": "master",
+        "level": 81
       }
     ],
     "#% reduced Flask Charges gained": [
       {
         "loc": "P",
         "title": "Veiled",
-        "key": "veiled"
+        "key": "veiled",
+        "level": 60
       },
       {
         "loc": "P",
         "title": "Crafting Bench",
-        "key": "master"
+        "key": "master",
+        "level": 75
       }
     ],
     "Regenerate # Mana per second": [
       {
         "loc": "P",
         "title": "Veiled",
-        "key": "veiled"
+        "key": "veiled",
+        "level": 60
       },
       {
         "loc": "P",
         "title": "Crafting Bench",
-        "key": "master"
+        "key": "master",
+        "level": 81
       }
     ],
     "# to Strength and Dexterity": [
       {
         "loc": "S",
         "title": "Veiled",
-        "key": "veiled"
+        "key": "veiled",
+        "level": 60
       },
       {
         "loc": "S",
         "title": "Crafting Bench",
-        "key": "master"
+        "key": "master",
+        "level": 81
       }
     ],
     "# to Dexterity and Intelligence": [
       {
         "loc": "S",
         "title": "Veiled",
-        "key": "veiled"
+        "key": "veiled",
+        "level": 60
       },
       {
         "loc": "S",
         "title": "Crafting Bench",
-        "key": "master"
+        "key": "master",
+        "level": 81
       }
     ],
     "# to Strength and Intelligence": [
       {
         "loc": "S",
         "title": "Veiled",
-        "key": "veiled"
+        "key": "veiled",
+        "level": 60
       },
       {
         "loc": "S",
         "title": "Crafting Bench",
-        "key": "master"
+        "key": "master",
+        "level": 81
       }
     ],
     "#% increased Cooldown Recovery Rate": [
       {
         "loc": "S",
         "title": "Veiled",
-        "key": "veiled"
+        "key": "veiled",
+        "level": 60
       },
       {
         "loc": "S",
         "title": "Crafting Bench",
-        "key": "master"
+        "key": "master",
+        "level": 75
       },
       {
         "loc": "S",
         "title": "Shaper",
-        "key": "shaper"
+        "key": "shaper",
+        "level": 84
       },
       {
         "loc": "S",
         "title": "Crusader",
-        "key": "crusader"
+        "key": "crusader",
+        "level": 84
       }
     ],
     "Regenerate # Energy Shield per second while a Rare or Unique Enemy is Nearby": [
       {
         "loc": "S",
         "title": "Veiled",
-        "key": "veiled"
+        "key": "veiled",
+        "level": 60
       },
       {
         "loc": "S",
         "title": "Crafting Bench",
-        "key": "master"
+        "key": "master",
+        "level": 81
       }
     ],
     "#% increased Trap Throwing Speed": [
       {
         "loc": "S",
         "title": "Veiled",
-        "key": "veiled"
+        "key": "veiled",
+        "level": 60
       },
       {
         "loc": "S",
         "title": "Crafting Bench",
-        "key": "master"
+        "key": "master",
+        "level": 81
       },
       {
         "loc": "I",
         "title": "Synthesis",
-        "key": "synthesis"
+        "key": "synthesis",
+        "level": 56
       }
     ],
     "Your Critical Strike Chance is Lucky while Focused": [
       {
         "loc": "S",
         "title": "Veiled",
-        "key": "veiled"
+        "key": "veiled",
+        "level": 60
       },
       {
         "loc": "S",
         "title": "Crafting Bench",
-        "key": "master"
+        "key": "master",
+        "level": 72
       }
     ],
     "Focus has #% increased Cooldown Recovery Rate": [
       {
         "loc": "S",
         "title": "Veiled",
-        "key": "veiled"
+        "key": "veiled",
+        "level": 60
       }
     ],
     "grant focus skill [#]": [
       {
         "loc": "S",
         "title": "Veiled",
-        "key": "veiled"
+        "key": "veiled",
+        "level": 60
       },
       {
         "loc": "S",
         "title": "Crafting Bench",
-        "key": "master"
+        "key": "master",
+        "level": 72
       }
     ],
     "#% to Fire and Chaos Resistances": [
       {
         "loc": "S",
         "title": "Veiled",
-        "key": "veiled"
+        "key": "veiled",
+        "level": 60
       },
       {
         "loc": "S",
         "title": "Crafting Bench",
-        "key": "master"
+        "key": "master",
+        "level": 81
       }
     ],
     "#% to Lightning and Chaos Resistances": [
       {
         "loc": "S",
         "title": "Veiled",
-        "key": "veiled"
+        "key": "veiled",
+        "level": 60
       },
       {
         "loc": "S",
         "title": "Crafting Bench",
-        "key": "master"
+        "key": "master",
+        "level": 81
       }
     ],
     "#% to Cold and Chaos Resistances": [
       {
         "loc": "S",
         "title": "Veiled",
-        "key": "veiled"
+        "key": "veiled",
+        "level": 60
       },
       {
         "loc": "S",
         "title": "Crafting Bench",
-        "key": "master"
+        "key": "master",
+        "level": 81
       }
     ],
     "#% increased Fire Damage": [
       {
         "loc": "P",
         "title": "Delve",
-        "key": "delve"
+        "key": "delve",
+        "level": 1
       },
       {
         "loc": "P",
         "title": "Warlord",
-        "key": "warlord"
+        "key": "warlord",
+        "level": 80
       },
       {
         "loc": "I",
         "title": "Synthesis",
-        "key": "synthesis"
+        "key": "synthesis",
+        "level": 56
       }
     ],
     "#% increased Cold Damage": [
       {
         "loc": "P",
         "title": "Delve",
-        "key": "delve"
+        "key": "delve",
+        "level": 1
       },
       {
         "loc": "P",
         "title": "Redeemer",
-        "key": "redeemer"
+        "key": "redeemer",
+        "level": 80
       },
       {
         "loc": "I",
         "title": "Synthesis",
-        "key": "synthesis"
+        "key": "synthesis",
+        "level": 56
       }
     ],
     "#% increased Lightning Damage": [
       {
         "loc": "P",
         "title": "Delve",
-        "key": "delve"
+        "key": "delve",
+        "level": 1
       },
       {
         "loc": "P",
         "title": "Crusader",
-        "key": "crusader"
+        "key": "crusader",
+        "level": 80
       },
       {
         "loc": "I",
         "title": "Synthesis",
-        "key": "synthesis"
+        "key": "synthesis",
+        "level": 56
       }
     ],
     "#% increased Global Physical Damage": [
       {
         "loc": "P",
         "title": "Delve",
-        "key": "delve"
+        "key": "delve",
+        "level": 1
       },
       {
         "loc": "P",
         "title": "Elder",
-        "key": "elder"
+        "key": "elder",
+        "level": 80
       },
       {
         "loc": "I",
         "title": "Synthesis",
-        "key": "synthesis"
+        "key": "synthesis",
+        "level": 56
       }
     ],
     "#% increased Chaos Damage": [
       {
         "loc": "P",
         "title": "Delve",
-        "key": "delve"
+        "key": "delve",
+        "level": 1
       },
       {
         "loc": "P",
         "title": "Hunter",
-        "key": "hunter"
+        "key": "hunter",
+        "level": 80
       },
       {
         "loc": "I",
         "title": "Synthesis",
-        "key": "synthesis"
+        "key": "synthesis",
+        "level": 56
       }
     ],
     "#% increased Life Recovery from Flasks": [
       {
         "loc": "S",
         "title": "Delve",
-        "key": "delve"
+        "key": "delve",
+        "level": 1
       }
     ],
     "#% increased Energy Shield from Equipped Body Armour": [
       {
         "loc": "S",
         "title": "Delve",
-        "key": "delve"
+        "key": "delve",
+        "level": 1
       },
       {
         "loc": "P",
         "title": "Shaper",
-        "key": "shaper"
+        "key": "shaper",
+        "level": 80
       }
     ],
     "#% chance to Defend with #% of Armour": [
       {
         "loc": "S",
         "title": "Delve",
-        "key": "delve"
+        "key": "delve",
+        "level": 1
       },
       {
         "loc": "P",
         "title": "Elder",
-        "key": "elder"
+        "key": "elder",
+        "level": 80
       }
     ],
     "#% chance to Evade Attack Hits": [
       {
         "loc": "S",
         "title": "Delve",
-        "key": "delve"
+        "key": "delve",
+        "level": 1
       }
     ],
     "#% increased Damage with Ailments": [
       {
         "loc": "S",
         "title": "Delve",
-        "key": "delve"
+        "key": "delve",
+        "level": 1
       },
       {
         "loc": "I",
         "title": "Synthesis",
-        "key": "synthesis"
+        "key": "synthesis",
+        "level": 48
       }
     ],
     "#% increased Elemental Damage": [
       {
         "loc": "S",
         "title": "Delve",
-        "key": "delve"
+        "key": "delve",
+        "level": 1
       },
       {
         "loc": "P",
         "title": "Shaper",
-        "key": "shaper"
+        "key": "shaper",
+        "level": 80
       },
       {
         "loc": "I",
         "title": "Synthesis",
-        "key": "synthesis"
+        "key": "synthesis",
+        "level": 48
       }
     ],
     "#% increased Mana Recovery rate": [
       {
         "loc": "S",
         "title": "Delve",
-        "key": "delve"
+        "key": "delve",
+        "level": 1
       },
       {
         "loc": "S",
         "title": "Shaper",
-        "key": "shaper"
+        "key": "shaper",
+        "level": 75
       },
       {
         "loc": "S",
         "title": "Redeemer",
-        "key": "redeemer"
+        "key": "redeemer",
+        "level": 75
       },
       {
         "loc": "I",
         "title": "Synthesis",
-        "key": "synthesis"
+        "key": "synthesis",
+        "level": 60
       }
     ],
     "#% chance to gain Onslaught when you use a Flask": [
       {
         "loc": "S",
         "title": "Delve",
-        "key": "delve"
+        "key": "delve",
+        "level": 1
       }
     ],
     "#% increased Damage with Vaal Skills": [
       {
         "loc": "S",
         "title": "Delve",
-        "key": "delve"
+        "key": "delve",
+        "level": 1
       },
       {
         "loc": "I",
         "title": "Synthesis",
-        "key": "synthesis"
+        "key": "synthesis",
+        "level": 36
       }
     ],
     "#% increased maximum Energy Shield": [
       {
         "loc": "P",
         "title": "Incursion",
-        "key": "incursion"
+        "key": "incursion",
+        "level": 50
       },
       {
         "loc": "P",
         "title": "Crusader",
-        "key": "crusader"
+        "key": "crusader",
+        "level": 82
       },
       {
         "loc": "I",
         "title": "Synthesis",
-        "key": "synthesis"
+        "key": "synthesis",
+        "level": 36
       },
       {
         "loc": "I",
         "title": "Corrupted",
-        "key": "corrupted"
+        "key": "corrupted",
+        "level": 1
       }
     ],
     "Regenerate #% of Energy Shield per second": [
       {
         "loc": "P",
         "title": "Incursion",
-        "key": "incursion"
+        "key": "incursion",
+        "level": 50
       },
       {
         "loc": "I",
         "title": "Synthesis",
-        "key": "synthesis"
+        "key": "synthesis",
+        "level": 15
       }
     ],
     "#% increased maximum Life": [
       {
         "loc": "P",
         "title": "Incursion",
-        "key": "incursion"
+        "key": "incursion",
+        "level": 50
       },
       {
         "loc": "P",
         "title": "Elder",
-        "key": "elder"
+        "key": "elder",
+        "level": 75
       },
       {
         "loc": "P",
         "title": "Hunter",
-        "key": "hunter"
+        "key": "hunter",
+        "level": 84
       },
       {
         "loc": "I",
         "title": "Synthesis",
-        "key": "synthesis"
+        "key": "synthesis",
+        "level": 24
       },
       {
         "loc": "I",
         "title": "Corrupted",
-        "key": "corrupted"
+        "key": "corrupted",
+        "level": 1
       }
     ],
     "Regenerate #% of Life per second": [
       {
         "loc": "S",
         "title": "Incursion",
-        "key": "incursion"
+        "key": "incursion",
+        "level": 50
       }
     ],
     "#% increased Damage": [
       {
         "loc": "P",
         "title": "Crafting Bench",
-        "key": "master"
+        "key": "master",
+        "level": 81
       },
       {
         "loc": "P",
         "title": "Warlord",
-        "key": "warlord"
+        "key": "warlord",
+        "level": 85
       },
       {
         "loc": "I",
         "title": "Synthesis",
-        "key": "synthesis"
+        "key": "synthesis",
+        "level": 48
       }
     ],
     "Suffixes Cannot Be Changed": [
       {
         "loc": "P",
         "title": "Crafting Bench",
-        "key": "master"
+        "key": "master",
+        "level": 1
       }
     ],
     "#% to Fire and Cold Resistances": [
       {
         "loc": "S",
         "title": "Crafting Bench",
-        "key": "master"
+        "key": "master",
+        "level": 75
       }
     ],
     "#% to Cold and Lightning Resistances": [
       {
         "loc": "S",
         "title": "Crafting Bench",
-        "key": "master"
+        "key": "master",
+        "level": 75
       }
     ],
     "#% to Fire and Lightning Resistances": [
       {
         "loc": "S",
         "title": "Crafting Bench",
-        "key": "master"
+        "key": "master",
+        "level": 75
       }
     ],
     "Warcries cannot Exert Travel Skills": [
       {
         "loc": "S",
         "title": "Crafting Bench",
-        "key": "master"
+        "key": "master",
+        "level": 1
       }
     ],
     "#% Chaos Resistance against Damage Over Time": [
       {
         "loc": "S",
         "title": "Crafting Bench",
-        "key": "master"
+        "key": "master",
+        "level": 60
       }
     ],
     "Prefixes Cannot Be Changed": [
       {
         "loc": "S",
         "title": "Crafting Bench",
-        "key": "master"
+        "key": "master",
+        "level": 1
       }
     ],
     "Can have up to # Crafted Modifiers": [
       {
         "loc": "S",
         "title": "Crafting Bench",
-        "key": "master"
+        "key": "master",
+        "level": 1
       }
     ],
     "Cannot roll Attack Modifiers": [
       {
         "loc": "S",
         "title": "Crafting Bench",
-        "key": "master"
+        "key": "master",
+        "level": 1
       }
     ],
     "Cannot roll Caster Modifiers": [
       {
         "loc": "S",
         "title": "Crafting Bench",
-        "key": "master"
+        "key": "master",
+        "level": 1
       }
     ],
     "Melee Hits which Stun have #% chance to Fortify": [
       {
         "loc": "P",
         "title": "Elder",
-        "key": "elder"
+        "key": "elder",
+        "level": 68
       },
       {
         "loc": "P",
         "title": "Crusader",
-        "key": "crusader"
+        "key": "crusader",
+        "level": 68
       }
     ],
     "Grants Level # Enduring Cry Skill": [
       {
         "loc": "P",
         "title": "Elder",
-        "key": "elder"
+        "key": "elder",
+        "level": 68
       }
     ],
     "Grants Level # Rallying Cry Skill": [
       {
         "loc": "P",
         "title": "Elder",
-        "key": "elder"
+        "key": "elder",
+        "level": 68
       }
     ],
     "#% increased Attributes": [
       {
         "loc": "S",
         "title": "Elder",
-        "key": "elder"
+        "key": "elder",
+        "level": 75
       },
       {
         "loc": "S",
         "title": "Hunter",
-        "key": "hunter"
+        "key": "hunter",
+        "level": 75
       }
     ],
     "#% to all Elemental Resistances": [
       {
         "loc": "S",
         "title": "Elder",
-        "key": "elder"
+        "key": "elder",
+        "level": 75
       },
       {
         "loc": "S",
         "title": "Warlord",
-        "key": "warlord"
+        "key": "warlord",
+        "level": 75
       },
       {
         "loc": "I",
         "title": "Corrupted",
-        "key": "corrupted"
+        "key": "corrupted",
+        "level": 1
       }
     ],
     "#% increased Life Recovery rate": [
       {
         "loc": "S",
         "title": "Elder",
-        "key": "elder"
+        "key": "elder",
+        "level": 75
       },
       {
         "loc": "S",
         "title": "Warlord",
-        "key": "warlord"
+        "key": "warlord",
+        "level": 75
       },
       {
         "loc": "I",
         "title": "Synthesis",
-        "key": "synthesis"
+        "key": "synthesis",
+        "level": 60
       }
     ],
     "Remove Ignite and Burning when you use a Flask": [
       {
         "loc": "S",
         "title": "Elder",
-        "key": "elder"
+        "key": "elder",
+        "level": 75
       },
       {
         "loc": "S",
         "title": "Warlord",
-        "key": "warlord"
+        "key": "warlord",
+        "level": 75
       },
       {
         "loc": "I",
         "title": "Synthesis",
-        "key": "synthesis"
+        "key": "synthesis",
+        "level": 65
       }
     ],
     "#% increased Attack Speed during any Flask Effect": [
       {
         "loc": "S",
         "title": "Elder",
-        "key": "elder"
+        "key": "elder",
+        "level": 68
       },
       {
         "loc": "S",
         "title": "Redeemer",
-        "key": "redeemer"
+        "key": "redeemer",
+        "level": 68
       },
       {
         "loc": "I",
         "title": "Corrupted",
-        "key": "corrupted"
+        "key": "corrupted",
+        "level": 60
       }
     ],
     "#% increased Melee Damage during any Flask Effect": [
       {
         "loc": "S",
         "title": "Elder",
-        "key": "elder"
+        "key": "elder",
+        "level": 80
       },
       {
         "loc": "S",
         "title": "Warlord",
-        "key": "warlord"
+        "key": "warlord",
+        "level": 80
       }
     ],
     "#% increased Projectile Attack Damage during any Flask Effect": [
       {
         "loc": "S",
         "title": "Elder",
-        "key": "elder"
+        "key": "elder",
+        "level": 80
       },
       {
         "loc": "S",
         "title": "Redeemer",
-        "key": "redeemer"
+        "key": "redeemer",
+        "level": 80
       }
     ],
     "Grants Level # Intimidating Cry Skill": [
       {
         "loc": "P",
         "title": "Shaper",
-        "key": "shaper"
+        "key": "shaper",
+        "level": 68
       }
     ],
     "# Physical Damage taken from Attack Hits": [
       {
         "loc": "S",
         "title": "Shaper",
-        "key": "shaper"
+        "key": "shaper",
+        "level": 75
       },
       {
         "loc": "S",
         "title": "Hunter",
-        "key": "hunter"
+        "key": "hunter",
+        "level": 75
       },
       {
         "loc": "I",
         "title": "Synthesis",
-        "key": "synthesis"
+        "key": "synthesis",
+        "level": 48
       }
     ],
     "#% increased Energy Shield Recovery rate": [
       {
         "loc": "S",
         "title": "Shaper",
-        "key": "shaper"
+        "key": "shaper",
+        "level": 75
       },
       {
         "loc": "S",
         "title": "Crusader",
-        "key": "crusader"
+        "key": "crusader",
+        "level": 75
       },
       {
         "loc": "I",
         "title": "Synthesis",
-        "key": "synthesis"
+        "key": "synthesis",
+        "level": 60
       }
     ],
     "Remove Chill and Freeze when you use a Flask": [
       {
         "loc": "S",
         "title": "Shaper",
-        "key": "shaper"
+        "key": "shaper",
+        "level": 75
       },
       {
         "loc": "S",
         "title": "Redeemer",
-        "key": "redeemer"
+        "key": "redeemer",
+        "level": 75
       },
       {
         "loc": "I",
         "title": "Synthesis",
-        "key": "synthesis"
+        "key": "synthesis",
+        "level": 65
       }
     ],
     "Remove Shock when you use a Flask": [
       {
         "loc": "S",
         "title": "Shaper",
-        "key": "shaper"
+        "key": "shaper",
+        "level": 75
       },
       {
         "loc": "S",
         "title": "Crusader",
-        "key": "crusader"
+        "key": "crusader",
+        "level": 75
       },
       {
         "loc": "I",
         "title": "Synthesis",
-        "key": "synthesis"
+        "key": "synthesis",
+        "level": 65
       }
     ],
     "#% increased Cast Speed during any Flask Effect": [
       {
         "loc": "S",
         "title": "Shaper",
-        "key": "shaper"
+        "key": "shaper",
+        "level": 68
       },
       {
         "loc": "S",
         "title": "Hunter",
-        "key": "hunter"
+        "key": "hunter",
+        "level": 68
       },
       {
         "loc": "I",
         "title": "Corrupted",
-        "key": "corrupted"
+        "key": "corrupted",
+        "level": 60
       }
     ],
     "#% increased Spell Damage during any Flask Effect": [
       {
         "loc": "S",
         "title": "Shaper",
-        "key": "shaper"
+        "key": "shaper",
+        "level": 80
       },
       {
         "loc": "S",
         "title": "Crusader",
-        "key": "crusader"
+        "key": "crusader",
+        "level": 80
       }
     ],
     "#% increased Critical Strike Chance against Shocked Enemies": [
       {
         "loc": "P",
         "title": "Crusader",
-        "key": "crusader"
+        "key": "crusader",
+        "level": 80
       }
     ],
     "#% increased Evasion Rating": [
       {
         "loc": "P",
         "title": "Redeemer",
-        "key": "redeemer"
+        "key": "redeemer",
+        "level": 82
       },
       {
         "loc": "I",
         "title": "Synthesis",
-        "key": "synthesis"
+        "key": "synthesis",
+        "level": 24
       }
     ],
     "#% increased Damage with Hits against Chilled Enemies": [
       {
         "loc": "P",
         "title": "Redeemer",
-        "key": "redeemer"
+        "key": "redeemer",
+        "level": 80
       }
     ],
     "Gain a Flask Charge when you deal a Critical Strike": [
       {
         "loc": "P",
         "title": "Hunter",
-        "key": "hunter"
+        "key": "hunter",
+        "level": 75
       }
     ],
     "Hits have #% chance to ignore Enemy Physical Damage Reduction": [
       {
         "loc": "S",
         "title": "Hunter",
-        "key": "hunter"
+        "key": "hunter",
+        "level": 75
       }
     ],
     "#% increased Armour": [
       {
         "loc": "P",
         "title": "Warlord",
-        "key": "warlord"
+        "key": "warlord",
+        "level": 82
       },
       {
         "loc": "I",
         "title": "Synthesis",
-        "key": "synthesis"
+        "key": "synthesis",
+        "level": 24
       }
     ],
     "# to # added Fire Damage against Burning Enemies": [
       {
         "loc": "P",
         "title": "Warlord",
-        "key": "warlord"
+        "key": "warlord",
+        "level": 80
       }
     ],
     "Grants Level # Aspect of the Avian Skill": [
       {
         "loc": "S",
         "title": "Bestiary",
-        "key": "bestiary"
+        "key": "bestiary",
+        "level": 20
       }
     ],
     "Grants Level # Aspect of the Cat Skill": [
       {
         "loc": "S",
         "title": "Bestiary",
-        "key": "bestiary"
+        "key": "bestiary",
+        "level": 20
       }
     ],
     "Grants Level # Aspect of the Crab Skill": [
       {
         "loc": "S",
         "title": "Bestiary",
-        "key": "bestiary"
+        "key": "bestiary",
+        "level": 20
       }
     ],
     "Grants Level # Aspect of the Spider Skill": [
       {
         "loc": "S",
         "title": "Bestiary",
-        "key": "bestiary"
+        "key": "bestiary",
+        "level": 20
       }
     ],
     "#% increased Mana Regeneration Rate": [
       {
         "loc": "I",
         "title": "Synthesis",
-        "key": "synthesis"
+        "key": "synthesis",
+        "level": 48
       }
     ],
     "Cannot be Ignited": [
       {
         "loc": "I",
         "title": "Synthesis",
-        "key": "synthesis"
+        "key": "synthesis",
+        "level": 56
       }
     ],
     "Cannot be Frozen": [
       {
         "loc": "I",
         "title": "Synthesis",
-        "key": "synthesis"
+        "key": "synthesis",
+        "level": 56
       }
     ],
     "Cannot be Shocked": [
       {
         "loc": "I",
         "title": "Synthesis",
-        "key": "synthesis"
+        "key": "synthesis",
+        "level": 56
       }
     ],
     "Cannot be Poisoned": [
       {
         "loc": "I",
         "title": "Synthesis",
-        "key": "synthesis"
+        "key": "synthesis",
+        "level": 56
       }
     ],
     "#% increased Global Critical Strike Chance": [
       {
         "loc": "I",
         "title": "Synthesis",
-        "key": "synthesis"
+        "key": "synthesis",
+        "level": 24
       }
     ],
     "#% chance to Avoid being Stunned": [
       {
         "loc": "I",
         "title": "Synthesis",
-        "key": "synthesis"
+        "key": "synthesis",
+        "level": 36
       }
     ],
     "#% increased Area of Effect if you have Stunned an Enemy Recently": [
       {
         "loc": "I",
         "title": "Synthesis",
-        "key": "synthesis"
+        "key": "synthesis",
+        "level": 56
       }
     ],
     "Bleeding cannot be inflicted on you": [
       {
         "loc": "I",
         "title": "Synthesis",
-        "key": "synthesis"
+        "key": "synthesis",
+        "level": 56
       }
     ],
     "Damage with Weapons Penetrates #% Fire Resistance": [
       {
         "loc": "I",
         "title": "Synthesis",
-        "key": "synthesis"
+        "key": "synthesis",
+        "level": 60
       }
     ],
     "Damage with Weapons Penetrates #% Cold Resistance": [
       {
         "loc": "I",
         "title": "Synthesis",
-        "key": "synthesis"
+        "key": "synthesis",
+        "level": 60
       }
     ],
     "Damage with Weapons Penetrates #% Lightning Resistance": [
       {
         "loc": "I",
         "title": "Synthesis",
-        "key": "synthesis"
+        "key": "synthesis",
+        "level": 60
       }
     ],
     "#% increased Strength": [
       {
         "loc": "I",
         "title": "Synthesis",
-        "key": "synthesis"
+        "key": "synthesis",
+        "level": 24
       },
       {
         "loc": "I",
         "title": "Corrupted",
-        "key": "corrupted"
+        "key": "corrupted",
+        "level": 1
       }
     ],
     "#% increased Dexterity": [
       {
         "loc": "I",
         "title": "Synthesis",
-        "key": "synthesis"
+        "key": "synthesis",
+        "level": 24
       },
       {
         "loc": "I",
         "title": "Corrupted",
-        "key": "corrupted"
+        "key": "corrupted",
+        "level": 1
       }
     ],
     "#% increased Intelligence": [
       {
         "loc": "I",
         "title": "Synthesis",
-        "key": "synthesis"
+        "key": "synthesis",
+        "level": 24
       },
       {
         "loc": "I",
         "title": "Corrupted",
-        "key": "corrupted"
+        "key": "corrupted",
+        "level": 1
       }
     ],
     "You take #% reduced Extra Damage from Critical Strikes": [
       {
         "loc": "I",
         "title": "Synthesis",
-        "key": "synthesis"
+        "key": "synthesis",
+        "level": 55
       }
     ],
     "#% chance to Avoid Elemental Ailments": [
       {
         "loc": "I",
         "title": "Synthesis",
-        "key": "synthesis"
+        "key": "synthesis",
+        "level": 55
       }
     ],
     "#% increased Energy Shield Recharge Rate": [
       {
         "loc": "I",
         "title": "Synthesis",
-        "key": "synthesis"
+        "key": "synthesis",
+        "level": 24
       }
     ],
     "Regenerate #% of Life per second per Endurance Charge": [
       {
         "loc": "I",
         "title": "Synthesis",
-        "key": "synthesis"
+        "key": "synthesis",
+        "level": 50
       }
     ],
     "#% increased Evasion Rating per Frenzy Charge": [
       {
         "loc": "I",
         "title": "Synthesis",
-        "key": "synthesis"
+        "key": "synthesis",
+        "level": 50
       }
     ],
     "#% increased Spell Damage per Power Charge": [
       {
         "loc": "I",
         "title": "Synthesis",
-        "key": "synthesis"
+        "key": "synthesis",
+        "level": 50
       }
     ],
     "#% increased Movement Speed": [
       {
         "loc": "I",
         "title": "Synthesis",
-        "key": "synthesis"
+        "key": "synthesis",
+        "level": 48
       }
     ],
     "#% increased Attack and Cast Speed": [
       {
         "loc": "I",
         "title": "Synthesis",
-        "key": "synthesis"
+        "key": "synthesis",
+        "level": 24
       }
     ],
     "#% chance to gain Onslaught for # seconds on Kill": [
       {
         "loc": "I",
         "title": "Synthesis",
-        "key": "synthesis"
+        "key": "synthesis",
+        "level": 55
       }
     ],
     "Increases and Reductions to Damage with Vaal Skills also apply to Non-Vaal Skills": [
       {
         "loc": "I",
         "title": "Synthesis",
-        "key": "synthesis"
+        "key": "synthesis",
+        "level": 65
       }
     ],
     "#% increased Area of Effect": [
       {
         "loc": "I",
         "title": "Corrupted",
-        "key": "corrupted"
+        "key": "corrupted",
+        "level": 1
       }
     ],
     "#% to Critical Strike Multiplier during any Flask Effect": [
       {
         "loc": "I",
         "title": "Corrupted",
-        "key": "corrupted"
+        "key": "corrupted",
+        "level": 60
       }
     ],
     "#% increased Critical Strike Chance during any Flask Effect": [
       {
         "loc": "I",
         "title": "Corrupted",
-        "key": "corrupted"
+        "key": "corrupted",
+        "level": 1
       }
     ],
     "#% increased Skill Effect Duration": [
       {
         "loc": "I",
         "title": "Corrupted",
-        "key": "corrupted"
+        "key": "corrupted",
+        "level": 1
       }
     ],
     "#% increased Rarity of Items found": [
       {
         "loc": "I",
         "title": "Corrupted",
-        "key": "corrupted"
+        "key": "corrupted",
+        "level": 60
       }
     ],
     "Wrath has #% increased Aura Effect": [
       {
         "loc": "I",
         "title": "Corrupted",
-        "key": "corrupted"
+        "key": "corrupted",
+        "level": 45
       }
     ],
     "Anger has #% increased Aura Effect": [
       {
         "loc": "I",
         "title": "Corrupted",
-        "key": "corrupted"
+        "key": "corrupted",
+        "level": 45
       }
     ],
     "Hatred has #% increased Aura Effect": [
       {
         "loc": "I",
         "title": "Corrupted",
-        "key": "corrupted"
+        "key": "corrupted",
+        "level": 45
       }
     ],
     "Determination has #% increased Aura Effect": [
       {
         "loc": "I",
         "title": "Corrupted",
-        "key": "corrupted"
+        "key": "corrupted",
+        "level": 45
       }
     ],
     "Discipline has #% increased Aura Effect": [
       {
         "loc": "I",
         "title": "Corrupted",
-        "key": "corrupted"
+        "key": "corrupted",
+        "level": 45
       }
     ],
     "Grace has #% increased Aura Effect": [
       {
         "loc": "I",
         "title": "Corrupted",
-        "key": "corrupted"
+        "key": "corrupted",
+        "level": 45
       }
     ],
     "Malevolence has #% increased Aura Effect": [
       {
         "loc": "I",
         "title": "Corrupted",
-        "key": "corrupted"
+        "key": "corrupted",
+        "level": 45
       }
     ],
     "Zealotry has #% increased Aura Effect": [
       {
         "loc": "I",
         "title": "Corrupted",
-        "key": "corrupted"
+        "key": "corrupted",
+        "level": 45
       }
     ],
     "Pride has #% increased Aura Effect": [
       {
         "loc": "I",
         "title": "Corrupted",
-        "key": "corrupted"
+        "key": "corrupted",
+        "level": 45
       }
     ]
   }
