@@ -5,31 +5,67 @@
         "loc": "P",
         "title": "Base",
         "key": "normal",
-        "level": 54
+        "level": 54,
+        "tags": [
+          "Life"
+        ],
+        "family": [
+          "IncreasedLife"
+        ]
       },
       {
         "loc": "P",
         "title": "Essence",
         "key": "essence",
-        "level": 82
+        "level": 82,
+        "tags": [
+          "Life"
+        ],
+        "family": [
+          "IncreasedLife"
+        ]
       },
       {
         "loc": "P",
         "title": "Veiled",
         "key": "veiled",
-        "level": 60
+        "level": 60,
+        "tags": [
+          "Life",
+          "Defences",
+          "Armour",
+          "Evasion"
+        ],
+        "family": [
+          "BaseLocalDefencesAndLife"
+        ]
       },
       {
         "loc": "P",
         "title": "Crafting Bench",
         "key": "master",
-        "level": 81
+        "level": 81,
+        "tags": [
+          "Life",
+          "Defences",
+          "Armour",
+          "Evasion"
+        ],
+        "family": [
+          "BaseLocalDefencesAndLife"
+        ]
       },
       {
         "loc": "I",
         "title": "Synthesis",
         "key": "synthesis",
-        "level": 48
+        "level": 48,
+        "tags": [
+          "Life"
+        ],
+        "family": [
+          "IncreasedLife"
+        ]
       }
     ],
     "#% increased Armour and Evasion": [
@@ -37,19 +73,45 @@
         "loc": "P",
         "title": "Base",
         "key": "normal",
-        "level": 84
+        "level": 84,
+        "tags": [
+          "Defences",
+          "Armour",
+          "Evasion"
+        ],
+        "family": [
+          "DefencesPercent"
+        ]
       },
       {
         "loc": "P",
         "title": "Veiled",
         "key": "veiled",
-        "level": 60
+        "level": 60,
+        "tags": [
+          "Life",
+          "Defences",
+          "Armour",
+          "Evasion"
+        ],
+        "family": [
+          "BaseLocalDefencesAndLife"
+        ]
       },
       {
         "loc": "P",
         "title": "Crafting Bench",
         "key": "master",
-        "level": 81
+        "level": 81,
+        "tags": [
+          "Life",
+          "Defences",
+          "Armour",
+          "Evasion"
+        ],
+        "family": [
+          "BaseLocalDefencesAndLife"
+        ]
       }
     ],
     "#% increased Stun and Block Recovery": [
@@ -57,19 +119,41 @@
         "loc": "P",
         "title": "Base",
         "key": "normal",
-        "level": 79
+        "level": 79,
+        "tags": [
+          "Defences",
+          "Armour",
+          "Evasion"
+        ],
+        "family": [
+          "DefencesPercentAndStunRecovery",
+          "StunRecovery"
+        ]
       },
       {
         "loc": "S",
         "title": "Base",
         "key": "normal",
-        "level": 79
+        "level": 79,
+        "tags": [
+          "Defences",
+          "Armour",
+          "Evasion"
+        ],
+        "family": [
+          "DefencesPercentAndStunRecovery",
+          "StunRecovery"
+        ]
       },
       {
         "loc": "I",
         "title": "Synthesis",
         "key": "synthesis",
-        "level": 48
+        "level": 48,
+        "tags": [],
+        "family": [
+          "StunRecovery"
+        ]
       }
     ],
     "# to Armour": [
@@ -77,25 +161,54 @@
         "loc": "P",
         "title": "Base",
         "key": "normal",
-        "level": 46
+        "level": 46,
+        "tags": [
+          "Life",
+          "Defences",
+          "Armour"
+        ],
+        "family": [
+          "BaseLocalDefencesAndLife"
+        ]
       },
       {
         "loc": "P",
         "title": "Essence",
         "key": "essence",
-        "level": 82
+        "level": 82,
+        "tags": [
+          "Defences",
+          "Armour"
+        ],
+        "family": [
+          "BaseLocalDefences"
+        ]
       },
       {
         "loc": "P",
         "title": "Crafting Bench",
         "key": "master",
-        "level": 30
+        "level": 30,
+        "tags": [
+          "Defences",
+          "Armour"
+        ],
+        "family": [
+          "BaseLocalDefences"
+        ]
       },
       {
         "loc": "I",
         "title": "Synthesis",
         "key": "synthesis",
-        "level": 48
+        "level": 48,
+        "tags": [
+          "Defences",
+          "Armour"
+        ],
+        "family": [
+          "BaseLocalDefences"
+        ]
       }
     ],
     "# to Evasion Rating": [
@@ -103,25 +216,54 @@
         "loc": "P",
         "title": "Base",
         "key": "normal",
-        "level": 46
+        "level": 46,
+        "tags": [
+          "Life",
+          "Defences",
+          "Evasion"
+        ],
+        "family": [
+          "BaseLocalDefencesAndLife"
+        ]
       },
       {
         "loc": "P",
         "title": "Essence",
         "key": "essence",
-        "level": 82
+        "level": 82,
+        "tags": [
+          "Defences",
+          "Evasion"
+        ],
+        "family": [
+          "BaseLocalDefences"
+        ]
       },
       {
         "loc": "P",
         "title": "Crafting Bench",
         "key": "master",
-        "level": 30
+        "level": 30,
+        "tags": [
+          "Defences",
+          "Evasion"
+        ],
+        "family": [
+          "BaseLocalDefences"
+        ]
       },
       {
         "loc": "I",
         "title": "Synthesis",
         "key": "synthesis",
-        "level": 48
+        "level": 48,
+        "tags": [
+          "Defences",
+          "Evasion"
+        ],
+        "family": [
+          "BaseLocalDefences"
+        ]
       }
     ],
     "#% increased Movement Speed": [
@@ -129,49 +271,97 @@
         "loc": "P",
         "title": "Base",
         "key": "normal",
-        "level": 86
+        "level": 86,
+        "tags": [
+          "Speed"
+        ],
+        "family": [
+          "MovementVelocity"
+        ]
       },
       {
         "loc": "P",
         "title": "Essence",
         "key": "essence",
-        "level": 82
+        "level": 82,
+        "tags": [
+          "Speed"
+        ],
+        "family": [
+          "MovementVelocity"
+        ]
       },
       {
         "loc": "P",
         "title": "Veiled",
         "key": "veiled",
-        "level": 60
+        "level": 60,
+        "tags": [
+          "Speed"
+        ],
+        "family": [
+          "MovementVelocity"
+        ]
       },
       {
         "loc": "P",
         "title": "Incursion",
         "key": "incursion",
-        "level": 50
+        "level": 50,
+        "tags": [
+          "Speed"
+        ],
+        "family": [
+          "MovementVelocity"
+        ]
       },
       {
         "loc": "P",
         "title": "Crafting Bench",
         "key": "master",
-        "level": 81
+        "level": 81,
+        "tags": [
+          "Speed"
+        ],
+        "family": [
+          "MovementVelocity"
+        ]
       },
       {
         "loc": "I",
         "title": "Searing Exarch",
         "key": "searing",
-        "level": 75
+        "level": 75,
+        "tags": [
+          "Speed"
+        ],
+        "family": [
+          "MovementVelocity"
+        ]
       },
       {
         "loc": "I",
         "title": "Synthesis",
         "key": "synthesis",
-        "level": 48
+        "level": 48,
+        "tags": [
+          "Speed"
+        ],
+        "family": [
+          "MovementVelocity"
+        ]
       },
       {
         "loc": "I",
         "title": "Corrupted",
         "key": "corrupted",
-        "level": 1
+        "level": 1,
+        "tags": [
+          "Speed"
+        ],
+        "family": [
+          "MovementVelocity"
+        ]
       }
     ],
     "#% increased Rarity of Items found": [
@@ -179,19 +369,39 @@
         "loc": "P",
         "title": "Base",
         "key": "normal",
-        "level": 39
+        "level": 39,
+        "tags": [
+          "Drop"
+        ],
+        "family": [
+          "ItemFoundRarityIncreasePrefix",
+          "ItemFoundRarityIncrease"
+        ]
       },
       {
         "loc": "S",
         "title": "Base",
         "key": "normal",
-        "level": 39
+        "level": 39,
+        "tags": [
+          "Drop"
+        ],
+        "family": [
+          "ItemFoundRarityIncreasePrefix",
+          "ItemFoundRarityIncrease"
+        ]
       },
       {
         "loc": "I",
         "title": "Synthesis",
         "key": "synthesis",
-        "level": 48
+        "level": 48,
+        "tags": [
+          "Drop"
+        ],
+        "family": [
+          "ItemFoundRarityIncrease"
+        ]
       }
     ],
     "# to Strength": [
@@ -199,25 +409,49 @@
         "loc": "S",
         "title": "Base",
         "key": "normal",
-        "level": 82
+        "level": 82,
+        "tags": [
+          "Attribute"
+        ],
+        "family": [
+          "Strength"
+        ]
       },
       {
         "loc": "S",
         "title": "Essence",
         "key": "essence",
-        "level": 82
+        "level": 82,
+        "tags": [
+          "Attribute"
+        ],
+        "family": [
+          "Strength"
+        ]
       },
       {
         "loc": "S",
         "title": "Crafting Bench",
         "key": "master",
-        "level": 40
+        "level": 40,
+        "tags": [
+          "Attribute"
+        ],
+        "family": [
+          "Strength"
+        ]
       },
       {
         "loc": "I",
         "title": "Synthesis",
         "key": "synthesis",
-        "level": 24
+        "level": 24,
+        "tags": [
+          "Attribute"
+        ],
+        "family": [
+          "Strength"
+        ]
       }
     ],
     "# to Dexterity": [
@@ -225,25 +459,49 @@
         "loc": "S",
         "title": "Base",
         "key": "normal",
-        "level": 82
+        "level": 82,
+        "tags": [
+          "Attribute"
+        ],
+        "family": [
+          "Dexterity"
+        ]
       },
       {
         "loc": "S",
         "title": "Essence",
         "key": "essence",
-        "level": 82
+        "level": 82,
+        "tags": [
+          "Attribute"
+        ],
+        "family": [
+          "Dexterity"
+        ]
       },
       {
         "loc": "S",
         "title": "Crafting Bench",
         "key": "master",
-        "level": 40
+        "level": 40,
+        "tags": [
+          "Attribute"
+        ],
+        "family": [
+          "Dexterity"
+        ]
       },
       {
         "loc": "I",
         "title": "Synthesis",
         "key": "synthesis",
-        "level": 24
+        "level": 24,
+        "tags": [
+          "Attribute"
+        ],
+        "family": [
+          "Dexterity"
+        ]
       }
     ],
     "Regenerate # Life per second": [
@@ -251,25 +509,51 @@
         "loc": "S",
         "title": "Base",
         "key": "normal",
-        "level": 74
+        "level": 74,
+        "tags": [
+          "Life"
+        ],
+        "family": [
+          "LifeRegeneration"
+        ]
       },
       {
         "loc": "P",
         "title": "Veiled",
         "key": "veiled",
-        "level": 60
+        "level": 60,
+        "tags": [
+          "Life",
+          "Mana"
+        ],
+        "family": [
+          "IncreasedMana"
+        ]
       },
       {
         "loc": "P",
         "title": "Crafting Bench",
         "key": "master",
-        "level": 81
+        "level": 81,
+        "tags": [
+          "Life",
+          "Mana"
+        ],
+        "family": [
+          "IncreasedMana"
+        ]
       },
       {
         "loc": "I",
         "title": "Synthesis",
         "key": "synthesis",
-        "level": 48
+        "level": 48,
+        "tags": [
+          "Life"
+        ],
+        "family": [
+          "LifeRegeneration"
+        ]
       }
     ],
     "#% to Fire Resistance": [
@@ -277,37 +561,85 @@
         "loc": "S",
         "title": "Base",
         "key": "normal",
-        "level": 84
+        "level": 84,
+        "tags": [
+          "Elemental",
+          "Fire",
+          "Resistance"
+        ],
+        "family": [
+          "FireResistance"
+        ]
       },
       {
         "loc": "S",
         "title": "Essence",
         "key": "essence",
-        "level": 84
+        "level": 84,
+        "tags": [
+          "Elemental",
+          "Fire",
+          "Resistance"
+        ],
+        "family": [
+          "FireResistance"
+        ]
       },
       {
         "loc": "S",
         "title": "Crafting Bench",
         "key": "master",
-        "level": 50
+        "level": 50,
+        "tags": [
+          "Elemental",
+          "Fire",
+          "Resistance"
+        ],
+        "family": [
+          "FireResistance"
+        ]
       },
       {
         "loc": "I",
         "title": "Searing Exarch",
         "key": "searing",
-        "level": 75
+        "level": 75,
+        "tags": [
+          "Elemental",
+          "Fire",
+          "Resistance"
+        ],
+        "family": [
+          "FireResistance"
+        ]
       },
       {
         "loc": "S",
         "title": "Warlord",
         "key": "warlord",
-        "level": 90
+        "level": 90,
+        "tags": [
+          "Elemental",
+          "Fire",
+          "Resistance"
+        ],
+        "family": [
+          "FireDamageAvoidance"
+        ]
       },
       {
         "loc": "I",
         "title": "Synthesis",
         "key": "synthesis",
-        "level": 48
+        "level": 48,
+        "tags": [
+          "Elemental",
+          "Fire",
+          "Resistance"
+        ],
+        "family": [
+          "FireResistance"
+        ]
       }
     ],
     "#% to Cold Resistance": [
@@ -315,37 +647,85 @@
         "loc": "S",
         "title": "Base",
         "key": "normal",
-        "level": 84
+        "level": 84,
+        "tags": [
+          "Elemental",
+          "Cold",
+          "Resistance"
+        ],
+        "family": [
+          "ColdResistance"
+        ]
       },
       {
         "loc": "S",
         "title": "Essence",
         "key": "essence",
-        "level": 84
+        "level": 84,
+        "tags": [
+          "Elemental",
+          "Cold",
+          "Resistance"
+        ],
+        "family": [
+          "ColdResistance"
+        ]
       },
       {
         "loc": "S",
         "title": "Crafting Bench",
         "key": "master",
-        "level": 50
+        "level": 50,
+        "tags": [
+          "Elemental",
+          "Cold",
+          "Resistance"
+        ],
+        "family": [
+          "ColdResistance"
+        ]
       },
       {
         "loc": "I",
         "title": "Searing Exarch",
         "key": "searing",
-        "level": 75
+        "level": 75,
+        "tags": [
+          "Elemental",
+          "Cold",
+          "Resistance"
+        ],
+        "family": [
+          "ColdResistance"
+        ]
       },
       {
         "loc": "S",
         "title": "Warlord",
         "key": "warlord",
-        "level": 90
+        "level": 90,
+        "tags": [
+          "Elemental",
+          "Cold",
+          "Resistance"
+        ],
+        "family": [
+          "ColdDamageAvoidance"
+        ]
       },
       {
         "loc": "I",
         "title": "Synthesis",
         "key": "synthesis",
-        "level": 48
+        "level": 48,
+        "tags": [
+          "Elemental",
+          "Cold",
+          "Resistance"
+        ],
+        "family": [
+          "ColdResistance"
+        ]
       }
     ],
     "#% to Lightning Resistance": [
@@ -353,37 +733,85 @@
         "loc": "S",
         "title": "Base",
         "key": "normal",
-        "level": 84
+        "level": 84,
+        "tags": [
+          "Elemental",
+          "Lightning",
+          "Resistance"
+        ],
+        "family": [
+          "LightningResistance"
+        ]
       },
       {
         "loc": "S",
         "title": "Essence",
         "key": "essence",
-        "level": 84
+        "level": 84,
+        "tags": [
+          "Elemental",
+          "Lightning",
+          "Resistance"
+        ],
+        "family": [
+          "LightningResistance"
+        ]
       },
       {
         "loc": "S",
         "title": "Crafting Bench",
         "key": "master",
-        "level": 50
+        "level": 50,
+        "tags": [
+          "Elemental",
+          "Lightning",
+          "Resistance"
+        ],
+        "family": [
+          "LightningResistance"
+        ]
       },
       {
         "loc": "I",
         "title": "Searing Exarch",
         "key": "searing",
-        "level": 75
+        "level": 75,
+        "tags": [
+          "Elemental",
+          "Lightning",
+          "Resistance"
+        ],
+        "family": [
+          "LightningResistance"
+        ]
       },
       {
         "loc": "S",
         "title": "Warlord",
         "key": "warlord",
-        "level": 90
+        "level": 90,
+        "tags": [
+          "Elemental",
+          "Lightning",
+          "Resistance"
+        ],
+        "family": [
+          "LightningDamageAvoidance"
+        ]
       },
       {
         "loc": "I",
         "title": "Synthesis",
         "key": "synthesis",
-        "level": 48
+        "level": 48,
+        "tags": [
+          "Elemental",
+          "Lightning",
+          "Resistance"
+        ],
+        "family": [
+          "LightningResistance"
+        ]
       }
     ],
     "#% to Chaos Resistance": [
@@ -391,25 +819,53 @@
         "loc": "S",
         "title": "Base",
         "key": "normal",
-        "level": 81
+        "level": 81,
+        "tags": [
+          "Chaos",
+          "Resistance"
+        ],
+        "family": [
+          "ChaosResistance"
+        ]
       },
       {
         "loc": "S",
         "title": "Essence",
         "key": "essence",
-        "level": 81
+        "level": 81,
+        "tags": [
+          "Chaos",
+          "Resistance"
+        ],
+        "family": [
+          "ChaosResistance"
+        ]
       },
       {
         "loc": "I",
         "title": "Searing Exarch",
         "key": "searing",
-        "level": 75
+        "level": 75,
+        "tags": [
+          "Chaos",
+          "Resistance"
+        ],
+        "family": [
+          "ChaosResistance"
+        ]
       },
       {
         "loc": "I",
         "title": "Synthesis",
         "key": "synthesis",
-        "level": 24
+        "level": 24,
+        "tags": [
+          "Chaos",
+          "Resistance"
+        ],
+        "family": [
+          "ChaosResistance"
+        ]
       }
     ],
     "#% reduced Attribute Requirements": [
@@ -417,7 +873,11 @@
         "loc": "S",
         "title": "Base",
         "key": "normal",
-        "level": 60
+        "level": 60,
+        "tags": [],
+        "family": [
+          "LocalAttributeRequirements"
+        ]
       }
     ],
     "#% increased Life Regeneration rate": [
@@ -425,19 +885,37 @@
         "loc": "S",
         "title": "Base",
         "key": "normal",
-        "level": 85
+        "level": 85,
+        "tags": [
+          "Life"
+        ],
+        "family": [
+          "LifeRegenerationRate"
+        ]
       },
       {
         "loc": "S",
         "title": "Crafting Bench",
         "key": "master",
-        "level": 60
+        "level": 60,
+        "tags": [
+          "Life"
+        ],
+        "family": [
+          "LifeRegenerationRate"
+        ]
       },
       {
         "loc": "I",
         "title": "Eater of Worlds",
         "key": "eater",
-        "level": 75
+        "level": 75,
+        "tags": [
+          "Life"
+        ],
+        "family": [
+          "LifeRegenerationRate"
+        ]
       }
     ],
     "#% chance to Suppress Spell Damage": [
@@ -445,31 +923,51 @@
         "loc": "S",
         "title": "Base",
         "key": "normal",
-        "level": 85
+        "level": 85,
+        "tags": [],
+        "family": [
+          "ChanceToSuppressSpells"
+        ]
       },
       {
         "loc": "S",
         "title": "Delve",
         "key": "delve",
-        "level": 1
+        "level": 1,
+        "tags": [],
+        "family": [
+          "ChanceToDodge"
+        ]
       },
       {
         "loc": "S",
         "title": "Crafting Bench",
         "key": "master",
-        "level": 60
+        "level": 60,
+        "tags": [],
+        "family": [
+          "ChanceToSuppressSpells"
+        ]
       },
       {
         "loc": "I",
         "title": "Synthesis",
         "key": "synthesis",
-        "level": 56
+        "level": 56,
+        "tags": [],
+        "family": [
+          "ChanceToSuppressSpells"
+        ]
       },
       {
         "loc": "I",
         "title": "Corrupted",
         "key": "corrupted",
-        "level": 45
+        "level": 45,
+        "tags": [],
+        "family": [
+          "ChanceToSuppressSpells"
+        ]
       }
     ],
     "# to maximum Energy Shield": [
@@ -477,19 +975,40 @@
         "loc": "P",
         "title": "Essence",
         "key": "essence",
-        "level": 82
+        "level": 82,
+        "tags": [
+          "Defences",
+          "Energy Shield"
+        ],
+        "family": [
+          "BaseLocalDefences"
+        ]
       },
       {
         "loc": "P",
         "title": "Crafting Bench",
         "key": "master",
-        "level": 30
+        "level": 30,
+        "tags": [
+          "Defences",
+          "Energy Shield"
+        ],
+        "family": [
+          "BaseLocalDefences"
+        ]
       },
       {
         "loc": "I",
         "title": "Synthesis",
         "key": "synthesis",
-        "level": 48
+        "level": 48,
+        "tags": [
+          "Defences",
+          "Energy Shield"
+        ],
+        "family": [
+          "BaseLocalDefences"
+        ]
       }
     ],
     "Reflects # Physical Damage to Melee Attackers": [
@@ -497,7 +1016,14 @@
         "loc": "P",
         "title": "Essence",
         "key": "essence",
-        "level": 82
+        "level": 82,
+        "tags": [
+          "Damage",
+          "Physical"
+        ],
+        "family": [
+          "AttackerTakesDamageNoRange"
+        ]
       }
     ],
     "# to maximum Mana": [
@@ -505,31 +1031,63 @@
         "loc": "P",
         "title": "Essence",
         "key": "essence",
-        "level": 82
+        "level": 82,
+        "tags": [
+          "Mana"
+        ],
+        "family": [
+          "IncreasedMana"
+        ]
       },
       {
         "loc": "P",
         "title": "Veiled",
         "key": "veiled",
-        "level": 60
+        "level": 60,
+        "tags": [
+          "Life",
+          "Mana"
+        ],
+        "family": [
+          "IncreasedMana"
+        ]
       },
       {
         "loc": "P",
         "title": "Incursion",
         "key": "incursion",
-        "level": 50
+        "level": 50,
+        "tags": [
+          "Mana"
+        ],
+        "family": [
+          "IncreasedMana"
+        ]
       },
       {
         "loc": "P",
         "title": "Crafting Bench",
         "key": "master",
-        "level": 81
+        "level": 81,
+        "tags": [
+          "Life",
+          "Mana"
+        ],
+        "family": [
+          "IncreasedMana"
+        ]
       },
       {
         "loc": "I",
         "title": "Synthesis",
         "key": "synthesis",
-        "level": 48
+        "level": 48,
+        "tags": [
+          "Mana"
+        ],
+        "family": [
+          "IncreasedMana"
+        ]
       }
     ],
     "#% increased Movement Speed for each nearby Enemy, up to a maximum of #%": [
@@ -537,7 +1095,13 @@
         "loc": "P",
         "title": "Essence",
         "key": "essence",
-        "level": 63
+        "level": 63,
+        "tags": [
+          "Speed"
+        ],
+        "family": [
+          "MovementVelocity"
+        ]
       }
     ],
     "#% chance to Avoid being Shocked": [
@@ -545,25 +1109,57 @@
         "loc": "S",
         "title": "Essence",
         "key": "essence",
-        "level": 82
+        "level": 82,
+        "tags": [
+          "Elemental",
+          "Lightning",
+          "Ailment"
+        ],
+        "family": [
+          "ReducedShockChance"
+        ]
       },
       {
         "loc": "I",
         "title": "Searing Exarch",
         "key": "searing",
-        "level": 75
+        "level": 75,
+        "tags": [
+          "Elemental",
+          "Lightning",
+          "Ailment"
+        ],
+        "family": [
+          "AvoidShock"
+        ]
       },
       {
         "loc": "S",
         "title": "Crusader",
         "key": "crusader",
-        "level": 85
+        "level": 85,
+        "tags": [
+          "Elemental",
+          "Lightning",
+          "Ailment"
+        ],
+        "family": [
+          "AvoidShock"
+        ]
       },
       {
         "loc": "I",
         "title": "Synthesis",
         "key": "synthesis",
-        "level": 36
+        "level": 36,
+        "tags": [
+          "Elemental",
+          "Lightning",
+          "Ailment"
+        ],
+        "family": [
+          "AvoidShock"
+        ]
       }
     ],
     "Minions have #% increased maximum Life": [
@@ -571,13 +1167,27 @@
         "loc": "S",
         "title": "Essence",
         "key": "essence",
-        "level": 82
+        "level": 82,
+        "tags": [
+          "Life",
+          "Minion"
+        ],
+        "family": [
+          "MinionLife"
+        ]
       },
       {
         "loc": "I",
         "title": "Synthesis",
         "key": "synthesis",
-        "level": 36
+        "level": 36,
+        "tags": [
+          "Life",
+          "Minion"
+        ],
+        "family": [
+          "MinionLife"
+        ]
       }
     ],
     "#% chance to Avoid being Frozen": [
@@ -585,31 +1195,71 @@
         "loc": "S",
         "title": "Essence",
         "key": "essence",
-        "level": 1
+        "level": 1,
+        "tags": [
+          "Elemental",
+          "Cold",
+          "Ailment"
+        ],
+        "family": [
+          "ChanceToAvoidFreezeAndChill"
+        ]
       },
       {
         "loc": "P",
         "title": "Crafting Bench",
         "key": "master",
-        "level": 81
+        "level": 81,
+        "tags": [
+          "Elemental",
+          "Cold",
+          "Ailment"
+        ],
+        "family": [
+          "AvoidFreeze"
+        ]
       },
       {
         "loc": "I",
         "title": "Searing Exarch",
         "key": "searing",
-        "level": 75
+        "level": 75,
+        "tags": [
+          "Elemental",
+          "Cold",
+          "Ailment"
+        ],
+        "family": [
+          "AvoidFreeze"
+        ]
       },
       {
         "loc": "S",
         "title": "Crusader",
         "key": "crusader",
-        "level": 85
+        "level": 85,
+        "tags": [
+          "Elemental",
+          "Cold",
+          "Ailment"
+        ],
+        "family": [
+          "AvoidFreeze"
+        ]
       },
       {
         "loc": "I",
         "title": "Synthesis",
         "key": "synthesis",
-        "level": 36
+        "level": 36,
+        "tags": [
+          "Elemental",
+          "Cold",
+          "Ailment"
+        ],
+        "family": [
+          "AvoidFreeze"
+        ]
       }
     ],
     "#% chance to Avoid being Ignited": [
@@ -617,25 +1267,57 @@
         "loc": "S",
         "title": "Essence",
         "key": "essence",
-        "level": 82
+        "level": 82,
+        "tags": [
+          "Elemental",
+          "Fire",
+          "Ailment"
+        ],
+        "family": [
+          "AvoidIgnite"
+        ]
       },
       {
         "loc": "I",
         "title": "Searing Exarch",
         "key": "searing",
-        "level": 75
+        "level": 75,
+        "tags": [
+          "Elemental",
+          "Fire",
+          "Ailment"
+        ],
+        "family": [
+          "AvoidIgnite"
+        ]
       },
       {
         "loc": "S",
         "title": "Crusader",
         "key": "crusader",
-        "level": 85
+        "level": 85,
+        "tags": [
+          "Elemental",
+          "Fire",
+          "Ailment"
+        ],
+        "family": [
+          "AvoidIgnite"
+        ]
       },
       {
         "loc": "I",
         "title": "Synthesis",
         "key": "synthesis",
-        "level": 36
+        "level": 36,
+        "tags": [
+          "Elemental",
+          "Fire",
+          "Ailment"
+        ],
+        "family": [
+          "AvoidIgnite"
+        ]
       }
     ],
     "#% chance to Avoid Elemental Ailments": [
@@ -643,31 +1325,81 @@
         "loc": "S",
         "title": "Essence",
         "key": "essence",
-        "level": 82
+        "level": 82,
+        "tags": [
+          "Elemental",
+          "Fire",
+          "Cold",
+          "Lightning",
+          "Ailment"
+        ],
+        "family": [
+          "AvoidElementalStatusAilments"
+        ]
       },
       {
         "loc": "S",
         "title": "Crafting Bench",
         "key": "master",
-        "level": 60
+        "level": 60,
+        "tags": [
+          "Elemental",
+          "Fire",
+          "Cold",
+          "Lightning",
+          "Ailment"
+        ],
+        "family": [
+          "AvoidElementalStatusAilments"
+        ]
       },
       {
         "loc": "I",
         "title": "Eater of Worlds",
         "key": "eater",
-        "level": 75
+        "level": 75,
+        "tags": [
+          "Elemental",
+          "Fire",
+          "Cold",
+          "Lightning",
+          "Ailment"
+        ],
+        "family": [
+          "AvoidElementalStatusAilments"
+        ]
       },
       {
         "loc": "S",
         "title": "Shaper",
         "key": "shaper",
-        "level": 91
+        "level": 91,
+        "tags": [
+          "Elemental",
+          "Fire",
+          "Cold",
+          "Lightning",
+          "Ailment"
+        ],
+        "family": [
+          "AvoidElementalStatusAilments"
+        ]
       },
       {
         "loc": "I",
         "title": "Synthesis",
         "key": "synthesis",
-        "level": 55
+        "level": 55,
+        "tags": [
+          "Elemental",
+          "Fire",
+          "Cold",
+          "Lightning",
+          "Ailment"
+        ],
+        "family": [
+          "AvoidElementalStatusAilments"
+        ]
       }
     ],
     "# to Intelligence": [
@@ -675,19 +1407,37 @@
         "loc": "S",
         "title": "Essence",
         "key": "essence",
-        "level": 82
+        "level": 82,
+        "tags": [
+          "Attribute"
+        ],
+        "family": [
+          "Intelligence"
+        ]
       },
       {
         "loc": "S",
         "title": "Crafting Bench",
         "key": "master",
-        "level": 40
+        "level": 40,
+        "tags": [
+          "Attribute"
+        ],
+        "family": [
+          "Intelligence"
+        ]
       },
       {
         "loc": "I",
         "title": "Synthesis",
         "key": "synthesis",
-        "level": 24
+        "level": 24,
+        "tags": [
+          "Attribute"
+        ],
+        "family": [
+          "Intelligence"
+        ]
       }
     ],
     "#% chance to Avoid being Stunned": [
@@ -695,25 +1445,41 @@
         "loc": "S",
         "title": "Essence",
         "key": "essence",
-        "level": 82
+        "level": 82,
+        "tags": [],
+        "family": [
+          "AvoidStun"
+        ]
       },
       {
         "loc": "I",
         "title": "Searing Exarch",
         "key": "searing",
-        "level": 75
+        "level": 75,
+        "tags": [],
+        "family": [
+          "AvoidStun"
+        ]
       },
       {
         "loc": "S",
         "title": "Elder",
         "key": "elder",
-        "level": 92
+        "level": 92,
+        "tags": [],
+        "family": [
+          "AvoidStun"
+        ]
       },
       {
         "loc": "S",
         "title": "Warlord",
         "key": "warlord",
-        "level": 85
+        "level": 85,
+        "tags": [],
+        "family": [
+          "AvoidStun"
+        ]
       }
     ],
     "Drops Burning Ground while moving, dealing # Fire Damage per second for # seconds": [
@@ -721,7 +1487,15 @@
         "loc": "S",
         "title": "Essence",
         "key": "essence",
-        "level": 63
+        "level": 63,
+        "tags": [
+          "Damage",
+          "Elemental",
+          "Fire"
+        ],
+        "family": [
+          "ItemGrantsBuff"
+        ]
       }
     ],
     "#% increased Mana Regeneration Rate while Shocked": [
@@ -729,7 +1503,13 @@
         "loc": "S",
         "title": "Essence",
         "key": "essence",
-        "level": 63
+        "level": 63,
+        "tags": [
+          "Mana"
+        ],
+        "family": [
+          "ManaRegenerationWhileShocked"
+        ]
       }
     ],
     "#% reduced Elemental Damage Taken while stationary": [
@@ -737,7 +1517,13 @@
         "loc": "S",
         "title": "Essence",
         "key": "essence",
-        "level": 63
+        "level": 63,
+        "tags": [
+          "Elemental"
+        ],
+        "family": [
+          "ItemGrantsBuff"
+        ]
       }
     ],
     "Cannot be Poisoned": [
@@ -745,7 +1531,14 @@
         "loc": "S",
         "title": "Essence",
         "key": "essence",
-        "level": 63
+        "level": 63,
+        "tags": [
+          "Chaos",
+          "Ailment"
+        ],
+        "family": [
+          "CannotBePoisoned"
+        ]
       }
     ],
     "#% increased Movement Speed if you haven't been Hit Recently": [
@@ -753,19 +1546,37 @@
         "loc": "P",
         "title": "Veiled",
         "key": "veiled",
-        "level": 60
+        "level": 60,
+        "tags": [
+          "Speed"
+        ],
+        "family": [
+          "MovementVelocity"
+        ]
       },
       {
         "loc": "P",
         "title": "Incursion",
         "key": "incursion",
-        "level": 50
+        "level": 50,
+        "tags": [
+          "Speed"
+        ],
+        "family": [
+          "MovementVelocity"
+        ]
       },
       {
         "loc": "P",
         "title": "Crafting Bench",
         "key": "master",
-        "level": 81
+        "level": 81,
+        "tags": [
+          "Speed"
+        ],
+        "family": [
+          "MovementVelocity"
+        ]
       }
     ],
     "#% chance to gain Onslaught for # seconds on Kill": [
@@ -773,19 +1584,39 @@
         "loc": "P",
         "title": "Veiled",
         "key": "veiled",
-        "level": 60
+        "level": 60,
+        "tags": [
+          "Speed"
+        ],
+        "family": [
+          "MovementVelocity"
+        ]
       },
       {
         "loc": "P",
         "title": "Crafting Bench",
         "key": "master",
-        "level": 81
+        "level": 81,
+        "tags": [
+          "Speed"
+        ],
+        "family": [
+          "MovementVelocity"
+        ]
       },
       {
         "loc": "S",
         "title": "Redeemer",
         "key": "redeemer",
-        "level": 90
+        "level": 90,
+        "tags": [
+          "Attack",
+          "Caster",
+          "Speed"
+        ],
+        "family": [
+          "ChanceToGainOnslaughtOnKill"
+        ]
       }
     ],
     "#% chance to Avoid being Chilled": [
@@ -793,13 +1624,31 @@
         "loc": "P",
         "title": "Veiled",
         "key": "veiled",
-        "level": 60
+        "level": 60,
+        "tags": [
+          "Elemental",
+          "Cold",
+          "Speed",
+          "Ailment"
+        ],
+        "family": [
+          "MovementVelocity"
+        ]
       },
       {
         "loc": "P",
         "title": "Crafting Bench",
         "key": "master",
-        "level": 81
+        "level": 81,
+        "tags": [
+          "Elemental",
+          "Cold",
+          "Speed",
+          "Ailment"
+        ],
+        "family": [
+          "MovementVelocity"
+        ]
       }
     ],
     "Regenerate # Mana per second": [
@@ -807,19 +1656,39 @@
         "loc": "P",
         "title": "Veiled",
         "key": "veiled",
-        "level": 60
+        "level": 60,
+        "tags": [
+          "Life",
+          "Mana"
+        ],
+        "family": [
+          "IncreasedLife"
+        ]
       },
       {
         "loc": "P",
         "title": "Crafting Bench",
         "key": "master",
-        "level": 81
+        "level": 81,
+        "tags": [
+          "Life",
+          "Mana"
+        ],
+        "family": [
+          "IncreasedLife"
+        ]
       },
       {
         "loc": "I",
         "title": "Synthesis",
         "key": "synthesis",
-        "level": 15
+        "level": 15,
+        "tags": [
+          "Mana"
+        ],
+        "family": [
+          "ManaRegeneration"
+        ]
       }
     ],
     "#% increased Evasion Rating while Focused": [
@@ -827,13 +1696,27 @@
         "loc": "P",
         "title": "Veiled",
         "key": "veiled",
-        "level": 60
+        "level": 60,
+        "tags": [
+          "Defences",
+          "Evasion"
+        ],
+        "family": [
+          "DodgeChanceDuringFocus"
+        ]
       },
       {
         "loc": "P",
         "title": "Crafting Bench",
         "key": "master",
-        "level": 81
+        "level": 81,
+        "tags": [
+          "Defences",
+          "Evasion"
+        ],
+        "family": [
+          "DodgeChanceDuringFocus"
+        ]
       }
     ],
     "grant focus skill [#]": [
@@ -841,25 +1724,61 @@
         "loc": "P",
         "title": "Veiled",
         "key": "veiled",
-        "level": 60
+        "level": 60,
+        "tags": [
+          "Defences",
+          "Evasion",
+          "Ailment"
+        ],
+        "family": [
+          "DodgeChanceDuringFocus",
+          "ImmuneToStatusAilmentsWhileFocused"
+        ]
       },
       {
         "loc": "S",
         "title": "Veiled",
         "key": "veiled",
-        "level": 60
+        "level": 60,
+        "tags": [
+          "Defences",
+          "Evasion",
+          "Ailment"
+        ],
+        "family": [
+          "DodgeChanceDuringFocus",
+          "ImmuneToStatusAilmentsWhileFocused"
+        ]
       },
       {
         "loc": "P",
         "title": "Crafting Bench",
         "key": "master",
-        "level": 81
+        "level": 81,
+        "tags": [
+          "Defences",
+          "Evasion",
+          "Ailment"
+        ],
+        "family": [
+          "DodgeChanceDuringFocus",
+          "ImmuneToStatusAilmentsWhileFocused"
+        ]
       },
       {
         "loc": "S",
         "title": "Crafting Bench",
         "key": "master",
-        "level": 81
+        "level": 81,
+        "tags": [
+          "Defences",
+          "Evasion",
+          "Ailment"
+        ],
+        "family": [
+          "DodgeChanceDuringFocus",
+          "ImmuneToStatusAilmentsWhileFocused"
+        ]
       }
     ],
     "# to Strength and Dexterity": [
@@ -867,13 +1786,27 @@
         "loc": "S",
         "title": "Veiled",
         "key": "veiled",
-        "level": 60
+        "level": 60,
+        "tags": [
+          "Attribute"
+        ],
+        "family": [
+          "Strength",
+          "Dexterity"
+        ]
       },
       {
         "loc": "S",
         "title": "Crafting Bench",
         "key": "master",
-        "level": 81
+        "level": 81,
+        "tags": [
+          "Attribute"
+        ],
+        "family": [
+          "Strength",
+          "Dexterity"
+        ]
       }
     ],
     "# to Dexterity and Intelligence": [
@@ -881,13 +1814,27 @@
         "loc": "S",
         "title": "Veiled",
         "key": "veiled",
-        "level": 60
+        "level": 60,
+        "tags": [
+          "Attribute"
+        ],
+        "family": [
+          "Dexterity",
+          "Intelligence"
+        ]
       },
       {
         "loc": "S",
         "title": "Crafting Bench",
         "key": "master",
-        "level": 81
+        "level": 81,
+        "tags": [
+          "Attribute"
+        ],
+        "family": [
+          "Dexterity",
+          "Intelligence"
+        ]
       }
     ],
     "# to Strength and Intelligence": [
@@ -895,13 +1842,27 @@
         "loc": "S",
         "title": "Veiled",
         "key": "veiled",
-        "level": 60
+        "level": 60,
+        "tags": [
+          "Attribute"
+        ],
+        "family": [
+          "Strength",
+          "Intelligence"
+        ]
       },
       {
         "loc": "S",
         "title": "Crafting Bench",
         "key": "master",
-        "level": 81
+        "level": 81,
+        "tags": [
+          "Attribute"
+        ],
+        "family": [
+          "Strength",
+          "Intelligence"
+        ]
       }
     ],
     "#% increased Effect of Non-Damaging Ailments": [
@@ -909,19 +1870,37 @@
         "loc": "S",
         "title": "Veiled",
         "key": "veiled",
-        "level": 60
+        "level": 60,
+        "tags": [
+          "Ailment"
+        ],
+        "family": [
+          "IncreasedAilmentEffectOnEnemies"
+        ]
       },
       {
         "loc": "S",
         "title": "Crafting Bench",
         "key": "master",
-        "level": 75
+        "level": 75,
+        "tags": [
+          "Ailment"
+        ],
+        "family": [
+          "IncreasedAilmentEffectOnEnemies"
+        ]
       },
       {
         "loc": "S",
         "title": "Redeemer",
         "key": "redeemer",
-        "level": 83
+        "level": 83,
+        "tags": [
+          "Ailment"
+        ],
+        "family": [
+          "IncreasedAilmentEffectOnEnemies"
+        ]
       }
     ],
     "You have Onslaught during Soul Gain Prevention": [
@@ -929,13 +1908,21 @@
         "loc": "S",
         "title": "Veiled",
         "key": "veiled",
-        "level": 60
+        "level": 60,
+        "tags": [],
+        "family": [
+          "GainOnslaughtDuringSoulGainPrevention"
+        ]
       },
       {
         "loc": "S",
         "title": "Crafting Bench",
         "key": "master",
-        "level": 50
+        "level": 50,
+        "tags": [],
+        "family": [
+          "GainOnslaughtDuringSoulGainPrevention"
+        ]
       }
     ],
     "#% increased Damage with Non-Vaal Skills during Soul Gain Prevention": [
@@ -943,13 +1930,25 @@
         "loc": "S",
         "title": "Veiled",
         "key": "veiled",
-        "level": 60
+        "level": 60,
+        "tags": [
+          "Damage"
+        ],
+        "family": [
+          "DamageWithNonVaalSkillsDuringSoulGainPrevention"
+        ]
       },
       {
         "loc": "S",
         "title": "Crafting Bench",
         "key": "master",
-        "level": 81
+        "level": 81,
+        "tags": [
+          "Damage"
+        ],
+        "family": [
+          "DamageWithNonVaalSkillsDuringSoulGainPrevention"
+        ]
       }
     ],
     "#% increased Totem Placement speed": [
@@ -957,37 +1956,75 @@
         "loc": "S",
         "title": "Veiled",
         "key": "veiled",
-        "level": 60
+        "level": 60,
+        "tags": [
+          "Speed"
+        ],
+        "family": [
+          "SummonTotemCastSpeed"
+        ]
       },
       {
         "loc": "S",
         "title": "Crafting Bench",
         "key": "master",
-        "level": 81
+        "level": 81,
+        "tags": [
+          "Speed"
+        ],
+        "family": [
+          "SummonTotemCastSpeed"
+        ]
       },
       {
         "loc": "I",
         "title": "Searing Exarch",
         "key": "searing",
-        "level": 75
+        "level": 75,
+        "tags": [
+          "Speed"
+        ],
+        "family": [
+          "SummonTotemCastSpeed"
+        ]
       },
       {
         "loc": "S",
         "title": "Elder",
         "key": "elder",
-        "level": 90
+        "level": 90,
+        "tags": [
+          "Speed",
+          "Gem"
+        ],
+        "family": [
+          "TotemSupported"
+        ]
       },
       {
         "loc": "S",
         "title": "Shaper",
         "key": "shaper",
-        "level": 90
+        "level": 90,
+        "tags": [
+          "Speed",
+          "Gem"
+        ],
+        "family": [
+          "TotemSupported"
+        ]
       },
       {
         "loc": "I",
         "title": "Synthesis",
         "key": "synthesis",
-        "level": 56
+        "level": 56,
+        "tags": [
+          "Speed"
+        ],
+        "family": [
+          "SummonTotemCastSpeed"
+        ]
       }
     ],
     "Focus has #% increased Cooldown Recovery Rate": [
@@ -995,13 +2032,23 @@
         "loc": "S",
         "title": "Veiled",
         "key": "veiled",
-        "level": 60
+        "level": 60,
+        "tags": [
+          "Ailment"
+        ],
+        "family": [
+          "ImmuneToStatusAilmentsWhileFocused"
+        ]
       },
       {
         "loc": "S",
         "title": "Crafting Bench",
         "key": "master",
-        "level": 60
+        "level": 60,
+        "tags": [],
+        "family": [
+          "CooldownRecovery"
+        ]
       }
     ],
     "You are Immune to Ailments while Focused": [
@@ -1009,13 +2056,25 @@
         "loc": "S",
         "title": "Veiled",
         "key": "veiled",
-        "level": 60
+        "level": 60,
+        "tags": [
+          "Ailment"
+        ],
+        "family": [
+          "ImmuneToStatusAilmentsWhileFocused"
+        ]
       },
       {
         "loc": "S",
         "title": "Crafting Bench",
         "key": "master",
-        "level": 60
+        "level": 60,
+        "tags": [
+          "Ailment"
+        ],
+        "family": [
+          "ImmuneToStatusAilmentsWhileFocused"
+        ]
       }
     ],
     "#% to Fire and Chaos Resistances": [
@@ -1023,13 +2082,31 @@
         "loc": "S",
         "title": "Veiled",
         "key": "veiled",
-        "level": 60
+        "level": 60,
+        "tags": [
+          "Elemental",
+          "Fire",
+          "Chaos",
+          "Resistance"
+        ],
+        "family": [
+          "FireAndChaosDamageResistance"
+        ]
       },
       {
         "loc": "S",
         "title": "Crafting Bench",
         "key": "master",
-        "level": 81
+        "level": 81,
+        "tags": [
+          "Elemental",
+          "Fire",
+          "Chaos",
+          "Resistance"
+        ],
+        "family": [
+          "FireAndChaosDamageResistance"
+        ]
       }
     ],
     "#% to Lightning and Chaos Resistances": [
@@ -1037,13 +2114,31 @@
         "loc": "S",
         "title": "Veiled",
         "key": "veiled",
-        "level": 60
+        "level": 60,
+        "tags": [
+          "Elemental",
+          "Lightning",
+          "Chaos",
+          "Resistance"
+        ],
+        "family": [
+          "LightningAndChaosDamageResistance"
+        ]
       },
       {
         "loc": "S",
         "title": "Crafting Bench",
         "key": "master",
-        "level": 81
+        "level": 81,
+        "tags": [
+          "Elemental",
+          "Lightning",
+          "Chaos",
+          "Resistance"
+        ],
+        "family": [
+          "LightningAndChaosDamageResistance"
+        ]
       }
     ],
     "#% to Cold and Chaos Resistances": [
@@ -1051,13 +2146,31 @@
         "loc": "S",
         "title": "Veiled",
         "key": "veiled",
-        "level": 60
+        "level": 60,
+        "tags": [
+          "Elemental",
+          "Cold",
+          "Chaos",
+          "Resistance"
+        ],
+        "family": [
+          "ColdAndChaosDamageResistance"
+        ]
       },
       {
         "loc": "S",
         "title": "Crafting Bench",
         "key": "master",
-        "level": 81
+        "level": 81,
+        "tags": [
+          "Elemental",
+          "Cold",
+          "Chaos",
+          "Resistance"
+        ],
+        "family": [
+          "ColdAndChaosDamageResistance"
+        ]
       }
     ],
     "# to Level of Socketed Fire Gems": [
@@ -1065,19 +2178,43 @@
         "loc": "P",
         "title": "Delve",
         "key": "delve",
-        "level": 1
+        "level": 1,
+        "tags": [
+          "Elemental",
+          "Fire",
+          "Gem"
+        ],
+        "family": [
+          "IncreaseSpecificSocketedGemLevel"
+        ]
       },
       {
         "loc": "P",
         "title": "Warlord",
         "key": "warlord",
-        "level": 78
+        "level": 78,
+        "tags": [
+          "Elemental",
+          "Fire",
+          "Gem"
+        ],
+        "family": [
+          "IncreaseSpecificSocketedGemLevel"
+        ]
       },
       {
         "loc": "I",
         "title": "Synthesis",
         "key": "synthesis",
-        "level": 65
+        "level": 65,
+        "tags": [
+          "Elemental",
+          "Fire",
+          "Gem"
+        ],
+        "family": [
+          "IncreaseSpecificSocketedGemLevel"
+        ]
       }
     ],
     "# to Level of Socketed Cold Gems": [
@@ -1085,19 +2222,43 @@
         "loc": "P",
         "title": "Delve",
         "key": "delve",
-        "level": 1
+        "level": 1,
+        "tags": [
+          "Elemental",
+          "Cold",
+          "Gem"
+        ],
+        "family": [
+          "IncreaseSpecificSocketedGemLevel"
+        ]
       },
       {
         "loc": "P",
         "title": "Redeemer",
         "key": "redeemer",
-        "level": 78
+        "level": 78,
+        "tags": [
+          "Elemental",
+          "Cold",
+          "Gem"
+        ],
+        "family": [
+          "IncreaseSpecificSocketedGemLevel"
+        ]
       },
       {
         "loc": "I",
         "title": "Synthesis",
         "key": "synthesis",
-        "level": 65
+        "level": 65,
+        "tags": [
+          "Elemental",
+          "Cold",
+          "Gem"
+        ],
+        "family": [
+          "IncreaseSpecificSocketedGemLevel"
+        ]
       }
     ],
     "# to Level of Socketed Lightning Gems": [
@@ -1105,19 +2266,43 @@
         "loc": "P",
         "title": "Delve",
         "key": "delve",
-        "level": 1
+        "level": 1,
+        "tags": [
+          "Elemental",
+          "Lightning",
+          "Gem"
+        ],
+        "family": [
+          "IncreaseSpecificSocketedGemLevel"
+        ]
       },
       {
         "loc": "P",
         "title": "Crusader",
         "key": "crusader",
-        "level": 78
+        "level": 78,
+        "tags": [
+          "Elemental",
+          "Lightning",
+          "Gem"
+        ],
+        "family": [
+          "IncreaseSpecificSocketedGemLevel"
+        ]
       },
       {
         "loc": "I",
         "title": "Synthesis",
         "key": "synthesis",
-        "level": 65
+        "level": 65,
+        "tags": [
+          "Elemental",
+          "Lightning",
+          "Gem"
+        ],
+        "family": [
+          "IncreaseSpecificSocketedGemLevel"
+        ]
       }
     ],
     "# to Level of Socketed Chaos Gems": [
@@ -1125,19 +2310,40 @@
         "loc": "P",
         "title": "Delve",
         "key": "delve",
-        "level": 1
+        "level": 1,
+        "tags": [
+          "Chaos",
+          "Gem"
+        ],
+        "family": [
+          "IncreaseSpecificSocketedGemLevel"
+        ]
       },
       {
         "loc": "P",
         "title": "Hunter",
         "key": "hunter",
-        "level": 78
+        "level": 78,
+        "tags": [
+          "Chaos",
+          "Gem"
+        ],
+        "family": [
+          "IncreaseSpecificSocketedGemLevel"
+        ]
       },
       {
         "loc": "I",
         "title": "Synthesis",
         "key": "synthesis",
-        "level": 65
+        "level": 65,
+        "tags": [
+          "Chaos",
+          "Gem"
+        ],
+        "family": [
+          "IncreaseSpecificSocketedGemLevel"
+        ]
       }
     ],
     "#% increased Damage with Hits and Ailments against Cursed Enemies": [
@@ -1145,7 +2351,14 @@
         "loc": "P",
         "title": "Delve",
         "key": "delve",
-        "level": 60
+        "level": 60,
+        "tags": [
+          "Damage",
+          "Curse"
+        ],
+        "family": [
+          "AllDamage"
+        ]
       }
     ],
     "# to Level of Socketed Minion Gems": [
@@ -1153,13 +2366,27 @@
         "loc": "P",
         "title": "Delve",
         "key": "delve",
-        "level": 60
+        "level": 60,
+        "tags": [
+          "Minion",
+          "Gem"
+        ],
+        "family": [
+          "IncreaseSpecificSocketedGemLevel"
+        ]
       },
       {
         "loc": "I",
         "title": "Corrupted",
         "key": "corrupted",
-        "level": 20
+        "level": 20,
+        "tags": [
+          "Minion",
+          "Gem"
+        ],
+        "family": [
+          "IncreaseSpecificSocketedGemLevel"
+        ]
       }
     ],
     "#% additional Physical Damage Reduction while moving": [
@@ -1167,7 +2394,13 @@
         "loc": "S",
         "title": "Delve",
         "key": "delve",
-        "level": 1
+        "level": 1,
+        "tags": [
+          "Physical"
+        ],
+        "family": [
+          "AdditionalPhysicalDamageReductionWhileMoving"
+        ]
       }
     ],
     "Regenerate #% of Life per second": [
@@ -1175,7 +2408,13 @@
         "loc": "S",
         "title": "Delve",
         "key": "delve",
-        "level": 1
+        "level": 1,
+        "tags": [
+          "Life"
+        ],
+        "family": [
+          "LifeRegenerationRatePercentage"
+        ]
       }
     ],
     "#% chance to Defend with #% of Armour": [
@@ -1183,7 +2422,14 @@
         "loc": "S",
         "title": "Delve",
         "key": "delve",
-        "level": 1
+        "level": 1,
+        "tags": [
+          "Defences",
+          "Armour"
+        ],
+        "family": [
+          "ChanceWhenHitForArmourToBeDoubled"
+        ]
       }
     ],
     "#% chance to Avoid being Poisoned": [
@@ -1191,31 +2437,67 @@
         "loc": "S",
         "title": "Delve",
         "key": "delve",
-        "level": 1
+        "level": 1,
+        "tags": [
+          "Chaos",
+          "Ailment"
+        ],
+        "family": [
+          "ChanceToAvoidPoison"
+        ]
       },
       {
         "loc": "P",
         "title": "Incursion",
         "key": "incursion",
-        "level": 50
+        "level": 50,
+        "tags": [
+          "Speed"
+        ],
+        "family": [
+          "MovementVelocity"
+        ]
       },
       {
         "loc": "I",
         "title": "Eater of Worlds",
         "key": "eater",
-        "level": 75
+        "level": 75,
+        "tags": [
+          "Chaos",
+          "Ailment"
+        ],
+        "family": [
+          "ChanceToAvoidPoison"
+        ]
       },
       {
         "loc": "S",
         "title": "Hunter",
         "key": "hunter",
-        "level": 85
+        "level": 85,
+        "tags": [
+          "Physical",
+          "Chaos",
+          "Attack",
+          "Ailment"
+        ],
+        "family": [
+          "AvoidBleedAndPoison"
+        ]
       },
       {
         "loc": "I",
         "title": "Synthesis",
         "key": "synthesis",
-        "level": 48
+        "level": 48,
+        "tags": [
+          "Chaos",
+          "Ailment"
+        ],
+        "family": [
+          "ChanceToAvoidPoison"
+        ]
       }
     ],
     "#% chance to Avoid Bleeding": [
@@ -1223,37 +2505,84 @@
         "loc": "S",
         "title": "Delve",
         "key": "delve",
-        "level": 1
+        "level": 1,
+        "tags": [
+          "Physical",
+          "Attack",
+          "Ailment"
+        ],
+        "family": [
+          "ChanceToAvoidBleeding"
+        ]
       },
       {
         "loc": "P",
         "title": "Incursion",
         "key": "incursion",
-        "level": 50
+        "level": 50,
+        "tags": [
+          "Speed"
+        ],
+        "family": [
+          "MovementVelocity"
+        ]
       },
       {
         "loc": "S",
         "title": "Crafting Bench",
         "key": "master",
-        "level": 60
+        "level": 60,
+        "tags": [
+          "Physical",
+          "Attack",
+          "Ailment"
+        ],
+        "family": [
+          "ChanceToAvoidBleeding"
+        ]
       },
       {
         "loc": "I",
         "title": "Eater of Worlds",
         "key": "eater",
-        "level": 75
+        "level": 75,
+        "tags": [
+          "Physical",
+          "Attack",
+          "Ailment"
+        ],
+        "family": [
+          "ChanceToAvoidBleeding"
+        ]
       },
       {
         "loc": "S",
         "title": "Hunter",
         "key": "hunter",
-        "level": 85
+        "level": 85,
+        "tags": [
+          "Physical",
+          "Chaos",
+          "Attack",
+          "Ailment"
+        ],
+        "family": [
+          "AvoidBleedAndPoison"
+        ]
       },
       {
         "loc": "I",
         "title": "Synthesis",
         "key": "synthesis",
-        "level": 36
+        "level": 36,
+        "tags": [
+          "Physical",
+          "Attack",
+          "Ailment"
+        ],
+        "family": [
+          "ChanceToAvoidBleeding"
+        ]
       }
     ],
     "#% reduced Elemental Ailment Duration on you": [
@@ -1261,13 +2590,27 @@
         "loc": "S",
         "title": "Delve",
         "key": "delve",
-        "level": 1
+        "level": 1,
+        "tags": [
+          "Elemental",
+          "Ailment"
+        ],
+        "family": [
+          "SelfStatusAilmentDuration"
+        ]
       },
       {
         "loc": "I",
         "title": "Synthesis",
         "key": "synthesis",
-        "level": 36
+        "level": 36,
+        "tags": [
+          "Elemental",
+          "Ailment"
+        ],
+        "family": [
+          "SelfStatusAilmentDuration"
+        ]
       }
     ],
     "Socketed Spells have #% reduced Mana Cost": [
@@ -1275,7 +2618,15 @@
         "loc": "S",
         "title": "Delve",
         "key": "delve",
-        "level": 1
+        "level": 1,
+        "tags": [
+          "Mana",
+          "Caster",
+          "Gem"
+        ],
+        "family": [
+          "SocketedSpellsManaCost"
+        ]
       }
     ],
     "Socketed Attacks have # to Total Mana Cost": [
@@ -1283,7 +2634,15 @@
         "loc": "S",
         "title": "Delve",
         "key": "delve",
-        "level": 1
+        "level": 1,
+        "tags": [
+          "Mana",
+          "Attack",
+          "Gem"
+        ],
+        "family": [
+          "SocketedAttacksManaCost"
+        ]
       }
     ],
     "#% increased Mana Regeneration Rate while moving": [
@@ -1291,7 +2650,13 @@
         "loc": "S",
         "title": "Delve",
         "key": "delve",
-        "level": 1
+        "level": 1,
+        "tags": [
+          "Mana"
+        ],
+        "family": [
+          "ManaRegenerationRateWhileMoving"
+        ]
       }
     ],
     "#% increased Movement Speed if you've Hit an Enemy Recently": [
@@ -1299,7 +2664,13 @@
         "loc": "S",
         "title": "Delve",
         "key": "delve",
-        "level": 1
+        "level": 1,
+        "tags": [
+          "Speed"
+        ],
+        "family": [
+          "MovementSpeedIfHitRecently"
+        ]
       }
     ],
     "# to Level of all Raise Spectre Gems": [
@@ -1307,13 +2678,27 @@
         "loc": "S",
         "title": "Delve",
         "key": "delve",
-        "level": 1
+        "level": 1,
+        "tags": [
+          "Minion",
+          "Gem"
+        ],
+        "family": [
+          "MinionGlobalSkillLevel"
+        ]
       },
       {
         "loc": "S",
         "title": "Elder",
         "key": "elder",
-        "level": 85
+        "level": 85,
+        "tags": [
+          "Minion",
+          "Gem"
+        ],
+        "family": [
+          "MinionGlobalSkillLevel"
+        ]
       }
     ],
     "# to Level of Socketed Strength Gems": [
@@ -1321,13 +2706,27 @@
         "loc": "S",
         "title": "Delve",
         "key": "delve",
-        "level": 1
+        "level": 1,
+        "tags": [
+          "Attribute",
+          "Gem"
+        ],
+        "family": [
+          "DelveStrengthGemLevel"
+        ]
       },
       {
         "loc": "I",
         "title": "Synthesis",
         "key": "synthesis",
-        "level": 65
+        "level": 65,
+        "tags": [
+          "Attribute",
+          "Gem"
+        ],
+        "family": [
+          "IncreaseSpecificSocketedGemLevel"
+        ]
       }
     ],
     "# to Level of Socketed Dexterity Gems": [
@@ -1335,13 +2734,27 @@
         "loc": "S",
         "title": "Delve",
         "key": "delve",
-        "level": 1
+        "level": 1,
+        "tags": [
+          "Attribute",
+          "Gem"
+        ],
+        "family": [
+          "DelveDexterityGemLevel"
+        ]
       },
       {
         "loc": "I",
         "title": "Synthesis",
         "key": "synthesis",
-        "level": 65
+        "level": 65,
+        "tags": [
+          "Attribute",
+          "Gem"
+        ],
+        "family": [
+          "IncreaseSpecificSocketedGemLevel"
+        ]
       }
     ],
     "# to Level of Socketed Intelligence Gems": [
@@ -1349,13 +2762,27 @@
         "loc": "S",
         "title": "Delve",
         "key": "delve",
-        "level": 1
+        "level": 1,
+        "tags": [
+          "Attribute",
+          "Gem"
+        ],
+        "family": [
+          "DelveIntelligenceGemLevel"
+        ]
       },
       {
         "loc": "I",
         "title": "Synthesis",
         "key": "synthesis",
-        "level": 65
+        "level": 65,
+        "tags": [
+          "Attribute",
+          "Gem"
+        ],
+        "family": [
+          "IncreaseSpecificSocketedGemLevel"
+        ]
       }
     ],
     "Has # Abyssal Socket": [
@@ -1363,7 +2790,11 @@
         "loc": "S",
         "title": "Delve",
         "key": "delve",
-        "level": 1
+        "level": 1,
+        "tags": [],
+        "family": [
+          "AbyssJewelSocket"
+        ]
       }
     ],
     "#% chance to gain an additional Vaal Soul on Kill": [
@@ -1371,13 +2802,21 @@
         "loc": "S",
         "title": "Delve",
         "key": "delve",
-        "level": 1
+        "level": 1,
+        "tags": [],
+        "family": [
+          "AdditionalVaalSoulOnKill"
+        ]
       },
       {
         "loc": "I",
         "title": "Synthesis",
         "key": "synthesis",
-        "level": 48
+        "level": 48,
+        "tags": [],
+        "family": [
+          "AdditionalVaalSoulOnKill"
+        ]
       }
     ],
     "Regenerate #% of Energy Shield per second": [
@@ -1385,7 +2824,14 @@
         "loc": "S",
         "title": "Delve",
         "key": "delve",
-        "level": 1
+        "level": 1,
+        "tags": [
+          "Defences",
+          "Energy Shield"
+        ],
+        "family": [
+          "EnergyShieldRegeneration"
+        ]
       }
     ],
     "#% increased Mana Regeneration Rate": [
@@ -1393,13 +2839,25 @@
         "loc": "S",
         "title": "Delve",
         "key": "delve",
-        "level": 60
+        "level": 60,
+        "tags": [
+          "Mana"
+        ],
+        "family": [
+          "ManaRegeneration"
+        ]
       },
       {
         "loc": "I",
         "title": "Synthesis",
         "key": "synthesis",
-        "level": 48
+        "level": 48,
+        "tags": [
+          "Mana"
+        ],
+        "family": [
+          "ManaRegeneration"
+        ]
       }
     ],
     "#% of Damage taken Recouped as Mana": [
@@ -1407,7 +2865,13 @@
         "loc": "S",
         "title": "Delve",
         "key": "delve",
-        "level": 60
+        "level": 60,
+        "tags": [
+          "Mana"
+        ],
+        "family": [
+          "PercentDamageGoesToMana"
+        ]
       }
     ],
     "#% increased maximum Mana": [
@@ -1415,13 +2879,25 @@
         "loc": "P",
         "title": "Incursion",
         "key": "incursion",
-        "level": 50
+        "level": 50,
+        "tags": [
+          "Mana"
+        ],
+        "family": [
+          "IncreasedMana"
+        ]
       },
       {
         "loc": "I",
         "title": "Synthesis",
         "key": "synthesis",
-        "level": 24
+        "level": 24,
+        "tags": [
+          "Mana"
+        ],
+        "family": [
+          "MaximumManaIncreasePercent"
+        ]
       }
     ],
     "#% increased Armour": [
@@ -1429,13 +2905,28 @@
         "loc": "P",
         "title": "Crafting Bench",
         "key": "master",
-        "level": 81
+        "level": 81,
+        "tags": [
+          "Life",
+          "Defences",
+          "Armour"
+        ],
+        "family": [
+          "BaseLocalDefencesAndLife"
+        ]
       },
       {
         "loc": "I",
         "title": "Synthesis",
         "key": "synthesis",
-        "level": 48
+        "level": 48,
+        "tags": [
+          "Defences",
+          "Armour"
+        ],
+        "family": [
+          "DefencesPercent"
+        ]
       }
     ],
     "#% increased Evasion Rating": [
@@ -1443,13 +2934,28 @@
         "loc": "P",
         "title": "Crafting Bench",
         "key": "master",
-        "level": 81
+        "level": 81,
+        "tags": [
+          "Life",
+          "Defences",
+          "Evasion"
+        ],
+        "family": [
+          "BaseLocalDefencesAndLife"
+        ]
       },
       {
         "loc": "I",
         "title": "Synthesis",
         "key": "synthesis",
-        "level": 48
+        "level": 48,
+        "tags": [
+          "Defences",
+          "Evasion"
+        ],
+        "family": [
+          "DefencesPercent"
+        ]
       }
     ],
     "#% increased Energy Shield": [
@@ -1457,13 +2963,28 @@
         "loc": "P",
         "title": "Crafting Bench",
         "key": "master",
-        "level": 81
+        "level": 81,
+        "tags": [
+          "Life",
+          "Defences",
+          "Energy Shield"
+        ],
+        "family": [
+          "BaseLocalDefencesAndLife"
+        ]
       },
       {
         "loc": "I",
         "title": "Synthesis",
         "key": "synthesis",
-        "level": 48
+        "level": 48,
+        "tags": [
+          "Defences",
+          "Energy Shield"
+        ],
+        "family": [
+          "DefencesPercent"
+        ]
       }
     ],
     "#% increased Armour and Energy Shield": [
@@ -1471,7 +2992,16 @@
         "loc": "P",
         "title": "Crafting Bench",
         "key": "master",
-        "level": 81
+        "level": 81,
+        "tags": [
+          "Life",
+          "Defences",
+          "Armour",
+          "Energy Shield"
+        ],
+        "family": [
+          "BaseLocalDefencesAndLife"
+        ]
       }
     ],
     "#% increased Evasion and Energy Shield": [
@@ -1479,7 +3009,16 @@
         "loc": "P",
         "title": "Crafting Bench",
         "key": "master",
-        "level": 81
+        "level": 81,
+        "tags": [
+          "Life",
+          "Defences",
+          "Evasion",
+          "Energy Shield"
+        ],
+        "family": [
+          "BaseLocalDefencesAndLife"
+        ]
       }
     ],
     "#% increased Armour, Evasion and Energy Shield": [
@@ -1487,7 +3026,17 @@
         "loc": "P",
         "title": "Crafting Bench",
         "key": "master",
-        "level": 81
+        "level": 81,
+        "tags": [
+          "Life",
+          "Defences",
+          "Armour",
+          "Evasion",
+          "Energy Shield"
+        ],
+        "family": [
+          "BaseLocalDefencesAndLife"
+        ]
       }
     ],
     "Suffixes Cannot Be Changed": [
@@ -1495,7 +3044,11 @@
         "loc": "P",
         "title": "Crafting Bench",
         "key": "master",
-        "level": 1
+        "level": 1,
+        "tags": [],
+        "family": [
+          "ItemGenerationCannotChangeSuffixes"
+        ]
       }
     ],
     "#% to Fire and Cold Resistances": [
@@ -1503,7 +3056,16 @@
         "loc": "S",
         "title": "Crafting Bench",
         "key": "master",
-        "level": 75
+        "level": 75,
+        "tags": [
+          "Elemental",
+          "Fire",
+          "Cold",
+          "Resistance"
+        ],
+        "family": [
+          "FireAndColdResistance"
+        ]
       }
     ],
     "#% to Cold and Lightning Resistances": [
@@ -1511,7 +3073,16 @@
         "loc": "S",
         "title": "Crafting Bench",
         "key": "master",
-        "level": 75
+        "level": 75,
+        "tags": [
+          "Elemental",
+          "Cold",
+          "Lightning",
+          "Resistance"
+        ],
+        "family": [
+          "ColdAndLightningResistance"
+        ]
       }
     ],
     "#% to Fire and Lightning Resistances": [
@@ -1519,7 +3090,16 @@
         "loc": "S",
         "title": "Crafting Bench",
         "key": "master",
-        "level": 75
+        "level": 75,
+        "tags": [
+          "Elemental",
+          "Fire",
+          "Lightning",
+          "Resistance"
+        ],
+        "family": [
+          "FireAndLightningResistance"
+        ]
       }
     ],
     "# to all Attributes": [
@@ -1527,13 +3107,25 @@
         "loc": "S",
         "title": "Crafting Bench",
         "key": "master",
-        "level": 50
+        "level": 50,
+        "tags": [
+          "Attribute"
+        ],
+        "family": [
+          "AllAttributes"
+        ]
       },
       {
         "loc": "I",
         "title": "Synthesis",
         "key": "synthesis",
-        "level": 24
+        "level": 24,
+        "tags": [
+          "Attribute"
+        ],
+        "family": [
+          "AllAttributes"
+        ]
       }
     ],
     "#% reduced Effect of Chill and Shock on you": [
@@ -1541,7 +3133,13 @@
         "loc": "S",
         "title": "Crafting Bench",
         "key": "master",
-        "level": 60
+        "level": 60,
+        "tags": [
+          "Ailment"
+        ],
+        "family": [
+          "ElementalAilmentEffect"
+        ]
       }
     ],
     "#% increased Energy Shield Recharge Rate": [
@@ -1549,7 +3147,14 @@
         "loc": "S",
         "title": "Crafting Bench",
         "key": "master",
-        "level": 60
+        "level": 60,
+        "tags": [
+          "Defences",
+          "Energy Shield"
+        ],
+        "family": [
+          "EnergyShieldRegeneration"
+        ]
       }
     ],
     "Prefixes Cannot Be Changed": [
@@ -1557,7 +3162,11 @@
         "loc": "S",
         "title": "Crafting Bench",
         "key": "master",
-        "level": 1
+        "level": 1,
+        "tags": [],
+        "family": [
+          "ItemGenerationCannotChangePrefixes"
+        ]
       }
     ],
     "Can have up to # Crafted Modifiers": [
@@ -1565,7 +3174,11 @@
         "loc": "S",
         "title": "Crafting Bench",
         "key": "master",
-        "level": 1
+        "level": 1,
+        "tags": [],
+        "family": [
+          "ItemGenerationCanHaveMultipleCraftedMods"
+        ]
       }
     ],
     "Cannot roll Attack Modifiers": [
@@ -1573,7 +3186,11 @@
         "loc": "S",
         "title": "Crafting Bench",
         "key": "master",
-        "level": 1
+        "level": 1,
+        "tags": [],
+        "family": [
+          "ItemGenerationCannotRollAttackAffixes"
+        ]
       }
     ],
     "Cannot roll Caster Modifiers": [
@@ -1581,7 +3198,11 @@
         "loc": "S",
         "title": "Crafting Bench",
         "key": "master",
-        "level": 1
+        "level": 1,
+        "tags": [],
+        "family": [
+          "ItemGenerationCannotRollCasterAffixes"
+        ]
       }
     ],
     "While a Unique Enemy is in your Presence, #% increased Movement Speed": [
@@ -1589,7 +3210,13 @@
         "loc": "I",
         "title": "Searing Exarch",
         "key": "searing",
-        "level": 75
+        "level": 75,
+        "tags": [
+          "Speed"
+        ],
+        "family": [
+          "MovementVelocity"
+        ]
       }
     ],
     "While a Pinnacle Atlas Boss is in your Presence, #% increased Movement Speed": [
@@ -1597,7 +3224,13 @@
         "loc": "I",
         "title": "Searing Exarch",
         "key": "searing",
-        "level": 75
+        "level": 75,
+        "tags": [
+          "Speed"
+        ],
+        "family": [
+          "MovementVelocity"
+        ]
       }
     ],
     "#% increased Action Speed": [
@@ -1605,7 +3238,11 @@
         "loc": "I",
         "title": "Searing Exarch",
         "key": "searing",
-        "level": 75
+        "level": 75,
+        "tags": [],
+        "family": [
+          "ActionSpeedReduction"
+        ]
       }
     ],
     "While a Unique Enemy is in your Presence, #% increased Action Speed": [
@@ -1613,7 +3250,13 @@
         "loc": "I",
         "title": "Searing Exarch",
         "key": "searing",
-        "level": 75
+        "level": 75,
+        "tags": [
+          "Speed"
+        ],
+        "family": [
+          "ActionSpeedReduction"
+        ]
       }
     ],
     "While a Pinnacle Atlas Boss is in your Presence, #% increased Action Speed": [
@@ -1621,7 +3264,13 @@
         "loc": "I",
         "title": "Searing Exarch",
         "key": "searing",
-        "level": 75
+        "level": 75,
+        "tags": [
+          "Speed"
+        ],
+        "family": [
+          "ActionSpeedReduction"
+        ]
       }
     ],
     "Drops Scorched Ground while moving, lasting # seconds": [
@@ -1629,7 +3278,11 @@
         "loc": "I",
         "title": "Searing Exarch",
         "key": "searing",
-        "level": 75
+        "level": 75,
+        "tags": [],
+        "family": [
+          "ItemGrantsBuff"
+        ]
       }
     ],
     "While a Unique Enemy is in your Presence, Drops Scorched Ground while moving, lasting # seconds": [
@@ -1637,7 +3290,11 @@
         "loc": "I",
         "title": "Searing Exarch",
         "key": "searing",
-        "level": 75
+        "level": 75,
+        "tags": [],
+        "family": [
+          "ItemGrantsBuff"
+        ]
       }
     ],
     "While a Pinnacle Atlas Boss is in your Presence, Drops Scorched Ground while moving, lasting # seconds": [
@@ -1645,7 +3302,11 @@
         "loc": "I",
         "title": "Searing Exarch",
         "key": "searing",
-        "level": 75
+        "level": 75,
+        "tags": [],
+        "family": [
+          "ItemGrantsBuff"
+        ]
       }
     ],
     "Drops Brittle Ground while moving, lasting # seconds": [
@@ -1653,7 +3314,11 @@
         "loc": "I",
         "title": "Searing Exarch",
         "key": "searing",
-        "level": 75
+        "level": 75,
+        "tags": [],
+        "family": [
+          "ItemGrantsBuff"
+        ]
       }
     ],
     "While a Unique Enemy is in your Presence, Drops Brittle Ground while moving, lasting # seconds": [
@@ -1661,7 +3326,11 @@
         "loc": "I",
         "title": "Searing Exarch",
         "key": "searing",
-        "level": 75
+        "level": 75,
+        "tags": [],
+        "family": [
+          "ItemGrantsBuff"
+        ]
       }
     ],
     "While a Pinnacle Atlas Boss is in your Presence, Drops Brittle Ground while moving, lasting # seconds": [
@@ -1669,7 +3338,11 @@
         "loc": "I",
         "title": "Searing Exarch",
         "key": "searing",
-        "level": 75
+        "level": 75,
+        "tags": [],
+        "family": [
+          "ItemGrantsBuff"
+        ]
       }
     ],
     "Drops Sapped Ground while moving, lasting # seconds": [
@@ -1677,7 +3350,11 @@
         "loc": "I",
         "title": "Searing Exarch",
         "key": "searing",
-        "level": 75
+        "level": 75,
+        "tags": [],
+        "family": [
+          "ItemGrantsBuff"
+        ]
       }
     ],
     "While a Unique Enemy is in your Presence, Drops Sapped Ground while moving, lasting # seconds": [
@@ -1685,7 +3362,11 @@
         "loc": "I",
         "title": "Searing Exarch",
         "key": "searing",
-        "level": 75
+        "level": 75,
+        "tags": [],
+        "family": [
+          "ItemGrantsBuff"
+        ]
       }
     ],
     "While a Pinnacle Atlas Boss is in your Presence, Drops Sapped Ground while moving, lasting # seconds": [
@@ -1693,7 +3374,11 @@
         "loc": "I",
         "title": "Searing Exarch",
         "key": "searing",
-        "level": 75
+        "level": 75,
+        "tags": [],
+        "family": [
+          "ItemGrantsBuff"
+        ]
       }
     ],
     "While a Unique Enemy is in your Presence, #% to Fire Resistance": [
@@ -1701,7 +3386,15 @@
         "loc": "I",
         "title": "Searing Exarch",
         "key": "searing",
-        "level": 75
+        "level": 75,
+        "tags": [
+          "Elemental",
+          "Fire",
+          "Resistance"
+        ],
+        "family": [
+          "FireResistance"
+        ]
       }
     ],
     "While a Pinnacle Atlas Boss is in your Presence, #% to Fire Resistance": [
@@ -1709,7 +3402,15 @@
         "loc": "I",
         "title": "Searing Exarch",
         "key": "searing",
-        "level": 75
+        "level": 75,
+        "tags": [
+          "Elemental",
+          "Fire",
+          "Resistance"
+        ],
+        "family": [
+          "FireResistance"
+        ]
       }
     ],
     "While a Unique Enemy is in your Presence, #% to Cold Resistance": [
@@ -1717,7 +3418,15 @@
         "loc": "I",
         "title": "Searing Exarch",
         "key": "searing",
-        "level": 75
+        "level": 75,
+        "tags": [
+          "Elemental",
+          "Cold",
+          "Resistance"
+        ],
+        "family": [
+          "ColdResistance"
+        ]
       }
     ],
     "While a Pinnacle Atlas Boss is in your Presence, #% to Cold Resistance": [
@@ -1725,7 +3434,15 @@
         "loc": "I",
         "title": "Searing Exarch",
         "key": "searing",
-        "level": 75
+        "level": 75,
+        "tags": [
+          "Elemental",
+          "Cold",
+          "Resistance"
+        ],
+        "family": [
+          "ColdResistance"
+        ]
       }
     ],
     "While a Unique Enemy is in your Presence, #% to Lightning Resistance": [
@@ -1733,7 +3450,15 @@
         "loc": "I",
         "title": "Searing Exarch",
         "key": "searing",
-        "level": 75
+        "level": 75,
+        "tags": [
+          "Elemental",
+          "Lightning",
+          "Resistance"
+        ],
+        "family": [
+          "LightningResistance"
+        ]
       }
     ],
     "While a Pinnacle Atlas Boss is in your Presence, #% to Lightning Resistance": [
@@ -1741,7 +3466,15 @@
         "loc": "I",
         "title": "Searing Exarch",
         "key": "searing",
-        "level": 75
+        "level": 75,
+        "tags": [
+          "Elemental",
+          "Lightning",
+          "Resistance"
+        ],
+        "family": [
+          "LightningResistance"
+        ]
       }
     ],
     "While a Unique Enemy is in your Presence, #% to Chaos Resistance": [
@@ -1749,7 +3482,14 @@
         "loc": "I",
         "title": "Searing Exarch",
         "key": "searing",
-        "level": 75
+        "level": 75,
+        "tags": [
+          "Chaos",
+          "Resistance"
+        ],
+        "family": [
+          "ChaosResistance"
+        ]
       }
     ],
     "While a Pinnacle Atlas Boss is in your Presence, #% to Chaos Resistance": [
@@ -1757,7 +3497,14 @@
         "loc": "I",
         "title": "Searing Exarch",
         "key": "searing",
-        "level": 75
+        "level": 75,
+        "tags": [
+          "Chaos",
+          "Resistance"
+        ],
+        "family": [
+          "ChaosResistance"
+        ]
       }
     ],
     "#% increased Damage per Endurance Charge": [
@@ -1765,7 +3512,13 @@
         "loc": "I",
         "title": "Searing Exarch",
         "key": "searing",
-        "level": 75
+        "level": 75,
+        "tags": [
+          "Damage"
+        ],
+        "family": [
+          "AllDamage"
+        ]
       }
     ],
     "While a Unique Enemy is in your Presence, #% increased Damage per Endurance Charge": [
@@ -1773,7 +3526,13 @@
         "loc": "I",
         "title": "Searing Exarch",
         "key": "searing",
-        "level": 75
+        "level": 75,
+        "tags": [
+          "Damage"
+        ],
+        "family": [
+          "AllDamage"
+        ]
       }
     ],
     "While a Pinnacle Atlas Boss is in your Presence, #% increased Damage per Endurance Charge": [
@@ -1781,7 +3540,13 @@
         "loc": "I",
         "title": "Searing Exarch",
         "key": "searing",
-        "level": 75
+        "level": 75,
+        "tags": [
+          "Damage"
+        ],
+        "family": [
+          "AllDamage"
+        ]
       }
     ],
     "#% to maximum Fire Resistance": [
@@ -1789,19 +3554,43 @@
         "loc": "I",
         "title": "Searing Exarch",
         "key": "searing",
-        "level": 75
+        "level": 75,
+        "tags": [
+          "Elemental",
+          "Fire",
+          "Resistance"
+        ],
+        "family": [
+          "MaximumResistances"
+        ]
       },
       {
         "loc": "S",
         "title": "Crusader",
         "key": "crusader",
-        "level": 95
+        "level": 95,
+        "tags": [
+          "Elemental",
+          "Fire",
+          "Resistance"
+        ],
+        "family": [
+          "MaximumFireResist"
+        ]
       },
       {
         "loc": "I",
         "title": "Synthesis",
         "key": "synthesis",
-        "level": 60
+        "level": 60,
+        "tags": [
+          "Elemental",
+          "Fire",
+          "Resistance"
+        ],
+        "family": [
+          "MaximumResistances"
+        ]
       }
     ],
     "While a Unique Enemy is in your Presence, #% to maximum Fire Resistance": [
@@ -1809,7 +3598,15 @@
         "loc": "I",
         "title": "Searing Exarch",
         "key": "searing",
-        "level": 75
+        "level": 75,
+        "tags": [
+          "Elemental",
+          "Fire",
+          "Resistance"
+        ],
+        "family": [
+          "MaximumResistances"
+        ]
       }
     ],
     "While a Pinnacle Atlas Boss is in your Presence, #% to maximum Fire Resistance": [
@@ -1817,7 +3614,15 @@
         "loc": "I",
         "title": "Searing Exarch",
         "key": "searing",
-        "level": 75
+        "level": 75,
+        "tags": [
+          "Elemental",
+          "Fire",
+          "Resistance"
+        ],
+        "family": [
+          "MaximumResistances"
+        ]
       }
     ],
     "While a Unique Enemy is in your Presence, #% increased Totem Placement speed": [
@@ -1825,7 +3630,13 @@
         "loc": "I",
         "title": "Searing Exarch",
         "key": "searing",
-        "level": 75
+        "level": 75,
+        "tags": [
+          "Speed"
+        ],
+        "family": [
+          "SummonTotemCastSpeed"
+        ]
       }
     ],
     "While a Pinnacle Atlas Boss is in your Presence, #% increased Totem Placement speed": [
@@ -1833,7 +3644,13 @@
         "loc": "I",
         "title": "Searing Exarch",
         "key": "searing",
-        "level": 75
+        "level": 75,
+        "tags": [
+          "Speed"
+        ],
+        "family": [
+          "SummonTotemCastSpeed"
+        ]
       }
     ],
     "#% increased Brand Attachment range": [
@@ -1841,7 +3658,13 @@
         "loc": "I",
         "title": "Searing Exarch",
         "key": "searing",
-        "level": 75
+        "level": 75,
+        "tags": [
+          "Caster"
+        ],
+        "family": [
+          "BrandAttachmentRange"
+        ]
       }
     ],
     "While a Unique Enemy is in your Presence, #% increased Brand Attachment range": [
@@ -1849,7 +3672,11 @@
         "loc": "I",
         "title": "Searing Exarch",
         "key": "searing",
-        "level": 75
+        "level": 75,
+        "tags": [],
+        "family": [
+          "BrandAttachmentRange"
+        ]
       }
     ],
     "While a Pinnacle Atlas Boss is in your Presence, #% increased Brand Attachment range": [
@@ -1857,7 +3684,11 @@
         "loc": "I",
         "title": "Searing Exarch",
         "key": "searing",
-        "level": 75
+        "level": 75,
+        "tags": [],
+        "family": [
+          "BrandAttachmentRange"
+        ]
       }
     ],
     "#% increased Effect of the Buff granted by your Flame Golems": [
@@ -1865,7 +3696,11 @@
         "loc": "I",
         "title": "Searing Exarch",
         "key": "searing",
-        "level": 75
+        "level": 75,
+        "tags": [],
+        "family": [
+          "GolemBuffEffect"
+        ]
       }
     ],
     "While a Unique Enemy is in your Presence, #% increased Effect of the Buff granted by your Flame Golems": [
@@ -1873,7 +3708,11 @@
         "loc": "I",
         "title": "Searing Exarch",
         "key": "searing",
-        "level": 75
+        "level": 75,
+        "tags": [],
+        "family": [
+          "GolemBuffEffect"
+        ]
       }
     ],
     "While a Pinnacle Atlas Boss is in your Presence, #% increased Effect of the Buff granted by your Flame Golems": [
@@ -1881,7 +3720,11 @@
         "loc": "I",
         "title": "Searing Exarch",
         "key": "searing",
-        "level": 75
+        "level": 75,
+        "tags": [],
+        "family": [
+          "GolemBuffEffect"
+        ]
       }
     ],
     "#% increased Effect of the Buff granted by your Ice Golems": [
@@ -1889,7 +3732,11 @@
         "loc": "I",
         "title": "Searing Exarch",
         "key": "searing",
-        "level": 75
+        "level": 75,
+        "tags": [],
+        "family": [
+          "GolemBuffEffect"
+        ]
       }
     ],
     "While a Unique Enemy is in your Presence, #% increased Effect of the Buff granted by your Ice Golems": [
@@ -1897,7 +3744,11 @@
         "loc": "I",
         "title": "Searing Exarch",
         "key": "searing",
-        "level": 75
+        "level": 75,
+        "tags": [],
+        "family": [
+          "GolemBuffEffect"
+        ]
       }
     ],
     "While a Pinnacle Atlas Boss is in your Presence, #% increased Effect of the Buff granted by your Ice Golems": [
@@ -1905,7 +3756,11 @@
         "loc": "I",
         "title": "Searing Exarch",
         "key": "searing",
-        "level": 75
+        "level": 75,
+        "tags": [],
+        "family": [
+          "GolemBuffEffect"
+        ]
       }
     ],
     "#% increased Effect of the Buff granted by your Lightning Golems": [
@@ -1913,7 +3768,11 @@
         "loc": "I",
         "title": "Searing Exarch",
         "key": "searing",
-        "level": 75
+        "level": 75,
+        "tags": [],
+        "family": [
+          "GolemBuffEffect"
+        ]
       }
     ],
     "While a Unique Enemy is in your Presence, #% increased Effect of the Buff granted by your Lightning Golems": [
@@ -1921,7 +3780,11 @@
         "loc": "I",
         "title": "Searing Exarch",
         "key": "searing",
-        "level": 75
+        "level": 75,
+        "tags": [],
+        "family": [
+          "GolemBuffEffect"
+        ]
       }
     ],
     "While a Pinnacle Atlas Boss is in your Presence, #% increased Effect of the Buff granted by your Lightning Golems": [
@@ -1929,7 +3792,11 @@
         "loc": "I",
         "title": "Searing Exarch",
         "key": "searing",
-        "level": 75
+        "level": 75,
+        "tags": [],
+        "family": [
+          "GolemBuffEffect"
+        ]
       }
     ],
     "#% increased Effect of the Buff granted by your Stone Golems": [
@@ -1937,7 +3804,11 @@
         "loc": "I",
         "title": "Searing Exarch",
         "key": "searing",
-        "level": 75
+        "level": 75,
+        "tags": [],
+        "family": [
+          "GolemBuffEffect"
+        ]
       }
     ],
     "While a Unique Enemy is in your Presence, #% increased Effect of the Buff granted by your Stone Golems": [
@@ -1945,7 +3816,11 @@
         "loc": "I",
         "title": "Searing Exarch",
         "key": "searing",
-        "level": 75
+        "level": 75,
+        "tags": [],
+        "family": [
+          "GolemBuffEffect"
+        ]
       }
     ],
     "While a Pinnacle Atlas Boss is in your Presence, #% increased Effect of the Buff granted by your Stone Golems": [
@@ -1953,7 +3828,11 @@
         "loc": "I",
         "title": "Searing Exarch",
         "key": "searing",
-        "level": 75
+        "level": 75,
+        "tags": [],
+        "family": [
+          "GolemBuffEffect"
+        ]
       }
     ],
     "#% increased Effect of the Buff granted by your Chaos Golems": [
@@ -1961,7 +3840,11 @@
         "loc": "I",
         "title": "Searing Exarch",
         "key": "searing",
-        "level": 75
+        "level": 75,
+        "tags": [],
+        "family": [
+          "GolemBuffEffect"
+        ]
       }
     ],
     "While a Unique Enemy is in your Presence, #% increased Effect of the Buff granted by your Chaos Golems": [
@@ -1969,7 +3852,11 @@
         "loc": "I",
         "title": "Searing Exarch",
         "key": "searing",
-        "level": 75
+        "level": 75,
+        "tags": [],
+        "family": [
+          "GolemBuffEffect"
+        ]
       }
     ],
     "While a Pinnacle Atlas Boss is in your Presence, #% increased Effect of the Buff granted by your Chaos Golems": [
@@ -1977,7 +3864,11 @@
         "loc": "I",
         "title": "Searing Exarch",
         "key": "searing",
-        "level": 75
+        "level": 75,
+        "tags": [],
+        "family": [
+          "GolemBuffEffect"
+        ]
       }
     ],
     "#% increased Effect of the Buff granted by your Carrion Golems": [
@@ -1985,7 +3876,11 @@
         "loc": "I",
         "title": "Searing Exarch",
         "key": "searing",
-        "level": 75
+        "level": 75,
+        "tags": [],
+        "family": [
+          "GolemBuffEffect"
+        ]
       }
     ],
     "While a Unique Enemy is in your Presence, #% increased Effect of the Buff granted by your Carrion Golems": [
@@ -1993,7 +3888,11 @@
         "loc": "I",
         "title": "Searing Exarch",
         "key": "searing",
-        "level": 75
+        "level": 75,
+        "tags": [],
+        "family": [
+          "GolemBuffEffect"
+        ]
       }
     ],
     "While a Pinnacle Atlas Boss is in your Presence, #% increased Effect of the Buff granted by your Carrion Golems": [
@@ -2001,7 +3900,11 @@
         "loc": "I",
         "title": "Searing Exarch",
         "key": "searing",
-        "level": 75
+        "level": 75,
+        "tags": [],
+        "family": [
+          "GolemBuffEffect"
+        ]
       }
     ],
     "Flesh Offering has #% increased Effect": [
@@ -2009,7 +3912,11 @@
         "loc": "I",
         "title": "Searing Exarch",
         "key": "searing",
-        "level": 75
+        "level": 75,
+        "tags": [],
+        "family": [
+          "OfferingBuffEffect"
+        ]
       }
     ],
     "While a Unique Enemy is in your Presence, Flesh Offering has #% increased Effect": [
@@ -2017,7 +3924,11 @@
         "loc": "I",
         "title": "Searing Exarch",
         "key": "searing",
-        "level": 75
+        "level": 75,
+        "tags": [],
+        "family": [
+          "OfferingBuffEffect"
+        ]
       }
     ],
     "While a Pinnacle Atlas Boss is in your Presence, Flesh Offering has #% increased Effect": [
@@ -2025,7 +3936,11 @@
         "loc": "I",
         "title": "Searing Exarch",
         "key": "searing",
-        "level": 75
+        "level": 75,
+        "tags": [],
+        "family": [
+          "OfferingBuffEffect"
+        ]
       }
     ],
     "Bone Offering has #% increased Effect": [
@@ -2033,7 +3948,11 @@
         "loc": "I",
         "title": "Searing Exarch",
         "key": "searing",
-        "level": 75
+        "level": 75,
+        "tags": [],
+        "family": [
+          "OfferingBuffEffect"
+        ]
       }
     ],
     "While a Unique Enemy is in your Presence, Bone Offering has #% increased Effect": [
@@ -2041,7 +3960,11 @@
         "loc": "I",
         "title": "Searing Exarch",
         "key": "searing",
-        "level": 75
+        "level": 75,
+        "tags": [],
+        "family": [
+          "OfferingBuffEffect"
+        ]
       }
     ],
     "While a Pinnacle Atlas Boss is in your Presence, Bone Offering has #% increased Effect": [
@@ -2049,7 +3972,11 @@
         "loc": "I",
         "title": "Searing Exarch",
         "key": "searing",
-        "level": 75
+        "level": 75,
+        "tags": [],
+        "family": [
+          "OfferingBuffEffect"
+        ]
       }
     ],
     "Spirit Offering has #% increased Effect": [
@@ -2057,7 +3984,11 @@
         "loc": "I",
         "title": "Searing Exarch",
         "key": "searing",
-        "level": 75
+        "level": 75,
+        "tags": [],
+        "family": [
+          "OfferingBuffEffect"
+        ]
       }
     ],
     "While a Unique Enemy is in your Presence, Spirit Offering has #% increased Effect": [
@@ -2065,7 +3996,11 @@
         "loc": "I",
         "title": "Searing Exarch",
         "key": "searing",
-        "level": 75
+        "level": 75,
+        "tags": [],
+        "family": [
+          "OfferingBuffEffect"
+        ]
       }
     ],
     "While a Pinnacle Atlas Boss is in your Presence, Spirit Offering has #% increased Effect": [
@@ -2073,7 +4008,11 @@
         "loc": "I",
         "title": "Searing Exarch",
         "key": "searing",
-        "level": 75
+        "level": 75,
+        "tags": [],
+        "family": [
+          "OfferingBuffEffect"
+        ]
       }
     ],
     "While a Unique Enemy is in your Presence, #% chance to Avoid being Ignited": [
@@ -2081,7 +4020,15 @@
         "loc": "I",
         "title": "Searing Exarch",
         "key": "searing",
-        "level": 75
+        "level": 75,
+        "tags": [
+          "Elemental",
+          "Fire",
+          "Ailment"
+        ],
+        "family": [
+          "AvoidIgnite"
+        ]
       }
     ],
     "While a Pinnacle Atlas Boss is in your Presence, #% chance to Avoid being Ignited": [
@@ -2089,7 +4036,15 @@
         "loc": "I",
         "title": "Searing Exarch",
         "key": "searing",
-        "level": 75
+        "level": 75,
+        "tags": [
+          "Elemental",
+          "Fire",
+          "Ailment"
+        ],
+        "family": [
+          "AvoidIgnite"
+        ]
       }
     ],
     "While a Unique Enemy is in your Presence, #% chance to Avoid being Frozen": [
@@ -2097,7 +4052,15 @@
         "loc": "I",
         "title": "Searing Exarch",
         "key": "searing",
-        "level": 75
+        "level": 75,
+        "tags": [
+          "Elemental",
+          "Cold",
+          "Ailment"
+        ],
+        "family": [
+          "AvoidFreeze"
+        ]
       }
     ],
     "While a Pinnacle Atlas Boss is in your Presence, #% chance to Avoid being Frozen": [
@@ -2105,7 +4068,15 @@
         "loc": "I",
         "title": "Searing Exarch",
         "key": "searing",
-        "level": 75
+        "level": 75,
+        "tags": [
+          "Elemental",
+          "Cold",
+          "Ailment"
+        ],
+        "family": [
+          "AvoidFreeze"
+        ]
       }
     ],
     "While a Unique Enemy is in your Presence, #% chance to Avoid being Shocked": [
@@ -2113,7 +4084,15 @@
         "loc": "I",
         "title": "Searing Exarch",
         "key": "searing",
-        "level": 75
+        "level": 75,
+        "tags": [
+          "Elemental",
+          "Lightning",
+          "Ailment"
+        ],
+        "family": [
+          "AvoidShock"
+        ]
       }
     ],
     "While a Pinnacle Atlas Boss is in your Presence, #% chance to Avoid being Shocked": [
@@ -2121,7 +4100,15 @@
         "loc": "I",
         "title": "Searing Exarch",
         "key": "searing",
-        "level": 75
+        "level": 75,
+        "tags": [
+          "Elemental",
+          "Lightning",
+          "Ailment"
+        ],
+        "family": [
+          "AvoidShock"
+        ]
       }
     ],
     "While a Unique Enemy is in your Presence, #% chance to Avoid being Stunned": [
@@ -2129,7 +4116,11 @@
         "loc": "I",
         "title": "Searing Exarch",
         "key": "searing",
-        "level": 75
+        "level": 75,
+        "tags": [],
+        "family": [
+          "AvoidStun"
+        ]
       }
     ],
     "While a Pinnacle Atlas Boss is in your Presence, #% chance to Avoid being Stunned": [
@@ -2137,7 +4128,11 @@
         "loc": "I",
         "title": "Searing Exarch",
         "key": "searing",
-        "level": 75
+        "level": 75,
+        "tags": [],
+        "family": [
+          "AvoidStun"
+        ]
       }
     ],
     "#% increased Effect of Onslaught on you": [
@@ -2145,7 +4140,11 @@
         "loc": "I",
         "title": "Searing Exarch",
         "key": "searing",
-        "level": 75
+        "level": 75,
+        "tags": [],
+        "family": [
+          "OnslaughtEffect"
+        ]
       }
     ],
     "While a Unique Enemy is in your Presence, #% increased Effect of Onslaught on you": [
@@ -2153,7 +4152,11 @@
         "loc": "I",
         "title": "Searing Exarch",
         "key": "searing",
-        "level": 75
+        "level": 75,
+        "tags": [],
+        "family": [
+          "OnslaughtEffect"
+        ]
       }
     ],
     "While a Pinnacle Atlas Boss is in your Presence, #% increased Effect of Onslaught on you": [
@@ -2161,7 +4164,11 @@
         "loc": "I",
         "title": "Searing Exarch",
         "key": "searing",
-        "level": 75
+        "level": 75,
+        "tags": [],
+        "family": [
+          "OnslaughtEffect"
+        ]
       }
     ],
     "While a Unique Enemy is in your Presence, #% increased Life Regeneration rate": [
@@ -2169,7 +4176,13 @@
         "loc": "I",
         "title": "Eater of Worlds",
         "key": "eater",
-        "level": 75
+        "level": 75,
+        "tags": [
+          "Life"
+        ],
+        "family": [
+          "LifeRegenerationRate"
+        ]
       }
     ],
     "While a Pinnacle Atlas Boss is in your Presence, #% increased Life Regeneration rate": [
@@ -2177,7 +4190,13 @@
         "loc": "I",
         "title": "Eater of Worlds",
         "key": "eater",
-        "level": 75
+        "level": 75,
+        "tags": [
+          "Life"
+        ],
+        "family": [
+          "LifeRegenerationRate"
+        ]
       }
     ],
     "#% increased Armour from Equipped Helmet and Gloves": [
@@ -2185,7 +4204,11 @@
         "loc": "I",
         "title": "Eater of Worlds",
         "key": "eater",
-        "level": 75
+        "level": 75,
+        "tags": [],
+        "family": [
+          "IncreasedPhysicalDamageReductionRating"
+        ]
       }
     ],
     "While a Unique Enemy is in your Presence, #% increased Armour from Equipped Helmet and Gloves": [
@@ -2193,7 +4216,14 @@
         "loc": "I",
         "title": "Eater of Worlds",
         "key": "eater",
-        "level": 75
+        "level": 75,
+        "tags": [
+          "Defences",
+          "Armour"
+        ],
+        "family": [
+          "IncreasedPhysicalDamageReductionRating"
+        ]
       }
     ],
     "While a Pinnacle Atlas Boss is in your Presence, #% increased Armour from Equipped Helmet and Gloves": [
@@ -2201,7 +4231,14 @@
         "loc": "I",
         "title": "Eater of Worlds",
         "key": "eater",
-        "level": 75
+        "level": 75,
+        "tags": [
+          "Defences",
+          "Armour"
+        ],
+        "family": [
+          "IncreasedPhysicalDamageReductionRating"
+        ]
       }
     ],
     "Ignites you inflict deal Damage #% faster": [
@@ -2209,13 +4246,31 @@
         "loc": "I",
         "title": "Eater of Worlds",
         "key": "eater",
-        "level": 75
+        "level": 75,
+        "tags": [
+          "Damage",
+          "Elemental",
+          "Fire",
+          "Ailment"
+        ],
+        "family": [
+          "FasterDamageAilments"
+        ]
       },
       {
         "loc": "S",
         "title": "Hunter",
         "key": "hunter",
-        "level": 83
+        "level": 83,
+        "tags": [
+          "Damage",
+          "Elemental",
+          "Fire",
+          "Ailment"
+        ],
+        "family": [
+          "FasterDamageAilments"
+        ]
       }
     ],
     "While a Unique Enemy is in your Presence, Ignites you inflict deal Damage #% faster": [
@@ -2223,7 +4278,15 @@
         "loc": "I",
         "title": "Eater of Worlds",
         "key": "eater",
-        "level": 75
+        "level": 75,
+        "tags": [
+          "Elemental",
+          "Fire",
+          "Ailment"
+        ],
+        "family": [
+          "FasterDamageAilments"
+        ]
       }
     ],
     "While a Pinnacle Atlas Boss is in your Presence, Ignites you inflict deal Damage #% faster": [
@@ -2231,7 +4294,15 @@
         "loc": "I",
         "title": "Eater of Worlds",
         "key": "eater",
-        "level": 75
+        "level": 75,
+        "tags": [
+          "Elemental",
+          "Fire",
+          "Ailment"
+        ],
+        "family": [
+          "FasterDamageAilments"
+        ]
       }
     ],
     "Poisons you inflict deal Damage #% faster": [
@@ -2239,13 +4310,29 @@
         "loc": "I",
         "title": "Eater of Worlds",
         "key": "eater",
-        "level": 75
+        "level": 75,
+        "tags": [
+          "Damage",
+          "Chaos",
+          "Ailment"
+        ],
+        "family": [
+          "FasterDamageAilments"
+        ]
       },
       {
         "loc": "S",
         "title": "Hunter",
         "key": "hunter",
-        "level": 83
+        "level": 83,
+        "tags": [
+          "Damage",
+          "Chaos",
+          "Ailment"
+        ],
+        "family": [
+          "FasterDamageAilments"
+        ]
       }
     ],
     "While a Unique Enemy is in your Presence, Poisons you inflict deal Damage #% faster": [
@@ -2253,7 +4340,14 @@
         "loc": "I",
         "title": "Eater of Worlds",
         "key": "eater",
-        "level": 75
+        "level": 75,
+        "tags": [
+          "Chaos",
+          "Ailment"
+        ],
+        "family": [
+          "FasterDamageAilments"
+        ]
       }
     ],
     "While a Pinnacle Atlas Boss is in your Presence, Poisons you inflict deal Damage #% faster": [
@@ -2261,7 +4355,14 @@
         "loc": "I",
         "title": "Eater of Worlds",
         "key": "eater",
-        "level": 75
+        "level": 75,
+        "tags": [
+          "Chaos",
+          "Ailment"
+        ],
+        "family": [
+          "FasterDamageAilments"
+        ]
       }
     ],
     "Bleeding you inflict deals Damage #% faster": [
@@ -2269,13 +4370,31 @@
         "loc": "I",
         "title": "Eater of Worlds",
         "key": "eater",
-        "level": 75
+        "level": 75,
+        "tags": [
+          "Damage",
+          "Physical",
+          "Attack",
+          "Ailment"
+        ],
+        "family": [
+          "FasterDamageAilments"
+        ]
       },
       {
         "loc": "S",
         "title": "Hunter",
         "key": "hunter",
-        "level": 83
+        "level": 83,
+        "tags": [
+          "Damage",
+          "Physical",
+          "Attack",
+          "Ailment"
+        ],
+        "family": [
+          "FasterDamageAilments"
+        ]
       }
     ],
     "While a Unique Enemy is in your Presence, Bleeding you inflict deals Damage #% faster": [
@@ -2283,7 +4402,14 @@
         "loc": "I",
         "title": "Eater of Worlds",
         "key": "eater",
-        "level": 75
+        "level": 75,
+        "tags": [
+          "Physical",
+          "Ailment"
+        ],
+        "family": [
+          "FasterDamageAilments"
+        ]
       }
     ],
     "While a Pinnacle Atlas Boss is in your Presence, Bleeding you inflict deals Damage #% faster": [
@@ -2291,7 +4417,14 @@
         "loc": "I",
         "title": "Eater of Worlds",
         "key": "eater",
-        "level": 75
+        "level": 75,
+        "tags": [
+          "Physical",
+          "Ailment"
+        ],
+        "family": [
+          "FasterDamageAilments"
+        ]
       }
     ],
     "Gain #% of Physical Damage as Extra Fire Damage": [
@@ -2299,13 +4432,31 @@
         "loc": "I",
         "title": "Eater of Worlds",
         "key": "eater",
-        "level": 75
+        "level": 75,
+        "tags": [
+          "Damage",
+          "Physical",
+          "Elemental",
+          "Fire"
+        ],
+        "family": [
+          "PhysicalAddedAsFire"
+        ]
       },
       {
         "loc": "P",
         "title": "Warlord",
         "key": "warlord",
-        "level": 85
+        "level": 85,
+        "tags": [
+          "Damage",
+          "Physical",
+          "Elemental",
+          "Fire"
+        ],
+        "family": [
+          "PhysicalAddedAsFire"
+        ]
       }
     ],
     "While a Unique Enemy is in your Presence, Gain #% of Physical Damage as Extra Fire Damage": [
@@ -2313,7 +4464,15 @@
         "loc": "I",
         "title": "Eater of Worlds",
         "key": "eater",
-        "level": 75
+        "level": 75,
+        "tags": [
+          "Physical",
+          "Elemental",
+          "Fire"
+        ],
+        "family": [
+          "PhysicalAddedAsFire"
+        ]
       }
     ],
     "While a Pinnacle Atlas Boss is in your Presence, Gain #% of Physical Damage as Extra Fire Damage": [
@@ -2321,7 +4480,15 @@
         "loc": "I",
         "title": "Eater of Worlds",
         "key": "eater",
-        "level": 75
+        "level": 75,
+        "tags": [
+          "Physical",
+          "Elemental",
+          "Fire"
+        ],
+        "family": [
+          "PhysicalAddedAsFire"
+        ]
       }
     ],
     "Gain #% of Physical Damage as Extra Cold Damage": [
@@ -2329,13 +4496,31 @@
         "loc": "I",
         "title": "Eater of Worlds",
         "key": "eater",
-        "level": 75
+        "level": 75,
+        "tags": [
+          "Damage",
+          "Physical",
+          "Elemental",
+          "Cold"
+        ],
+        "family": [
+          "PhysicalAddedAsCold"
+        ]
       },
       {
         "loc": "P",
         "title": "Redeemer",
         "key": "redeemer",
-        "level": 85
+        "level": 85,
+        "tags": [
+          "Damage",
+          "Physical",
+          "Elemental",
+          "Cold"
+        ],
+        "family": [
+          "PhysicalAddedAsCold"
+        ]
       }
     ],
     "While a Unique Enemy is in your Presence, Gain #% of Physical Damage as Extra Cold Damage": [
@@ -2343,7 +4528,15 @@
         "loc": "I",
         "title": "Eater of Worlds",
         "key": "eater",
-        "level": 75
+        "level": 75,
+        "tags": [
+          "Physical",
+          "Elemental",
+          "Cold"
+        ],
+        "family": [
+          "PhysicalAddedAsCold"
+        ]
       }
     ],
     "While a Pinnacle Atlas Boss is in your Presence, Gain #% of Physical Damage as Extra Cold Damage": [
@@ -2351,7 +4544,15 @@
         "loc": "I",
         "title": "Eater of Worlds",
         "key": "eater",
-        "level": 75
+        "level": 75,
+        "tags": [
+          "Physical",
+          "Elemental",
+          "Cold"
+        ],
+        "family": [
+          "PhysicalAddedAsCold"
+        ]
       }
     ],
     "Gain #% of Physical Damage as Extra Lightning Damage": [
@@ -2359,13 +4560,31 @@
         "loc": "I",
         "title": "Eater of Worlds",
         "key": "eater",
-        "level": 75
+        "level": 75,
+        "tags": [
+          "Damage",
+          "Physical",
+          "Elemental",
+          "Lightning"
+        ],
+        "family": [
+          "PhysicalAddedAsLightning"
+        ]
       },
       {
         "loc": "P",
         "title": "Crusader",
         "key": "crusader",
-        "level": 85
+        "level": 85,
+        "tags": [
+          "Damage",
+          "Physical",
+          "Elemental",
+          "Lightning"
+        ],
+        "family": [
+          "PhysicalAddedAsLightning"
+        ]
       }
     ],
     "While a Unique Enemy is in your Presence, Gain #% of Physical Damage as Extra Lightning Damage": [
@@ -2373,7 +4592,15 @@
         "loc": "I",
         "title": "Eater of Worlds",
         "key": "eater",
-        "level": 75
+        "level": 75,
+        "tags": [
+          "Physical",
+          "Elemental",
+          "Lightning"
+        ],
+        "family": [
+          "PhysicalAddedAsLightning"
+        ]
       }
     ],
     "While a Pinnacle Atlas Boss is in your Presence, Gain #% of Physical Damage as Extra Lightning Damage": [
@@ -2381,7 +4608,15 @@
         "loc": "I",
         "title": "Eater of Worlds",
         "key": "eater",
-        "level": 75
+        "level": 75,
+        "tags": [
+          "Physical",
+          "Elemental",
+          "Lightning"
+        ],
+        "family": [
+          "PhysicalAddedAsLightning"
+        ]
       }
     ],
     "Gain #% of Physical Damage as Extra Chaos Damage": [
@@ -2389,7 +4624,15 @@
         "loc": "I",
         "title": "Eater of Worlds",
         "key": "eater",
-        "level": 75
+        "level": 75,
+        "tags": [
+          "Damage",
+          "Physical",
+          "Chaos"
+        ],
+        "family": [
+          "PhysicalDamageAddedAsChaos"
+        ]
       }
     ],
     "While a Unique Enemy is in your Presence, Gain #% of Physical Damage as Extra Chaos Damage": [
@@ -2397,7 +4640,14 @@
         "loc": "I",
         "title": "Eater of Worlds",
         "key": "eater",
-        "level": 75
+        "level": 75,
+        "tags": [
+          "Physical",
+          "Chaos"
+        ],
+        "family": [
+          "PhysicalDamageAddedAsChaos"
+        ]
       }
     ],
     "While a Pinnacle Atlas Boss is in your Presence, Gain #% of Physical Damage as Extra Chaos Damage": [
@@ -2405,7 +4655,14 @@
         "loc": "I",
         "title": "Eater of Worlds",
         "key": "eater",
-        "level": 75
+        "level": 75,
+        "tags": [
+          "Physical",
+          "Chaos"
+        ],
+        "family": [
+          "PhysicalDamageAddedAsChaos"
+        ]
       }
     ],
     "Regenerate #% of Life per second per Endurance Charge": [
@@ -2413,7 +4670,13 @@
         "loc": "I",
         "title": "Eater of Worlds",
         "key": "eater",
-        "level": 75
+        "level": 75,
+        "tags": [
+          "Life"
+        ],
+        "family": [
+          "LifeRegenerationPercentPerEnduranceCharge"
+        ]
       }
     ],
     "While a Unique Enemy is in your Presence, Regenerate #% of Life per second per Endurance Charge": [
@@ -2421,7 +4684,13 @@
         "loc": "I",
         "title": "Eater of Worlds",
         "key": "eater",
-        "level": 75
+        "level": 75,
+        "tags": [
+          "Life"
+        ],
+        "family": [
+          "LifeRegenerationPercentPerEnduranceCharge"
+        ]
       }
     ],
     "While a Pinnacle Atlas Boss is in your Presence, Regenerate #% of Life per second per Endurance Charge": [
@@ -2429,7 +4698,13 @@
         "loc": "I",
         "title": "Eater of Worlds",
         "key": "eater",
-        "level": 75
+        "level": 75,
+        "tags": [
+          "Life"
+        ],
+        "family": [
+          "LifeRegenerationPercentPerEnduranceCharge"
+        ]
       }
     ],
     "#% increased Stun Threshold": [
@@ -2437,7 +4712,11 @@
         "loc": "I",
         "title": "Eater of Worlds",
         "key": "eater",
-        "level": 75
+        "level": 75,
+        "tags": [],
+        "family": [
+          "IncreasedStunThreshold"
+        ]
       }
     ],
     "While a Unique Enemy is in your Presence, #% increased Stun Threshold": [
@@ -2445,7 +4724,11 @@
         "loc": "I",
         "title": "Eater of Worlds",
         "key": "eater",
-        "level": 75
+        "level": 75,
+        "tags": [],
+        "family": [
+          "IncreasedStunThreshold"
+        ]
       }
     ],
     "While a Pinnacle Atlas Boss is in your Presence, #% increased Stun Threshold": [
@@ -2453,7 +4736,11 @@
         "loc": "I",
         "title": "Eater of Worlds",
         "key": "eater",
-        "level": 75
+        "level": 75,
+        "tags": [],
+        "family": [
+          "IncreasedStunThreshold"
+        ]
       }
     ],
     "#% increased Cooldown Recovery Rate of Travel Skills": [
@@ -2461,7 +4748,11 @@
         "loc": "I",
         "title": "Eater of Worlds",
         "key": "eater",
-        "level": 75
+        "level": 75,
+        "tags": [],
+        "family": [
+          "CooldownRecovery"
+        ]
       }
     ],
     "While a Unique Enemy is in your Presence, #% increased Cooldown Recovery Rate of Travel Skills": [
@@ -2469,7 +4760,11 @@
         "loc": "I",
         "title": "Eater of Worlds",
         "key": "eater",
-        "level": 75
+        "level": 75,
+        "tags": [],
+        "family": [
+          "CooldownRecovery"
+        ]
       }
     ],
     "While a Pinnacle Atlas Boss is in your Presence, #% increased Cooldown Recovery Rate of Travel Skills": [
@@ -2477,7 +4772,11 @@
         "loc": "I",
         "title": "Eater of Worlds",
         "key": "eater",
-        "level": 75
+        "level": 75,
+        "tags": [],
+        "family": [
+          "CooldownRecovery"
+        ]
       }
     ],
     "#% increased Warcry Speed": [
@@ -2485,7 +4784,13 @@
         "loc": "I",
         "title": "Eater of Worlds",
         "key": "eater",
-        "level": 75
+        "level": 75,
+        "tags": [
+          "Speed"
+        ],
+        "family": [
+          "WarcrySpeed"
+        ]
       }
     ],
     "While a Unique Enemy is in your Presence, #% increased Warcry Speed": [
@@ -2493,7 +4798,13 @@
         "loc": "I",
         "title": "Eater of Worlds",
         "key": "eater",
-        "level": 75
+        "level": 75,
+        "tags": [
+          "Speed"
+        ],
+        "family": [
+          "WarcrySpeed"
+        ]
       }
     ],
     "While a Pinnacle Atlas Boss is in your Presence, #% increased Warcry Speed": [
@@ -2501,7 +4812,13 @@
         "loc": "I",
         "title": "Eater of Worlds",
         "key": "eater",
-        "level": 75
+        "level": 75,
+        "tags": [
+          "Speed"
+        ],
+        "family": [
+          "WarcrySpeed"
+        ]
       }
     ],
     "Enduring Cry has #% increased Cooldown Recovery Rate": [
@@ -2509,7 +4826,11 @@
         "loc": "I",
         "title": "Eater of Worlds",
         "key": "eater",
-        "level": 75
+        "level": 75,
+        "tags": [],
+        "family": [
+          "WarcryBonus"
+        ]
       }
     ],
     "While a Unique Enemy is in your Presence, Enduring Cry has #% increased Cooldown Recovery Rate": [
@@ -2517,7 +4838,11 @@
         "loc": "I",
         "title": "Eater of Worlds",
         "key": "eater",
-        "level": 75
+        "level": 75,
+        "tags": [],
+        "family": [
+          "WarcryBonus"
+        ]
       }
     ],
     "While a Pinnacle Atlas Boss is in your Presence, Enduring Cry has #% increased Cooldown Recovery Rate": [
@@ -2525,7 +4850,11 @@
         "loc": "I",
         "title": "Eater of Worlds",
         "key": "eater",
-        "level": 75
+        "level": 75,
+        "tags": [],
+        "family": [
+          "WarcryBonus"
+        ]
       }
     ],
     "Intimidating Cry has #% increased Cooldown Recovery Rate": [
@@ -2533,7 +4862,11 @@
         "loc": "I",
         "title": "Eater of Worlds",
         "key": "eater",
-        "level": 75
+        "level": 75,
+        "tags": [],
+        "family": [
+          "WarcryBonus"
+        ]
       }
     ],
     "While a Unique Enemy is in your Presence, Intimidating Cry has #% increased Cooldown Recovery Rate": [
@@ -2541,7 +4874,11 @@
         "loc": "I",
         "title": "Eater of Worlds",
         "key": "eater",
-        "level": 75
+        "level": 75,
+        "tags": [],
+        "family": [
+          "WarcryBonus"
+        ]
       }
     ],
     "While a Pinnacle Atlas Boss is in your Presence, Intimidating Cry has #% increased Cooldown Recovery Rate": [
@@ -2549,7 +4886,11 @@
         "loc": "I",
         "title": "Eater of Worlds",
         "key": "eater",
-        "level": 75
+        "level": 75,
+        "tags": [],
+        "family": [
+          "WarcryBonus"
+        ]
       }
     ],
     "Attacks Exerted by Seismic Cry deal #% increased Damage": [
@@ -2557,7 +4898,11 @@
         "loc": "I",
         "title": "Eater of Worlds",
         "key": "eater",
-        "level": 75
+        "level": 75,
+        "tags": [],
+        "family": [
+          "WarcryBonus"
+        ]
       }
     ],
     "While a Unique Enemy is in your Presence, Attacks Exerted by Seismic Cry deal #% increased Damage": [
@@ -2565,7 +4910,11 @@
         "loc": "I",
         "title": "Eater of Worlds",
         "key": "eater",
-        "level": 75
+        "level": 75,
+        "tags": [],
+        "family": [
+          "WarcryBonus"
+        ]
       }
     ],
     "While a Pinnacle Atlas Boss is in your Presence, Attacks Exerted by Seismic Cry deal #% increased Damage": [
@@ -2573,7 +4922,11 @@
         "loc": "I",
         "title": "Eater of Worlds",
         "key": "eater",
-        "level": 75
+        "level": 75,
+        "tags": [],
+        "family": [
+          "WarcryBonus"
+        ]
       }
     ],
     "Attacks Exerted by Ancestral Cry deal #% increased Damage": [
@@ -2581,7 +4934,11 @@
         "loc": "I",
         "title": "Eater of Worlds",
         "key": "eater",
-        "level": 75
+        "level": 75,
+        "tags": [],
+        "family": [
+          "WarcryBonus"
+        ]
       }
     ],
     "While a Unique Enemy is in your Presence, Attacks Exerted by Ancestral Cry deal #% increased Damage": [
@@ -2589,7 +4946,11 @@
         "loc": "I",
         "title": "Eater of Worlds",
         "key": "eater",
-        "level": 75
+        "level": 75,
+        "tags": [],
+        "family": [
+          "WarcryBonus"
+        ]
       }
     ],
     "While a Pinnacle Atlas Boss is in your Presence, Attacks Exerted by Ancestral Cry deal #% increased Damage": [
@@ -2597,7 +4958,11 @@
         "loc": "I",
         "title": "Eater of Worlds",
         "key": "eater",
-        "level": 75
+        "level": 75,
+        "tags": [],
+        "family": [
+          "WarcryBonus"
+        ]
       }
     ],
     "#% increased Rallying Cry Buff Effect": [
@@ -2605,7 +4970,11 @@
         "loc": "I",
         "title": "Eater of Worlds",
         "key": "eater",
-        "level": 75
+        "level": 75,
+        "tags": [],
+        "family": [
+          "WarcryBonus"
+        ]
       }
     ],
     "While a Unique Enemy is in your Presence, #% increased Rallying Cry Buff Effect": [
@@ -2613,7 +4982,11 @@
         "loc": "I",
         "title": "Eater of Worlds",
         "key": "eater",
-        "level": 75
+        "level": 75,
+        "tags": [],
+        "family": [
+          "WarcryBonus"
+        ]
       }
     ],
     "While a Pinnacle Atlas Boss is in your Presence, #% increased Rallying Cry Buff Effect": [
@@ -2621,7 +4994,11 @@
         "loc": "I",
         "title": "Eater of Worlds",
         "key": "eater",
-        "level": 75
+        "level": 75,
+        "tags": [],
+        "family": [
+          "WarcryBonus"
+        ]
       }
     ],
     "#% increased Battlemage's Cry Buff Effect": [
@@ -2629,7 +5006,11 @@
         "loc": "I",
         "title": "Eater of Worlds",
         "key": "eater",
-        "level": 75
+        "level": 75,
+        "tags": [],
+        "family": [
+          "WarcryBonus"
+        ]
       }
     ],
     "While a Unique Enemy is in your Presence, #% increased Battlemage's Cry Buff Effect": [
@@ -2637,7 +5018,11 @@
         "loc": "I",
         "title": "Eater of Worlds",
         "key": "eater",
-        "level": 75
+        "level": 75,
+        "tags": [],
+        "family": [
+          "WarcryBonus"
+        ]
       }
     ],
     "While a Pinnacle Atlas Boss is in your Presence, #% increased Battlemage's Cry Buff Effect": [
@@ -2645,7 +5030,11 @@
         "loc": "I",
         "title": "Eater of Worlds",
         "key": "eater",
-        "level": 75
+        "level": 75,
+        "tags": [],
+        "family": [
+          "WarcryBonus"
+        ]
       }
     ],
     "Infernal Cry has #% increased Area of Effect": [
@@ -2653,7 +5042,11 @@
         "loc": "I",
         "title": "Eater of Worlds",
         "key": "eater",
-        "level": 75
+        "level": 75,
+        "tags": [],
+        "family": [
+          "WarcryBonus"
+        ]
       }
     ],
     "While a Unique Enemy is in your Presence, Infernal Cry has #% increased Area of Effect": [
@@ -2661,7 +5054,11 @@
         "loc": "I",
         "title": "Eater of Worlds",
         "key": "eater",
-        "level": 75
+        "level": 75,
+        "tags": [],
+        "family": [
+          "WarcryBonus"
+        ]
       }
     ],
     "While a Pinnacle Atlas Boss is in your Presence, Infernal Cry has #% increased Area of Effect": [
@@ -2669,7 +5066,11 @@
         "loc": "I",
         "title": "Eater of Worlds",
         "key": "eater",
-        "level": 75
+        "level": 75,
+        "tags": [],
+        "family": [
+          "WarcryBonus"
+        ]
       }
     ],
     "General's Cry has #% increased Cooldown Recovery Rate": [
@@ -2677,7 +5078,11 @@
         "loc": "I",
         "title": "Eater of Worlds",
         "key": "eater",
-        "level": 75
+        "level": 75,
+        "tags": [],
+        "family": [
+          "WarcryBonus"
+        ]
       }
     ],
     "While a Unique Enemy is in your Presence, General's Cry has #% increased Cooldown Recovery Rate": [
@@ -2685,7 +5090,11 @@
         "loc": "I",
         "title": "Eater of Worlds",
         "key": "eater",
-        "level": 75
+        "level": 75,
+        "tags": [],
+        "family": [
+          "WarcryBonus"
+        ]
       }
     ],
     "While a Pinnacle Atlas Boss is in your Presence, General's Cry has #% increased Cooldown Recovery Rate": [
@@ -2693,7 +5102,11 @@
         "loc": "I",
         "title": "Eater of Worlds",
         "key": "eater",
-        "level": 75
+        "level": 75,
+        "tags": [],
+        "family": [
+          "WarcryBonus"
+        ]
       }
     ],
     "While a Unique Enemy is in your Presence, #% chance to Avoid Elemental Ailments": [
@@ -2701,7 +5114,14 @@
         "loc": "I",
         "title": "Eater of Worlds",
         "key": "eater",
-        "level": 75
+        "level": 75,
+        "tags": [
+          "Elemental",
+          "Ailment"
+        ],
+        "family": [
+          "AvoidElementalStatusAilments"
+        ]
       }
     ],
     "While a Pinnacle Atlas Boss is in your Presence, #% chance to Avoid Elemental Ailments": [
@@ -2709,7 +5129,14 @@
         "loc": "I",
         "title": "Eater of Worlds",
         "key": "eater",
-        "level": 75
+        "level": 75,
+        "tags": [
+          "Elemental",
+          "Ailment"
+        ],
+        "family": [
+          "AvoidElementalStatusAilments"
+        ]
       }
     ],
     "While a Unique Enemy is in your Presence, #% chance to Avoid Bleeding": [
@@ -2717,7 +5144,14 @@
         "loc": "I",
         "title": "Eater of Worlds",
         "key": "eater",
-        "level": 75
+        "level": 75,
+        "tags": [
+          "Physical",
+          "Ailment"
+        ],
+        "family": [
+          "ChanceToAvoidBleeding"
+        ]
       }
     ],
     "While a Pinnacle Atlas Boss is in your Presence, #% chance to Avoid Bleeding": [
@@ -2725,7 +5159,14 @@
         "loc": "I",
         "title": "Eater of Worlds",
         "key": "eater",
-        "level": 75
+        "level": 75,
+        "tags": [
+          "Physical",
+          "Ailment"
+        ],
+        "family": [
+          "ChanceToAvoidBleeding"
+        ]
       }
     ],
     "While a Unique Enemy is in your Presence, #% chance to Avoid being Poisoned": [
@@ -2733,7 +5174,14 @@
         "loc": "I",
         "title": "Eater of Worlds",
         "key": "eater",
-        "level": 75
+        "level": 75,
+        "tags": [
+          "Chaos",
+          "Ailment"
+        ],
+        "family": [
+          "ChanceToAvoidPoison"
+        ]
       }
     ],
     "While a Pinnacle Atlas Boss is in your Presence, #% chance to Avoid being Poisoned": [
@@ -2741,7 +5189,14 @@
         "loc": "I",
         "title": "Eater of Worlds",
         "key": "eater",
-        "level": 75
+        "level": 75,
+        "tags": [
+          "Chaos",
+          "Ailment"
+        ],
+        "family": [
+          "ChanceToAvoidPoison"
+        ]
       }
     ],
     "#% increased Cooldown Recovery Rate": [
@@ -2749,19 +5204,31 @@
         "loc": "I",
         "title": "Eater of Worlds",
         "key": "eater",
-        "level": 75
+        "level": 75,
+        "tags": [],
+        "family": [
+          "CooldownRecovery"
+        ]
       },
       {
         "loc": "S",
         "title": "Shaper",
         "key": "shaper",
-        "level": 90
+        "level": 90,
+        "tags": [],
+        "family": [
+          "CooldownRecovery"
+        ]
       },
       {
         "loc": "S",
         "title": "Crusader",
         "key": "crusader",
-        "level": 90
+        "level": 90,
+        "tags": [],
+        "family": [
+          "CooldownRecovery"
+        ]
       }
     ],
     "While a Unique Enemy is in your Presence, #% increased Cooldown Recovery Rate": [
@@ -2769,7 +5236,11 @@
         "loc": "I",
         "title": "Eater of Worlds",
         "key": "eater",
-        "level": 75
+        "level": 75,
+        "tags": [],
+        "family": [
+          "CooldownRecovery"
+        ]
       }
     ],
     "While a Pinnacle Atlas Boss is in your Presence, #% increased Cooldown Recovery Rate": [
@@ -2777,7 +5248,11 @@
         "loc": "I",
         "title": "Eater of Worlds",
         "key": "eater",
-        "level": 75
+        "level": 75,
+        "tags": [],
+        "family": [
+          "CooldownRecovery"
+        ]
       }
     ],
     "#% increased Elusive Effect": [
@@ -2785,13 +5260,23 @@
         "loc": "I",
         "title": "Eater of Worlds",
         "key": "eater",
-        "level": 75
+        "level": 75,
+        "tags": [],
+        "family": [
+          "ElusiveEffect"
+        ]
       },
       {
         "loc": "P",
         "title": "Redeemer",
         "key": "redeemer",
-        "level": 85
+        "level": 85,
+        "tags": [
+          "Critical"
+        ],
+        "family": [
+          "ElusiveOnCriticalStrike"
+        ]
       }
     ],
     "While a Unique Enemy is in your Presence, #% increased Elusive Effect": [
@@ -2799,7 +5284,11 @@
         "loc": "I",
         "title": "Eater of Worlds",
         "key": "eater",
-        "level": 75
+        "level": 75,
+        "tags": [],
+        "family": [
+          "ElusiveEffect"
+        ]
       }
     ],
     "While a Pinnacle Atlas Boss is in your Presence, #% increased Elusive Effect": [
@@ -2807,7 +5296,11 @@
         "loc": "I",
         "title": "Eater of Worlds",
         "key": "eater",
-        "level": 75
+        "level": 75,
+        "tags": [],
+        "family": [
+          "ElusiveEffect"
+        ]
       }
     ],
     "Socketed Gems are Supported by Level # Fortify": [
@@ -2815,7 +5308,13 @@
         "loc": "P",
         "title": "Elder",
         "key": "elder",
-        "level": 78
+        "level": 78,
+        "tags": [
+          "Gem"
+        ],
+        "family": [
+          "DisplaySocketedGemGetsFortify"
+        ]
       }
     ],
     "Unaffected by Shocked Ground": [
@@ -2823,19 +5322,43 @@
         "loc": "P",
         "title": "Elder",
         "key": "elder",
-        "level": 68
+        "level": 68,
+        "tags": [
+          "Elemental",
+          "Lightning",
+          "Ailment"
+        ],
+        "family": [
+          "GroundEffectEffectiveness"
+        ]
       },
       {
         "loc": "P",
         "title": "Crusader",
         "key": "crusader",
-        "level": 68
+        "level": 68,
+        "tags": [
+          "Elemental",
+          "Lightning",
+          "Ailment"
+        ],
+        "family": [
+          "GroundEffectEffectiveness"
+        ]
       },
       {
         "loc": "I",
         "title": "Synthesis",
         "key": "synthesis",
-        "level": 65
+        "level": 65,
+        "tags": [
+          "Elemental",
+          "Lightning",
+          "Ailment"
+        ],
+        "family": [
+          "GroundEffectEffectiveness"
+        ]
       }
     ],
     "Unaffected by Desecrated Ground": [
@@ -2843,13 +5366,25 @@
         "loc": "P",
         "title": "Elder",
         "key": "elder",
-        "level": 68
+        "level": 68,
+        "tags": [
+          "Chaos"
+        ],
+        "family": [
+          "GroundEffectEffectiveness"
+        ]
       },
       {
         "loc": "P",
         "title": "Hunter",
         "key": "hunter",
-        "level": 68
+        "level": 68,
+        "tags": [
+          "Chaos"
+        ],
+        "family": [
+          "GroundEffectEffectiveness"
+        ]
       }
     ],
     "#% chance to gain an Endurance Charge on Kill": [
@@ -2857,19 +5392,31 @@
         "loc": "P",
         "title": "Elder",
         "key": "elder",
-        "level": 93
+        "level": 93,
+        "tags": [],
+        "family": [
+          "EnduranceChargeOnKillChance"
+        ]
       },
       {
         "loc": "P",
         "title": "Redeemer",
         "key": "redeemer",
-        "level": 90
+        "level": 90,
+        "tags": [],
+        "family": [
+          "EnduranceChargeOnKillChance"
+        ]
       },
       {
         "loc": "I",
         "title": "Synthesis",
         "key": "synthesis",
-        "level": 55
+        "level": 55,
+        "tags": [],
+        "family": [
+          "EnduranceChargeOnKillChance"
+        ]
       }
     ],
     "Unaffected by Shock": [
@@ -2877,13 +5424,29 @@
         "loc": "P",
         "title": "Elder",
         "key": "elder",
-        "level": 78
+        "level": 78,
+        "tags": [
+          "Elemental",
+          "Lightning",
+          "Ailment"
+        ],
+        "family": [
+          "GroundEffectEffectiveness"
+        ]
       },
       {
         "loc": "P",
         "title": "Crusader",
         "key": "crusader",
-        "level": 78
+        "level": 78,
+        "tags": [
+          "Elemental",
+          "Lightning",
+          "Ailment"
+        ],
+        "family": [
+          "GroundEffectEffectiveness"
+        ]
       }
     ],
     "Unaffected by Poison": [
@@ -2891,13 +5454,27 @@
         "loc": "P",
         "title": "Elder",
         "key": "elder",
-        "level": 78
+        "level": 78,
+        "tags": [
+          "Chaos",
+          "Ailment"
+        ],
+        "family": [
+          "GroundEffectEffectiveness"
+        ]
       },
       {
         "loc": "P",
         "title": "Hunter",
         "key": "hunter",
-        "level": 78
+        "level": 78,
+        "tags": [
+          "Chaos",
+          "Ailment"
+        ],
+        "family": [
+          "GroundEffectEffectiveness"
+        ]
       }
     ],
     "#% increased Endurance Charge Duration": [
@@ -2905,13 +5482,21 @@
         "loc": "P",
         "title": "Elder",
         "key": "elder",
-        "level": 93
+        "level": 93,
+        "tags": [],
+        "family": [
+          "EnduranceChargeOnKillChance"
+        ]
       },
       {
         "loc": "P",
         "title": "Redeemer",
         "key": "redeemer",
-        "level": 90
+        "level": 90,
+        "tags": [],
+        "family": [
+          "EnduranceChargeOnKillChance"
+        ]
       }
     ],
     "Socketed Gems are Supported by Level # More Duration": [
@@ -2919,7 +5504,13 @@
         "loc": "S",
         "title": "Elder",
         "key": "elder",
-        "level": 78
+        "level": 78,
+        "tags": [
+          "Gem"
+        ],
+        "family": [
+          "SkillEffectDuration"
+        ]
       }
     ],
     "#% increased Skill Effect Duration": [
@@ -2927,7 +5518,13 @@
         "loc": "S",
         "title": "Elder",
         "key": "elder",
-        "level": 78
+        "level": 78,
+        "tags": [
+          "Gem"
+        ],
+        "family": [
+          "SkillEffectDuration"
+        ]
       }
     ],
     "Socketed Gems are Supported by Level # Spell Totem": [
@@ -2935,7 +5532,14 @@
         "loc": "S",
         "title": "Elder",
         "key": "elder",
-        "level": 90
+        "level": 90,
+        "tags": [
+          "Damage",
+          "Gem"
+        ],
+        "family": [
+          "TotemSupported"
+        ]
       }
     ],
     "#% increased Totem Damage": [
@@ -2943,13 +5547,27 @@
         "loc": "S",
         "title": "Elder",
         "key": "elder",
-        "level": 90
+        "level": 90,
+        "tags": [
+          "Damage",
+          "Gem"
+        ],
+        "family": [
+          "TotemSupported"
+        ]
       },
       {
         "loc": "S",
         "title": "Shaper",
         "key": "shaper",
-        "level": 90
+        "level": 90,
+        "tags": [
+          "Damage",
+          "Gem"
+        ],
+        "family": [
+          "TotemSupported"
+        ]
       }
     ],
     "Unaffected by Chilled Ground": [
@@ -2957,19 +5575,43 @@
         "loc": "P",
         "title": "Shaper",
         "key": "shaper",
-        "level": 68
+        "level": 68,
+        "tags": [
+          "Elemental",
+          "Cold",
+          "Ailment"
+        ],
+        "family": [
+          "GroundEffectEffectiveness"
+        ]
       },
       {
         "loc": "P",
         "title": "Redeemer",
         "key": "redeemer",
-        "level": 68
+        "level": 68,
+        "tags": [
+          "Elemental",
+          "Cold",
+          "Ailment"
+        ],
+        "family": [
+          "GroundEffectEffectiveness"
+        ]
       },
       {
         "loc": "I",
         "title": "Synthesis",
         "key": "synthesis",
-        "level": 65
+        "level": 65,
+        "tags": [
+          "Elemental",
+          "Cold",
+          "Ailment"
+        ],
+        "family": [
+          "GroundEffectEffectiveness"
+        ]
       }
     ],
     "Unaffected by Burning Ground": [
@@ -2977,19 +5619,40 @@
         "loc": "P",
         "title": "Shaper",
         "key": "shaper",
-        "level": 68
+        "level": 68,
+        "tags": [
+          "Elemental",
+          "Fire"
+        ],
+        "family": [
+          "GroundEffectEffectiveness"
+        ]
       },
       {
         "loc": "P",
         "title": "Warlord",
         "key": "warlord",
-        "level": 68
+        "level": 68,
+        "tags": [
+          "Elemental",
+          "Fire"
+        ],
+        "family": [
+          "GroundEffectEffectiveness"
+        ]
       },
       {
         "loc": "I",
         "title": "Synthesis",
         "key": "synthesis",
-        "level": 65
+        "level": 65,
+        "tags": [
+          "Elemental",
+          "Fire"
+        ],
+        "family": [
+          "GroundEffectEffectiveness"
+        ]
       }
     ],
     "Socketed Gems are supported by Level # Life Leech": [
@@ -2997,7 +5660,13 @@
         "loc": "P",
         "title": "Shaper",
         "key": "shaper",
-        "level": 78
+        "level": 78,
+        "tags": [
+          "Gem"
+        ],
+        "family": [
+          "SupportedByLifeLeech"
+        ]
       }
     ],
     "Unaffected by Chill": [
@@ -3005,13 +5674,29 @@
         "loc": "P",
         "title": "Shaper",
         "key": "shaper",
-        "level": 78
+        "level": 78,
+        "tags": [
+          "Elemental",
+          "Cold",
+          "Ailment"
+        ],
+        "family": [
+          "GroundEffectEffectiveness"
+        ]
       },
       {
         "loc": "P",
         "title": "Redeemer",
         "key": "redeemer",
-        "level": 78
+        "level": 78,
+        "tags": [
+          "Elemental",
+          "Cold",
+          "Ailment"
+        ],
+        "family": [
+          "GroundEffectEffectiveness"
+        ]
       }
     ],
     "Unaffected by Ignite": [
@@ -3019,13 +5704,29 @@
         "loc": "P",
         "title": "Shaper",
         "key": "shaper",
-        "level": 78
+        "level": 78,
+        "tags": [
+          "Elemental",
+          "Fire",
+          "Ailment"
+        ],
+        "family": [
+          "GroundEffectEffectiveness"
+        ]
       },
       {
         "loc": "P",
         "title": "Warlord",
         "key": "warlord",
-        "level": 78
+        "level": 78,
+        "tags": [
+          "Elemental",
+          "Fire",
+          "Ailment"
+        ],
+        "family": [
+          "GroundEffectEffectiveness"
+        ]
       }
     ],
     "#% chance to avoid Projectiles": [
@@ -3033,13 +5734,21 @@
         "loc": "S",
         "title": "Shaper",
         "key": "shaper",
-        "level": 94
+        "level": 94,
+        "tags": [],
+        "family": [
+          "ChanceToAvoidProjectiles"
+        ]
       },
       {
         "loc": "S",
         "title": "Redeemer",
         "key": "redeemer",
-        "level": 83
+        "level": 83,
+        "tags": [],
+        "family": [
+          "ChanceToAvoidProjectiles"
+        ]
       }
     ],
     "Socketed Gems are Supported by Level # Ballista Totem": [
@@ -3047,7 +5756,14 @@
         "loc": "S",
         "title": "Shaper",
         "key": "shaper",
-        "level": 90
+        "level": 90,
+        "tags": [
+          "Damage",
+          "Gem"
+        ],
+        "family": [
+          "TotemSupported"
+        ]
       }
     ],
     "Grants Level # Decoy Totem Skill": [
@@ -3055,7 +5771,11 @@
         "loc": "S",
         "title": "Shaper",
         "key": "shaper",
-        "level": 78
+        "level": 78,
+        "tags": [],
+        "family": [
+          "GrantedSkill"
+        ]
       }
     ],
     "#% chance to avoid Projectiles if you've taken Projectile Damage Recently": [
@@ -3063,13 +5783,21 @@
         "loc": "S",
         "title": "Shaper",
         "key": "shaper",
-        "level": 94
+        "level": 94,
+        "tags": [],
+        "family": [
+          "ChanceToAvoidProjectiles"
+        ]
       },
       {
         "loc": "S",
         "title": "Redeemer",
         "key": "redeemer",
-        "level": 83
+        "level": 83,
+        "tags": [],
+        "family": [
+          "ChanceToAvoidProjectiles"
+        ]
       }
     ],
     "#% to Quality of Socketed Lightning Gems": [
@@ -3077,13 +5805,27 @@
         "loc": "P",
         "title": "Crusader",
         "key": "crusader",
-        "level": 78
+        "level": 78,
+        "tags": [
+          "Elemental",
+          "Lightning",
+          "Gem"
+        ],
+        "family": [
+          "IncreaseSpecificSocketedGemLevel"
+        ]
       },
       {
         "loc": "I",
         "title": "Synthesis",
         "key": "synthesis",
-        "level": 50
+        "level": 50,
+        "tags": [
+          "Gem"
+        ],
+        "family": [
+          "SocketedGemQuality"
+        ]
       }
     ],
     "#% chance to gain Elusive on Critical Strike": [
@@ -3091,7 +5833,13 @@
         "loc": "P",
         "title": "Redeemer",
         "key": "redeemer",
-        "level": 85
+        "level": 85,
+        "tags": [
+          "Critical"
+        ],
+        "family": [
+          "ElusiveOnCriticalStrike"
+        ]
       }
     ],
     "#% to Quality of Socketed Cold Gems": [
@@ -3099,13 +5847,27 @@
         "loc": "P",
         "title": "Redeemer",
         "key": "redeemer",
-        "level": 78
+        "level": 78,
+        "tags": [
+          "Elemental",
+          "Cold",
+          "Gem"
+        ],
+        "family": [
+          "IncreaseSpecificSocketedGemLevel"
+        ]
       },
       {
         "loc": "I",
         "title": "Synthesis",
         "key": "synthesis",
-        "level": 50
+        "level": 50,
+        "tags": [
+          "Gem"
+        ],
+        "family": [
+          "SocketedGemQuality"
+        ]
       }
     ],
     "#% increased Attack, Cast and Movement Speed while you have Onslaught": [
@@ -3113,7 +5875,15 @@
         "loc": "S",
         "title": "Redeemer",
         "key": "redeemer",
-        "level": 90
+        "level": 90,
+        "tags": [
+          "Attack",
+          "Caster",
+          "Speed"
+        ],
+        "family": [
+          "ChanceToGainOnslaughtOnKill"
+        ]
       }
     ],
     "Projectiles Pierce an additional Target": [
@@ -3121,7 +5891,11 @@
         "loc": "P",
         "title": "Hunter",
         "key": "hunter",
-        "level": 75
+        "level": 75,
+        "tags": [],
+        "family": [
+          "Pierce"
+        ]
       }
     ],
     "Projectiles Pierce # additional Targets": [
@@ -3129,7 +5903,11 @@
         "loc": "P",
         "title": "Hunter",
         "key": "hunter",
-        "level": 90
+        "level": 90,
+        "tags": [],
+        "family": [
+          "Pierce"
+        ]
       }
     ],
     "#% to Quality of Socketed Chaos Gems": [
@@ -3137,13 +5915,26 @@
         "loc": "P",
         "title": "Hunter",
         "key": "hunter",
-        "level": 78
+        "level": 78,
+        "tags": [
+          "Chaos",
+          "Gem"
+        ],
+        "family": [
+          "IncreaseSpecificSocketedGemLevel"
+        ]
       },
       {
         "loc": "I",
         "title": "Synthesis",
         "key": "synthesis",
-        "level": 50
+        "level": 50,
+        "tags": [
+          "Gem"
+        ],
+        "family": [
+          "SocketedGemQuality"
+        ]
       }
     ],
     "#% increased Strength": [
@@ -3151,7 +5942,13 @@
         "loc": "S",
         "title": "Hunter",
         "key": "hunter",
-        "level": 85
+        "level": 85,
+        "tags": [
+          "Attribute"
+        ],
+        "family": [
+          "PercentageStrength"
+        ]
       }
     ],
     "You have Tailwind if you have dealt a Critical Strike Recently": [
@@ -3159,7 +5956,11 @@
         "loc": "S",
         "title": "Hunter",
         "key": "hunter",
-        "level": 85
+        "level": 85,
+        "tags": [],
+        "family": [
+          "TailwindOnCriticalStrike"
+        ]
       }
     ],
     "#% increased Effect of Tailwind on you": [
@@ -3167,7 +5968,11 @@
         "loc": "S",
         "title": "Hunter",
         "key": "hunter",
-        "level": 85
+        "level": 85,
+        "tags": [],
+        "family": [
+          "TailwindOnCriticalStrike"
+        ]
       }
     ],
     "#% increased Ignite Duration on Enemies": [
@@ -3175,7 +5980,16 @@
         "loc": "S",
         "title": "Hunter",
         "key": "hunter",
-        "level": 83
+        "level": 83,
+        "tags": [
+          "Damage",
+          "Elemental",
+          "Fire",
+          "Ailment"
+        ],
+        "family": [
+          "FasterDamageAilments"
+        ]
       }
     ],
     "#% increased Bleeding Duration": [
@@ -3183,7 +5997,16 @@
         "loc": "S",
         "title": "Hunter",
         "key": "hunter",
-        "level": 83
+        "level": 83,
+        "tags": [
+          "Damage",
+          "Physical",
+          "Attack",
+          "Ailment"
+        ],
+        "family": [
+          "FasterDamageAilments"
+        ]
       }
     ],
     "#% increased Poison Duration": [
@@ -3191,7 +6014,15 @@
         "loc": "S",
         "title": "Hunter",
         "key": "hunter",
-        "level": 83
+        "level": 83,
+        "tags": [
+          "Damage",
+          "Chaos",
+          "Ailment"
+        ],
+        "family": [
+          "FasterDamageAilments"
+        ]
       }
     ],
     "# to Maximum Endurance Charges": [
@@ -3199,19 +6030,31 @@
         "loc": "P",
         "title": "Warlord",
         "key": "warlord",
-        "level": 85
+        "level": 85,
+        "tags": [],
+        "family": [
+          "MaximumEnduranceCharges"
+        ]
       },
       {
         "loc": "I",
         "title": "Synthesis",
         "key": "synthesis",
-        "level": 60
+        "level": 60,
+        "tags": [],
+        "family": [
+          "MaximumEnduranceCharges"
+        ]
       },
       {
         "loc": "I",
         "title": "Corrupted",
         "key": "corrupted",
-        "level": 60
+        "level": 60,
+        "tags": [],
+        "family": [
+          "MaximumEnduranceCharges"
+        ]
       }
     ],
     "#% to Quality of Socketed Fire Gems": [
@@ -3219,13 +6062,27 @@
         "loc": "P",
         "title": "Warlord",
         "key": "warlord",
-        "level": 78
+        "level": 78,
+        "tags": [
+          "Elemental",
+          "Fire",
+          "Gem"
+        ],
+        "family": [
+          "IncreaseSpecificSocketedGemLevel"
+        ]
       },
       {
         "loc": "I",
         "title": "Synthesis",
         "key": "synthesis",
-        "level": 50
+        "level": 50,
+        "tags": [
+          "Gem"
+        ],
+        "family": [
+          "SocketedGemQuality"
+        ]
       }
     ],
     "#% chance that if you would gain Endurance Charges, you instead gain up to maximum Endurance Charges": [
@@ -3233,7 +6090,11 @@
         "loc": "P",
         "title": "Warlord",
         "key": "warlord",
-        "level": 85
+        "level": 85,
+        "tags": [],
+        "family": [
+          "MaximumEnduranceCharges"
+        ]
       }
     ],
     "#% chance to Avoid Fire Damage from Hits": [
@@ -3241,7 +6102,15 @@
         "loc": "S",
         "title": "Warlord",
         "key": "warlord",
-        "level": 90
+        "level": 90,
+        "tags": [
+          "Elemental",
+          "Fire",
+          "Resistance"
+        ],
+        "family": [
+          "FireDamageAvoidance"
+        ]
       }
     ],
     "#% chance to Avoid Cold Damage from Hits": [
@@ -3249,7 +6118,15 @@
         "loc": "S",
         "title": "Warlord",
         "key": "warlord",
-        "level": 90
+        "level": 90,
+        "tags": [
+          "Elemental",
+          "Cold",
+          "Resistance"
+        ],
+        "family": [
+          "ColdDamageAvoidance"
+        ]
       }
     ],
     "#% chance to Avoid Lightning Damage from Hits": [
@@ -3257,7 +6134,15 @@
         "loc": "S",
         "title": "Warlord",
         "key": "warlord",
-        "level": 90
+        "level": 90,
+        "tags": [
+          "Elemental",
+          "Lightning",
+          "Resistance"
+        ],
+        "family": [
+          "LightningDamageAvoidance"
+        ]
       }
     ],
     "Grants Level # Aspect of the Avian Skill": [
@@ -3265,7 +6150,11 @@
         "loc": "S",
         "title": "Bestiary",
         "key": "bestiary",
-        "level": 20
+        "level": 20,
+        "tags": [],
+        "family": [
+          "GrantedSkill"
+        ]
       }
     ],
     "Grants Level # Aspect of the Cat Skill": [
@@ -3273,7 +6162,11 @@
         "loc": "S",
         "title": "Bestiary",
         "key": "bestiary",
-        "level": 20
+        "level": 20,
+        "tags": [],
+        "family": [
+          "GrantedSkill"
+        ]
       }
     ],
     "Grants Level # Aspect of the Crab Skill": [
@@ -3281,7 +6174,11 @@
         "loc": "S",
         "title": "Bestiary",
         "key": "bestiary",
-        "level": 20
+        "level": 20,
+        "tags": [],
+        "family": [
+          "GrantedSkill"
+        ]
       }
     ],
     "Grants Level # Aspect of the Spider Skill": [
@@ -3289,7 +6186,11 @@
         "loc": "S",
         "title": "Bestiary",
         "key": "bestiary",
-        "level": 20
+        "level": 20,
+        "tags": [],
+        "family": [
+          "GrantedSkill"
+        ]
       }
     ],
     "#% increased maximum Life": [
@@ -3297,13 +6198,25 @@
         "loc": "I",
         "title": "Synthesis",
         "key": "synthesis",
-        "level": 15
+        "level": 15,
+        "tags": [
+          "Life"
+        ],
+        "family": [
+          "MaximumLifeIncreasePercent"
+        ]
       },
       {
         "loc": "I",
         "title": "Corrupted",
         "key": "corrupted",
-        "level": 1
+        "level": 1,
+        "tags": [
+          "Life"
+        ],
+        "family": [
+          "MaximumLifeIncreasePercent"
+        ]
       }
     ],
     "# to Total Mana Cost of Skills": [
@@ -3311,7 +6224,13 @@
         "loc": "I",
         "title": "Synthesis",
         "key": "synthesis",
-        "level": 24
+        "level": 24,
+        "tags": [
+          "Mana"
+        ],
+        "family": [
+          "IncreaseFlatManaCost"
+        ]
       }
     ],
     "#% reduced Mana Cost of Skills": [
@@ -3319,7 +6238,13 @@
         "loc": "I",
         "title": "Synthesis",
         "key": "synthesis",
-        "level": 24
+        "level": 24,
+        "tags": [
+          "Mana"
+        ],
+        "family": [
+          "ManaCostReduction"
+        ]
       }
     ],
     "#% to maximum Cold Resistance": [
@@ -3327,7 +6252,15 @@
         "loc": "I",
         "title": "Synthesis",
         "key": "synthesis",
-        "level": 60
+        "level": 60,
+        "tags": [
+          "Elemental",
+          "Cold",
+          "Resistance"
+        ],
+        "family": [
+          "MaximumResistances"
+        ]
       }
     ],
     "#% to maximum Lightning Resistance": [
@@ -3335,7 +6268,15 @@
         "loc": "I",
         "title": "Synthesis",
         "key": "synthesis",
-        "level": 60
+        "level": 60,
+        "tags": [
+          "Elemental",
+          "Lightning",
+          "Resistance"
+        ],
+        "family": [
+          "MaximumResistances"
+        ]
       }
     ],
     "#% to maximum Chaos Resistance": [
@@ -3343,7 +6284,14 @@
         "loc": "I",
         "title": "Synthesis",
         "key": "synthesis",
-        "level": 60
+        "level": 60,
+        "tags": [
+          "Chaos",
+          "Resistance"
+        ],
+        "family": [
+          "MaximumResistances"
+        ]
       }
     ],
     "#% to all Elemental Resistances": [
@@ -3351,7 +6299,14 @@
         "loc": "I",
         "title": "Synthesis",
         "key": "synthesis",
-        "level": 36
+        "level": 36,
+        "tags": [
+          "Elemental",
+          "Resistance"
+        ],
+        "family": [
+          "AllResistances"
+        ]
       }
     ],
     "Unwavering Stance": [
@@ -3359,7 +6314,14 @@
         "loc": "I",
         "title": "Synthesis",
         "key": "synthesis",
-        "level": 65
+        "level": 65,
+        "tags": [
+          "Defences",
+          "Evasion"
+        ],
+        "family": [
+          "Keystone"
+        ]
       }
     ],
     "#% increased Effect of Cold Ailments": [
@@ -3367,7 +6329,15 @@
         "loc": "I",
         "title": "Synthesis",
         "key": "synthesis",
-        "level": 48
+        "level": 48,
+        "tags": [
+          "Elemental",
+          "Cold",
+          "Ailment"
+        ],
+        "family": [
+          "ChillEffect"
+        ]
       }
     ],
     "#% increased Effect of Shock": [
@@ -3375,7 +6345,15 @@
         "loc": "I",
         "title": "Synthesis",
         "key": "synthesis",
-        "level": 48
+        "level": 48,
+        "tags": [
+          "Elemental",
+          "Lightning",
+          "Ailment"
+        ],
+        "family": [
+          "ShockEffect"
+        ]
       }
     ],
     "#% increased Burning Damage": [
@@ -3383,7 +6361,15 @@
         "loc": "I",
         "title": "Synthesis",
         "key": "synthesis",
-        "level": 24
+        "level": 24,
+        "tags": [
+          "Damage",
+          "Elemental",
+          "Fire"
+        ],
+        "family": [
+          "BurnDamage"
+        ]
       }
     ],
     "#% increased Fire Damage per # Strength": [
@@ -3391,7 +6377,15 @@
         "loc": "I",
         "title": "Synthesis",
         "key": "synthesis",
-        "level": 55
+        "level": 55,
+        "tags": [
+          "Damage",
+          "Elemental",
+          "Fire"
+        ],
+        "family": [
+          "FireDamagePerStrength"
+        ]
       }
     ],
     "#% increased Dexterity": [
@@ -3399,7 +6393,13 @@
         "loc": "I",
         "title": "Synthesis",
         "key": "synthesis",
-        "level": 16
+        "level": 16,
+        "tags": [
+          "Attribute"
+        ],
+        "family": [
+          "PercentageDexterity"
+        ]
       }
     ],
     "#% increased Intelligence": [
@@ -3407,7 +6407,13 @@
         "loc": "I",
         "title": "Synthesis",
         "key": "synthesis",
-        "level": 16
+        "level": 16,
+        "tags": [
+          "Attribute"
+        ],
+        "family": [
+          "PercentageIntelligence"
+        ]
       }
     ],
     "#% Chance to Block Attack Damage": [
@@ -3415,7 +6421,11 @@
         "loc": "I",
         "title": "Synthesis",
         "key": "synthesis",
-        "level": 48
+        "level": 48,
+        "tags": [],
+        "family": [
+          "BlockPercent"
+        ]
       }
     ],
     "#% Chance to Block Spell Damage": [
@@ -3423,7 +6433,11 @@
         "loc": "I",
         "title": "Synthesis",
         "key": "synthesis",
-        "level": 48
+        "level": 48,
+        "tags": [],
+        "family": [
+          "SpellBlockPercentage"
+        ]
       }
     ],
     "Vitality has #% increased Mana Reservation Efficiency": [
@@ -3431,7 +6445,14 @@
         "loc": "I",
         "title": "Synthesis",
         "key": "synthesis",
-        "level": 48
+        "level": 48,
+        "tags": [
+          "Mana",
+          "Aura"
+        ],
+        "family": [
+          "ReducedManaReservationsCost"
+        ]
       }
     ],
     "Determination has #% increased Mana Reservation Efficiency": [
@@ -3439,7 +6460,14 @@
         "loc": "I",
         "title": "Synthesis",
         "key": "synthesis",
-        "level": 48
+        "level": 48,
+        "tags": [
+          "Mana",
+          "Aura"
+        ],
+        "family": [
+          "ReducedManaReservationsCost"
+        ]
       }
     ],
     "Grace has #% increased Mana Reservation Efficiency": [
@@ -3447,7 +6475,14 @@
         "loc": "I",
         "title": "Synthesis",
         "key": "synthesis",
-        "level": 48
+        "level": 48,
+        "tags": [
+          "Mana",
+          "Aura"
+        ],
+        "family": [
+          "ReducedManaReservationsCost"
+        ]
       }
     ],
     "Discipline has #% increased Mana Reservation Efficiency": [
@@ -3455,7 +6490,14 @@
         "loc": "I",
         "title": "Synthesis",
         "key": "synthesis",
-        "level": 48
+        "level": 48,
+        "tags": [
+          "Mana",
+          "Aura"
+        ],
+        "family": [
+          "ReducedManaReservationsCost"
+        ]
       }
     ],
     "Purity of Fire has #% increased Mana Reservation Efficiency": [
@@ -3463,7 +6505,14 @@
         "loc": "I",
         "title": "Synthesis",
         "key": "synthesis",
-        "level": 48
+        "level": 48,
+        "tags": [
+          "Mana",
+          "Aura"
+        ],
+        "family": [
+          "ReducedManaReservationsCost"
+        ]
       }
     ],
     "Purity of Ice has #% increased Mana Reservation Efficiency": [
@@ -3471,7 +6520,14 @@
         "loc": "I",
         "title": "Synthesis",
         "key": "synthesis",
-        "level": 48
+        "level": 48,
+        "tags": [
+          "Mana",
+          "Aura"
+        ],
+        "family": [
+          "ReducedManaReservationsCost"
+        ]
       }
     ],
     "Purity of Lightning has #% increased Mana Reservation Efficiency": [
@@ -3479,7 +6535,14 @@
         "loc": "I",
         "title": "Synthesis",
         "key": "synthesis",
-        "level": 48
+        "level": 48,
+        "tags": [
+          "Mana",
+          "Aura"
+        ],
+        "family": [
+          "ReducedManaReservationsCost"
+        ]
       }
     ],
     "#% increased Damage with Vaal Skills": [
@@ -3487,7 +6550,13 @@
         "loc": "I",
         "title": "Synthesis",
         "key": "synthesis",
-        "level": 36
+        "level": 36,
+        "tags": [
+          "Damage"
+        ],
+        "family": [
+          "VaalSkillDamage"
+        ]
       }
     ],
     "Minions deal #% increased Damage": [
@@ -3495,7 +6564,14 @@
         "loc": "I",
         "title": "Synthesis",
         "key": "synthesis",
-        "level": 48
+        "level": 48,
+        "tags": [
+          "Damage",
+          "Minion"
+        ],
+        "family": [
+          "MinionDamage"
+        ]
       }
     ],
     "Raised Spectres have #% increased Damage": [
@@ -3503,7 +6579,14 @@
         "loc": "I",
         "title": "Synthesis",
         "key": "synthesis",
-        "level": 55
+        "level": 55,
+        "tags": [
+          "Damage",
+          "Minion"
+        ],
+        "family": [
+          "MinionDamage"
+        ]
       }
     ],
     "Onslaught": [
@@ -3511,7 +6594,11 @@
         "loc": "I",
         "title": "Synthesis",
         "key": "synthesis",
-        "level": 60
+        "level": 60,
+        "tags": [],
+        "family": [
+          "Onslaught"
+        ]
       }
     ],
     "#% increased Quantity of Items found": [
@@ -3519,7 +6606,13 @@
         "loc": "I",
         "title": "Synthesis",
         "key": "synthesis",
-        "level": 65
+        "level": 65,
+        "tags": [
+          "Drop"
+        ],
+        "family": [
+          "ItemFoundQuantityIncrease"
+        ]
       }
     ],
     "#% to Quality of Socketed Strength Gems": [
@@ -3527,7 +6620,14 @@
         "loc": "I",
         "title": "Synthesis",
         "key": "synthesis",
-        "level": 50
+        "level": 50,
+        "tags": [
+          "Attribute",
+          "Gem"
+        ],
+        "family": [
+          "SocketedGemQuality"
+        ]
       }
     ],
     "#% to Quality of Socketed Dexterity Gems": [
@@ -3535,7 +6635,14 @@
         "loc": "I",
         "title": "Synthesis",
         "key": "synthesis",
-        "level": 50
+        "level": 50,
+        "tags": [
+          "Attribute",
+          "Gem"
+        ],
+        "family": [
+          "SocketedGemQuality"
+        ]
       }
     ],
     "#% to Quality of Socketed Intelligence Gems": [
@@ -3543,7 +6650,14 @@
         "loc": "I",
         "title": "Synthesis",
         "key": "synthesis",
-        "level": 50
+        "level": 50,
+        "tags": [
+          "Attribute",
+          "Gem"
+        ],
+        "family": [
+          "SocketedGemQuality"
+        ]
       }
     ],
     "# Physical Damage taken from Attack Hits": [
@@ -3551,7 +6665,14 @@
         "loc": "I",
         "title": "Synthesis",
         "key": "synthesis",
-        "level": 48
+        "level": 48,
+        "tags": [
+          "Physical",
+          "Attack"
+        ],
+        "family": [
+          "PhysicalAttackDamageTaken"
+        ]
       }
     ],
     "#% increased Movement Speed if Corrupted": [
@@ -3559,7 +6680,13 @@
         "loc": "I",
         "title": "Synthesis",
         "key": "synthesis",
-        "level": 60
+        "level": 60,
+        "tags": [
+          "Speed"
+        ],
+        "family": [
+          "LocalCorruptedBonus"
+        ]
       }
     ],
     "#% additional Physical Damage Reduction against Abyssal Monsters": [
@@ -3567,7 +6694,13 @@
         "loc": "I",
         "title": "Synthesis",
         "key": "synthesis",
-        "level": 50
+        "level": 50,
+        "tags": [
+          "Physical"
+        ],
+        "family": [
+          "MinionDamageVSAbyssMonsters"
+        ]
       }
     ],
     "#% increased Effect of Socketed Abyss Jewels": [
@@ -3575,7 +6708,11 @@
         "loc": "I",
         "title": "Synthesis",
         "key": "synthesis",
-        "level": 70
+        "level": 70,
+        "tags": [],
+        "family": [
+          "AbyssJewelEffect"
+        ]
       }
     ],
     "# Armour while stationary": [
@@ -3583,7 +6720,14 @@
         "loc": "I",
         "title": "Corrupted",
         "key": "corrupted",
-        "level": 75
+        "level": 75,
+        "tags": [
+          "Defences",
+          "Armour"
+        ],
+        "family": [
+          "AddedArmourWhileStationary"
+        ]
       }
     ],
     "# to Global Evasion Rating while moving": [
@@ -3591,7 +6735,14 @@
         "loc": "I",
         "title": "Corrupted",
         "key": "corrupted",
-        "level": 75
+        "level": 75,
+        "tags": [
+          "Defences",
+          "Evasion"
+        ],
+        "family": [
+          "AddedEvasionWhileMovingCorrupted"
+        ]
       }
     ],
     "# to Level of Socketed Gems": [
@@ -3599,7 +6750,13 @@
         "loc": "I",
         "title": "Corrupted",
         "key": "corrupted",
-        "level": 1
+        "level": 1,
+        "tags": [
+          "Gem"
+        ],
+        "family": [
+          "IncreaseSocketedGemLevel"
+        ]
       }
     ],
     "Grants Level # Haste Skill": [
@@ -3607,7 +6764,11 @@
         "loc": "I",
         "title": "Corrupted",
         "key": "corrupted",
-        "level": 56
+        "level": 56,
+        "tags": [],
+        "family": [
+          "GrantedSkill"
+        ]
       }
     ],
     "Regenerate # Life per second while moving": [
@@ -3615,7 +6776,13 @@
         "loc": "I",
         "title": "Corrupted",
         "key": "corrupted",
-        "level": 60
+        "level": 60,
+        "tags": [
+          "Life"
+        ],
+        "family": [
+          "LifeRegenerationWhileMoving"
+        ]
       }
     ],
     "# to Level of Socketed Duration Gems": [
@@ -3623,7 +6790,13 @@
         "loc": "I",
         "title": "Corrupted",
         "key": "corrupted",
-        "level": 20
+        "level": 20,
+        "tags": [
+          "Gem"
+        ],
+        "family": [
+          "IncreaseSocketedDurationGemLevel"
+        ]
       }
     ],
     "# to Level of Socketed AoE Gems": [
@@ -3631,7 +6804,13 @@
         "loc": "I",
         "title": "Corrupted",
         "key": "corrupted",
-        "level": 20
+        "level": 20,
+        "tags": [
+          "Gem"
+        ],
+        "family": [
+          "IncreasedSocketedAoEGemLevel"
+        ]
       }
     ],
     "# to Level of Socketed Aura Gems": [
@@ -3639,7 +6818,14 @@
         "loc": "I",
         "title": "Corrupted",
         "key": "corrupted",
-        "level": 20
+        "level": 20,
+        "tags": [
+          "Aura",
+          "Gem"
+        ],
+        "family": [
+          "IncreaseSocketedAuraGemLevel"
+        ]
       }
     ],
     "# to Level of Socketed Curse Gems": [
@@ -3647,7 +6833,15 @@
         "loc": "I",
         "title": "Corrupted",
         "key": "corrupted",
-        "level": 20
+        "level": 20,
+        "tags": [
+          "Caster",
+          "Gem",
+          "Curse"
+        ],
+        "family": [
+          "IncreaseSocketedCurseGemLevel"
+        ]
       }
     ],
     "# to Level of Socketed Trap or Mine Gems": [
@@ -3655,7 +6849,13 @@
         "loc": "I",
         "title": "Corrupted",
         "key": "corrupted",
-        "level": 20
+        "level": 20,
+        "tags": [
+          "Gem"
+        ],
+        "family": [
+          "IncreasedSocketedTrapOrMineGemLevel"
+        ]
       }
     ],
     "# to Level of Socketed Warcry Gems": [
@@ -3663,7 +6863,13 @@
         "loc": "I",
         "title": "Corrupted",
         "key": "corrupted",
-        "level": 20
+        "level": 20,
+        "tags": [
+          "Gem"
+        ],
+        "family": [
+          "LocalSocketedWarcryGemLevel"
+        ]
       }
     ],
     "# to Level of Socketed Projectile Gems": [
@@ -3671,7 +6877,13 @@
         "loc": "I",
         "title": "Corrupted",
         "key": "corrupted",
-        "level": 20
+        "level": 20,
+        "tags": [
+          "Gem"
+        ],
+        "family": [
+          "IncreaseSocketedProjectileGemLevel"
+        ]
       }
     ],
     "#% increased maximum Energy Shield": [
@@ -3679,7 +6891,14 @@
         "loc": "I",
         "title": "Corrupted",
         "key": "corrupted",
-        "level": 1
+        "level": 1,
+        "tags": [
+          "Defences",
+          "Energy Shield"
+        ],
+        "family": [
+          "MaximumEnergyShieldPercent"
+        ]
       }
     ]
   }

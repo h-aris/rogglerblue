@@ -5,25 +5,51 @@
         "loc": "P",
         "title": "Base",
         "key": "normal",
-        "level": 44
+        "level": 44,
+        "tags": [
+          "Life"
+        ],
+        "family": [
+          "IncreasedLife"
+        ]
       },
       {
         "loc": "P",
         "title": "Veiled",
         "key": "veiled",
-        "level": 60
+        "level": 60,
+        "tags": [
+          "Life",
+          "Mana"
+        ],
+        "family": [
+          "IncreasedLife"
+        ]
       },
       {
         "loc": "P",
         "title": "Incursion",
         "key": "incursion",
-        "level": 50
+        "level": 50,
+        "tags": [
+          "Life"
+        ],
+        "family": [
+          "IncreasedLife"
+        ]
       },
       {
         "loc": "P",
         "title": "Crafting Bench",
         "key": "master",
-        "level": 81
+        "level": 81,
+        "tags": [
+          "Life",
+          "Mana"
+        ],
+        "family": [
+          "IncreasedLife"
+        ]
       }
     ],
     "# to maximum Mana": [
@@ -31,25 +57,50 @@
         "loc": "P",
         "title": "Base",
         "key": "normal",
-        "level": 85
+        "level": 85,
+        "tags": [
+          "Mana"
+        ],
+        "family": [
+          "IncreasedMana"
+        ]
       },
       {
         "loc": "P",
         "title": "Veiled",
         "key": "veiled",
-        "level": 60
+        "level": 60,
+        "tags": [
+          "Mana"
+        ],
+        "family": [
+          "IncreasedMana"
+        ]
       },
       {
         "loc": "P",
         "title": "Incursion",
         "key": "incursion",
-        "level": 50
+        "level": 50,
+        "tags": [
+          "Mana"
+        ],
+        "family": [
+          "IncreasedMana",
+          "IncreaseFlatManaCost"
+        ]
       },
       {
         "loc": "P",
         "title": "Crafting Bench",
         "key": "master",
-        "level": 81
+        "level": 81,
+        "tags": [
+          "Mana"
+        ],
+        "family": [
+          "IncreasedMana"
+        ]
       }
     ],
     "# to maximum Energy Shield": [
@@ -57,25 +108,53 @@
         "loc": "P",
         "title": "Base",
         "key": "normal",
-        "level": 74
+        "level": 74,
+        "tags": [
+          "Defences",
+          "Energy Shield"
+        ],
+        "family": [
+          "IncreasedEnergyShield"
+        ]
       },
       {
         "loc": "P",
         "title": "Essence",
         "key": "essence",
-        "level": 74
+        "level": 74,
+        "tags": [
+          "Defences",
+          "Energy Shield"
+        ],
+        "family": [
+          "IncreasedEnergyShield"
+        ]
       },
       {
         "loc": "P",
         "title": "Incursion",
         "key": "incursion",
-        "level": 50
+        "level": 50,
+        "tags": [
+          "Defences",
+          "Energy Shield"
+        ],
+        "family": [
+          "IncreasedEnergyShield"
+        ]
       },
       {
         "loc": "P",
         "title": "Crafting Bench",
         "key": "master",
-        "level": 68
+        "level": 68,
+        "tags": [
+          "Defences",
+          "Energy Shield"
+        ],
+        "family": [
+          "IncreasedEnergyShield"
+        ]
       }
     ],
     "Adds # to # Physical Damage to Attacks": [
@@ -83,19 +162,43 @@
         "loc": "P",
         "title": "Base",
         "key": "normal",
-        "level": 44
+        "level": 44,
+        "tags": [
+          "Damage",
+          "Physical",
+          "Attack"
+        ],
+        "family": [
+          "PhysicalDamage"
+        ]
       },
       {
         "loc": "P",
         "title": "Essence",
         "key": "essence",
-        "level": 82
+        "level": 82,
+        "tags": [
+          "Damage",
+          "Physical",
+          "Attack"
+        ],
+        "family": [
+          "PhysicalDamage"
+        ]
       },
       {
         "loc": "P",
         "title": "Crafting Bench",
         "key": "master",
-        "level": 40
+        "level": 40,
+        "tags": [
+          "Damage",
+          "Physical",
+          "Attack"
+        ],
+        "family": [
+          "PhysicalDamage"
+        ]
       }
     ],
     "Adds # to # Fire Damage to Attacks": [
@@ -103,19 +206,46 @@
         "loc": "P",
         "title": "Base",
         "key": "normal",
-        "level": 76
+        "level": 76,
+        "tags": [
+          "Damage",
+          "Elemental",
+          "Fire",
+          "Attack"
+        ],
+        "family": [
+          "FireDamage"
+        ]
       },
       {
         "loc": "P",
         "title": "Essence",
         "key": "essence",
-        "level": 82
+        "level": 82,
+        "tags": [
+          "Damage",
+          "Elemental",
+          "Fire",
+          "Attack"
+        ],
+        "family": [
+          "FireDamage"
+        ]
       },
       {
         "loc": "P",
         "title": "Crafting Bench",
         "key": "master",
-        "level": 40
+        "level": 40,
+        "tags": [
+          "Damage",
+          "Elemental",
+          "Fire",
+          "Attack"
+        ],
+        "family": [
+          "FireDamage"
+        ]
       }
     ],
     "Adds # to # Cold Damage to Attacks": [
@@ -123,19 +253,46 @@
         "loc": "P",
         "title": "Base",
         "key": "normal",
-        "level": 77
+        "level": 77,
+        "tags": [
+          "Damage",
+          "Elemental",
+          "Cold",
+          "Attack"
+        ],
+        "family": [
+          "ColdDamage"
+        ]
       },
       {
         "loc": "P",
         "title": "Essence",
         "key": "essence",
-        "level": 82
+        "level": 82,
+        "tags": [
+          "Damage",
+          "Elemental",
+          "Cold",
+          "Attack"
+        ],
+        "family": [
+          "ColdDamage"
+        ]
       },
       {
         "loc": "P",
         "title": "Crafting Bench",
         "key": "master",
-        "level": 40
+        "level": 40,
+        "tags": [
+          "Damage",
+          "Elemental",
+          "Cold",
+          "Attack"
+        ],
+        "family": [
+          "ColdDamage"
+        ]
       }
     ],
     "Adds # to # Lightning Damage to Attacks": [
@@ -143,19 +300,46 @@
         "loc": "P",
         "title": "Base",
         "key": "normal",
-        "level": 76
+        "level": 76,
+        "tags": [
+          "Damage",
+          "Elemental",
+          "Lightning",
+          "Attack"
+        ],
+        "family": [
+          "LightningDamage"
+        ]
       },
       {
         "loc": "P",
         "title": "Essence",
         "key": "essence",
-        "level": 82
+        "level": 82,
+        "tags": [
+          "Damage",
+          "Elemental",
+          "Lightning",
+          "Attack"
+        ],
+        "family": [
+          "LightningDamage"
+        ]
       },
       {
         "loc": "P",
         "title": "Crafting Bench",
         "key": "master",
-        "level": 40
+        "level": 40,
+        "tags": [
+          "Damage",
+          "Elemental",
+          "Lightning",
+          "Attack"
+        ],
+        "family": [
+          "LightningDamage"
+        ]
       }
     ],
     "# to Evasion Rating": [
@@ -163,13 +347,27 @@
         "loc": "P",
         "title": "Base",
         "key": "normal",
-        "level": 84
+        "level": 84,
+        "tags": [
+          "Defences",
+          "Evasion"
+        ],
+        "family": [
+          "IncreasedEvasionRating"
+        ]
       },
       {
         "loc": "P",
         "title": "Essence",
         "key": "essence",
-        "level": 82
+        "level": 82,
+        "tags": [
+          "Defences",
+          "Evasion"
+        ],
+        "family": [
+          "IncreasedEvasionRating"
+        ]
       }
     ],
     "#% increased Elemental Damage with Attack Skills": [
@@ -177,19 +375,43 @@
         "loc": "P",
         "title": "Base",
         "key": "normal",
-        "level": 81
+        "level": 81,
+        "tags": [
+          "Damage",
+          "Elemental",
+          "Attack"
+        ],
+        "family": [
+          "IncreasedWeaponElementalDamagePercent"
+        ]
       },
       {
         "loc": "P",
         "title": "Crafting Bench",
         "key": "master",
-        "level": 30
+        "level": 30,
+        "tags": [
+          "Damage",
+          "Elemental",
+          "Attack"
+        ],
+        "family": [
+          "IncreasedWeaponElementalDamagePercent"
+        ]
       },
       {
         "loc": "I",
         "title": "Synthesis",
         "key": "synthesis",
-        "level": 56
+        "level": 56,
+        "tags": [
+          "Damage",
+          "Elemental",
+          "Attack"
+        ],
+        "family": [
+          "IncreasedWeaponElementalDamagePercent"
+        ]
       }
     ],
     "#% increased Rarity of Items found": [
@@ -197,25 +419,51 @@
         "loc": "P",
         "title": "Base",
         "key": "normal",
-        "level": 84
+        "level": 84,
+        "tags": [
+          "Drop"
+        ],
+        "family": [
+          "ItemFoundRarityIncreasePrefix",
+          "ItemFoundRarityIncrease"
+        ]
       },
       {
         "loc": "S",
         "title": "Base",
         "key": "normal",
-        "level": 84
+        "level": 84,
+        "tags": [
+          "Drop"
+        ],
+        "family": [
+          "ItemFoundRarityIncreasePrefix",
+          "ItemFoundRarityIncrease"
+        ]
       },
       {
         "loc": "I",
         "title": "Synthesis",
         "key": "synthesis",
-        "level": 24
+        "level": 24,
+        "tags": [
+          "Drop"
+        ],
+        "family": [
+          "ItemFoundRarityIncrease"
+        ]
       },
       {
         "loc": "I",
         "title": "Corrupted",
         "key": "corrupted",
-        "level": 60
+        "level": 60,
+        "tags": [
+          "Drop"
+        ],
+        "family": [
+          "IncreasedItemRarity"
+        ]
       }
     ],
     "# to Strength": [
@@ -223,25 +471,49 @@
         "loc": "S",
         "title": "Base",
         "key": "normal",
-        "level": 82
+        "level": 82,
+        "tags": [
+          "Attribute"
+        ],
+        "family": [
+          "Strength"
+        ]
       },
       {
         "loc": "S",
         "title": "Essence",
         "key": "essence",
-        "level": 82
+        "level": 82,
+        "tags": [
+          "Attribute"
+        ],
+        "family": [
+          "Strength"
+        ]
       },
       {
         "loc": "S",
         "title": "Crafting Bench",
         "key": "master",
-        "level": 40
+        "level": 40,
+        "tags": [
+          "Attribute"
+        ],
+        "family": [
+          "Strength"
+        ]
       },
       {
         "loc": "I",
         "title": "Synthesis",
         "key": "synthesis",
-        "level": 24
+        "level": 24,
+        "tags": [
+          "Attribute"
+        ],
+        "family": [
+          "Strength"
+        ]
       }
     ],
     "# to Dexterity": [
@@ -249,25 +521,49 @@
         "loc": "S",
         "title": "Base",
         "key": "normal",
-        "level": 82
+        "level": 82,
+        "tags": [
+          "Attribute"
+        ],
+        "family": [
+          "Dexterity"
+        ]
       },
       {
         "loc": "S",
         "title": "Essence",
         "key": "essence",
-        "level": 82
+        "level": 82,
+        "tags": [
+          "Attribute"
+        ],
+        "family": [
+          "Dexterity"
+        ]
       },
       {
         "loc": "S",
         "title": "Crafting Bench",
         "key": "master",
-        "level": 40
+        "level": 40,
+        "tags": [
+          "Attribute"
+        ],
+        "family": [
+          "Dexterity"
+        ]
       },
       {
         "loc": "I",
         "title": "Synthesis",
         "key": "synthesis",
-        "level": 24
+        "level": 24,
+        "tags": [
+          "Attribute"
+        ],
+        "family": [
+          "Dexterity"
+        ]
       }
     ],
     "# to Intelligence": [
@@ -275,25 +571,49 @@
         "loc": "S",
         "title": "Base",
         "key": "normal",
-        "level": 82
+        "level": 82,
+        "tags": [
+          "Attribute"
+        ],
+        "family": [
+          "Intelligence"
+        ]
       },
       {
         "loc": "S",
         "title": "Essence",
         "key": "essence",
-        "level": 82
+        "level": 82,
+        "tags": [
+          "Attribute"
+        ],
+        "family": [
+          "Intelligence"
+        ]
       },
       {
         "loc": "S",
         "title": "Crafting Bench",
         "key": "master",
-        "level": 40
+        "level": 40,
+        "tags": [
+          "Attribute"
+        ],
+        "family": [
+          "Intelligence"
+        ]
       },
       {
         "loc": "I",
         "title": "Synthesis",
         "key": "synthesis",
-        "level": 24
+        "level": 24,
+        "tags": [
+          "Attribute"
+        ],
+        "family": [
+          "Intelligence"
+        ]
       }
     ],
     "# to all Attributes": [
@@ -301,19 +621,37 @@
         "loc": "S",
         "title": "Base",
         "key": "normal",
-        "level": 33
+        "level": 33,
+        "tags": [
+          "Attribute"
+        ],
+        "family": [
+          "AllAttributes"
+        ]
       },
       {
         "loc": "S",
         "title": "Crafting Bench",
         "key": "master",
-        "level": 50
+        "level": 50,
+        "tags": [
+          "Attribute"
+        ],
+        "family": [
+          "AllAttributes"
+        ]
       },
       {
         "loc": "I",
         "title": "Synthesis",
         "key": "synthesis",
-        "level": 24
+        "level": 24,
+        "tags": [
+          "Attribute"
+        ],
+        "family": [
+          "AllAttributes"
+        ]
       }
     ],
     "#% of Physical Attack Damage Leeched as Life": [
@@ -321,13 +659,29 @@
         "loc": "S",
         "title": "Base",
         "key": "normal",
-        "level": 50
+        "level": 50,
+        "tags": [
+          "Life",
+          "Physical",
+          "Attack"
+        ],
+        "family": [
+          "LifeLeech"
+        ]
       },
       {
         "loc": "S",
         "title": "Crafting Bench",
         "key": "master",
-        "level": 30
+        "level": 30,
+        "tags": [
+          "Life",
+          "Physical",
+          "Attack"
+        ],
+        "family": [
+          "LifeLeech"
+        ]
       }
     ],
     "#% of Physical Attack Damage Leeched as Mana": [
@@ -335,7 +689,15 @@
         "loc": "S",
         "title": "Base",
         "key": "normal",
-        "level": 50
+        "level": 50,
+        "tags": [
+          "Mana",
+          "Physical",
+          "Attack"
+        ],
+        "family": [
+          "ManaLeech"
+        ]
       }
     ],
     "#% increased Cast Speed": [
@@ -343,25 +705,53 @@
         "loc": "S",
         "title": "Base",
         "key": "normal",
-        "level": 30
+        "level": 30,
+        "tags": [
+          "Caster",
+          "Speed"
+        ],
+        "family": [
+          "IncreasedCastSpeed"
+        ]
       },
       {
         "loc": "S",
         "title": "Essence",
         "key": "essence",
-        "level": 40
+        "level": 40,
+        "tags": [
+          "Caster",
+          "Speed"
+        ],
+        "family": [
+          "IncreasedCastSpeed"
+        ]
       },
       {
         "loc": "I",
         "title": "Synthesis",
         "key": "synthesis",
-        "level": 24
+        "level": 24,
+        "tags": [
+          "Caster",
+          "Speed"
+        ],
+        "family": [
+          "IncreasedCastSpeed"
+        ]
       },
       {
         "loc": "I",
         "title": "Corrupted",
         "key": "corrupted",
-        "level": 1
+        "level": 1,
+        "tags": [
+          "Caster",
+          "Speed"
+        ],
+        "family": [
+          "IncreasedCastSpeed"
+        ]
       }
     ],
     "#% increased Attack Speed": [
@@ -369,25 +759,53 @@
         "loc": "S",
         "title": "Base",
         "key": "normal",
-        "level": 1
+        "level": 1,
+        "tags": [
+          "Attack",
+          "Speed"
+        ],
+        "family": [
+          "IncreasedAttackSpeed"
+        ]
       },
       {
         "loc": "S",
         "title": "Crafting Bench",
         "key": "master",
-        "level": 30
+        "level": 30,
+        "tags": [
+          "Attack",
+          "Speed"
+        ],
+        "family": [
+          "IncreasedAttackSpeed"
+        ]
       },
       {
         "loc": "I",
         "title": "Synthesis",
         "key": "synthesis",
-        "level": 24
+        "level": 24,
+        "tags": [
+          "Attack",
+          "Speed"
+        ],
+        "family": [
+          "IncreasedAttackSpeed"
+        ]
       },
       {
         "loc": "I",
         "title": "Corrupted",
         "key": "corrupted",
-        "level": 1
+        "level": 1,
+        "tags": [
+          "Attack",
+          "Speed"
+        ],
+        "family": [
+          "IncreasedAttackSpeed"
+        ]
       }
     ],
     "# to Accuracy Rating": [
@@ -395,19 +813,37 @@
         "loc": "S",
         "title": "Base",
         "key": "normal",
-        "level": 75
+        "level": 75,
+        "tags": [
+          "Attack"
+        ],
+        "family": [
+          "IncreasedAccuracy"
+        ]
       },
       {
         "loc": "S",
         "title": "Crafting Bench",
         "key": "master",
-        "level": 68
+        "level": 68,
+        "tags": [
+          "Attack"
+        ],
+        "family": [
+          "IncreasedAccuracy"
+        ]
       },
       {
         "loc": "I",
         "title": "Synthesis",
         "key": "synthesis",
-        "level": 48
+        "level": 48,
+        "tags": [
+          "Attack"
+        ],
+        "family": [
+          "IncreasedAccuracy"
+        ]
       }
     ],
     "Regenerate # Life per second": [
@@ -415,37 +851,75 @@
         "loc": "S",
         "title": "Base",
         "key": "normal",
-        "level": 68
+        "level": 68,
+        "tags": [
+          "Life"
+        ],
+        "family": [
+          "LifeRegeneration"
+        ]
       },
       {
         "loc": "S",
         "title": "Essence",
         "key": "essence",
-        "level": 68
+        "level": 68,
+        "tags": [
+          "Life"
+        ],
+        "family": [
+          "LifeRegeneration"
+        ]
       },
       {
         "loc": "P",
         "title": "Veiled",
         "key": "veiled",
-        "level": 60
+        "level": 60,
+        "tags": [
+          "Life",
+          "Mana"
+        ],
+        "family": [
+          "IncreasedMana"
+        ]
       },
       {
         "loc": "S",
         "title": "Incursion",
         "key": "incursion",
-        "level": 50
+        "level": 50,
+        "tags": [
+          "Life"
+        ],
+        "family": [
+          "LifeRegeneration"
+        ]
       },
       {
         "loc": "P",
         "title": "Crafting Bench",
         "key": "master",
-        "level": 81
+        "level": 81,
+        "tags": [
+          "Life",
+          "Mana"
+        ],
+        "family": [
+          "IncreasedMana"
+        ]
       },
       {
         "loc": "I",
         "title": "Synthesis",
         "key": "synthesis",
-        "level": 48
+        "level": 48,
+        "tags": [
+          "Life"
+        ],
+        "family": [
+          "LifeRegeneration"
+        ]
       }
     ],
     "#% increased Mana Regeneration Rate": [
@@ -453,25 +927,49 @@
         "loc": "S",
         "title": "Base",
         "key": "normal",
-        "level": 79
+        "level": 79,
+        "tags": [
+          "Mana"
+        ],
+        "family": [
+          "ManaRegeneration"
+        ]
       },
       {
         "loc": "S",
         "title": "Essence",
         "key": "essence",
-        "level": 82
+        "level": 82,
+        "tags": [
+          "Mana"
+        ],
+        "family": [
+          "ManaRegeneration"
+        ]
       },
       {
         "loc": "S",
         "title": "Crafting Bench",
         "key": "master",
-        "level": 50
+        "level": 50,
+        "tags": [
+          "Mana"
+        ],
+        "family": [
+          "ManaRegeneration"
+        ]
       },
       {
         "loc": "I",
         "title": "Synthesis",
         "key": "synthesis",
-        "level": 48
+        "level": 48,
+        "tags": [
+          "Mana"
+        ],
+        "family": [
+          "ManaRegeneration"
+        ]
       }
     ],
     "#% to Fire Resistance": [
@@ -479,19 +977,43 @@
         "loc": "S",
         "title": "Base",
         "key": "normal",
-        "level": 84
+        "level": 84,
+        "tags": [
+          "Elemental",
+          "Fire",
+          "Resistance"
+        ],
+        "family": [
+          "FireResistance"
+        ]
       },
       {
         "loc": "S",
         "title": "Crafting Bench",
         "key": "master",
-        "level": 30
+        "level": 30,
+        "tags": [
+          "Elemental",
+          "Fire",
+          "Resistance"
+        ],
+        "family": [
+          "FireResistance"
+        ]
       },
       {
         "loc": "I",
         "title": "Synthesis",
         "key": "synthesis",
-        "level": 24
+        "level": 24,
+        "tags": [
+          "Elemental",
+          "Fire",
+          "Resistance"
+        ],
+        "family": [
+          "FireResistance"
+        ]
       }
     ],
     "#% to Cold Resistance": [
@@ -499,19 +1021,43 @@
         "loc": "S",
         "title": "Base",
         "key": "normal",
-        "level": 84
+        "level": 84,
+        "tags": [
+          "Elemental",
+          "Cold",
+          "Resistance"
+        ],
+        "family": [
+          "ColdResistance"
+        ]
       },
       {
         "loc": "S",
         "title": "Crafting Bench",
         "key": "master",
-        "level": 30
+        "level": 30,
+        "tags": [
+          "Elemental",
+          "Cold",
+          "Resistance"
+        ],
+        "family": [
+          "ColdResistance"
+        ]
       },
       {
         "loc": "I",
         "title": "Synthesis",
         "key": "synthesis",
-        "level": 24
+        "level": 24,
+        "tags": [
+          "Elemental",
+          "Cold",
+          "Resistance"
+        ],
+        "family": [
+          "ColdResistance"
+        ]
       }
     ],
     "#% to Lightning Resistance": [
@@ -519,19 +1065,43 @@
         "loc": "S",
         "title": "Base",
         "key": "normal",
-        "level": 84
+        "level": 84,
+        "tags": [
+          "Elemental",
+          "Lightning",
+          "Resistance"
+        ],
+        "family": [
+          "LightningResistance"
+        ]
       },
       {
         "loc": "S",
         "title": "Crafting Bench",
         "key": "master",
-        "level": 30
+        "level": 30,
+        "tags": [
+          "Elemental",
+          "Lightning",
+          "Resistance"
+        ],
+        "family": [
+          "LightningResistance"
+        ]
       },
       {
         "loc": "I",
         "title": "Synthesis",
         "key": "synthesis",
-        "level": 24
+        "level": 24,
+        "tags": [
+          "Elemental",
+          "Lightning",
+          "Resistance"
+        ],
+        "family": [
+          "LightningResistance"
+        ]
       }
     ],
     "#% to Chaos Resistance": [
@@ -539,13 +1109,27 @@
         "loc": "S",
         "title": "Base",
         "key": "normal",
-        "level": 81
+        "level": 81,
+        "tags": [
+          "Chaos",
+          "Resistance"
+        ],
+        "family": [
+          "ChaosResistance"
+        ]
       },
       {
         "loc": "I",
         "title": "Synthesis",
         "key": "synthesis",
-        "level": 15
+        "level": 15,
+        "tags": [
+          "Chaos",
+          "Resistance"
+        ],
+        "family": [
+          "ChaosResistance"
+        ]
       }
     ],
     "#% to all Elemental Resistances": [
@@ -553,19 +1137,40 @@
         "loc": "S",
         "title": "Base",
         "key": "normal",
-        "level": 60
+        "level": 60,
+        "tags": [
+          "Elemental",
+          "Resistance"
+        ],
+        "family": [
+          "AllResistances"
+        ]
       },
       {
         "loc": "S",
         "title": "Crafting Bench",
         "key": "master",
-        "level": 60
+        "level": 60,
+        "tags": [
+          "Elemental",
+          "Resistance"
+        ],
+        "family": [
+          "AllResistances"
+        ]
       },
       {
         "loc": "I",
         "title": "Corrupted",
         "key": "corrupted",
-        "level": 1
+        "level": 1,
+        "tags": [
+          "Elemental",
+          "Resistance"
+        ],
+        "family": [
+          "AllResistancesCorrupted"
+        ]
       }
     ],
     "Gain # Life per Enemy Hit with Attacks": [
@@ -573,25 +1178,53 @@
         "loc": "S",
         "title": "Base",
         "key": "normal",
-        "level": 8
+        "level": 8,
+        "tags": [
+          "Life",
+          "Attack"
+        ],
+        "family": [
+          "LifeGainPerTarget"
+        ]
       },
       {
         "loc": "P",
         "title": "Elder",
         "key": "elder",
-        "level": 75
+        "level": 75,
+        "tags": [
+          "Life",
+          "Attack"
+        ],
+        "family": [
+          "LifeGainPerTarget"
+        ]
       },
       {
         "loc": "P",
         "title": "Hunter",
         "key": "hunter",
-        "level": 75
+        "level": 75,
+        "tags": [
+          "Life",
+          "Attack"
+        ],
+        "family": [
+          "LifeGainPerTarget"
+        ]
       },
       {
         "loc": "I",
         "title": "Synthesis",
         "key": "synthesis",
-        "level": 24
+        "level": 24,
+        "tags": [
+          "Life",
+          "Attack"
+        ],
+        "family": [
+          "LifeGainPerTarget"
+        ]
       }
     ],
     "#% increased Fire Damage": [
@@ -599,25 +1232,58 @@
         "loc": "S",
         "title": "Base",
         "key": "normal",
-        "level": 50
+        "level": 50,
+        "tags": [
+          "Damage",
+          "Elemental",
+          "Fire"
+        ],
+        "family": [
+          "FireDamagePercentage"
+        ]
       },
       {
         "loc": "S",
         "title": "Essence",
         "key": "essence",
-        "level": 82
+        "level": 82,
+        "tags": [
+          "Damage",
+          "Elemental",
+          "Fire"
+        ],
+        "family": [
+          "FireDamagePercentage"
+        ]
       },
       {
         "loc": "S",
         "title": "Crafting Bench",
         "key": "master",
-        "level": 81
+        "level": 81,
+        "tags": [
+          "Damage",
+          "Elemental",
+          "Fire",
+          "Lightning"
+        ],
+        "family": [
+          "IncreasedFireAndLightningDamage"
+        ]
       },
       {
         "loc": "I",
         "title": "Synthesis",
         "key": "synthesis",
-        "level": 48
+        "level": 48,
+        "tags": [
+          "Damage",
+          "Elemental",
+          "Fire"
+        ],
+        "family": [
+          "FireDamagePercentage"
+        ]
       }
     ],
     "#% increased Cold Damage": [
@@ -625,25 +1291,57 @@
         "loc": "S",
         "title": "Base",
         "key": "normal",
-        "level": 50
+        "level": 50,
+        "tags": [
+          "Damage",
+          "Elemental",
+          "Cold"
+        ],
+        "family": [
+          "ColdDamagePercentage"
+        ]
       },
       {
         "loc": "S",
         "title": "Essence",
         "key": "essence",
-        "level": 82
+        "level": 82,
+        "tags": [
+          "Damage",
+          "Elemental",
+          "Cold"
+        ],
+        "family": [
+          "ColdDamagePercentage"
+        ]
       },
       {
         "loc": "S",
         "title": "Crafting Bench",
         "key": "master",
-        "level": 40
+        "level": 40,
+        "tags": [
+          "Damage",
+          "Elemental",
+          "Cold"
+        ],
+        "family": [
+          "ColdDamagePercentage"
+        ]
       },
       {
         "loc": "I",
         "title": "Synthesis",
         "key": "synthesis",
-        "level": 48
+        "level": 48,
+        "tags": [
+          "Damage",
+          "Elemental",
+          "Cold"
+        ],
+        "family": [
+          "ColdDamagePercentage"
+        ]
       }
     ],
     "#% increased Lightning Damage": [
@@ -651,25 +1349,58 @@
         "loc": "S",
         "title": "Base",
         "key": "normal",
-        "level": 50
+        "level": 50,
+        "tags": [
+          "Damage",
+          "Elemental",
+          "Lightning"
+        ],
+        "family": [
+          "LightningDamagePercentage"
+        ]
       },
       {
         "loc": "S",
         "title": "Essence",
         "key": "essence",
-        "level": 82
+        "level": 82,
+        "tags": [
+          "Damage",
+          "Elemental",
+          "Lightning"
+        ],
+        "family": [
+          "LightningDamagePercentage"
+        ]
       },
       {
         "loc": "S",
         "title": "Crafting Bench",
         "key": "master",
-        "level": 81
+        "level": 81,
+        "tags": [
+          "Damage",
+          "Elemental",
+          "Fire",
+          "Lightning"
+        ],
+        "family": [
+          "IncreasedFireAndLightningDamage"
+        ]
       },
       {
         "loc": "I",
         "title": "Synthesis",
         "key": "synthesis",
-        "level": 48
+        "level": 48,
+        "tags": [
+          "Damage",
+          "Elemental",
+          "Lightning"
+        ],
+        "family": [
+          "LightningDamagePercentage"
+        ]
       }
     ],
     "Gain # Life per Enemy Killed": [
@@ -677,13 +1408,25 @@
         "loc": "S",
         "title": "Base",
         "key": "normal",
-        "level": 81
+        "level": 81,
+        "tags": [
+          "Life"
+        ],
+        "family": [
+          "LifeGainedFromEnemyDeath"
+        ]
       },
       {
         "loc": "I",
         "title": "Synthesis",
         "key": "synthesis",
-        "level": 24
+        "level": 24,
+        "tags": [
+          "Life"
+        ],
+        "family": [
+          "LifeGainedFromEnemyDeath"
+        ]
       }
     ],
     "Gain # Mana per Enemy Killed": [
@@ -691,13 +1434,25 @@
         "loc": "S",
         "title": "Base",
         "key": "normal",
-        "level": 81
+        "level": 81,
+        "tags": [
+          "Mana"
+        ],
+        "family": [
+          "ManaGainedFromEnemyDeath"
+        ]
       },
       {
         "loc": "I",
         "title": "Synthesis",
         "key": "synthesis",
-        "level": 24
+        "level": 24,
+        "tags": [
+          "Mana"
+        ],
+        "family": [
+          "ManaGainedFromEnemyDeath"
+        ]
       }
     ],
     "#% increased Global Accuracy Rating": [
@@ -705,25 +1460,49 @@
         "loc": "S",
         "title": "Base",
         "key": "normal",
-        "level": 30
+        "level": 30,
+        "tags": [
+          "Attack"
+        ],
+        "family": [
+          "LightRadiusAndAccuracy"
+        ]
       },
       {
         "loc": "S",
         "title": "Elder",
         "key": "elder",
-        "level": 82
+        "level": 82,
+        "tags": [
+          "Attack"
+        ],
+        "family": [
+          "IncreasedAccuracyPercent"
+        ]
       },
       {
         "loc": "S",
         "title": "Redeemer",
         "key": "redeemer",
-        "level": 80
+        "level": 80,
+        "tags": [
+          "Attack"
+        ],
+        "family": [
+          "IncreasedAccuracyPercent"
+        ]
       },
       {
         "loc": "I",
         "title": "Synthesis",
         "key": "synthesis",
-        "level": 48
+        "level": 48,
+        "tags": [
+          "Attack"
+        ],
+        "family": [
+          "IncreasedAccuracyPercent"
+        ]
       }
     ],
     "#% increased Light Radius": [
@@ -731,13 +1510,23 @@
         "loc": "S",
         "title": "Base",
         "key": "normal",
-        "level": 30
+        "level": 30,
+        "tags": [
+          "Attack"
+        ],
+        "family": [
+          "LightRadiusAndAccuracy"
+        ]
       },
       {
         "loc": "I",
         "title": "Synthesis",
         "key": "synthesis",
-        "level": 24
+        "level": 24,
+        "tags": [],
+        "family": [
+          "LightRadius"
+        ]
       }
     ],
     "#% of Damage taken Recouped as Life": [
@@ -745,7 +1534,13 @@
         "loc": "S",
         "title": "Base",
         "key": "normal",
-        "level": 79
+        "level": 79,
+        "tags": [
+          "Life"
+        ],
+        "family": [
+          "DamageTakenGainedAsLife"
+        ]
       }
     ],
     "# to Armour": [
@@ -753,7 +1548,14 @@
         "loc": "P",
         "title": "Essence",
         "key": "essence",
-        "level": 82
+        "level": 82,
+        "tags": [
+          "Defences",
+          "Armour"
+        ],
+        "family": [
+          "IncreasedPhysicalDamageReductionRating"
+        ]
       }
     ],
     "Gain #% of Physical Damage as Extra Fire Damage": [
@@ -761,13 +1563,31 @@
         "loc": "P",
         "title": "Essence",
         "key": "essence",
-        "level": 63
+        "level": 63,
+        "tags": [
+          "Damage",
+          "Physical",
+          "Elemental",
+          "Fire"
+        ],
+        "family": [
+          "FireDamageAsPortionOfDamage"
+        ]
       },
       {
         "loc": "I",
         "title": "Synthesis",
         "key": "synthesis",
-        "level": 45
+        "level": 45,
+        "tags": [
+          "Damage",
+          "Physical",
+          "Elemental",
+          "Fire"
+        ],
+        "family": [
+          "PhysicalAddedAsFire"
+        ]
       }
     ],
     "# to # Added Cold Damage per Frenzy Charge": [
@@ -775,19 +1595,43 @@
         "loc": "P",
         "title": "Essence",
         "key": "essence",
-        "level": 63
+        "level": 63,
+        "tags": [
+          "Damage",
+          "Elemental",
+          "Cold"
+        ],
+        "family": [
+          "AddedColdDamagePerFrenzyCharge"
+        ]
       },
       {
         "loc": "P",
         "title": "Redeemer",
         "key": "redeemer",
-        "level": 80
+        "level": 80,
+        "tags": [
+          "Damage",
+          "Elemental",
+          "Cold"
+        ],
+        "family": [
+          "AddedColdDamagePerFrenzyCharge"
+        ]
       },
       {
         "loc": "I",
         "title": "Synthesis",
         "key": "synthesis",
-        "level": 55
+        "level": 55,
+        "tags": [
+          "Damage",
+          "Elemental",
+          "Cold"
+        ],
+        "family": [
+          "AddedColdDamagePerFrenzyCharge"
+        ]
       }
     ],
     "Left ring slot: Skills supported by Unleash have # to maximum number of Seals": [
@@ -795,7 +1639,11 @@
         "loc": "P",
         "title": "Essence",
         "key": "essence",
-        "level": 63
+        "level": 63,
+        "tags": [],
+        "family": [
+          "ShockwaveUnleashCount"
+        ]
       }
     ],
     "Right ring slot: Shockwave has # to Cooldown Uses": [
@@ -803,7 +1651,11 @@
         "loc": "P",
         "title": "Essence",
         "key": "essence",
-        "level": 63
+        "level": 63,
+        "tags": [],
+        "family": [
+          "ShockwaveUnleashCount"
+        ]
       }
     ],
     "Minions have #% increased Movement Speed": [
@@ -811,25 +1663,53 @@
         "loc": "S",
         "title": "Essence",
         "key": "essence",
-        "level": 82
+        "level": 82,
+        "tags": [
+          "Speed",
+          "Minion"
+        ],
+        "family": [
+          "MinionMovementSpeed"
+        ]
       },
       {
         "loc": "S",
         "title": "Delve",
         "key": "delve",
-        "level": 74
+        "level": 74,
+        "tags": [
+          "Speed",
+          "Minion"
+        ],
+        "family": [
+          "MinionMovementSpeed"
+        ]
       },
       {
         "loc": "S",
         "title": "Crafting Bench",
         "key": "master",
-        "level": 60
+        "level": 60,
+        "tags": [
+          "Speed",
+          "Minion"
+        ],
+        "family": [
+          "MinionMovementSpeed"
+        ]
       },
       {
         "loc": "I",
         "title": "Synthesis",
         "key": "synthesis",
-        "level": 48
+        "level": 48,
+        "tags": [
+          "Speed",
+          "Minion"
+        ],
+        "family": [
+          "MinionMovementSpeed"
+        ]
       }
     ],
     "#% increased Global Critical Strike Chance": [
@@ -837,31 +1717,62 @@
         "loc": "S",
         "title": "Essence",
         "key": "essence",
-        "level": 82
+        "level": 82,
+        "tags": [
+          "Critical"
+        ],
+        "family": [
+          "CriticalStrikeChanceIncrease"
+        ]
       },
       {
         "loc": "S",
         "title": "Crafting Bench",
         "key": "master",
-        "level": 81
+        "level": 81,
+        "tags": [
+          "Damage",
+          "Critical"
+        ],
+        "family": [
+          "CriticalStrikeChanceIncrease"
+        ]
       },
       {
         "loc": "S",
         "title": "Shaper",
         "key": "shaper",
-        "level": 80
+        "level": 80,
+        "tags": [
+          "Critical"
+        ],
+        "family": [
+          "CriticalStrikeChanceIncrease"
+        ]
       },
       {
         "loc": "S",
         "title": "Crusader",
         "key": "crusader",
-        "level": 80
+        "level": 80,
+        "tags": [
+          "Critical"
+        ],
+        "family": [
+          "CriticalStrikeChanceIncrease"
+        ]
       },
       {
         "loc": "I",
         "title": "Synthesis",
         "key": "synthesis",
-        "level": 24
+        "level": 24,
+        "tags": [
+          "Critical"
+        ],
+        "family": [
+          "CriticalStrikeChanceIncrease"
+        ]
       }
     ],
     "#% to Global Critical Strike Multiplier": [
@@ -869,25 +1780,53 @@
         "loc": "S",
         "title": "Essence",
         "key": "essence",
-        "level": 82
+        "level": 82,
+        "tags": [
+          "Damage",
+          "Critical"
+        ],
+        "family": [
+          "CriticalStrikeMultiplier"
+        ]
       },
       {
         "loc": "S",
         "title": "Elder",
         "key": "elder",
-        "level": 80
+        "level": 80,
+        "tags": [
+          "Damage",
+          "Critical"
+        ],
+        "family": [
+          "CriticalStrikeMultiplier"
+        ]
       },
       {
         "loc": "S",
         "title": "Warlord",
         "key": "warlord",
-        "level": 80
+        "level": 80,
+        "tags": [
+          "Damage",
+          "Critical"
+        ],
+        "family": [
+          "CriticalStrikeMultiplier"
+        ]
       },
       {
         "loc": "I",
         "title": "Synthesis",
         "key": "synthesis",
-        "level": 48
+        "level": 48,
+        "tags": [
+          "Damage",
+          "Critical"
+        ],
+        "family": [
+          "CriticalStrikeMultiplier"
+        ]
       }
     ],
     "#% increased Chaos Damage": [
@@ -895,19 +1834,41 @@
         "loc": "S",
         "title": "Essence",
         "key": "essence",
-        "level": 82
+        "level": 82,
+        "tags": [
+          "Damage",
+          "Chaos"
+        ],
+        "family": [
+          "IncreasedChaosDamage"
+        ]
       },
       {
         "loc": "S",
         "title": "Crafting Bench",
         "key": "master",
-        "level": 81
+        "level": 81,
+        "tags": [
+          "Damage",
+          "Physical",
+          "Chaos"
+        ],
+        "family": [
+          "IncreasedChaosAndPhysicalDamage"
+        ]
       },
       {
         "loc": "I",
         "title": "Synthesis",
         "key": "synthesis",
-        "level": 48
+        "level": 48,
+        "tags": [
+          "Damage",
+          "Chaos"
+        ],
+        "family": [
+          "IncreasedChaosDamage"
+        ]
       }
     ],
     "#% of Hit Damage from you and your Minions cannot be Reflected": [
@@ -915,7 +1876,11 @@
         "loc": "S",
         "title": "Essence",
         "key": "essence",
-        "level": 63
+        "level": 63,
+        "tags": [],
+        "family": [
+          "ReflectedDamage"
+        ]
       }
     ],
     "#% to Damage over Time Multiplier": [
@@ -923,7 +1888,13 @@
         "loc": "S",
         "title": "Essence",
         "key": "essence",
-        "level": 63
+        "level": 63,
+        "tags": [
+          "Damage"
+        ],
+        "family": [
+          "GlobalDamageOverTimeMultiplier"
+        ]
       }
     ],
     "Regenerate # Mana per second": [
@@ -931,31 +1902,61 @@
         "loc": "P",
         "title": "Veiled",
         "key": "veiled",
-        "level": 60
+        "level": 60,
+        "tags": [
+          "Mana"
+        ],
+        "family": [
+          "IncreasedMana"
+        ]
       },
       {
         "loc": "S",
         "title": "Delve",
         "key": "delve",
-        "level": 60
+        "level": 60,
+        "tags": [
+          "Mana"
+        ],
+        "family": [
+          "ManaRegeneration"
+        ]
       },
       {
         "loc": "P",
         "title": "Incursion",
         "key": "incursion",
-        "level": 50
+        "level": 50,
+        "tags": [
+          "Mana"
+        ],
+        "family": [
+          "IncreasedMana"
+        ]
       },
       {
         "loc": "P",
         "title": "Crafting Bench",
         "key": "master",
-        "level": 81
+        "level": 81,
+        "tags": [
+          "Mana"
+        ],
+        "family": [
+          "IncreasedMana"
+        ]
       },
       {
         "loc": "I",
         "title": "Synthesis",
         "key": "synthesis",
-        "level": 24
+        "level": 24,
+        "tags": [
+          "Mana"
+        ],
+        "family": [
+          "ManaRegeneration"
+        ]
       }
     ],
     "#% reduced Mana Cost of Skills": [
@@ -963,25 +1964,49 @@
         "loc": "P",
         "title": "Veiled",
         "key": "veiled",
-        "level": 60
+        "level": 60,
+        "tags": [
+          "Mana"
+        ],
+        "family": [
+          "IncreasedMana"
+        ]
       },
       {
         "loc": "S",
         "title": "Delve",
         "key": "delve",
-        "level": 1
+        "level": 1,
+        "tags": [
+          "Mana"
+        ],
+        "family": [
+          "ManaCostReduction"
+        ]
       },
       {
         "loc": "P",
         "title": "Crafting Bench",
         "key": "master",
-        "level": 81
+        "level": 81,
+        "tags": [
+          "Mana"
+        ],
+        "family": [
+          "IncreasedMana"
+        ]
       },
       {
         "loc": "I",
         "title": "Synthesis",
         "key": "synthesis",
-        "level": 24
+        "level": 24,
+        "tags": [
+          "Mana"
+        ],
+        "family": [
+          "ManaCostReduction"
+        ]
       }
     ],
     "#% of Damage taken Recouped as Mana": [
@@ -989,13 +2014,25 @@
         "loc": "P",
         "title": "Veiled",
         "key": "veiled",
-        "level": 60
+        "level": 60,
+        "tags": [
+          "Mana"
+        ],
+        "family": [
+          "IncreasedMana"
+        ]
       },
       {
         "loc": "P",
         "title": "Crafting Bench",
         "key": "master",
-        "level": 81
+        "level": 81,
+        "tags": [
+          "Mana"
+        ],
+        "family": [
+          "IncreasedMana"
+        ]
       }
     ],
     "Adds # to # Fire Damage": [
@@ -1003,19 +2040,45 @@
         "loc": "P",
         "title": "Veiled",
         "key": "veiled",
-        "level": 60
+        "level": 60,
+        "tags": [
+          "Damage",
+          "Elemental",
+          "Fire",
+          "Cold"
+        ],
+        "family": [
+          "AddedFireAndColdDamage"
+        ]
       },
       {
         "loc": "P",
         "title": "Crafting Bench",
         "key": "master",
-        "level": 81
+        "level": 81,
+        "tags": [
+          "Damage",
+          "Elemental",
+          "Fire",
+          "Cold"
+        ],
+        "family": [
+          "AddedFireAndColdDamage"
+        ]
       },
       {
         "loc": "I",
         "title": "Synthesis",
         "key": "synthesis",
-        "level": 50
+        "level": 50,
+        "tags": [
+          "Damage",
+          "Elemental",
+          "Fire"
+        ],
+        "family": [
+          "AddedFireDamage"
+        ]
       }
     ],
     "Adds # to # Cold Damage": [
@@ -1023,19 +2086,45 @@
         "loc": "P",
         "title": "Veiled",
         "key": "veiled",
-        "level": 60
+        "level": 60,
+        "tags": [
+          "Damage",
+          "Elemental",
+          "Fire",
+          "Cold"
+        ],
+        "family": [
+          "AddedFireAndColdDamage"
+        ]
       },
       {
         "loc": "P",
         "title": "Crafting Bench",
         "key": "master",
-        "level": 81
+        "level": 81,
+        "tags": [
+          "Damage",
+          "Elemental",
+          "Fire",
+          "Cold"
+        ],
+        "family": [
+          "AddedFireAndColdDamage"
+        ]
       },
       {
         "loc": "I",
         "title": "Synthesis",
         "key": "synthesis",
-        "level": 50
+        "level": 50,
+        "tags": [
+          "Damage",
+          "Elemental",
+          "Cold"
+        ],
+        "family": [
+          "AddedColdDamage"
+        ]
       }
     ],
     "Adds # to # Lightning Damage": [
@@ -1043,19 +2132,45 @@
         "loc": "P",
         "title": "Veiled",
         "key": "veiled",
-        "level": 60
+        "level": 60,
+        "tags": [
+          "Damage",
+          "Elemental",
+          "Fire",
+          "Lightning"
+        ],
+        "family": [
+          "AddedFireAndLightningDamage"
+        ]
       },
       {
         "loc": "P",
         "title": "Crafting Bench",
         "key": "master",
-        "level": 81
+        "level": 81,
+        "tags": [
+          "Damage",
+          "Elemental",
+          "Fire",
+          "Lightning"
+        ],
+        "family": [
+          "AddedFireAndLightningDamage"
+        ]
       },
       {
         "loc": "I",
         "title": "Synthesis",
         "key": "synthesis",
-        "level": 50
+        "level": 50,
+        "tags": [
+          "Damage",
+          "Elemental",
+          "Lightning"
+        ],
+        "family": [
+          "AddedLightningDamage"
+        ]
       }
     ],
     "# to Strength and Dexterity": [
@@ -1063,13 +2178,27 @@
         "loc": "S",
         "title": "Veiled",
         "key": "veiled",
-        "level": 60
+        "level": 60,
+        "tags": [
+          "Attribute"
+        ],
+        "family": [
+          "Strength",
+          "Dexterity"
+        ]
       },
       {
         "loc": "S",
         "title": "Crafting Bench",
         "key": "master",
-        "level": 81
+        "level": 81,
+        "tags": [
+          "Attribute"
+        ],
+        "family": [
+          "Strength",
+          "Dexterity"
+        ]
       }
     ],
     "# to Dexterity and Intelligence": [
@@ -1077,13 +2206,27 @@
         "loc": "S",
         "title": "Veiled",
         "key": "veiled",
-        "level": 60
+        "level": 60,
+        "tags": [
+          "Attribute"
+        ],
+        "family": [
+          "Dexterity",
+          "Intelligence"
+        ]
       },
       {
         "loc": "S",
         "title": "Crafting Bench",
         "key": "master",
-        "level": 81
+        "level": 81,
+        "tags": [
+          "Attribute"
+        ],
+        "family": [
+          "Dexterity",
+          "Intelligence"
+        ]
       }
     ],
     "# to Strength and Intelligence": [
@@ -1091,13 +2234,27 @@
         "loc": "S",
         "title": "Veiled",
         "key": "veiled",
-        "level": 60
+        "level": 60,
+        "tags": [
+          "Attribute"
+        ],
+        "family": [
+          "Strength",
+          "Intelligence"
+        ]
       },
       {
         "loc": "S",
         "title": "Crafting Bench",
         "key": "master",
-        "level": 81
+        "level": 81,
+        "tags": [
+          "Attribute"
+        ],
+        "family": [
+          "Strength",
+          "Intelligence"
+        ]
       }
     ],
     "# to Minimum Endurance Charges": [
@@ -1105,13 +2262,21 @@
         "loc": "S",
         "title": "Veiled",
         "key": "veiled",
-        "level": 60
+        "level": 60,
+        "tags": [],
+        "family": [
+          "MinimumEnduranceCharges"
+        ]
       },
       {
         "loc": "S",
         "title": "Crafting Bench",
         "key": "master",
-        "level": 75
+        "level": 75,
+        "tags": [],
+        "family": [
+          "MinimumEnduranceCharges"
+        ]
       }
     ],
     "#% chance to gain an Endurance Charge on Kill": [
@@ -1119,7 +2284,11 @@
         "loc": "S",
         "title": "Veiled",
         "key": "veiled",
-        "level": 60
+        "level": 60,
+        "tags": [],
+        "family": [
+          "MinimumEnduranceCharges"
+        ]
       }
     ],
     "# to Minimum Power Charges": [
@@ -1127,13 +2296,21 @@
         "loc": "S",
         "title": "Veiled",
         "key": "veiled",
-        "level": 60
+        "level": 60,
+        "tags": [],
+        "family": [
+          "MinimumPowerCharges"
+        ]
       },
       {
         "loc": "S",
         "title": "Crafting Bench",
         "key": "master",
-        "level": 75
+        "level": 75,
+        "tags": [],
+        "family": [
+          "MinimumPowerCharges"
+        ]
       }
     ],
     "#% chance to gain a Power Charge on Kill": [
@@ -1141,7 +2318,11 @@
         "loc": "S",
         "title": "Veiled",
         "key": "veiled",
-        "level": 60
+        "level": 60,
+        "tags": [],
+        "family": [
+          "MinimumPowerCharges"
+        ]
       }
     ],
     "# to Minimum Frenzy Charges": [
@@ -1149,13 +2330,21 @@
         "loc": "S",
         "title": "Veiled",
         "key": "veiled",
-        "level": 60
+        "level": 60,
+        "tags": [],
+        "family": [
+          "MinimumFrenzyCharges"
+        ]
       },
       {
         "loc": "S",
         "title": "Crafting Bench",
         "key": "master",
-        "level": 75
+        "level": 75,
+        "tags": [],
+        "family": [
+          "MinimumFrenzyCharges"
+        ]
       }
     ],
     "#% chance to gain a Frenzy Charge on Kill": [
@@ -1163,7 +2352,11 @@
         "loc": "S",
         "title": "Veiled",
         "key": "veiled",
-        "level": 60
+        "level": 60,
+        "tags": [],
+        "family": [
+          "MinimumFrenzyCharges"
+        ]
       }
     ],
     "Focus has #% increased Cooldown Recovery Rate": [
@@ -1171,7 +2364,15 @@
         "loc": "S",
         "title": "Veiled",
         "key": "veiled",
-        "level": 60
+        "level": 60,
+        "tags": [
+          "Elemental",
+          "Lightning",
+          "Ailment"
+        ],
+        "family": [
+          "ShockNearbyEnemiesOnFocus"
+        ]
       }
     ],
     "Shock nearby Enemies for # Seconds when you Focus": [
@@ -1179,13 +2380,29 @@
         "loc": "S",
         "title": "Veiled",
         "key": "veiled",
-        "level": 60
+        "level": 60,
+        "tags": [
+          "Elemental",
+          "Lightning",
+          "Ailment"
+        ],
+        "family": [
+          "ShockNearbyEnemiesOnFocus"
+        ]
       },
       {
         "loc": "S",
         "title": "Crafting Bench",
         "key": "master",
-        "level": 81
+        "level": 81,
+        "tags": [
+          "Elemental",
+          "Lightning",
+          "Ailment"
+        ],
+        "family": [
+          "ShockNearbyEnemiesOnFocus"
+        ]
       }
     ],
     "grant focus skill [#]": [
@@ -1193,13 +2410,29 @@
         "loc": "S",
         "title": "Veiled",
         "key": "veiled",
-        "level": 60
+        "level": 60,
+        "tags": [
+          "Elemental",
+          "Lightning",
+          "Ailment"
+        ],
+        "family": [
+          "ShockNearbyEnemiesOnFocus"
+        ]
       },
       {
         "loc": "S",
         "title": "Crafting Bench",
         "key": "master",
-        "level": 81
+        "level": 81,
+        "tags": [
+          "Elemental",
+          "Lightning",
+          "Ailment"
+        ],
+        "family": [
+          "ShockNearbyEnemiesOnFocus"
+        ]
       }
     ],
     "#% to Fire and Chaos Resistances": [
@@ -1207,13 +2440,31 @@
         "loc": "S",
         "title": "Veiled",
         "key": "veiled",
-        "level": 60
+        "level": 60,
+        "tags": [
+          "Elemental",
+          "Fire",
+          "Chaos",
+          "Resistance"
+        ],
+        "family": [
+          "FireAndChaosDamageResistance"
+        ]
       },
       {
         "loc": "S",
         "title": "Crafting Bench",
         "key": "master",
-        "level": 81
+        "level": 81,
+        "tags": [
+          "Elemental",
+          "Fire",
+          "Chaos",
+          "Resistance"
+        ],
+        "family": [
+          "FireAndChaosDamageResistance"
+        ]
       }
     ],
     "#% to Lightning and Chaos Resistances": [
@@ -1221,13 +2472,31 @@
         "loc": "S",
         "title": "Veiled",
         "key": "veiled",
-        "level": 60
+        "level": 60,
+        "tags": [
+          "Elemental",
+          "Lightning",
+          "Chaos",
+          "Resistance"
+        ],
+        "family": [
+          "LightningAndChaosDamageResistance"
+        ]
       },
       {
         "loc": "S",
         "title": "Crafting Bench",
         "key": "master",
-        "level": 81
+        "level": 81,
+        "tags": [
+          "Elemental",
+          "Lightning",
+          "Chaos",
+          "Resistance"
+        ],
+        "family": [
+          "LightningAndChaosDamageResistance"
+        ]
       }
     ],
     "#% to Cold and Chaos Resistances": [
@@ -1235,13 +2504,31 @@
         "loc": "S",
         "title": "Veiled",
         "key": "veiled",
-        "level": 60
+        "level": 60,
+        "tags": [
+          "Elemental",
+          "Cold",
+          "Chaos",
+          "Resistance"
+        ],
+        "family": [
+          "ColdAndChaosDamageResistance"
+        ]
       },
       {
         "loc": "S",
         "title": "Crafting Bench",
         "key": "master",
-        "level": 81
+        "level": 81,
+        "tags": [
+          "Elemental",
+          "Cold",
+          "Chaos",
+          "Resistance"
+        ],
+        "family": [
+          "ColdAndChaosDamageResistance"
+        ]
       }
     ],
     "#% of Fire Damage Leeched as Life": [
@@ -1249,13 +2536,29 @@
         "loc": "P",
         "title": "Delve",
         "key": "delve",
-        "level": 1
+        "level": 1,
+        "tags": [
+          "Life",
+          "Elemental",
+          "Fire"
+        ],
+        "family": [
+          "FireDamageLifeLeech"
+        ]
       },
       {
         "loc": "I",
         "title": "Synthesis",
         "key": "synthesis",
-        "level": 45
+        "level": 45,
+        "tags": [
+          "Life",
+          "Elemental",
+          "Fire"
+        ],
+        "family": [
+          "FireDamageLifeLeech"
+        ]
       }
     ],
     "#% of Cold Damage Leeched as Life": [
@@ -1263,13 +2566,29 @@
         "loc": "P",
         "title": "Delve",
         "key": "delve",
-        "level": 1
+        "level": 1,
+        "tags": [
+          "Life",
+          "Elemental",
+          "Cold"
+        ],
+        "family": [
+          "ColdDamageLifeLeech"
+        ]
       },
       {
         "loc": "I",
         "title": "Synthesis",
         "key": "synthesis",
-        "level": 45
+        "level": 45,
+        "tags": [
+          "Life",
+          "Elemental",
+          "Cold"
+        ],
+        "family": [
+          "ColdDamageLifeLeech"
+        ]
       }
     ],
     "#% of Lightning Damage Leeched as Life": [
@@ -1277,13 +2596,29 @@
         "loc": "P",
         "title": "Delve",
         "key": "delve",
-        "level": 1
+        "level": 1,
+        "tags": [
+          "Life",
+          "Elemental",
+          "Lightning"
+        ],
+        "family": [
+          "LightningDamageLifeLeech"
+        ]
       },
       {
         "loc": "I",
         "title": "Synthesis",
         "key": "synthesis",
-        "level": 45
+        "level": 45,
+        "tags": [
+          "Life",
+          "Elemental",
+          "Lightning"
+        ],
+        "family": [
+          "LightningDamageLifeLeech"
+        ]
       }
     ],
     "#% of Physical Damage Leeched as Life": [
@@ -1291,13 +2626,27 @@
         "loc": "P",
         "title": "Delve",
         "key": "delve",
-        "level": 1
+        "level": 1,
+        "tags": [
+          "Life",
+          "Physical"
+        ],
+        "family": [
+          "PhysicalDamageLifeLeech"
+        ]
       },
       {
         "loc": "I",
         "title": "Synthesis",
         "key": "synthesis",
-        "level": 45
+        "level": 45,
+        "tags": [
+          "Life",
+          "Physical"
+        ],
+        "family": [
+          "PhysicalDamageLifeLeech"
+        ]
       }
     ],
     "#% of Chaos Damage Leeched as Life": [
@@ -1305,13 +2654,27 @@
         "loc": "P",
         "title": "Delve",
         "key": "delve",
-        "level": 1
+        "level": 1,
+        "tags": [
+          "Life",
+          "Chaos"
+        ],
+        "family": [
+          "ChaosDamageLifeLeech"
+        ]
       },
       {
         "loc": "I",
         "title": "Synthesis",
         "key": "synthesis",
-        "level": 45
+        "level": 45,
+        "tags": [
+          "Life",
+          "Chaos"
+        ],
+        "family": [
+          "ChaosDamageLifeLeech"
+        ]
       }
     ],
     "#% chance to Impale Enemies on Hit with Attacks": [
@@ -1319,7 +2682,14 @@
         "loc": "P",
         "title": "Delve",
         "key": "delve",
-        "level": 60
+        "level": 60,
+        "tags": [
+          "Physical",
+          "Attack"
+        ],
+        "family": [
+          "ImpaleOnHit"
+        ]
       }
     ],
     "#% increased Life Reservation Efficiency of Skills": [
@@ -1327,7 +2697,13 @@
         "loc": "P",
         "title": "Delve",
         "key": "delve",
-        "level": 60
+        "level": 60,
+        "tags": [
+          "Life"
+        ],
+        "family": [
+          "LifeReservationEfficiency"
+        ]
       }
     ],
     "#% increased maximum Mana": [
@@ -1335,13 +2711,25 @@
         "loc": "P",
         "title": "Delve",
         "key": "delve",
-        "level": 60
+        "level": 60,
+        "tags": [
+          "Mana"
+        ],
+        "family": [
+          "MaximumManaIncreasePercent"
+        ]
       },
       {
         "loc": "I",
         "title": "Synthesis",
         "key": "synthesis",
-        "level": 24
+        "level": 24,
+        "tags": [
+          "Mana"
+        ],
+        "family": [
+          "MaximumManaIncreasePercent"
+        ]
       }
     ],
     "#% of Physical Damage Converted to Cold Damage": [
@@ -1349,7 +2737,16 @@
         "loc": "P",
         "title": "Delve",
         "key": "delve",
-        "level": 60
+        "level": 60,
+        "tags": [
+          "Damage",
+          "Physical",
+          "Elemental",
+          "Cold"
+        ],
+        "family": [
+          "ConvertPhysicalToCold"
+        ]
       }
     ],
     "#% of Physical Damage Converted to Fire Damage": [
@@ -1357,7 +2754,16 @@
         "loc": "P",
         "title": "Delve",
         "key": "delve",
-        "level": 60
+        "level": 60,
+        "tags": [
+          "Damage",
+          "Physical",
+          "Elemental",
+          "Fire"
+        ],
+        "family": [
+          "ConvertPhysicalToFire"
+        ]
       }
     ],
     "#% of Physical Damage Converted to Lightning Damage": [
@@ -1365,7 +2771,16 @@
         "loc": "P",
         "title": "Delve",
         "key": "delve",
-        "level": 60
+        "level": 60,
+        "tags": [
+          "Damage",
+          "Physical",
+          "Elemental",
+          "Lightning"
+        ],
+        "family": [
+          "ConvertPhysicalToLightning"
+        ]
       }
     ],
     "#% increased Life Recovery from Flasks": [
@@ -1373,13 +2788,25 @@
         "loc": "S",
         "title": "Delve",
         "key": "delve",
-        "level": 1
+        "level": 1,
+        "tags": [
+          "Life"
+        ],
+        "family": [
+          "FlaskLifeRecovery"
+        ]
       },
       {
         "loc": "I",
         "title": "Synthesis",
         "key": "synthesis",
-        "level": 56
+        "level": 56,
+        "tags": [
+          "Life"
+        ],
+        "family": [
+          "FlaskLifeRecovery"
+        ]
       }
     ],
     "#% increased Energy Shield from Equipped Body Armour": [
@@ -1387,7 +2814,14 @@
         "loc": "S",
         "title": "Delve",
         "key": "delve",
-        "level": 1
+        "level": 1,
+        "tags": [
+          "Defences",
+          "Energy Shield"
+        ],
+        "family": [
+          "MaximumEnergyShieldFromBodyArmour"
+        ]
       }
     ],
     "#% chance to Defend with #% of Armour": [
@@ -1395,7 +2829,14 @@
         "loc": "S",
         "title": "Delve",
         "key": "delve",
-        "level": 1
+        "level": 1,
+        "tags": [
+          "Defences",
+          "Armour"
+        ],
+        "family": [
+          "ChanceWhenHitForArmourToBeDoubled"
+        ]
       }
     ],
     "#% chance to Evade Attack Hits": [
@@ -1403,7 +2844,14 @@
         "loc": "S",
         "title": "Delve",
         "key": "delve",
-        "level": 1
+        "level": 1,
+        "tags": [
+          "Defences",
+          "Evasion"
+        ],
+        "family": [
+          "AdditionalChanceToEvade"
+        ]
       }
     ],
     "#% increased Damage with Ailments": [
@@ -1411,13 +2859,27 @@
         "loc": "S",
         "title": "Delve",
         "key": "delve",
-        "level": 1
+        "level": 1,
+        "tags": [
+          "Damage",
+          "Ailment"
+        ],
+        "family": [
+          "AilmentDamage"
+        ]
       },
       {
         "loc": "I",
         "title": "Synthesis",
         "key": "synthesis",
-        "level": 48
+        "level": 48,
+        "tags": [
+          "Damage",
+          "Ailment"
+        ],
+        "family": [
+          "AilmentDamage"
+        ]
       }
     ],
     "#% increased Elemental Damage": [
@@ -1425,13 +2887,27 @@
         "loc": "S",
         "title": "Delve",
         "key": "delve",
-        "level": 1
+        "level": 1,
+        "tags": [
+          "Damage",
+          "Elemental"
+        ],
+        "family": [
+          "ElementalDamagePercent"
+        ]
       },
       {
         "loc": "I",
         "title": "Synthesis",
         "key": "synthesis",
-        "level": 48
+        "level": 48,
+        "tags": [
+          "Damage",
+          "Elemental"
+        ],
+        "family": [
+          "ElementalDamagePercent"
+        ]
       }
     ],
     "Cannot be Shocked or Ignited while moving": [
@@ -1439,7 +2915,15 @@
         "loc": "S",
         "title": "Delve",
         "key": "delve",
-        "level": 1
+        "level": 1,
+        "tags": [
+          "Elemental",
+          "Lightning",
+          "Ailment"
+        ],
+        "family": [
+          "CannotBeShockedOrIgnitedWhileMoving"
+        ]
       }
     ],
     "#% increased Damage with Vaal Skills": [
@@ -1447,13 +2931,25 @@
         "loc": "S",
         "title": "Delve",
         "key": "delve",
-        "level": 1
+        "level": 1,
+        "tags": [
+          "Damage"
+        ],
+        "family": [
+          "VaalSkillDamage"
+        ]
       },
       {
         "loc": "I",
         "title": "Synthesis",
         "key": "synthesis",
-        "level": 36
+        "level": 36,
+        "tags": [
+          "Damage"
+        ],
+        "family": [
+          "VaalSkillDamage"
+        ]
       }
     ],
     "#% increased Area of Effect of Hex Skills": [
@@ -1461,7 +2957,14 @@
         "loc": "S",
         "title": "Delve",
         "key": "delve",
-        "level": 60
+        "level": 60,
+        "tags": [
+          "Caster",
+          "Curse"
+        ],
+        "family": [
+          "CurseAreaOfEffect"
+        ]
       }
     ],
     "Curse Enemies with Conductivity on Hit": [
@@ -1469,19 +2972,40 @@
         "loc": "S",
         "title": "Delve",
         "key": "delve",
-        "level": 60
+        "level": 60,
+        "tags": [
+          "Caster",
+          "Curse"
+        ],
+        "family": [
+          "CurseOnHitLevel"
+        ]
       },
       {
         "loc": "S",
         "title": "Crusader",
         "key": "crusader",
-        "level": 80
+        "level": 80,
+        "tags": [
+          "Caster",
+          "Curse"
+        ],
+        "family": [
+          "CurseOnHitLevel"
+        ]
       },
       {
         "loc": "I",
         "title": "Synthesis",
         "key": "synthesis",
-        "level": 45
+        "level": 45,
+        "tags": [
+          "Caster",
+          "Curse"
+        ],
+        "family": [
+          "CurseOnHitLevel"
+        ]
       }
     ],
     "Curse Enemies with Despair on Hit": [
@@ -1489,13 +3013,27 @@
         "loc": "S",
         "title": "Delve",
         "key": "delve",
-        "level": 60
+        "level": 60,
+        "tags": [
+          "Caster",
+          "Curse"
+        ],
+        "family": [
+          "CurseOnHitLevel"
+        ]
       },
       {
         "loc": "S",
         "title": "Hunter",
         "key": "hunter",
-        "level": 80
+        "level": 80,
+        "tags": [
+          "Caster",
+          "Curse"
+        ],
+        "family": [
+          "CurseOnHitLevel"
+        ]
       }
     ],
     "Curse Enemies with Flammability on Hit": [
@@ -1503,19 +3041,40 @@
         "loc": "S",
         "title": "Delve",
         "key": "delve",
-        "level": 60
+        "level": 60,
+        "tags": [
+          "Caster",
+          "Curse"
+        ],
+        "family": [
+          "CurseOnHitLevel"
+        ]
       },
       {
         "loc": "S",
         "title": "Warlord",
         "key": "warlord",
-        "level": 80
+        "level": 80,
+        "tags": [
+          "Caster",
+          "Curse"
+        ],
+        "family": [
+          "CurseOnHitLevel"
+        ]
       },
       {
         "loc": "I",
         "title": "Synthesis",
         "key": "synthesis",
-        "level": 45
+        "level": 45,
+        "tags": [
+          "Caster",
+          "Curse"
+        ],
+        "family": [
+          "CurseOnHitLevel"
+        ]
       }
     ],
     "Curse Enemies with Frostbite on Hit": [
@@ -1523,19 +3082,40 @@
         "loc": "S",
         "title": "Delve",
         "key": "delve",
-        "level": 60
+        "level": 60,
+        "tags": [
+          "Caster",
+          "Curse"
+        ],
+        "family": [
+          "CurseOnHitLevel"
+        ]
       },
       {
         "loc": "S",
         "title": "Redeemer",
         "key": "redeemer",
-        "level": 80
+        "level": 80,
+        "tags": [
+          "Caster",
+          "Curse"
+        ],
+        "family": [
+          "CurseOnHitLevel"
+        ]
       },
       {
         "loc": "I",
         "title": "Synthesis",
         "key": "synthesis",
-        "level": 45
+        "level": 45,
+        "tags": [
+          "Caster",
+          "Curse"
+        ],
+        "family": [
+          "CurseOnHitLevel"
+        ]
       }
     ],
     "Curse Enemies with Vulnerability on Hit": [
@@ -1543,19 +3123,40 @@
         "loc": "S",
         "title": "Delve",
         "key": "delve",
-        "level": 60
+        "level": 60,
+        "tags": [
+          "Caster",
+          "Curse"
+        ],
+        "family": [
+          "CurseOnHitLevel"
+        ]
       },
       {
         "loc": "S",
         "title": "Warlord",
         "key": "warlord",
-        "level": 80
+        "level": 80,
+        "tags": [
+          "Caster",
+          "Curse"
+        ],
+        "family": [
+          "CurseOnHitLevel"
+        ]
       },
       {
         "loc": "I",
         "title": "Synthesis",
         "key": "synthesis",
-        "level": 45
+        "level": 45,
+        "tags": [
+          "Caster",
+          "Curse"
+        ],
+        "family": [
+          "CurseOnHitLevelVulnerability"
+        ]
       }
     ],
     "Minions deal #% increased Damage": [
@@ -1563,13 +3164,27 @@
         "loc": "S",
         "title": "Delve",
         "key": "delve",
-        "level": 60
+        "level": 60,
+        "tags": [
+          "Damage",
+          "Minion"
+        ],
+        "family": [
+          "MinionDamage"
+        ]
       },
       {
         "loc": "P",
         "title": "Redeemer",
         "key": "redeemer",
-        "level": 80
+        "level": 80,
+        "tags": [
+          "Damage",
+          "Minion"
+        ],
+        "family": [
+          "MinionDamage"
+        ]
       }
     ],
     "#% increased maximum Energy Shield": [
@@ -1577,19 +3192,40 @@
         "loc": "P",
         "title": "Incursion",
         "key": "incursion",
-        "level": 50
+        "level": 50,
+        "tags": [
+          "Defences",
+          "Energy Shield"
+        ],
+        "family": [
+          "IncreasedEnergyShield"
+        ]
       },
       {
         "loc": "P",
         "title": "Crusader",
         "key": "crusader",
-        "level": 82
+        "level": 82,
+        "tags": [
+          "Defences",
+          "Energy Shield"
+        ],
+        "family": [
+          "EnergyShieldPercent"
+        ]
       },
       {
         "loc": "I",
         "title": "Synthesis",
         "key": "synthesis",
-        "level": 24
+        "level": 24,
+        "tags": [
+          "Defences",
+          "Energy Shield"
+        ],
+        "family": [
+          "EnergyShieldPercent"
+        ]
       }
     ],
     "Regenerate #% of Energy Shield per second": [
@@ -1597,7 +3233,14 @@
         "loc": "P",
         "title": "Incursion",
         "key": "incursion",
-        "level": 50
+        "level": 50,
+        "tags": [
+          "Defences",
+          "Energy Shield"
+        ],
+        "family": [
+          "IncreasedEnergyShield"
+        ]
       }
     ],
     "#% increased maximum Life": [
@@ -1605,13 +3248,25 @@
         "loc": "P",
         "title": "Incursion",
         "key": "incursion",
-        "level": 50
+        "level": 50,
+        "tags": [
+          "Life"
+        ],
+        "family": [
+          "IncreasedLife"
+        ]
       },
       {
         "loc": "I",
         "title": "Synthesis",
         "key": "synthesis",
-        "level": 24
+        "level": 24,
+        "tags": [
+          "Life"
+        ],
+        "family": [
+          "MaximumLifeIncreasePercent"
+        ]
       }
     ],
     "Non-Channelling Skills have # to Total Mana Cost": [
@@ -1619,7 +3274,13 @@
         "loc": "P",
         "title": "Crafting Bench",
         "key": "master",
-        "level": 81
+        "level": 81,
+        "tags": [
+          "Mana"
+        ],
+        "family": [
+          "IncreaseFlatManaCost"
+        ]
       }
     ],
     "Gain # Mana per Enemy Hit with Attacks": [
@@ -1627,19 +3288,40 @@
         "loc": "P",
         "title": "Incursion",
         "key": "incursion",
-        "level": 50
+        "level": 50,
+        "tags": [
+          "Mana",
+          "Attack"
+        ],
+        "family": [
+          "IncreasedMana"
+        ]
       },
       {
         "loc": "P",
         "title": "Elder",
         "key": "elder",
-        "level": 68
+        "level": 68,
+        "tags": [
+          "Mana",
+          "Attack"
+        ],
+        "family": [
+          "ManaGainPerTarget"
+        ]
       },
       {
         "loc": "I",
         "title": "Corrupted",
         "key": "corrupted",
-        "level": 40
+        "level": 40,
+        "tags": [
+          "Mana",
+          "Attack"
+        ],
+        "family": [
+          "ManaGainPerTarget"
+        ]
       }
     ],
     "# to Total Mana Cost of Skills": [
@@ -1647,7 +3329,13 @@
         "loc": "I",
         "title": "Synthesis",
         "key": "synthesis",
-        "level": 24
+        "level": 24,
+        "tags": [
+          "Mana"
+        ],
+        "family": [
+          "IncreaseFlatManaCost"
+        ]
       }
     ],
     "Regenerate #% of Life per second": [
@@ -1655,7 +3343,13 @@
         "loc": "S",
         "title": "Incursion",
         "key": "incursion",
-        "level": 50
+        "level": 50,
+        "tags": [
+          "Life"
+        ],
+        "family": [
+          "LifeRegeneration"
+        ]
       }
     ],
     "Adds # to # Chaos Damage to Attacks": [
@@ -1663,7 +3357,15 @@
         "loc": "P",
         "title": "Crafting Bench",
         "key": "master",
-        "level": 68
+        "level": 68,
+        "tags": [
+          "Damage",
+          "Chaos",
+          "Attack"
+        ],
+        "family": [
+          "ChaosDamage"
+        ]
       }
     ],
     "#% increased Damage": [
@@ -1671,13 +3373,25 @@
         "loc": "P",
         "title": "Crafting Bench",
         "key": "master",
-        "level": 81
+        "level": 81,
+        "tags": [
+          "Damage"
+        ],
+        "family": [
+          "AllDamage"
+        ]
       },
       {
         "loc": "I",
         "title": "Synthesis",
         "key": "synthesis",
-        "level": 48
+        "level": 48,
+        "tags": [
+          "Damage"
+        ],
+        "family": [
+          "AllDamage"
+        ]
       }
     ],
     "Channelling Skills have # to Total Mana Cost": [
@@ -1685,7 +3399,13 @@
         "loc": "P",
         "title": "Crafting Bench",
         "key": "master",
-        "level": 81
+        "level": 81,
+        "tags": [
+          "Mana"
+        ],
+        "family": [
+          "IncreaseFlatManaCost"
+        ]
       }
     ],
     "Suffixes Cannot Be Changed": [
@@ -1693,7 +3413,11 @@
         "loc": "P",
         "title": "Crafting Bench",
         "key": "master",
-        "level": 1
+        "level": 1,
+        "tags": [],
+        "family": [
+          "ItemGenerationCannotChangeSuffixes"
+        ]
       }
     ],
     "#% to Fire and Cold Resistances": [
@@ -1701,7 +3425,16 @@
         "loc": "S",
         "title": "Crafting Bench",
         "key": "master",
-        "level": 50
+        "level": 50,
+        "tags": [
+          "Elemental",
+          "Fire",
+          "Cold",
+          "Resistance"
+        ],
+        "family": [
+          "FireAndColdResistance"
+        ]
       }
     ],
     "#% to Cold and Lightning Resistances": [
@@ -1709,7 +3442,16 @@
         "loc": "S",
         "title": "Crafting Bench",
         "key": "master",
-        "level": 50
+        "level": 50,
+        "tags": [
+          "Elemental",
+          "Cold",
+          "Lightning",
+          "Resistance"
+        ],
+        "family": [
+          "ColdAndLightningResistance"
+        ]
       }
     ],
     "#% to Fire and Lightning Resistances": [
@@ -1717,7 +3459,16 @@
         "loc": "S",
         "title": "Crafting Bench",
         "key": "master",
-        "level": 50
+        "level": 50,
+        "tags": [
+          "Elemental",
+          "Fire",
+          "Lightning",
+          "Resistance"
+        ],
+        "family": [
+          "FireAndLightningResistance"
+        ]
       }
     ],
     "Minions have #% to all Elemental Resistances": [
@@ -1725,7 +3476,15 @@
         "loc": "S",
         "title": "Crafting Bench",
         "key": "master",
-        "level": 60
+        "level": 60,
+        "tags": [
+          "Elemental",
+          "Resistance",
+          "Minion"
+        ],
+        "family": [
+          "AllResistances"
+        ]
       }
     ],
     "Light Radius is based on Energy Shield instead of Life": [
@@ -1733,7 +3492,11 @@
         "loc": "S",
         "title": "Crafting Bench",
         "key": "master",
-        "level": 68
+        "level": 68,
+        "tags": [],
+        "family": [
+          "LightRadiusScalesWithEnergyShield"
+        ]
       }
     ],
     "Minions have #% increased maximum Life": [
@@ -1741,7 +3504,14 @@
         "loc": "S",
         "title": "Crafting Bench",
         "key": "master",
-        "level": 40
+        "level": 40,
+        "tags": [
+          "Life",
+          "Minion"
+        ],
+        "family": [
+          "MinionLife"
+        ]
       }
     ],
     "Warcries cannot Exert Travel Skills": [
@@ -1749,7 +3519,11 @@
         "loc": "S",
         "title": "Crafting Bench",
         "key": "master",
-        "level": 1
+        "level": 1,
+        "tags": [],
+        "family": [
+          "TravelSkillsCannotBeExerted"
+        ]
       }
     ],
     "#% reduced Ignite Duration on you": [
@@ -1757,7 +3531,15 @@
         "loc": "S",
         "title": "Crafting Bench",
         "key": "master",
-        "level": 60
+        "level": 60,
+        "tags": [
+          "Elemental",
+          "Fire",
+          "Ailment"
+        ],
+        "family": [
+          "ReducedSelfIgniteDuration"
+        ]
       }
     ],
     "#% reduced Effect of Chill on you": [
@@ -1765,7 +3547,15 @@
         "loc": "S",
         "title": "Crafting Bench",
         "key": "master",
-        "level": 60
+        "level": 60,
+        "tags": [
+          "Elemental",
+          "Cold",
+          "Ailment"
+        ],
+        "family": [
+          "ChillEffectivenessOnSelf"
+        ]
       }
     ],
     "#% reduced Effect of Shock on you": [
@@ -1773,7 +3563,15 @@
         "loc": "S",
         "title": "Crafting Bench",
         "key": "master",
-        "level": 60
+        "level": 60,
+        "tags": [
+          "Elemental",
+          "Lightning",
+          "Ailment"
+        ],
+        "family": [
+          "ShockEffect"
+        ]
       }
     ],
     "#% reduced Effect of Curses on you": [
@@ -1781,19 +3579,40 @@
         "loc": "S",
         "title": "Crafting Bench",
         "key": "master",
-        "level": 60
+        "level": 60,
+        "tags": [
+          "Caster",
+          "Curse"
+        ],
+        "family": [
+          "ReducedCurseEffect"
+        ]
       },
       {
         "loc": "S",
         "title": "Shaper",
         "key": "shaper",
-        "level": 75
+        "level": 75,
+        "tags": [
+          "Caster",
+          "Curse"
+        ],
+        "family": [
+          "ReducedCurseEffect"
+        ]
       },
       {
         "loc": "S",
         "title": "Crusader",
         "key": "crusader",
-        "level": 75
+        "level": 75,
+        "tags": [
+          "Caster",
+          "Curse"
+        ],
+        "family": [
+          "ReducedCurseEffect"
+        ]
       }
     ],
     "#% to Critical Strike Multiplier if you've Shattered an Enemy Recently": [
@@ -1801,7 +3620,14 @@
         "loc": "S",
         "title": "Crafting Bench",
         "key": "master",
-        "level": 81
+        "level": 81,
+        "tags": [
+          "Damage",
+          "Critical"
+        ],
+        "family": [
+          "CriticalStrikeChanceIncrease"
+        ]
       }
     ],
     "#% increased Global Physical Damage": [
@@ -1809,19 +3635,41 @@
         "loc": "S",
         "title": "Crafting Bench",
         "key": "master",
-        "level": 81
+        "level": 81,
+        "tags": [
+          "Damage",
+          "Physical",
+          "Chaos"
+        ],
+        "family": [
+          "IncreasedChaosAndPhysicalDamage"
+        ]
       },
       {
         "loc": "I",
         "title": "Synthesis",
         "key": "synthesis",
-        "level": 48
+        "level": 48,
+        "tags": [
+          "Damage",
+          "Physical"
+        ],
+        "family": [
+          "PhysicalDamagePercent"
+        ]
       },
       {
         "loc": "I",
         "title": "Corrupted",
         "key": "corrupted",
-        "level": 1
+        "level": 1,
+        "tags": [
+          "Damage",
+          "Physical"
+        ],
+        "family": [
+          "PhysicalDamagePercent"
+        ]
       }
     ],
     "Prefixes Cannot Be Changed": [
@@ -1829,7 +3677,11 @@
         "loc": "S",
         "title": "Crafting Bench",
         "key": "master",
-        "level": 1
+        "level": 1,
+        "tags": [],
+        "family": [
+          "ItemGenerationCannotChangePrefixes"
+        ]
       }
     ],
     "Can have up to # Crafted Modifiers": [
@@ -1837,7 +3689,11 @@
         "loc": "S",
         "title": "Crafting Bench",
         "key": "master",
-        "level": 1
+        "level": 1,
+        "tags": [],
+        "family": [
+          "ItemGenerationCanHaveMultipleCraftedMods"
+        ]
       }
     ],
     "Cannot roll Attack Modifiers": [
@@ -1845,7 +3701,11 @@
         "loc": "S",
         "title": "Crafting Bench",
         "key": "master",
-        "level": 1
+        "level": 1,
+        "tags": [],
+        "family": [
+          "ItemGenerationCannotRollAttackAffixes"
+        ]
       }
     ],
     "Cannot roll Caster Modifiers": [
@@ -1853,7 +3713,11 @@
         "loc": "S",
         "title": "Crafting Bench",
         "key": "master",
-        "level": 1
+        "level": 1,
+        "tags": [],
+        "family": [
+          "ItemGenerationCannotRollCasterAffixes"
+        ]
       }
     ],
     "#% of Physical Hit Damage from you and your Minions cannot be Reflected": [
@@ -1861,13 +3725,21 @@
         "loc": "P",
         "title": "Elder",
         "key": "elder",
-        "level": 75
+        "level": 75,
+        "tags": [],
+        "family": [
+          "ReflectedDamage"
+        ]
       },
       {
         "loc": "P",
         "title": "Hunter",
         "key": "hunter",
-        "level": 75
+        "level": 75,
+        "tags": [],
+        "family": [
+          "ReflectedDamage"
+        ]
       }
     ],
     "Adds # to # Fire Damage against Ignited Enemies": [
@@ -1875,13 +3747,31 @@
         "loc": "P",
         "title": "Elder",
         "key": "elder",
-        "level": 75
+        "level": 75,
+        "tags": [
+          "Damage",
+          "Elemental",
+          "Fire",
+          "Ailment"
+        ],
+        "family": [
+          "AilmentChanceAddedDamage"
+        ]
       },
       {
         "loc": "P",
         "title": "Warlord",
         "key": "warlord",
-        "level": 75
+        "level": 75,
+        "tags": [
+          "Damage",
+          "Elemental",
+          "Fire",
+          "Ailment"
+        ],
+        "family": [
+          "AilmentChanceAddedDamage"
+        ]
       }
     ],
     "Grants Level # Herald of Ash Skill": [
@@ -1889,7 +3779,11 @@
         "loc": "S",
         "title": "Elder",
         "key": "elder",
-        "level": 68
+        "level": 68,
+        "tags": [],
+        "family": [
+          "GrantedSkill"
+        ]
       }
     ],
     "#% of Elemental Hit Damage from you and your Minions cannot be Reflected": [
@@ -1897,13 +3791,21 @@
         "loc": "P",
         "title": "Shaper",
         "key": "shaper",
-        "level": 75
+        "level": 75,
+        "tags": [],
+        "family": [
+          "ReflectedDamage"
+        ]
       },
       {
         "loc": "P",
         "title": "Hunter",
         "key": "hunter",
-        "level": 75
+        "level": 75,
+        "tags": [],
+        "family": [
+          "ReflectedDamage"
+        ]
       }
     ],
     "#% increased Experience gain": [
@@ -1911,19 +3813,31 @@
         "loc": "P",
         "title": "Shaper",
         "key": "shaper",
-        "level": 85
+        "level": 85,
+        "tags": [],
+        "family": [
+          "ExperienceIncrease"
+        ]
       },
       {
         "loc": "P",
         "title": "Hunter",
         "key": "hunter",
-        "level": 85
+        "level": 85,
+        "tags": [],
+        "family": [
+          "ExperienceIncrease"
+        ]
       },
       {
         "loc": "I",
         "title": "Synthesis",
         "key": "synthesis",
-        "level": 75
+        "level": 75,
+        "tags": [],
+        "family": [
+          "ExperienceIncrease"
+        ]
       }
     ],
     "Gain # Life per Enemy Hit with Spells": [
@@ -1931,13 +3845,27 @@
         "loc": "P",
         "title": "Shaper",
         "key": "shaper",
-        "level": 75
+        "level": 75,
+        "tags": [
+          "Life",
+          "Caster"
+        ],
+        "family": [
+          "LifeGainedOnSpellHit"
+        ]
       },
       {
         "loc": "P",
         "title": "Crusader",
         "key": "crusader",
-        "level": 75
+        "level": 75,
+        "tags": [
+          "Life",
+          "Caster"
+        ],
+        "family": [
+          "LifeGainedOnSpellHit"
+        ]
       }
     ],
     "Gain # Mana per Enemy Hit with Spells": [
@@ -1945,7 +3873,14 @@
         "loc": "P",
         "title": "Shaper",
         "key": "shaper",
-        "level": 68
+        "level": 68,
+        "tags": [
+          "Mana",
+          "Caster"
+        ],
+        "family": [
+          "ManaGainedOnSpellHit"
+        ]
       }
     ],
     "Adds # to # Cold Damage against Chilled or Frozen Enemies": [
@@ -1953,13 +3888,31 @@
         "loc": "P",
         "title": "Shaper",
         "key": "shaper",
-        "level": 75
+        "level": 75,
+        "tags": [
+          "Damage",
+          "Elemental",
+          "Cold",
+          "Ailment"
+        ],
+        "family": [
+          "AilmentChanceAddedDamage"
+        ]
       },
       {
         "loc": "P",
         "title": "Redeemer",
         "key": "redeemer",
-        "level": 75
+        "level": 75,
+        "tags": [
+          "Damage",
+          "Elemental",
+          "Cold",
+          "Ailment"
+        ],
+        "family": [
+          "AilmentChanceAddedDamage"
+        ]
       }
     ],
     "Adds # to # Lightning Damage against Shocked Enemies": [
@@ -1967,13 +3920,31 @@
         "loc": "P",
         "title": "Shaper",
         "key": "shaper",
-        "level": 75
+        "level": 75,
+        "tags": [
+          "Damage",
+          "Elemental",
+          "Lightning",
+          "Ailment"
+        ],
+        "family": [
+          "AilmentChanceAddedDamage"
+        ]
       },
       {
         "loc": "P",
         "title": "Crusader",
         "key": "crusader",
-        "level": 75
+        "level": 75,
+        "tags": [
+          "Damage",
+          "Elemental",
+          "Lightning",
+          "Ailment"
+        ],
+        "family": [
+          "AilmentChanceAddedDamage"
+        ]
       }
     ],
     "Grants Level # Herald of Ice Skill": [
@@ -1981,7 +3952,11 @@
         "loc": "S",
         "title": "Shaper",
         "key": "shaper",
-        "level": 68
+        "level": 68,
+        "tags": [],
+        "family": [
+          "GrantedSkill"
+        ]
       }
     ],
     "Grants Level # Herald of Thunder Skill": [
@@ -1989,7 +3964,11 @@
         "loc": "S",
         "title": "Shaper",
         "key": "shaper",
-        "level": 68
+        "level": 68,
+        "tags": [],
+        "family": [
+          "GrantedSkill"
+        ]
       }
     ],
     "# to # Lightning Damage per Power Charge": [
@@ -1997,7 +3976,15 @@
         "loc": "P",
         "title": "Crusader",
         "key": "crusader",
-        "level": 80
+        "level": 80,
+        "tags": [
+          "Damage",
+          "Elemental",
+          "Lightning"
+        ],
+        "family": [
+          "AddedLightningDamage"
+        ]
       }
     ],
     "#% increased Spell Damage": [
@@ -2005,7 +3992,14 @@
         "loc": "P",
         "title": "Crusader",
         "key": "crusader",
-        "level": 80
+        "level": 80,
+        "tags": [
+          "Damage",
+          "Caster"
+        ],
+        "family": [
+          "SpellDamage"
+        ]
       }
     ],
     "#% increased total Recovery per second from Life Leech": [
@@ -2013,7 +4007,13 @@
         "loc": "S",
         "title": "Crusader",
         "key": "crusader",
-        "level": 80
+        "level": 80,
+        "tags": [
+          "Life"
+        ],
+        "family": [
+          "IncreasedLifeLeechRate"
+        ]
       }
     ],
     "#% increased Evasion Rating": [
@@ -2021,13 +4021,27 @@
         "loc": "P",
         "title": "Redeemer",
         "key": "redeemer",
-        "level": 82
+        "level": 82,
+        "tags": [
+          "Defences",
+          "Evasion"
+        ],
+        "family": [
+          "EvasionRatingPercent"
+        ]
       },
       {
         "loc": "I",
         "title": "Synthesis",
         "key": "synthesis",
-        "level": 24
+        "level": 24,
+        "tags": [
+          "Defences",
+          "Evasion"
+        ],
+        "family": [
+          "EvasionRatingPercent"
+        ]
       }
     ],
     "#% increased Projectile Attack Damage": [
@@ -2035,7 +4049,14 @@
         "loc": "P",
         "title": "Redeemer",
         "key": "redeemer",
-        "level": 80
+        "level": 80,
+        "tags": [
+          "Damage",
+          "Attack"
+        ],
+        "family": [
+          "ProjectileAttackDamage"
+        ]
       }
     ],
     "#% increased Effect of Non-Damaging Ailments": [
@@ -2043,7 +4064,13 @@
         "loc": "S",
         "title": "Redeemer",
         "key": "redeemer",
-        "level": 75
+        "level": 75,
+        "tags": [
+          "Ailment"
+        ],
+        "family": [
+          "IncreasedAilmentEffectOnEnemies"
+        ]
       }
     ],
     "#% increased Attack Speed if you've been Hit Recently": [
@@ -2051,7 +4078,14 @@
         "loc": "S",
         "title": "Redeemer",
         "key": "redeemer",
-        "level": 75
+        "level": 75,
+        "tags": [
+          "Attack",
+          "Speed"
+        ],
+        "family": [
+          "AttackSpeedHitRecently"
+        ]
       }
     ],
     "Exerted Attacks deal #% increased Damage": [
@@ -2059,7 +4093,14 @@
         "loc": "P",
         "title": "Hunter",
         "key": "hunter",
-        "level": 80
+        "level": 80,
+        "tags": [
+          "Damage",
+          "Attack"
+        ],
+        "family": [
+          "ExertedAttackDamage"
+        ]
       }
     ],
     "Curse Enemies with Elemental Weakness on Hit": [
@@ -2067,13 +4108,27 @@
         "loc": "S",
         "title": "Hunter",
         "key": "hunter",
-        "level": 80
+        "level": 80,
+        "tags": [
+          "Caster",
+          "Curse"
+        ],
+        "family": [
+          "CurseOnHitLevel"
+        ]
       },
       {
         "loc": "I",
         "title": "Synthesis",
         "key": "synthesis",
-        "level": 45
+        "level": 45,
+        "tags": [
+          "Caster",
+          "Curse"
+        ],
+        "family": [
+          "CurseOnHitLevelElementalWeakness"
+        ]
       }
     ],
     "#% increased Poison Duration": [
@@ -2081,13 +4136,28 @@
         "loc": "S",
         "title": "Hunter",
         "key": "hunter",
-        "level": 80
+        "level": 80,
+        "tags": [
+          "Damage",
+          "Chaos",
+          "Ailment"
+        ],
+        "family": [
+          "PoisonDamage"
+        ]
       },
       {
         "loc": "I",
         "title": "Synthesis",
         "key": "synthesis",
-        "level": 55
+        "level": 55,
+        "tags": [
+          "Chaos",
+          "Ailment"
+        ],
+        "family": [
+          "PoisonDuration"
+        ]
       }
     ],
     "#% increased Damage with Poison": [
@@ -2095,13 +4165,29 @@
         "loc": "S",
         "title": "Hunter",
         "key": "hunter",
-        "level": 80
+        "level": 80,
+        "tags": [
+          "Damage",
+          "Chaos",
+          "Ailment"
+        ],
+        "family": [
+          "PoisonDamage"
+        ]
       },
       {
         "loc": "I",
         "title": "Synthesis",
         "key": "synthesis",
-        "level": 24
+        "level": 24,
+        "tags": [
+          "Damage",
+          "Chaos",
+          "Ailment"
+        ],
+        "family": [
+          "PoisonDamage"
+        ]
       }
     ],
     "#% increased Area of Effect": [
@@ -2109,7 +4195,11 @@
         "loc": "P",
         "title": "Warlord",
         "key": "warlord",
-        "level": 80
+        "level": 80,
+        "tags": [],
+        "family": [
+          "AreaOfEffect"
+        ]
       }
     ],
     "#% increased Armour": [
@@ -2117,13 +4207,27 @@
         "loc": "P",
         "title": "Warlord",
         "key": "warlord",
-        "level": 82
+        "level": 82,
+        "tags": [
+          "Defences",
+          "Armour"
+        ],
+        "family": [
+          "IncreasedPhysicalDamageReductionRatingPercent"
+        ]
       },
       {
         "loc": "I",
         "title": "Synthesis",
         "key": "synthesis",
-        "level": 24
+        "level": 24,
+        "tags": [
+          "Defences",
+          "Armour"
+        ],
+        "family": [
+          "IncreasedPhysicalDamageReductionRatingPercent"
+        ]
       }
     ],
     "# to # Fire Damage per Endurance Charge": [
@@ -2131,7 +4235,15 @@
         "loc": "P",
         "title": "Warlord",
         "key": "warlord",
-        "level": 80
+        "level": 80,
+        "tags": [
+          "Damage",
+          "Elemental",
+          "Fire"
+        ],
+        "family": [
+          "AddedFireDamage"
+        ]
       }
     ],
     "#% increased Melee Damage": [
@@ -2139,7 +4251,14 @@
         "loc": "P",
         "title": "Warlord",
         "key": "warlord",
-        "level": 80
+        "level": 80,
+        "tags": [
+          "Damage",
+          "Attack"
+        ],
+        "family": [
+          "MeleeDamage"
+        ]
       }
     ],
     "#% increased Damage with Bleeding": [
@@ -2147,7 +4266,16 @@
         "loc": "S",
         "title": "Warlord",
         "key": "warlord",
-        "level": 80
+        "level": 80,
+        "tags": [
+          "Damage",
+          "Physical",
+          "Attack",
+          "Ailment"
+        ],
+        "family": [
+          "BleedingDamage"
+        ]
       }
     ],
     "#% increased Bleeding Duration": [
@@ -2155,7 +4283,16 @@
         "loc": "S",
         "title": "Warlord",
         "key": "warlord",
-        "level": 80
+        "level": 80,
+        "tags": [
+          "Damage",
+          "Physical",
+          "Attack",
+          "Ailment"
+        ],
+        "family": [
+          "BleedingDamage"
+        ]
       }
     ],
     "Grants Level # Aspect of the Avian Skill": [
@@ -2163,7 +4300,11 @@
         "loc": "S",
         "title": "Bestiary",
         "key": "bestiary",
-        "level": 20
+        "level": 20,
+        "tags": [],
+        "family": [
+          "GrantedSkill"
+        ]
       }
     ],
     "Grants Level # Aspect of the Cat Skill": [
@@ -2171,7 +4312,11 @@
         "loc": "S",
         "title": "Bestiary",
         "key": "bestiary",
-        "level": 20
+        "level": 20,
+        "tags": [],
+        "family": [
+          "GrantedSkill"
+        ]
       }
     ],
     "Grants Level # Aspect of the Crab Skill": [
@@ -2179,7 +4324,11 @@
         "loc": "S",
         "title": "Bestiary",
         "key": "bestiary",
-        "level": 20
+        "level": 20,
+        "tags": [],
+        "family": [
+          "GrantedSkill"
+        ]
       }
     ],
     "Grants Level # Aspect of the Spider Skill": [
@@ -2187,7 +4336,11 @@
         "loc": "S",
         "title": "Bestiary",
         "key": "bestiary",
-        "level": 20
+        "level": 20,
+        "tags": [],
+        "family": [
+          "GrantedSkill"
+        ]
       }
     ],
     "Recover #% of Life on Kill": [
@@ -2195,7 +4348,13 @@
         "loc": "I",
         "title": "Synthesis",
         "key": "synthesis",
-        "level": 55
+        "level": 55,
+        "tags": [
+          "Life"
+        ],
+        "family": [
+          "MaximumLifeOnKillPercent"
+        ]
       }
     ],
     "Recover #% of Mana on Kill": [
@@ -2203,7 +4362,13 @@
         "loc": "I",
         "title": "Synthesis",
         "key": "synthesis",
-        "level": 56
+        "level": 56,
+        "tags": [
+          "Mana"
+        ],
+        "family": [
+          "MaximumManaOnKillPercent"
+        ]
       }
     ],
     "# Fire Damage taken from Hits": [
@@ -2211,7 +4376,14 @@
         "loc": "I",
         "title": "Synthesis",
         "key": "synthesis",
-        "level": 24
+        "level": 24,
+        "tags": [
+          "Elemental",
+          "Fire"
+        ],
+        "family": [
+          "FireDamageTaken"
+        ]
       }
     ],
     "# Cold Damage taken from Hits": [
@@ -2219,7 +4391,14 @@
         "loc": "I",
         "title": "Synthesis",
         "key": "synthesis",
-        "level": 24
+        "level": 24,
+        "tags": [
+          "Elemental",
+          "Cold"
+        ],
+        "family": [
+          "ColdDamageTaken"
+        ]
       }
     ],
     "# Lightning Damage taken from Hits": [
@@ -2227,7 +4406,14 @@
         "loc": "I",
         "title": "Synthesis",
         "key": "synthesis",
-        "level": 24
+        "level": 24,
+        "tags": [
+          "Elemental",
+          "Lightning"
+        ],
+        "family": [
+          "LightningDamageTaken"
+        ]
       }
     ],
     "# Chaos Damage taken": [
@@ -2235,7 +4421,13 @@
         "loc": "I",
         "title": "Synthesis",
         "key": "synthesis",
-        "level": 24
+        "level": 24,
+        "tags": [
+          "Chaos"
+        ],
+        "family": [
+          "ChaosDamageTaken"
+        ]
       }
     ],
     "Ignites you inflict deal Damage #% faster": [
@@ -2243,7 +4435,16 @@
         "loc": "I",
         "title": "Synthesis",
         "key": "synthesis",
-        "level": 56
+        "level": 56,
+        "tags": [
+          "Damage",
+          "Elemental",
+          "Fire",
+          "Ailment"
+        ],
+        "family": [
+          "FasterDamageAilments"
+        ]
       }
     ],
     "#% chance to Avoid being Ignited": [
@@ -2251,7 +4452,15 @@
         "loc": "I",
         "title": "Synthesis",
         "key": "synthesis",
-        "level": 36
+        "level": 36,
+        "tags": [
+          "Elemental",
+          "Fire",
+          "Ailment"
+        ],
+        "family": [
+          "AvoidIgnite"
+        ]
       }
     ],
     "#% increased Effect of Cold Ailments": [
@@ -2259,7 +4468,15 @@
         "loc": "I",
         "title": "Synthesis",
         "key": "synthesis",
-        "level": 48
+        "level": 48,
+        "tags": [
+          "Elemental",
+          "Cold",
+          "Ailment"
+        ],
+        "family": [
+          "ChillEffect"
+        ]
       }
     ],
     "#% increased Shock Duration on Enemies": [
@@ -2267,7 +4484,15 @@
         "loc": "I",
         "title": "Synthesis",
         "key": "synthesis",
-        "level": 48
+        "level": 48,
+        "tags": [
+          "Elemental",
+          "Lightning",
+          "Ailment"
+        ],
+        "family": [
+          "ShockDuration"
+        ]
       }
     ],
     "#% chance to Avoid being Shocked": [
@@ -2275,7 +4500,15 @@
         "loc": "I",
         "title": "Synthesis",
         "key": "synthesis",
-        "level": 36
+        "level": 36,
+        "tags": [
+          "Elemental",
+          "Lightning",
+          "Ailment"
+        ],
+        "family": [
+          "AvoidShock"
+        ]
       }
     ],
     "#% increased Effect of Shock": [
@@ -2283,7 +4516,15 @@
         "loc": "I",
         "title": "Synthesis",
         "key": "synthesis",
-        "level": 48
+        "level": 48,
+        "tags": [
+          "Elemental",
+          "Lightning",
+          "Ailment"
+        ],
+        "family": [
+          "ShockEffect"
+        ]
       }
     ],
     "Poisons you inflict deal Damage #% faster": [
@@ -2291,7 +4532,15 @@
         "loc": "I",
         "title": "Synthesis",
         "key": "synthesis",
-        "level": 56
+        "level": 56,
+        "tags": [
+          "Damage",
+          "Chaos",
+          "Ailment"
+        ],
+        "family": [
+          "FasterDamageAilments"
+        ]
       }
     ],
     "Bleeding you inflict deals Damage #% faster": [
@@ -2299,7 +4548,16 @@
         "loc": "I",
         "title": "Synthesis",
         "key": "synthesis",
-        "level": 56
+        "level": 56,
+        "tags": [
+          "Damage",
+          "Physical",
+          "Attack",
+          "Ailment"
+        ],
+        "family": [
+          "FasterDamageAilments"
+        ]
       }
     ],
     "Adds # to # Chaos Damage": [
@@ -2307,7 +4565,14 @@
         "loc": "I",
         "title": "Synthesis",
         "key": "synthesis",
-        "level": 50
+        "level": 50,
+        "tags": [
+          "Damage",
+          "Chaos"
+        ],
+        "family": [
+          "AddedChaosDamage"
+        ]
       }
     ],
     "#% of Elemental Damage Leeched as Life": [
@@ -2315,7 +4580,13 @@
         "loc": "I",
         "title": "Synthesis",
         "key": "synthesis",
-        "level": 45
+        "level": 45,
+        "tags": [
+          "Life"
+        ],
+        "family": [
+          "ElementalDamageLeechedAsLife"
+        ]
       }
     ],
     "#% increased Strength": [
@@ -2323,13 +4594,25 @@
         "loc": "I",
         "title": "Synthesis",
         "key": "synthesis",
-        "level": 24
+        "level": 24,
+        "tags": [
+          "Attribute"
+        ],
+        "family": [
+          "PercentageStrength"
+        ]
       },
       {
         "loc": "I",
         "title": "Corrupted",
         "key": "corrupted",
-        "level": 1
+        "level": 1,
+        "tags": [
+          "Attribute"
+        ],
+        "family": [
+          "IncreasedAttributesCorrupted"
+        ]
       }
     ],
     "#% increased Dexterity": [
@@ -2337,13 +4620,25 @@
         "loc": "I",
         "title": "Synthesis",
         "key": "synthesis",
-        "level": 24
+        "level": 24,
+        "tags": [
+          "Attribute"
+        ],
+        "family": [
+          "PercentageDexterity"
+        ]
       },
       {
         "loc": "I",
         "title": "Corrupted",
         "key": "corrupted",
-        "level": 1
+        "level": 1,
+        "tags": [
+          "Attribute"
+        ],
+        "family": [
+          "IncreasedAttributesCorrupted"
+        ]
       }
     ],
     "#% increased Intelligence": [
@@ -2351,13 +4646,25 @@
         "loc": "I",
         "title": "Synthesis",
         "key": "synthesis",
-        "level": 24
+        "level": 24,
+        "tags": [
+          "Attribute"
+        ],
+        "family": [
+          "PercentageIntelligence"
+        ]
       },
       {
         "loc": "I",
         "title": "Corrupted",
         "key": "corrupted",
-        "level": 1
+        "level": 1,
+        "tags": [
+          "Attribute"
+        ],
+        "family": [
+          "IncreasedAttributesCorrupted"
+        ]
       }
     ],
     "#% chance to Avoid Elemental Ailments": [
@@ -2365,7 +4672,17 @@
         "loc": "I",
         "title": "Synthesis",
         "key": "synthesis",
-        "level": 55
+        "level": 55,
+        "tags": [
+          "Elemental",
+          "Fire",
+          "Cold",
+          "Lightning",
+          "Ailment"
+        ],
+        "family": [
+          "AvoidElementalStatusAilments"
+        ]
       }
     ],
     "#% increased Energy Shield Recharge Rate": [
@@ -2373,7 +4690,14 @@
         "loc": "I",
         "title": "Synthesis",
         "key": "synthesis",
-        "level": 24
+        "level": 24,
+        "tags": [
+          "Defences",
+          "Energy Shield"
+        ],
+        "family": [
+          "EnergyShieldRegeneration"
+        ]
       }
     ],
     "#% faster start of Energy Shield Recharge": [
@@ -2381,7 +4705,14 @@
         "loc": "I",
         "title": "Synthesis",
         "key": "synthesis",
-        "level": 48
+        "level": 48,
+        "tags": [
+          "Defences",
+          "Energy Shield"
+        ],
+        "family": [
+          "EnergyShieldDelay"
+        ]
       }
     ],
     "Determination has #% increased Aura Effect": [
@@ -2389,13 +4720,25 @@
         "loc": "I",
         "title": "Synthesis",
         "key": "synthesis",
-        "level": 55
+        "level": 55,
+        "tags": [
+          "Aura"
+        ],
+        "family": [
+          "IncreasedAuraEffectDeterminationCorrupted"
+        ]
       },
       {
         "loc": "I",
         "title": "Corrupted",
         "key": "corrupted",
-        "level": 45
+        "level": 45,
+        "tags": [
+          "Aura"
+        ],
+        "family": [
+          "IncreasedAuraEffectDeterminationCorrupted"
+        ]
       }
     ],
     "Grace has #% increased Aura Effect": [
@@ -2403,13 +4746,25 @@
         "loc": "I",
         "title": "Synthesis",
         "key": "synthesis",
-        "level": 55
+        "level": 55,
+        "tags": [
+          "Aura"
+        ],
+        "family": [
+          "IncreasedAuraEffectGraceCorrupted"
+        ]
       },
       {
         "loc": "I",
         "title": "Corrupted",
         "key": "corrupted",
-        "level": 45
+        "level": 45,
+        "tags": [
+          "Aura"
+        ],
+        "family": [
+          "IncreasedAuraEffectGraceCorrupted"
+        ]
       }
     ],
     "Discipline has #% increased Aura Effect": [
@@ -2417,13 +4772,25 @@
         "loc": "I",
         "title": "Synthesis",
         "key": "synthesis",
-        "level": 55
+        "level": 55,
+        "tags": [
+          "Aura"
+        ],
+        "family": [
+          "IncreasedAuraEffectDisciplineCorrupted"
+        ]
       },
       {
         "loc": "I",
         "title": "Corrupted",
         "key": "corrupted",
-        "level": 45
+        "level": 45,
+        "tags": [
+          "Aura"
+        ],
+        "family": [
+          "IncreasedAuraEffectDisciplineCorrupted"
+        ]
       }
     ],
     "Grants Level # Purity of Fire Skill": [
@@ -2431,7 +4798,11 @@
         "loc": "I",
         "title": "Synthesis",
         "key": "synthesis",
-        "level": 75
+        "level": 75,
+        "tags": [],
+        "family": [
+          "GrantedSkill"
+        ]
       }
     ],
     "Grants Level # Purity of Ice Skill": [
@@ -2439,7 +4810,11 @@
         "loc": "I",
         "title": "Synthesis",
         "key": "synthesis",
-        "level": 75
+        "level": 75,
+        "tags": [],
+        "family": [
+          "GrantedSkill"
+        ]
       }
     ],
     "Grants Level # Purity of Lightning Skill": [
@@ -2447,7 +4822,11 @@
         "loc": "I",
         "title": "Synthesis",
         "key": "synthesis",
-        "level": 75
+        "level": 75,
+        "tags": [],
+        "family": [
+          "GrantedSkill"
+        ]
       }
     ],
     "Grants Level # Anger Skill": [
@@ -2455,13 +4834,21 @@
         "loc": "I",
         "title": "Synthesis",
         "key": "synthesis",
-        "level": 62
+        "level": 62,
+        "tags": [],
+        "family": [
+          "GrantedSkill"
+        ]
       },
       {
         "loc": "I",
         "title": "Corrupted",
         "key": "corrupted",
-        "level": 56
+        "level": 56,
+        "tags": [],
+        "family": [
+          "GrantedSkill"
+        ]
       }
     ],
     "Grants Level # Hatred Skill": [
@@ -2469,13 +4856,21 @@
         "loc": "I",
         "title": "Synthesis",
         "key": "synthesis",
-        "level": 62
+        "level": 62,
+        "tags": [],
+        "family": [
+          "GrantedSkill"
+        ]
       },
       {
         "loc": "I",
         "title": "Corrupted",
         "key": "corrupted",
-        "level": 56
+        "level": 56,
+        "tags": [],
+        "family": [
+          "GrantedSkill"
+        ]
       }
     ],
     "Grants Level # Wrath Skill": [
@@ -2483,13 +4878,21 @@
         "loc": "I",
         "title": "Synthesis",
         "key": "synthesis",
-        "level": 62
+        "level": 62,
+        "tags": [],
+        "family": [
+          "GrantedSkill"
+        ]
       },
       {
         "loc": "I",
         "title": "Corrupted",
         "key": "corrupted",
-        "level": 45
+        "level": 45,
+        "tags": [],
+        "family": [
+          "GrantedSkill"
+        ]
       }
     ],
     "Has # Socket": [
@@ -2497,7 +4900,11 @@
         "loc": "I",
         "title": "Synthesis",
         "key": "synthesis",
-        "level": 75
+        "level": 75,
+        "tags": [],
+        "family": [
+          "Other"
+        ]
       }
     ],
     "#% increased Damage while Leeching Life": [
@@ -2505,7 +4912,13 @@
         "loc": "I",
         "title": "Synthesis",
         "key": "synthesis",
-        "level": 24
+        "level": 24,
+        "tags": [
+          "Damage"
+        ],
+        "family": [
+          "DamageWhileLeeching"
+        ]
       }
     ],
     "#% increased Damage while Leeching Mana": [
@@ -2513,7 +4926,13 @@
         "loc": "I",
         "title": "Synthesis",
         "key": "synthesis",
-        "level": 24
+        "level": 24,
+        "tags": [
+          "Damage"
+        ],
+        "family": [
+          "DamageWhileLeeching"
+        ]
       }
     ],
     "#% increased Endurance Charge Duration": [
@@ -2521,7 +4940,11 @@
         "loc": "I",
         "title": "Synthesis",
         "key": "synthesis",
-        "level": 50
+        "level": 50,
+        "tags": [],
+        "family": [
+          "EnduranceChargeDuration"
+        ]
       }
     ],
     "# to Maximum Endurance Charges": [
@@ -2529,7 +4952,11 @@
         "loc": "I",
         "title": "Synthesis",
         "key": "synthesis",
-        "level": 60
+        "level": 60,
+        "tags": [],
+        "family": [
+          "MaximumEnduranceCharges"
+        ]
       }
     ],
     "Regenerate #% of Life per second per Endurance Charge": [
@@ -2537,7 +4964,13 @@
         "loc": "I",
         "title": "Synthesis",
         "key": "synthesis",
-        "level": 50
+        "level": 50,
+        "tags": [
+          "Life"
+        ],
+        "family": [
+          "LifeRegenerationPercentPerEnduranceCharge"
+        ]
       }
     ],
     "#% increased Frenzy Charge Duration": [
@@ -2545,7 +4978,11 @@
         "loc": "I",
         "title": "Synthesis",
         "key": "synthesis",
-        "level": 50
+        "level": 50,
+        "tags": [],
+        "family": [
+          "FrenzyChargeDuration"
+        ]
       }
     ],
     "# to Maximum Frenzy Charges": [
@@ -2553,7 +4990,11 @@
         "loc": "I",
         "title": "Synthesis",
         "key": "synthesis",
-        "level": 60
+        "level": 60,
+        "tags": [],
+        "family": [
+          "MaximumFrenzyCharges"
+        ]
       }
     ],
     "#% increased Evasion Rating per Frenzy Charge": [
@@ -2561,7 +5002,14 @@
         "loc": "I",
         "title": "Synthesis",
         "key": "synthesis",
-        "level": 50
+        "level": 50,
+        "tags": [
+          "Defences",
+          "Evasion"
+        ],
+        "family": [
+          "IncreasedEvasionRating"
+        ]
       }
     ],
     "#% increased Power Charge Duration": [
@@ -2569,7 +5017,11 @@
         "loc": "I",
         "title": "Synthesis",
         "key": "synthesis",
-        "level": 50
+        "level": 50,
+        "tags": [],
+        "family": [
+          "IncreasedPowerChargeDuration"
+        ]
       }
     ],
     "# to Maximum Power Charges": [
@@ -2577,7 +5029,11 @@
         "loc": "I",
         "title": "Synthesis",
         "key": "synthesis",
-        "level": 60
+        "level": 60,
+        "tags": [],
+        "family": [
+          "IncreasedMaximumPowerCharges"
+        ]
       }
     ],
     "#% increased Spell Damage per Power Charge": [
@@ -2585,7 +5041,14 @@
         "loc": "I",
         "title": "Synthesis",
         "key": "synthesis",
-        "level": 50
+        "level": 50,
+        "tags": [
+          "Damage",
+          "Caster"
+        ],
+        "family": [
+          "IncreasedSpellDamagePerPowerCharge"
+        ]
       }
     ],
     "#% increased Movement Speed": [
@@ -2593,7 +5056,13 @@
         "loc": "I",
         "title": "Synthesis",
         "key": "synthesis",
-        "level": 45
+        "level": 45,
+        "tags": [
+          "Speed"
+        ],
+        "family": [
+          "MovementVelocity"
+        ]
       }
     ],
     "Intimidate Enemies for # seconds on Hit with Attacks": [
@@ -2601,7 +5070,13 @@
         "loc": "I",
         "title": "Synthesis",
         "key": "synthesis",
-        "level": 65
+        "level": 65,
+        "tags": [
+          "Attack"
+        ],
+        "family": [
+          "IntimidateOnHit"
+        ]
       }
     ],
     "You gain Onslaught for # seconds on Hit": [
@@ -2609,7 +5084,11 @@
         "loc": "I",
         "title": "Synthesis",
         "key": "synthesis",
-        "level": 65
+        "level": 65,
+        "tags": [],
+        "family": [
+          "OnslaughtOnHit"
+        ]
       }
     ],
     "Gain Arcane Surge on Hit with Spells": [
@@ -2617,7 +5096,11 @@
         "loc": "I",
         "title": "Synthesis",
         "key": "synthesis",
-        "level": 65
+        "level": 65,
+        "tags": [],
+        "family": [
+          "ArcaneSurgeOnHit"
+        ]
       }
     ],
     "You and your Minions take #% reduced Reflected Damage": [
@@ -2625,7 +5108,11 @@
         "loc": "I",
         "title": "Synthesis",
         "key": "synthesis",
-        "level": 56
+        "level": 56,
+        "tags": [],
+        "family": [
+          "ReflectDamageTaken"
+        ]
       }
     ],
     "#% increased Damage if Corrupted": [
@@ -2633,7 +5120,13 @@
         "loc": "I",
         "title": "Synthesis",
         "key": "synthesis",
-        "level": 60
+        "level": 60,
+        "tags": [
+          "Damage"
+        ],
+        "family": [
+          "LocalCorruptedBonus"
+        ]
       }
     ],
     "Adds # to # Cold Damage to Spells and Attacks": [
@@ -2641,7 +5134,17 @@
         "loc": "I",
         "title": "Corrupted",
         "key": "corrupted",
-        "level": 81
+        "level": 81,
+        "tags": [
+          "Damage",
+          "Elemental",
+          "Cold",
+          "Attack",
+          "Caster"
+        ],
+        "family": [
+          "AddedColdDamageToSpellsAndAttacks"
+        ]
       }
     ],
     "Adds # to # Fire Damage to Spells and Attacks": [
@@ -2649,7 +5152,17 @@
         "loc": "I",
         "title": "Corrupted",
         "key": "corrupted",
-        "level": 82
+        "level": 82,
+        "tags": [
+          "Damage",
+          "Elemental",
+          "Fire",
+          "Attack",
+          "Caster"
+        ],
+        "family": [
+          "AddedFireDamageSpellsAndAttacks"
+        ]
       }
     ],
     "Adds # to # Lightning Damage to Spells and Attacks": [
@@ -2657,7 +5170,17 @@
         "loc": "I",
         "title": "Corrupted",
         "key": "corrupted",
-        "level": 83
+        "level": 83,
+        "tags": [
+          "Damage",
+          "Elemental",
+          "Lightning",
+          "Attack",
+          "Caster"
+        ],
+        "family": [
+          "AddedLightningDamageSpellsAndAttacks"
+        ]
       }
     ],
     "Bleeding cannot be inflicted on you": [
@@ -2665,7 +5188,15 @@
         "loc": "I",
         "title": "Corrupted",
         "key": "corrupted",
-        "level": 60
+        "level": 60,
+        "tags": [
+          "Physical",
+          "Attack",
+          "Ailment"
+        ],
+        "family": [
+          "BleedingImmunity"
+        ]
       }
     ],
     "Cannot be Ignited": [
@@ -2673,7 +5204,11 @@
         "loc": "I",
         "title": "Corrupted",
         "key": "corrupted",
-        "level": 40
+        "level": 40,
+        "tags": [],
+        "family": [
+          "CannotBeIgnited"
+        ]
       }
     ],
     "Cannot be Poisoned": [
@@ -2681,7 +5216,14 @@
         "loc": "I",
         "title": "Corrupted",
         "key": "corrupted",
-        "level": 40
+        "level": 40,
+        "tags": [
+          "Chaos",
+          "Ailment"
+        ],
+        "family": [
+          "CannotBePoisoned"
+        ]
       }
     ],
     "Grants Level # Conductivity Skill": [
@@ -2689,7 +5231,11 @@
         "loc": "I",
         "title": "Corrupted",
         "key": "corrupted",
-        "level": 56
+        "level": 56,
+        "tags": [],
+        "family": [
+          "GrantedSkill"
+        ]
       }
     ],
     "Grants Level # Despair Skill": [
@@ -2697,7 +5243,11 @@
         "loc": "I",
         "title": "Corrupted",
         "key": "corrupted",
-        "level": 56
+        "level": 56,
+        "tags": [],
+        "family": [
+          "GrantedSkill"
+        ]
       }
     ],
     "Grants Level # Flammability Skill": [
@@ -2705,7 +5255,11 @@
         "loc": "I",
         "title": "Corrupted",
         "key": "corrupted",
-        "level": 56
+        "level": 56,
+        "tags": [],
+        "family": [
+          "GrantedSkill"
+        ]
       }
     ],
     "Grants Level # Frostbite Skill": [
@@ -2713,7 +5267,11 @@
         "loc": "I",
         "title": "Corrupted",
         "key": "corrupted",
-        "level": 56
+        "level": 56,
+        "tags": [],
+        "family": [
+          "GrantedSkill"
+        ]
       }
     ],
     "Grants Level # Zealotry Skill": [
@@ -2721,7 +5279,11 @@
         "loc": "I",
         "title": "Corrupted",
         "key": "corrupted",
-        "level": 56
+        "level": 56,
+        "tags": [],
+        "family": [
+          "GrantedSkill"
+        ]
       }
     ],
     "Grants Level # Pride Skill": [
@@ -2729,7 +5291,11 @@
         "loc": "I",
         "title": "Corrupted",
         "key": "corrupted",
-        "level": 56
+        "level": 56,
+        "tags": [],
+        "family": [
+          "GrantedSkill"
+        ]
       }
     ],
     "Wrath has #% increased Aura Effect": [
@@ -2737,7 +5303,13 @@
         "loc": "I",
         "title": "Corrupted",
         "key": "corrupted",
-        "level": 45
+        "level": 45,
+        "tags": [
+          "Aura"
+        ],
+        "family": [
+          "IncreasedAuraEffectWrathCorrupted"
+        ]
       }
     ],
     "Anger has #% increased Aura Effect": [
@@ -2745,7 +5317,13 @@
         "loc": "I",
         "title": "Corrupted",
         "key": "corrupted",
-        "level": 45
+        "level": 45,
+        "tags": [
+          "Aura"
+        ],
+        "family": [
+          "IncreasedAuraEffectAngerCorrupted"
+        ]
       }
     ],
     "Hatred has #% increased Aura Effect": [
@@ -2753,7 +5331,13 @@
         "loc": "I",
         "title": "Corrupted",
         "key": "corrupted",
-        "level": 45
+        "level": 45,
+        "tags": [
+          "Aura"
+        ],
+        "family": [
+          "IncreasedAuraEffectHatredCorrupted"
+        ]
       }
     ],
     "Malevolence has #% increased Aura Effect": [
@@ -2761,7 +5345,13 @@
         "loc": "I",
         "title": "Corrupted",
         "key": "corrupted",
-        "level": 45
+        "level": 45,
+        "tags": [
+          "Aura"
+        ],
+        "family": [
+          "IncreasedAuraEffectMalevolenceCorrupted"
+        ]
       }
     ],
     "Zealotry has #% increased Aura Effect": [
@@ -2769,7 +5359,13 @@
         "loc": "I",
         "title": "Corrupted",
         "key": "corrupted",
-        "level": 45
+        "level": 45,
+        "tags": [
+          "Aura"
+        ],
+        "family": [
+          "IncreasedAuraEffectZealotryCorrupted"
+        ]
       }
     ],
     "Pride has #% increased Aura Effect": [
@@ -2777,7 +5373,13 @@
         "loc": "I",
         "title": "Corrupted",
         "key": "corrupted",
-        "level": 45
+        "level": 45,
+        "tags": [
+          "Aura"
+        ],
+        "family": [
+          "IncreasedAuraEffectPrideCorrupted"
+        ]
       }
     ]
   }
