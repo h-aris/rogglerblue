@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Roggler Blue v2.0
-// @version      2.0.6
+// @version      2.0.7
 // @description  Mode 1: resizable sidebar. Mode 2: 2-col panels + mod/basetype badges.
 // @downloadURL  https://github.com/h-aris/rogglerblue/raw/refs/heads/main/rogglerbluev2.user.js
 // @match        https://poe.ninja/poe1/builds/*
